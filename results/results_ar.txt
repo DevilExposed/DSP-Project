@@ -1,0 +1,4002 @@
+Word Error Rate (WER) for ar: 73.06596%
+
+Sample 1:
+Reference: أعرف كل شيء.
+Hypothesis:  عرفكُ الَّشَيّ.
+
+Sample 2:
+Reference: اشتريته بالأمس.
+Hypothesis:  اشتريت ببالأمس.
+
+Sample 3:
+Reference: أمنع الأحياء بأسا وحمى
+Hypothesis:  أمنا عيلا أحياء بأسا وحموما
+
+Sample 4:
+Reference: قضى الملك على أعدائه.
+Hypothesis:  قدم الملك على هذا هذا
+
+Sample 5:
+Reference: شاهدت مسعود في مجلس
+Hypothesis:  شهدت مسعود في مجدس.
+
+Sample 6:
+Reference: كنت فيما مضى مباحا فأصبح
+Hypothesis:  كنت فيما مظى مباحاً فاصبح.
+
+Sample 7:
+Reference: جمع الملا يحيى على القرآن
+Hypothesis:  جمع الملاّة يحيا على القرآن.
+
+Sample 8:
+Reference: أأرقت بعد رقادك الأواب
+Hypothesis:  أأعارقت بعد رقاذك الأوضو
+
+Sample 9:
+Reference: حق عيني رؤية الوجه المليح
+Hypothesis:  حقاين رؤيت الوجه المليه
+
+Sample 10:
+Reference: من سرق التفاحة ؟
+Hypothesis:  من سرقة تفاحة.
+
+Sample 11:
+Reference: يا ابن الاماجد لا تخش الردى أبدا
+Hypothesis:  يمن الأمان جدلا تخشر رضا أبدا
+
+Sample 12:
+Reference: يذهب أبي إلى العمل بالدراجة.
+Hypothesis:  يذهب أبي إلى العملي بالتراشى.
+
+Sample 13:
+Reference: جسم سقيم لا يرام شفاؤه
+Hypothesis:  للمنسى قيم الله رم شفاء.
+
+Sample 14:
+Reference: سأعيرك مذكرتي.
+Hypothesis:  سأعيّرك مذكرتي
+
+Sample 15:
+Reference: قاتله الله فما
+Hypothesis:  قاتده الله فماء
+
+Sample 16:
+Reference: من هذان الولدان ؟
+Hypothesis:  منها حداً رو لذلك.
+
+Sample 17:
+Reference: سآتي.
+Hypothesis:  سأأتي
+
+Sample 18:
+Reference: لا أريد خسارتكَ.
+Hypothesis:  لا أريد خسا رتك.
+
+Sample 19:
+Reference: ما زال توم في المستشفى.
+Hypothesis:  نازر توم قفل مستشفاق
+
+Sample 20:
+Reference: ما زال لدينا الكثير من الطعام.
+Hypothesis:  ما جال لدينا الكثير من الطعام
+
+Sample 21:
+Reference: تتكون الهيئة من أربعة أعضاء.
+Hypothesis:  تتكوى الهيئة أم أربعة عضا
+
+Sample 22:
+Reference: لماذا أنا ؟
+Hypothesis:  لماذا أمى ؟
+
+Sample 23:
+Reference: أتمنى أن أراك مرة أخرى.
+Hypothesis:  أتمنى أن أرى كمرّة أخرى.
+
+Sample 24:
+Reference: أعشق موسيقى الروك.
+Hypothesis:  أعشى كموسيقى بو
+
+Sample 25:
+Reference: أي قلب كوى الفراق وهزه
+Hypothesis:  أيقل بينك و الفرق وحسوه
+
+Sample 26:
+Reference: لم يعد هناك إلا القليل من الحليب.
+Hypothesis:  نميعظهم كإنّ القال من حلي
+
+Sample 27:
+Reference: اخي الاصغر ربته جدتي.
+Hypothesis:  أغلّ أفرّب بأسجة تتي
+
+Sample 28:
+Reference: هل أنتَ سعيد؟
+Hypothesis:  هل أنت سعيدون ؟
+
+Sample 29:
+Reference: أنا أقترح أن يذهب إلى هناك في الحال.
+Hypothesis:  أنا أقترح أن يذهب إلى هناك في الحال.
+
+Sample 30:
+Reference: من الممكن فعلاً أن يكون ذلك خطأً.
+Hypothesis:  من الممكن نفعل أن أن يكون ذا ذا لك خطأاً.
+
+Sample 31:
+Reference: سرق الأديب محاسن الوراقِ
+Hypothesis:  سرق الأديب محاة للورق.
+
+Sample 32:
+Reference: لولا شهودي ما عرفت وجودي
+Hypothesis:  لو لا شهود مع رفتو جود
+
+Sample 33:
+Reference: إذا جددت نعمة لامرئ
+Hypothesis:  إذا جددتني متميئمري.
+
+Sample 34:
+Reference: ما هي اللغات التي يتكلمها الناس في بلجيكا ؟
+Hypothesis:  مرى يلغة التي يتكلم هنا سوف بجكا
+
+Sample 35:
+Reference: تم إنقاذ معظم السفينة في الموقع، ولم يبق سوى بقايا بسيطة منها.
+Hypothesis:  تم مأى انكاز موظم السافين في الموقع ولام يبكى الصوى بقال بأسط منه
+
+Sample 36:
+Reference: اسْتَعْمِلْ يَدَك
+Hypothesis:  إسكام اليدك
+
+Sample 37:
+Reference: .أطفأت المذياع
+Hypothesis:  أطفقت المدعى.
+
+Sample 38:
+Reference: حاول التهرب.
+Hypothesis:  حاول التهرب
+
+Sample 39:
+Reference: ليس هناك قهوة كافية.
+Hypothesis:  ليس هناك أقاوة كافية.
+
+Sample 40:
+Reference: قالوا لن نبرح عليه عاكفين حتى يرجع إلينا موسى
+Hypothesis:  قالوا لن نبرح عليه عكفين حتى يرجع إلينا موسى
+
+Sample 41:
+Reference: سيسعدني مساعدتك أي وقت تحب.
+Hypothesis:  سيستعدني موسى ، لست تتكعيوات حب.
+
+Sample 42:
+Reference: قِيلَ لِبَعْضِ الْحُكَمَاءِ
+Hypothesis:  بيلا ليباضي الحكاماء
+
+Sample 43:
+Reference: .مستوى التعليم في العالم مخيب للآمال
+Hypothesis:  أسوى تعدين في العالم خير الأعمال.
+
+Sample 44:
+Reference: تبدو تلك اللآلئ حقيقية.
+Hypothesis:  تبدو تلك الضعال يحطفقية.
+
+Sample 45:
+Reference: اشتريت لها ساعة.
+Hypothesis:  بشعيدنا سامة.
+
+Sample 46:
+Reference: والله لو حلف العشاق أنهم
+Hypothesis:  والله لو حل فى نرشاق وأنهم
+
+Sample 47:
+Reference: أسقطت واحدة.
+Hypothesis:  أسقى الطّوات.
+
+Sample 48:
+Reference: إنا سخرنا الجبال معه يسبحن بالعشي والإشراق
+Hypothesis:  إنّا سخرنا الجبال معه يسبحنا بالعشي والإشراق
+
+Sample 49:
+Reference: إنها مع جمال.
+Hypothesis:  إنها مع جمال
+
+Sample 50:
+Reference: مهما قلت عنه ، اظن انه صادق.
+Hypothesis:  مهمى قلت عن أظن أنه صادق
+
+Sample 51:
+Reference: كما لو أردنا أن نحيل شبابنا
+Hypothesis:  كما لو أرد أن نحيل شباباً آون
+
+Sample 52:
+Reference: هاك عهدي فلا أخونك عهدا
+Hypothesis:  هكا هدي فلا أخونك أهداً
+
+Sample 53:
+Reference: عرّفني بأخته.
+Hypothesis:  عرفني بأختي
+
+Sample 54:
+Reference: أتى عدة مرات.
+Hypothesis:  ، اتأتي أيتَّت مرّات.
+
+Sample 55:
+Reference: حي المعاهد والمنازل
+Hypothesis:  حيّ المعاهد والمناسل
+
+Sample 56:
+Reference: وأهديته زمنا فانيا
+Hypothesis:  وعديته زم من فانيا
+
+Sample 57:
+Reference: ما أن تدخل هنا لن تستطيع الخروج.
+Hypothesis:  أأنت تدخل هنا لنتستطيع الخوج
+
+Sample 58:
+Reference: وَمَنْ يَفْعَلْ ذَلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَلِكَ عَلَى اللَّهِ يَسِيرًا
+Hypothesis:  ومن يفعل ذلك عدوانا وظلم فسوفا مسليه نارا وكان ذلك على الله يسيرا
+
+Sample 59:
+Reference: قالوا إنا كنا قبل في أهلنا مشفقين
+Hypothesis:  قادوا إننا كنا قبل في أهلنا مشفقين
+
+Sample 60:
+Reference: زعموني نسيت والهجر ينسي
+Hypothesis:  زعموني نسيت والهجري ينسي
+
+Sample 61:
+Reference: وكل ملك إلى زوال
+Hypothesis:  أكونوا ملك إلي زوى
+
+Sample 62:
+Reference: هل يمكنك التمييز بين التوأمين ؟
+Hypothesis:  هل يمكنك التميز بين التوامعين ؟
+
+Sample 63:
+Reference: مرحبا بالخيال منك المطيف
+Hypothesis:  مرحباً بالفعل من كلمك المقي
+
+Sample 64:
+Reference: الحمد لله.
+Hypothesis:  الحمد لله.
+
+Sample 65:
+Reference: لهف نفسي والمنايا تلتظى
+Hypothesis:  له نفسه والمناهاية التطريق
+
+Sample 66:
+Reference: وما بكم من نعمة فمن الله ثم إذا مسكم الضر فإليه تجأرون
+Hypothesis:  أماذا بكم من عمج فمنا الله فيكم ما إذا مساكم الضر في إلي تجارون
+
+Sample 67:
+Reference: لعمري لقد أشجى تميما وهدها
+Hypothesis:  العمر لقد أجاة ميماً وعدها.
+
+Sample 68:
+Reference: لبني مهنا بعد مصرع فارس
+Hypothesis:  لبني مهمنا بعض مصرى فرس
+
+Sample 69:
+Reference: وهبت له عيني الهجوعا
+Hypothesis:  وهبت له عين المجوعة.
+
+Sample 70:
+Reference: أنت تكره نِك ، أليس ذلك صحيحاً ؟
+Hypothesis:  أنت تتكره هناك أليس دلقة صحةً.
+
+Sample 71:
+Reference: مر مرت غبطةُ العُمُرِ
+Hypothesis:  مرمرة قطة العمر
+
+Sample 72:
+Reference: لقد تركت أنوارك مفتوحة.
+Hypothesis:  لقد تركت أن وركمتها.
+
+Sample 73:
+Reference: .لا أثر لوجود حياة على سطح كوكب المريخ
+Hypothesis:  لا أفرد وجود حياة على صبحك أوكب المرية
+
+Sample 74:
+Reference: قدمت قدوم البرء بعد سقام
+Hypothesis:  قدمت قد يقدوم البرء بعد سقام
+
+Sample 75:
+Reference: ما على الغادرين نسكب دمعا
+Hypothesis:  ما أعلى الغاق دريين نسكُفونا معه.
+
+Sample 76:
+Reference: أنا ذاهبة.
+Hypothesis:  أنا ذاهب
+
+Sample 77:
+Reference: قد قلت لابن أبي الشوارب مشفقا
+Hypothesis:  قد قلت لبني أبي شوارب مشفقاً
+
+Sample 78:
+Reference: الناس يحتاجون الى الطعام.
+Hypothesis:  الناس يحتاجون إلى الطعام
+
+Sample 79:
+Reference: مَنْ خَشِيَ الرَّحْمَنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ
+Hypothesis:  من خشي الرحمن بالغيب و جاء بقلب منيض
+
+Sample 80:
+Reference: لن أردّ على الأسئلة.
+Hypothesis:  لن أردّان الأسئل.
+
+Sample 81:
+Reference: الضفادع لا يمكنها ابتلاع طعامها وعيونها مفتوحة.
+Hypothesis:  الذفاضع لا يمكنها تلاعب تعامها وريونها مفتوحة.
+
+Sample 82:
+Reference: ابني الآن في المرحلة الثانوية.
+Hypothesis:  من الآن في المرحلة التستانويّة.
+
+Sample 83:
+Reference: ليس من الضروري أن تذهب.
+Hypothesis:  ليس من الضروري أن تذهب.
+
+Sample 84:
+Reference: كانت ليلى ممرّضة مسجّلة تعمل في مركز معروف لمعالجة السّرطان.
+Hypothesis:  كانت ليلى مرّضةً مصجلةً ، تعملوا في مركز معروف لمعالجة الصردان.
+
+Sample 85:
+Reference: إنما الدنيا فناء
+Hypothesis:  إنهم ابن يفنك
+
+Sample 86:
+Reference: لَن تَجدَكَ الشُرطةُ هُناك
+Hypothesis:  لنتجدك الشرطة هناك.
+
+Sample 87:
+Reference: عيناه زرقاوتان.
+Hypothesis:  عينه زرقا وثان.
+
+Sample 88:
+Reference: كلنا حضرنا حفل زفافها.
+Hypothesis:  كلنا حدرنا خفلت فعاية.
+
+Sample 89:
+Reference: اليوم لا ، لكن غداً نعم.
+Hypothesis:  اليملة لكن هذا دن عام.
+
+Sample 90:
+Reference: ما هو ارتفاع ذلك البرج ؟
+Hypothesis:  ناهو ارتفع ذلك البرج
+
+Sample 91:
+Reference: إنها ليست مستحيلة على الإطلاق.
+Hypothesis:  إنها ليست مستحيلة على الإتوق.
+
+Sample 92:
+Reference: سأعيرك واحدا إن شئتَ.
+Hypothesis:  سأوعيلك واحدا إنشكك.
+
+Sample 93:
+Reference: لربما قد سبق و قلت لي ذلك.
+Hypothesis:  ربما قد سبقى وقلت لذلك.
+
+Sample 94:
+Reference: هل لعبت التنس البارحة ؟
+Hypothesis:  هل عبتل تنس البرحة ؟
+
+Sample 95:
+Reference: أين الولد ؟
+Hypothesis:  أين الورد ؟
+
+Sample 96:
+Reference: .هما في الغرفة
+Hypothesis:  أمه في مغرحة فقط.
+
+Sample 97:
+Reference: بأي ذنب قتلت
+Hypothesis:  بأي يزل من قتلت.
+
+Sample 98:
+Reference: وَكَلَّمَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَارِيَةٌ مِنْ السَّبْيِ فَقَالَ لَهَا
+Hypothesis:  وكلمت رسول الله صلى الله عليه وسلّى هو عليه وسلم جاريّة من السّبّي فقال لها
+
+Sample 99:
+Reference: إنها ذكية جداً.
+Hypothesis:  إنها زكيّ جدا
+
+Sample 100:
+Reference: آمين لذلك
+Hypothesis:  أمي لذلك
+
+Sample 101:
+Reference: إن البعوضة تُدمي مُقْلة الأسد
+Hypothesis:  إن البعودة تد مقلة الأسد
+
+Sample 102:
+Reference: لو يعلم ابن أبي سميه
+Hypothesis:  لو يعلم ابن عبي سمية
+
+Sample 103:
+Reference: أنا مجرد موظف عادي.
+Hypothesis:  أنا مجرد الظّرد موظّف عدي
+
+Sample 104:
+Reference: طوله ثلاثون مترًا.
+Hypothesis:  طولهُ تلاثل تون مدراً.
+
+Sample 105:
+Reference: قال يوما لأسود
+Hypothesis:  قاول يا أمان di أسودى
+
+Sample 106:
+Reference: .لا ينكسر البلاستيك بسهولة
+Hypothesis:  لين كسر بلاسه بسهولة.
+
+Sample 107:
+Reference: عين الرقيب غرقت في بحر العمى
+Hypothesis:  عين الرقيب ، أغرقت في بعض العمى.
+
+Sample 108:
+Reference: الحمّام جاهز.
+Hypothesis:  الحممجة
+
+Sample 109:
+Reference: أنت دنياي التي تهتف بي
+Hypothesis:  أنتَ دنياً التي تحتفبي.
+
+Sample 110:
+Reference: قلت للعين حين شامت جمالا
+Hypothesis:  قلت للعين حين الشامة جمالة.
+
+Sample 111:
+Reference: لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلًا لَوَلَّوْا إِلَيْهِ وَهُمْ يَجْمَحُونَ
+Hypothesis:  لو يديدون من جأن أوم رارات أمود خلل لو إليه وهم يجمهون
+
+Sample 112:
+Reference: من أي بلد أنت ؟
+Hypothesis:  من أيبرة أنت.
+
+Sample 113:
+Reference: قالوا إنا أرسلنا إلى قوم مجرمين
+Hypothesis:  قادوا إني أرسّمنا إذا قوم مجرمي
+
+Sample 114:
+Reference: ذلك جدّي.
+Hypothesis:  ذلك جدّي
+
+Sample 115:
+Reference: هي لم تزر أحدا.
+Hypothesis:  هي لم تزر أحد
+
+Sample 116:
+Reference: لقد سألت أبا ليلى بما حملت
+Hypothesis:  لقد سأألت أبليلى بما حملت.
+
+Sample 117:
+Reference: تعرف الدعسوقة في بعض الأحيان باسم الخنفساء
+Hypothesis:  فضلت دسوء في بعض الأحيان بس ملقم تساعد
+
+Sample 118:
+Reference: هو الآن في المستشفى.
+Hypothesis:  هو الآن في المستشفة.
+
+Sample 119:
+Reference: لك يا ابن العصب
+Hypothesis:  لكي يأبن العصب
+
+Sample 120:
+Reference: يُمْسِي النَّاجِحُ مَسْرُورًا.
+Hypothesis:  يومسي أنيجه مصروراً.
+
+Sample 121:
+Reference: اخرج من هنا!
+Hypothesis:  أصدّج من بنا!
+
+Sample 122:
+Reference: هل تفهمين ؟
+Hypothesis:  هل تفهمي ؟
+
+Sample 123:
+Reference: كيف أسلو والدمع غير مفيق
+Hypothesis:  كيف أصلوا ودعم غير مفير ؟
+
+Sample 124:
+Reference: ومنعم ناديته متعرضا
+Hypothesis:  ومنامنا مناديته متعرضة.
+
+Sample 125:
+Reference: هو محق يا جمال.
+Hypothesis:  هو محق يا جمال
+
+Sample 126:
+Reference: رن جرس الباب.
+Hypothesis:  رمّج رسل باب
+
+Sample 127:
+Reference: رأيت بيتاً سطحه أحمر.
+Hypothesis:  رأيج بيتا ستحوه أحمر.
+
+Sample 128:
+Reference: أطلق فاضل عيارين.
+Hypothesis:  أطلقف عض العيارين
+
+Sample 129:
+Reference: ما أبالي من رابه الدهر ما لم
+Hypothesis:  ما أبا لي من رابخ الضهر معلم
+
+Sample 130:
+Reference: له شغل عن سؤال الطلل
+Hypothesis:  له شغل عن سؤال الطلل
+
+Sample 131:
+Reference: هل نذهب عندى أم عندك ؟
+Hypothesis:  كنت تباًا ديندي أمينذك
+
+Sample 132:
+Reference: الحقيقة هي أنّك جبان.
+Hypothesis:  الحقيقة هي أنك لبان.
+
+Sample 133:
+Reference: ثُمَّ رَمَى إلَيَّ بِالْقِرْطَاسِ فَإِذَا فِيهِ شِعْرُ أَبِي الْعَتَاهِيَةِ رَحِمَهُ اللَّهُ تَعَالَى
+Hypothesis:  ثم رمى إليّ بالخرطاس فإذا فيه شعر أبل عتهيتي رحمه الله تعالى
+
+Sample 134:
+Reference: مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِي وَمَنْ يُضْلِلْ فَأُولَئِكَ هُمُ الْخَاسِرُونَ
+Hypothesis:  من يعد الله فهو المحتدي ومن يضل فأولئكهم الخاصرون
+
+Sample 135:
+Reference: .يبدو مريباً
+Hypothesis:  يبدو مريباً.
+
+Sample 136:
+Reference: يوجد قرب النهر قلعة قديمة.
+Hypothesis:  يوجد قرب الناهر يقلعة قدمة.
+
+Sample 137:
+Reference: لو كنت أشفق من خضيب بنان
+Hypothesis:  لو كنت أشفكم خضي ببناين
+
+Sample 138:
+Reference: إن السماء إذا لم تبك مقلتها
+Hypothesis:  فين السماء إذا لم تبكي مقلتها
+
+Sample 139:
+Reference: كان بوب سعيداً للغاية.
+Hypothesis:  تنابت سعيد للغاية.
+
+Sample 140:
+Reference: فاتته الحافلة بثوان قليلة.
+Hypothesis:  فاتتته الحرفلة بسوان قليلا
+
+Sample 141:
+Reference: طيف الخيال حمدنا منك إلماما
+Hypothesis:  طيف الخيال حمدنا من كيد ماما.
+
+Sample 142:
+Reference: من يملك هذا المنزل ؟
+Hypothesis:  من يملكوبها تلمزي
+
+Sample 143:
+Reference: سمحت بالوصل بعد الهجر يا حسن
+Hypothesis:  سمحت بالوصل بعد الهيزر يحسن.
+
+Sample 144:
+Reference: .منزلك أكبر من منزلي بثلاث مرات
+Hypothesis:  منزلك أكبر من منزل بثلاث مرة.
+
+Sample 145:
+Reference: إني أجالس معشرا
+Hypothesis:  إذني أجاب سوما أشعرم
+
+Sample 146:
+Reference: .أنا واثق من أنك ستساعدني
+Hypothesis:  أناواتي قد من أنك ستساعدني.
+
+Sample 147:
+Reference: شَاةً فَتَصَدَّقْنَا بِهَا
+Hypothesis:  شاةً فتصدقنا بها
+
+Sample 148:
+Reference: اجلس في أي مكان تحب.
+Hypothesis:  إجلس في أي مكان تحب
+
+Sample 149:
+Reference: أقترح أن نخرج لتناول مشروب.
+Hypothesis:  أقثاره أن نخرج لتناول مشروب.
+
+Sample 150:
+Reference: ذهب الرجال المقتدى بفعالهم
+Hypothesis:  ظهب الرجال المقتدى بفعله.
+
+Sample 151:
+Reference: فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ إِلَى شَيْءٍ نُّكُرٍ
+Hypothesis:  فتوضل عنهم يوم يوم دائيّ الاجئ النكور
+
+Sample 152:
+Reference: إن كنت تحتاج مظلةً ، فسأعيرك واحدةً.
+Hypothesis:  إن كنت تحتاجم تحتاجم تلاة فسأأريكا واحدة.
+
+Sample 153:
+Reference: أسرع و إلا فاتك الباص.
+Hypothesis:  أسرع و إلا فتك البص
+
+Sample 154:
+Reference: .قُتِلَ بالسيف
+Hypothesis:  قطي لبسيف
+
+Sample 155:
+Reference: أبا العباس لا تحسب بأني
+Hypothesis:  أبل عبّاص ، لا تحسّب أني.
+
+Sample 156:
+Reference: أبصرت باقة نرجس
+Hypothesis:  أبسر تباقى قطناه الجيسة منه.
+
+Sample 157:
+Reference: أعدن يا محمد ابن زهير
+Hypothesis:  أعدني يا محمد كنزهير
+
+Sample 158:
+Reference: ها قد أتت!
+Hypothesis: ها قد أتدّ.
+
+Sample 159:
+Reference: املأ الإستمارة أدناه.
+Hypothesis:  إملا الاستمرت أدنا
+
+Sample 160:
+Reference: إِنَّ الَّذينَ كَفَروا بِالذِّكرِ لَمّا جاءَهُم وَإِنَّهُ لَكِتابٌ عَزيزٌ
+Hypothesis:  إنّ الذين كفروا بالدكني لما جاءهم مؤنا ولكتاب العزيزون
+
+Sample 161:
+Reference: سأبذل جهدي ألا أزعجك وأنت تدرس.
+Hypothesis:  سامف لوجود إلا أزئشك وأنت صدرس
+
+Sample 162:
+Reference: خبر في الأرض أوحته السما
+Hypothesis:  خبر في الأرض أو حتى السما
+
+Sample 163:
+Reference: لي قلة في الأصدقاء حسبتهم
+Hypothesis:  ليقلّة في الأصدقاء حسبتهم.
+
+Sample 164:
+Reference: تم تنظيم مجموعة من رؤوس الأموال الكندية بسرعة وتم التماسها للحصول على نفس الامتيازات
+Hypothesis:  تم تنظيم جموعة من رؤوس الأموال كنبي بسرعة وتمع الكمتماس هذا الخصول على نفس الانكيزات.
+
+Sample 165:
+Reference: كل غريب للغريب نسيب
+Hypothesis:  كل غريب للغريب نسيب
+
+Sample 166:
+Reference: أوميض البرق في الليل البهيم
+Hypothesis:  أوهم يغرب القصل للإليل البيئم.
+
+Sample 167:
+Reference: أعطوه فرصة للهروب.
+Hypothesis:  أطوف أرسل العرب
+
+Sample 168:
+Reference: هاجرت عنك إلى الرجال
+Hypothesis:  هاجرت عنك إلى الرجال.
+
+Sample 169:
+Reference: يا أيها الذين كفروا لا تعتذروا اليوم إنما تجزون ما كنتم تعملون
+Hypothesis:  يا أيها الذين كفروا لا تعتذر اليوم إنما تزوّن ما كنت تعملون
+
+Sample 170:
+Reference: لا أدري ماذا كان يمكنني أن أفعل لولا مجيئك لمساعدتي.
+Hypothesis:  لأذري ماذا كاري يمكنني أن أفعل لو لم جيء كل مساعدة.
+
+Sample 171:
+Reference: ذو راحة في الجود لم أعرف لها
+Hypothesis:  ظراحة في الجود لم أعرف لا
+
+Sample 172:
+Reference: لا تعذلوا عرس أبي غانم
+Hypothesis:  لا تعذل الوى أورس أبي غانب
+
+Sample 173:
+Reference: يا رسول الله يا أهل الوفا
+Hypothesis:  يا رسول الله يأهل الوث
+
+Sample 174:
+Reference: بينما الجو بديع رائق
+Hypothesis:  بينما الملسوى بدي أوراقون
+
+Sample 175:
+Reference: شككت وقد زارنى غلطة
+Hypothesis:  شكقت وقد زراني غلت.
+
+Sample 176:
+Reference: قلب على جمر الغضا يتقلب
+Hypothesis:  قلب على جمر الغضى يتقلب
+
+Sample 177:
+Reference: اشترى تارو سيارة مستعملة الأسبوع الماضي.
+Hypothesis:  اجترة تار سيارة المساعلة للأصبوع الماضي
+
+Sample 178:
+Reference: .وفي يوم من الأيام ، انتحر
+Hypothesis:  وفي أوم من الأيام أن تحظن.
+
+Sample 179:
+Reference: فقط أخبريني ماذا تريدين.
+Hypothesis:  فقط أخبرين ما زيت عريدين
+
+Sample 180:
+Reference: تلك القلعة جميلة.
+Hypothesis:  تلك الخلاة جميلة.
+
+Sample 181:
+Reference: كان سامي يقطن في منزل يقع في شارع باكر.
+Hypothesis:  كان سامي يبدو في منزل يقعوا في شرريباكره.
+
+Sample 182:
+Reference: فلما جاء السحرة قال لهم موسى ألقوا ما أنتم ملقون
+Hypothesis:  ولم ما جاء الصحرة قال للموسى أم تم تم القول
+
+Sample 183:
+Reference: كما أنزلنا على المقتسمين
+Hypothesis:  كما أنزلنا على المقتصمين
+
+Sample 184:
+Reference: وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ،
+Hypothesis:  وإذا استعنت فستعب الله
+
+Sample 185:
+Reference: .امش بأسرع ما يمكنك
+Hypothesis:  أمش بأسرع ما يمكنك.
+
+Sample 186:
+Reference: خذي وصالي فإنني رجل
+Hypothesis:  حذيوا ساليف إنّني رجل
+
+Sample 187:
+Reference: بين يأسي وحيرتي ورجائي
+Hypothesis:  بين يسيو حيرتي ورجاء
+
+Sample 188:
+Reference: بأبي من شفى فؤادا عليلا
+Hypothesis:  بأبي من شفى فؤاد العليل
+
+Sample 189:
+Reference: وَاصبِر عَلى ما يَقولونَ وَاهجُرهُم هَجرًا جَميلًا
+Hypothesis:  واصبر على ما يقولونه ، حجرهم ، حجرا جميلة.
+
+Sample 190:
+Reference: وَالسِّيرَةُ الْفَاضِلَةُ
+Hypothesis:  وَالسِّيرَةٌ فَاضِيلًا
+
+Sample 191:
+Reference: ومدامة كدم الذبيح شربتها
+Hypothesis:  قامو دامة كدامي الذّبهة شربها.
+
+Sample 192:
+Reference: واذكر إسماعيل واليسع وذا الكفل وكل من الأخيار
+Hypothesis:  وظكر إسمى إلا واليسعة وذلكفل وكل من الأخيار
+
+Sample 193:
+Reference: بالرغم من أنها فقيرة ، إلا أنها راضية.
+Hypothesis:  بدلع ميم من أنها فقيرة إلا أنها عراضية
+
+Sample 194:
+Reference: .ما زالت الحياة أمامك
+Hypothesis:  نجالت الحياة أماماً.
+
+Sample 195:
+Reference: إنتهت من عملها قبل الساعة الخامسة.
+Hypothesis:  انتهات من عم لها أبل الساعة الخامس.
+
+Sample 196:
+Reference: قد ساد إبرهيم في إيمانه
+Hypothesis:  قد شاعد إبغهيم في منه
+
+Sample 197:
+Reference: الفيلة هي الثدييات الوحيدة التي لا يمكنها القفز.
+Hypothesis:  ألفية لا يستديات الوحيدة التي تلا مكن على الكفز
+
+Sample 198:
+Reference: إنما قلت لشيء كن فكان
+Hypothesis:  إنما قلت لشيء كنفى
+
+Sample 199:
+Reference: فَانْظُرْ كَيْفَ تَأَوَّلَ بِكَرْمِهِ هَذَا التَّأْوِيلَ حَتَّى جَعَلَ قَبِيحَ فِعْلِهِمْ حَسَنًا
+Hypothesis:  فنظر كيف تأول بكرمي هذا التأويل حتى جعلق بحفع لهم حسنا
+
+Sample 200:
+Reference: وا رحمتاه لمفتون به صنعوا
+Hypothesis:  وارحما تاه لمفتون به صنعون
+
+Sample 201:
+Reference: كان على وشك أن تخرج.
+Hypothesis:  كان على وشك التخوك
+
+Sample 202:
+Reference: طرقت علوة والرمل شج
+Hypothesis:  طرقت علوة الورمجلسة.
+
+Sample 203:
+Reference: سمعت تلك القصة من قبل.
+Hypothesis:  سمعت تُؤتلك وخصّة من قبل
+
+Sample 204:
+Reference: قال البابا فرانسيس إن الملحدين الذين يفعلون الخير سيذهبون إلى الجنة أيضًا.
+Hypothesis:  قال الباب فرنسيس إن الملحدينا الذين يفعلون بحيخ سيذهبون إلى الجنة أيضا
+
+Sample 205:
+Reference: قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ
+Hypothesis:  قلوا لبسنا يوم نوضع بعض يوم فسأل العادين
+
+Sample 206:
+Reference: لماذا فعلت ذلك ؟
+Hypothesis:  إمِذى فعلت ذلك
+
+Sample 207:
+Reference: على الكره ما فارقت أحمد وانطوى
+Hypothesis:  على الكره ما فارقت أحمد وانتوى
+
+Sample 208:
+Reference: وَمِنْ كَمَالِ عَقْلِك اسْتِظْهَارُك عَلَى عَقْلِك
+Hypothesis:  ومن كما لعقلك است الغركة على أقلك
+
+Sample 209:
+Reference: .فبدأ الطبيب بالكشف عليها
+Hypothesis:  فبدا الطبيب بالبكشف عليها
+
+Sample 210:
+Reference: إنا سعداء.
+Hypothesis:  إنّ صادع.
+
+Sample 211:
+Reference: استخدمت السيارات المفتوحة المبكرة -ذات النوع التي يدور هيكلها- أغطية توني لحماية كراسي السيارة الخلفية غير المشغولة.
+Hypothesis:  إسخدمت صيارة في جهام بكرة أدعتنا والتي يدور حكلها أخطي التوني لهم عماذك رسي صيارة خلف غير شهور
+
+Sample 212:
+Reference: وكم قربت من دار عبلة عبلة
+Hypothesis:  وكم قربات من دار عبلة عبله.
+
+Sample 213:
+Reference: تمنى رجال أن أموت، وإن أمت... فتلك سبيـل لـست فيها بأوحــد
+Hypothesis:  سمنا نارتعد عن أمولك وإنهموك فتدك سبيل لسطبيع البيعوات
+
+Sample 214:
+Reference: أما زلت تذكرني ؟
+Hypothesis:  أمازل تتتظر كرني
+
+Sample 215:
+Reference: هل هذه صورك ؟
+Hypothesis:  الهذه صورك ؟
+
+Sample 216:
+Reference: أين توني ؟
+Hypothesis:  أين توني؟
+
+Sample 217:
+Reference: .هذا كثير
+Hypothesis:  هذا كثير
+
+Sample 218:
+Reference: ووهبنا له إسحاق ويعقوب نافلة وكلا جعلنا صالحين
+Hypothesis:  وهابنا لا أؤسحاق ويأخوبنا في لتنوك لنجعلنا صالح
+
+Sample 219:
+Reference: علي أن أنهض على كل حال.
+Hypothesis:  عليّ أن أم أضعلى كل حال.
+
+Sample 220:
+Reference: قالَ: أَنْ تَعْبُدَ اللهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فإِنَّهُ يَرَاكَ.
+Hypothesis:  قالوا أن تأبو دى الله كأنك ترىه ، فإن لم تكن ترى ، فإنه يرىك
+
+Sample 221:
+Reference: البارحة كان عيد ميلادي.
+Hypothesis:  البارحة كان عيد مددتي
+
+Sample 222:
+Reference: إن كنت تبغي العيش حلوا صافيا
+Hypothesis:  إن كنت تبغي العيشة حلوى صافية.
+
+Sample 223:
+Reference: أريد ان أكون رجلا ذكيا مثل جمال عندما أكبر.
+Hypothesis:  أريد أن أكون رجل ذكية مستجمال عندما أكبر.
+
+Sample 224:
+Reference: خل عنها منيحة للئام
+Hypothesis:  خلّ عنها منيعة للّئاً.
+
+Sample 225:
+Reference: أنت دائما تطلب نفس الشيء.
+Hypothesis:  أنتدى إمنتطلب نفس الشيء.
+
+Sample 226:
+Reference: ما أحسن الدين والدنيا إذا اجتمعا
+Hypothesis:  ما أحسن الدين والدنيا إذا اشتمعون
+
+Sample 227:
+Reference: أليست سوداء ؟
+Hypothesis:  أليس في الضرسة ، أشعر
+
+Sample 228:
+Reference: .لا تلعب هنا أبداً
+Hypothesis:  لا تلابه نأغدا
+
+Sample 229:
+Reference: اخترت يوم الهول يوم وداع
+Hypothesis:  اخترت يوم الحول يوم ودهة.
+
+Sample 230:
+Reference: اليابان قريبة من الصين.
+Hypothesis:  أليهباً قريباً من نصيد.
+
+Sample 231:
+Reference: ربنا آتهم ضعفين من العذاب والعنهم لعنا كبيرا
+Hypothesis:  ربنا آتهم ضعفين من العذاب والأنهم لعنى كبيرا
+
+Sample 232:
+Reference: أفرأيتم ما تحرثون
+Hypothesis:  فنأفعنا أيّة ما تحرثون
+
+Sample 233:
+Reference: من شك في فضل الكميت فبينه
+Hypothesis:  من شكّافي فضل الكاملت فبا ينارون
+
+Sample 234:
+Reference: هذا هُراء.
+Hypothesis:  هذا ذرى.
+
+Sample 235:
+Reference: بدون تعليم ناجح ،كيف يمكنك ان تنجح ؟
+Hypothesis:  بدون تعليم الناجح كيف يمكنك أن تنتَنجحه
+
+Sample 236:
+Reference: فَمَضَرَّتُهُ لَهَا حَدٌّ يَقِفُ عَلَيْهِ الْعَقْلُ
+Hypothesis:  ثم ضرّطه لا حدّن يقف على إه العقل
+
+Sample 237:
+Reference: هل يكتب جيمي رسالةً ؟
+Hypothesis:  هل يكتب جميعي رسالة ؟
+
+Sample 238:
+Reference: اخر مرة شاهدته كان يرتدي قميصاً ازرقاً وبنطالاً ابيضاً.
+Hypothesis:  أخير مرّة شهدته كان يرسّدي قميس الأزرقاً وابنتالا أبيضاً
+
+Sample 239:
+Reference: وكيف سنجد أنفسنا
+Hypothesis:  ما كيف سنجد فوستنا؟
+
+Sample 240:
+Reference: بالمناسبة ، هل زرت هوكايدو من قبل ؟
+Hypothesis:  بالملاسة ، هل زرطة ، هكايد من قد؟
+
+Sample 241:
+Reference: من آل فرنيني الأكارم ماجد
+Hypothesis:  من أدفرني للأكارم ماجد
+
+Sample 242:
+Reference: في أي وقت ستذهب ؟
+Hypothesis:  في أي وقت ستذهب
+
+Sample 243:
+Reference: هو متشوق للذهاب معك.
+Hypothesis:  هو مطشوّك للذهاب معك.
+
+Sample 244:
+Reference: أَم لَهُم مُلكُ السَّماواتِ وَالأَرضِ وَما بَينَهُما فَليَرتَقوا فِي الأَسبابِ
+Hypothesis:  أم لهم ملق السماوات والأرض وما بينهما فليرتقوا في الأسباب
+
+Sample 245:
+Reference: طائر الطنان لا يمكنه المشي.
+Hypothesis:  فايرطماني لا يمكنك المشاكل.
+
+Sample 246:
+Reference: إذ أوحينا إلى أمك ما يوحى
+Hypothesis:  إذا أحينا إلى أمك ما يوحى
+
+Sample 247:
+Reference: .خطر لي فكرة جيدة
+Hypothesis:  خطر لي فكرت جيدة.
+
+Sample 248:
+Reference: اضرب عصفورين بحجر.
+Hypothesis:  الطربة ربا سبوراين بحجر.
+
+Sample 249:
+Reference: هل تقصدني؟
+Hypothesis:  هل تقصدني ؟
+
+Sample 250:
+Reference: ألي بهذه البرتقالة ؟
+Hypothesis:  أليب يعدي برتقاً.
+
+Sample 251:
+Reference: نقبوهن خشية العشاق
+Hypothesis:  نقبوهم نحشيت لرشاق.
+
+Sample 252:
+Reference: نحن نعرف ماذا توازي دعاية جينجو (تلك).
+Hypothesis:  نحن نعرف ماذا توازد عايته ججنجوة تلك.
+
+Sample 253:
+Reference: " من هناك ؟ " - " أنا أمك "
+Hypothesis:  من هناك ، أنا أمك
+
+Sample 254:
+Reference: ذهبت إلى البيت.
+Hypothesis:  they have to in a bit.
+
+Sample 255:
+Reference: .فجأةً أصبحت حزيناً جداً
+Hypothesis:  فجأة أشعى أصبحت هذه الدنيا جدا
+
+Sample 256:
+Reference: من حديثي أن ابن بكر دعاني
+Hypothesis:  من حديثي أنّ إبن بكر دعائني.
+
+Sample 257:
+Reference: قل للأرند إذا أتى الروحين لا
+Hypothesis:  قل للأرندي إذا أترى حين لا
+
+Sample 258:
+Reference: العصفور المبكر يلتقط الدودة.
+Hypothesis:  ألا أسفروا المبكر يلتبت الدودة
+
+Sample 259:
+Reference: لم يقرأ توم الرسالة بعد.
+Hypothesis:  لم يكرة توم ، أرسلت بأعط.
+
+Sample 260:
+Reference: و شموخ لا تدانيه سما
+Hypothesis:  وشموخ لت دنيه زم
+
+Sample 261:
+Reference: .استمر المطر بالهطول طوال اليوم
+Hypothesis:  استمرّ المطر بالمطول يتوى لليون
+
+Sample 262:
+Reference: كادت ليلى أن تموت خوفا.
+Hypothesis:  قادت ليلى أن تموت خوف
+
+Sample 263:
+Reference: لو ان والدك الذي عرضته
+Hypothesis:  لو أنّوَ أَنَّوَ أَنِدَ كَالَّذِيَ يَقرَطَّ
+
+Sample 264:
+Reference: وكل مايشينهم في الجهر عليهم هجرانه في السر
+Hypothesis:  كل ما يشينهم في الجارع عليهم جراهو في الصر.
+
+Sample 265:
+Reference: بُني هذا الفندق العام الماضي.
+Hypothesis:  بني هدى الفندق العمل ماضي
+
+Sample 266:
+Reference: متى ستتزوج ؟
+Hypothesis:  نتزة تتزوط زويت
+
+Sample 267:
+Reference: ما هذه الرائحة ؟
+Hypothesis:  ما هاده الرائحة ؟
+
+Sample 268:
+Reference: يا شهوة النوم وما لدته
+Hypothesis:  يا شهوة النوم وما لدتهه
+
+Sample 269:
+Reference: .هناك خمسون مقاطعة في الإتحاد الفدرالي
+Hypothesis:  هناك خمسون مقادع في الاتحاد الفدران
+
+Sample 270:
+Reference: دخلت على خالد مرة
+Hypothesis:  دخلت على خالد مرة.
+
+Sample 271:
+Reference: كان عليك المجيء البارحة.
+Hypothesis:  كان عليك المجيء البارحة.
+
+Sample 272:
+Reference: لبس الرجل قناع نمر.
+Hypothesis:  لبسر رجل قناعنا عن مر.
+
+Sample 273:
+Reference: تذكرت الآن.
+Hypothesis:  تذكرت أن
+
+Sample 274:
+Reference: الماء في هذه المنطقة ليس صالحا.
+Hypothesis:  الماء في هذه المنطقة ليس صادحاً.
+
+Sample 275:
+Reference: سأدفع أنا.
+Hypothesis:  سأتفعو أنه.
+
+Sample 276:
+Reference: كان معه مئة ين فقط.
+Hypothesis:  كارما هم يأتياً فيقط.
+
+Sample 277:
+Reference: لا شب قرن أبي حفص ولا زرعا
+Hypothesis:  لا شبّقّ قرّ أبي حفّ صّاء ولا زرعة
+
+Sample 278:
+Reference: تعرف أنني أحبك!
+Hypothesis:  تعرف أنني أحبك.
+
+Sample 279:
+Reference: إنتظري دقيقة, يا ماري!
+Hypothesis:  إنتظير دقيقة تنيا ماري
+
+Sample 280:
+Reference: بِيع المنزل بثمن بخس.
+Hypothesis:  بيعالمنزل بسماً بخس
+
+Sample 281:
+Reference: هل تدرس ؟
+Hypothesis:  هل تدرس ؟
+
+Sample 282:
+Reference: .كنت عطشاناً فأردت أن أشرب شيئاً بارداً
+Hypothesis:  كنت عاقشاً فارتاً أشربت أمبياً.
+
+Sample 283:
+Reference: اللغة الإنجليزية ليست سهلة و لكنها مثيرة للإهتمام.
+Hypothesis:  لغة الإنجليزية ليست ليست ستتهلا ، ولكنها مفيرت للهتمام.
+
+Sample 284:
+Reference: فتبادروا طرف الثناء بفضله
+Hypothesis:  فتبادروا طرف الثناء بفضله.
+
+Sample 285:
+Reference: سأقوم بتحويل المبلغ.
+Hypothesis:  سأخوموا بتحوي المدلة.
+
+Sample 286:
+Reference: بوب و توم إخوة.
+Hypothesis:  بوب واتن أخوى
+
+Sample 287:
+Reference: إلى متى سيستمر الحال على نفس المنوال ؟
+Hypothesis:  إلا ما تساستمر الحال عامة سمنواين
+
+Sample 288:
+Reference: تشعر بالسوء.
+Hypothesis:  تشعر بسيء.
+
+Sample 289:
+Reference: من يبحث يجد.
+Hypothesis:  من يبحث يجد.
+
+Sample 290:
+Reference: وأنطقت الدراهم بعد صمت
+Hypothesis:  وأنظفت الدراهب بعد سامة.
+
+Sample 291:
+Reference: وَبَعِيدٌ عَنْهُ
+Hypothesis:  وَبعيّ دناهُ
+
+Sample 292:
+Reference: .أحضر أولادك معك
+Hypothesis:  أحضر الأولاد كماك
+
+Sample 293:
+Reference: النبت بين مفضض ومذهب
+Hypothesis:  أن ابتبين مفضلض بالضد أو مده حبي
+
+Sample 294:
+Reference: العين تبصر من تهوي وتفقده
+Hypothesis:  العين تبصر من التهوى وتفقده
+
+Sample 295:
+Reference: .لم أحبه
+Hypothesis:  لم أحبه.
+
+Sample 296:
+Reference: وطئت أبا إسحق أثبت وطأة
+Hypothesis:  وطت أبا أسحاقه أثبت وطأ
+
+Sample 297:
+Reference: إذَا كَانَ فِي الْبَيْتِ بُرٌّ فَتَعَبَّدْ وَإِذَا لَمْ يَكُنْ فَاطْلُبْ
+Hypothesis:  إذا كان في البيت برٌّ فتعبّد وإذا لم يكن فطلب
+
+Sample 298:
+Reference: قَالَ أَرَاغِبٌ أَنْتَ عَنْ آلِهَتِي يَا إِبْرَاهِيمُ لَئِنْ لَمْ تَنْتَهِ لَأَرْجُمَنَّكَ وَاهْجُرْنِي مَلِيًّا
+Hypothesis:  قل أغب الانت عن آلهتي يا إبراهين لأن تنفعل على الجمنة توهجني مليئة.
+
+Sample 299:
+Reference: ظهرت عدة حقائق مهمة بعد التحري.
+Hypothesis:  وهارت إنت تحاقاقاقا قبهم متم بعج التحرد
+
+Sample 300:
+Reference: عندما استيقظت ، كنت حزينًا.
+Hypothesis:  عندما استقضتكم تحزينة.
+
+Sample 301:
+Reference: يا عذولي إن كنت ترجو سلوي
+Hypothesis:  يعذول إن كنت ترجو سلوى
+
+Sample 302:
+Reference: كم لحظة كررتها في لحظه
+Hypothesis:  كم لحظك الهررتها في لحظر ؟
+
+Sample 303:
+Reference: ! أمسكه
+Hypothesis:  أمسك
+
+Sample 304:
+Reference: فَالْخَصْلَةُ الْأُولَى
+Hypothesis:  فالخسلة الأولى
+
+Sample 305:
+Reference: أطفئ النور إذا سمحت.
+Hypothesis:  أطفئي نورة إلى سماحة.
+
+Sample 306:
+Reference: أشعرُ بأنني غير مُقدّر في العمل.
+Hypothesis:  أشعر بأنني غير مقدر في العمل.
+
+Sample 307:
+Reference: هذا حقا ممتع
+Hypothesis:  هذا حقاً الممتيا
+
+Sample 308:
+Reference: أتعتقد أن هناك أشباح ؟
+Hypothesis:  أتعتقد أن هناك أشباح.
+
+Sample 309:
+Reference: فإن رأي لا رأي سواءا ولا برح
+Hypothesis:  فأنت رأيٌ اللّارئية سواءً و لا بريحة.
+
+Sample 310:
+Reference: أنتِ أُمّي.
+Hypothesis:  أنت أمني.
+
+Sample 311:
+Reference: أَجْنِيْ مِئْةَ يُوْرَو فِيْ اليَوْم.
+Hypothesis:  أجني ، ميأت يورو في لون.
+
+Sample 312:
+Reference: اللصّ لا يسرق لصًّا.
+Hypothesis:  أليس لأسرغوا للسنة.
+
+Sample 313:
+Reference: لا أعرف إذا كان صادقاً أم لا.
+Hypothesis:  لا أعرف إذا كان صادقاً أملا
+
+Sample 314:
+Reference: أنا لم أسمع المنبه.
+Hypothesis:  أنا لم أسمع المنبّة.
+
+Sample 315:
+Reference: نعم ، يحدث هذا بين الحين و الآخر.
+Hypothesis:  نعم ، يحدث هذا بين الآخر بين الآخر.
+
+Sample 316:
+Reference: من يقف هناك هو توم.
+Hypothesis:  ون يقف من أكوى توم
+
+Sample 317:
+Reference: لا يوافق والديَّ على حبيبتي.
+Hypothesis:  لا يوافق و لدي على حبيبتي
+
+Sample 318:
+Reference: أنا نرويجي.
+Hypothesis:  أنا أنا روزي
+
+Sample 319:
+Reference: وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَنْ يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ
+Hypothesis:  ومن يبتغي غير الإسلام دين فلا يقبل منه وهو في الأاخرة من الخاصرين
+
+Sample 320:
+Reference: أَمْ يُرِيدُونَ كَيْدًا فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ
+Hypothesis:  أمي ريدون كيدا فللازين كفروا موما المكيدون
+
+Sample 321:
+Reference: أبي يعمل في مصرف.
+Hypothesis:  أبي يعمل في مصرف
+
+Sample 322:
+Reference: قل إن الذين يفترون على الله الكذب لا يفلحون
+Hypothesis:  كل إن الذين يفترون على الله الكذبا لا يفلحنا
+
+Sample 323:
+Reference: .أحياناً يكون الصبر لا يُطاق
+Hypothesis:  رحياناً ، يكونوا السمرايطاب
+
+Sample 324:
+Reference: أفد الرحيل وحثني صحبي
+Hypothesis:  أفدّب حيل وحثني صحبي
+
+Sample 325:
+Reference: كنت هناك لثلاثة أيام فقط.
+Hypothesis:  كنتهو نكليس لست تائيئي من فقط
+
+Sample 326:
+Reference: أعتقد أنك جوعان.
+Hypothesis:  أعتقد أنك جوار.
+
+Sample 327:
+Reference: من أعان الهموم والدهر والبين
+Hypothesis:  من أعان الهونام والتهرب البيت
+
+Sample 328:
+Reference: وَإِمَّا لِأَنَّ الْجُهَّالَ بِذَمِّهِ أَغْرَى
+Hypothesis:  وإمع لأن الجهال بذمه أغرى
+
+Sample 329:
+Reference: وَلِأَجْلِهَا مَهْجُورٌ مَزْجُورٌ
+Hypothesis:  و لأجلها محجور مزجر
+
+Sample 330:
+Reference: أشاكر أنا للأيام أم شاك
+Hypothesis:  أشعى كر أن أنار الأيام أمشاك
+
+Sample 331:
+Reference: من فضلك لا تبكي.
+Hypothesis:  من فضلك ، لا تبكي
+
+Sample 332:
+Reference: عندما استيقظت هذا الصباح لم أرد القيام عن السرير.
+Hypothesis:  عندما استيقظت هذا الصباحة لم أرجق القيام عن السّريب
+
+Sample 333:
+Reference: إن ريب الزمان طال انتكائه
+Hypothesis:  إن ريبت زمان الطالنتكاء
+
+Sample 334:
+Reference: وَهُوَ أَوَّلُ مَنْ أَصْدَقَ هَذَا الْقَدْرَ
+Hypothesis:  وووو أولو من أصدقها لقد
+
+Sample 335:
+Reference: .لا يحترق البلاستيك بسهولة
+Hypothesis:  لا يحترق الplastic بسهودة.
+
+Sample 336:
+Reference: أمسكت فراشة جميلة.
+Hypothesis:  أم سكت فراجة جميلة.
+
+Sample 337:
+Reference: توقّف الحاسوب عن العمل بعد تحديث آلي للنظام
+Hypothesis:  توقف الغّفل حسوبوى عن العمل بعد تحتفّن ألياً للنظام.
+
+Sample 338:
+Reference: إلَى اصْطِفَاءِ مَنْ يَأْنِسُ بِمُوَاخَاتِهِ وَيَثِقُ بِنُصْرَتِهِ وَمُوَالَاتِهِ
+Hypothesis:  إلى الصفاء ، إمنياءني سب موايخاته ويذكر بنسرتيه وموانأتيه
+
+Sample 339:
+Reference: فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَى
+Hypothesis:  فإذا جاءت أتبع ما تنكبرى
+
+Sample 340:
+Reference: .سأحضر فوطة أخرى
+Hypothesis:  سأحد رفوتة أخرى
+
+Sample 341:
+Reference: أنزه في روض المحاسن مقلتي
+Hypothesis:  أنزف في رضي محاسم مقلت
+
+Sample 342:
+Reference: أنا في الشهر الرابع من حملي.
+Hypothesis:  أنا في الشهر الراب من حملي.
+
+Sample 343:
+Reference: قليلًا قليلًا ، ستلاحظ تحسنا في كتابتك.
+Hypothesis:  طليلا طليلا سدو الله ذو تعسنا في كتابتك
+
+Sample 344:
+Reference: .اِبقَ هادئاً عند شرح الدرس
+Hypothesis:  إبقى هادئاً إن ذا شلح الدّفس
+
+Sample 345:
+Reference: يذاكر أخوه الأصغر بإجتهاد كبير.
+Hypothesis:  يُذَاكِرُ أَخُوهُ الْأَسْرًا بِي اشْتِهَادِنْ كَبِهِي
+
+Sample 346:
+Reference: إن الأبرار لفي نعيم
+Hypothesis:  إن الأبرارار لفنعين
+
+Sample 347:
+Reference: يا لك من محظوظ!
+Hypothesis:  يَنْكَمْيُمْ مَهْبُهْهُ.
+
+Sample 348:
+Reference: غضب ألح من السحاب الأسحم
+Hypothesis:  غضب ألحا من السحاب الأسحام
+
+Sample 349:
+Reference: .كرة القدم هي لعبتي المفضلة
+Hypothesis:  كرة القدم هي العبت المفضلة.
+
+Sample 350:
+Reference: هل اللغة الإنجليزية أصعب من اليابانية ؟
+Hypothesis:  هل اللغة الإنجليزية أصع من يلانية ؟
+
+Sample 351:
+Reference: بإمكان فاضل أن يكون أفضل حلفائك أو أسوء أعدائك.
+Hypothesis:  بإمكان فاضر أي كون أفضل أحلفائك أو أسواء بعدئك
+
+Sample 352:
+Reference: وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ
+Hypothesis:  ولا تنسوها بسوء فيأخذكم عذاب يوم عظيم
+
+Sample 353:
+Reference: فضلا من الله ونعمة والله عليم حكيم
+Hypothesis:  فضل من الله ونعمه ، والله عدم حكيم
+
+Sample 354:
+Reference: المال لا يجلب السعادة لكن يسمح لنا ان نعيش تعاستنا برفاهية.
+Hypothesis:  المال لا يجل سعادة ، لكن يصبح لنا أنّعشت عاسةنا برقاهية.
+
+Sample 355:
+Reference: قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضر عنكم ولا تحويلا
+Hypothesis:  قلد والذي نزهمت من دونه فلا يملكون كشف الضر عنكم ولا تحويلة
+
+Sample 356:
+Reference: نحن نأكل لنعيش ، لا نعيش لنأكل.
+Hypothesis:  نحن نأكل نعيش ، لا نعيش لنأكل
+
+Sample 357:
+Reference: كل ما تفعله هو التذمر.
+Hypothesis:  كل ما تفعله وتذموه
+
+Sample 358:
+Reference: وَتَحُجَّ الْبَيْتَ إِنِ اسْتَطَعْتَ إِليْهِ سَبِيلاً
+Hypothesis:  متحجّ البيت إنصطاعت إليه صبيل.
+
+Sample 359:
+Reference: هل كتبت الواجب بنفسك ؟
+Hypothesis:  هل كتبت الوجب بالأفسك ؟
+
+Sample 360:
+Reference: إبليس إن كنت من المنظرين
+Hypothesis:  أبليس إن كنتم من المنظرين
+
+Sample 361:
+Reference: وَإِيَّاكَ مَا يُسْخِطُ سُلْطَانَك
+Hypothesis:  وإيّكا ما يسرّة فلتانك
+
+Sample 362:
+Reference: وَما لا تُبصِرونَ
+Hypothesis:  وما لا تبع صلون
+
+Sample 363:
+Reference: إنك تتحدث الإنجليزية بطلاقة.
+Hypothesis:  إنك تتحدث الإنجليزية بطاقة.
+
+Sample 364:
+Reference: أعتقد أنك محق.
+Hypothesis:  أعتقد أنك محرق.
+
+Sample 365:
+Reference: يا من رأى ظعن الحي الذي شحطا
+Hypothesis:  يمن بآبغاً الحي الذي شحطى
+
+Sample 366:
+Reference: إنها غلطتي.
+Hypothesis:  إنها رفضتي
+
+Sample 367:
+Reference: والآن ضع نفسك في مكاني للحظة
+Hypothesis:  وأنظعاً أصدّى كفي مكاني للاحظة.
+
+Sample 368:
+Reference: الشعب السويسري يستهلك معظم الشوكولاته بما يعادل عشرة كيلوغرام للشخص الواحد سنوياً.
+Hypothesis:  الشعب السويس رجم يستهلك موضّم الشكولة بما يعدد رعشر تكيب القرام للشّقصد واحد سنوياً
+
+Sample 369:
+Reference: بتنا على الزوراء نهدم ما
+Hypothesis:  بطنا على الزورة إنه اليوم
+
+Sample 370:
+Reference: وَتَلْعَنُونَهُمْ وَيَلْعَنُونَكُمْ
+Hypothesis:  وتلعنونهم ويرعنونكم
+
+Sample 371:
+Reference: هبط الليل ولما أن دجا
+Hypothesis:  حبط الليل و لمّا أندجى
+
+Sample 372:
+Reference: والأبيض لون السلام، وسطه النجم الأحمر بلون الدم
+Hypothesis:  والأبيض لون السلام ، واصطه نجم الأحمر بالعني الدم.
+
+Sample 373:
+Reference: خير الأعمال ما كان ديمة خير الخلال حفظ اللسان
+Hypothesis:  خير العماذ مكان دي مدى الخير الخلاب هل بنيساً ؟
+
+Sample 374:
+Reference: فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ
+Hypothesis:  فكذبواهم فكانوا من المهلاكين
+
+Sample 375:
+Reference: يا بني الزهراء والنور الذي
+Hypothesis:  يا ذن الزهراء واللور الذي
+
+Sample 376:
+Reference: أقفلت النوافذ الستة جميعها.
+Hypothesis:  أكفلت الدّوى في دست تجميع.
+
+Sample 377:
+Reference: الشهد صاب عند مطعم خلقه
+Hypothesis:  شهد سعبنا عندما تعاميخ لقيه.
+
+Sample 378:
+Reference: .لوني المفضّل هو الأحمر
+Hypothesis:  توم ينفضّض عمر.
+
+Sample 379:
+Reference: أحلم كثيراً.
+Hypothesis:  أحلم كثيراً.
+
+Sample 380:
+Reference: رحم الله أمرؤا أحيا حقا وأمات باطلاً ودحض الجور وأقام الإنصاف.
+Hypothesis:  رحيم الله مراءً أخيى حقّى وأمى تباقل لوضح دوجورة وأقام الإنصاف
+
+Sample 381:
+Reference: وَاضرِب لَهُم مَثَلًا أَصحابَ القَريَةِ إِذ جاءَهَا المُرسَلونَ
+Hypothesis:  واضغر بلاهم مثل أصحاب القرية إذ جاءها المرسلون
+
+Sample 382:
+Reference: هذا الجدار بارد.
+Hypothesis:  هذا الجدار باردون
+
+Sample 383:
+Reference: ربما ستفهم يومًا ما.
+Hypothesis:  لبما ستفهم يوما ما
+
+Sample 384:
+Reference: .تتكلم و كأنك رئيسنا
+Hypothesis:  ستزكّلّب وكَّ أَنَّكَرَ إسُنُ
+
+Sample 385:
+Reference: .لا تقطع هذه الأشجار
+Hypothesis:  لا تغطع هذه البجار.
+
+Sample 386:
+Reference: احفظ هذه الأسماء عن ظهر قلب.
+Hypothesis:  يحفظ هذه الأسماع عن ظهر قلب.
+
+Sample 387:
+Reference: طال الثواء على رسوم المنزل
+Hypothesis:  طال الثواق على رسوم من منزل
+
+Sample 388:
+Reference: من أي طريق نسافر إلى القدس؟
+Hypothesis:  من أيتاري في مسافر إلى كتس.
+
+Sample 389:
+Reference: لا أعتقد أنه قادم.
+Hypothesis:  لا أعطّق دو أنّه قادم.
+
+Sample 390:
+Reference: الحواسيب آلات معقدة.
+Hypothesis:  الحواصل لا تنظر عصدر.
+
+Sample 391:
+Reference: نحن نأكل التفاح.
+Hypothesis:  نحن نكون تفا
+
+Sample 392:
+Reference: قال الوشاة وقد بدت في مفرقي للشيب
+Hypothesis:  قارل وشاة وقد بدت في مفرقيل الشيب
+
+Sample 393:
+Reference: وقضيب من الخلاف بديع
+Hypothesis:  وقضي من الخلف لديه.
+
+Sample 394:
+Reference: .صوت بتي جميل
+Hypothesis:  سوت بتي جميل جميل.
+
+Sample 395:
+Reference: البيت صغير.
+Hypothesis:  البيت صغير
+
+Sample 396:
+Reference: فَإِنَّ الرَّغْبَةَ وَالرَّهْبَةَ إذَا اجْتَمَعَا عَلَى النَّفْسِ ذَلَّتْ لَهُمَا وَانْقَادَتْ
+Hypothesis:  فإن رغبة ورهبة إذا اجتمع على النفس ذلك لتلهما وانقادت
+
+Sample 397:
+Reference: ليس الذي يقول الحقّ ويفعلُه بأفضل من الذي يسمعه فيقبلُه.
+Hypothesis:  ليس الذي يقول الحق و يفعله بأفضل من الذي يسمعه فيقبله
+
+Sample 398:
+Reference: من يعلم ما قد يحص غدًا؟
+Hypothesis:  من يعلم ما قد يحسغة.
+
+Sample 399:
+Reference: والسماء بنيناها بأيد وإنا لموسعون
+Hypothesis:  و السماء بنايناها بأيد وإن لما سيون
+
+Sample 400:
+Reference: أحضر لي المقص من فضلك.
+Hypothesis:  أحد الليل مقصّة من فضلك.
+
+Sample 401:
+Reference: كل ما في الأكوان من آياتك
+Hypothesis:  كل ما في الأكوان من أعياتك
+
+Sample 402:
+Reference: فَإِنْ رَأَى مَحْبَرَةً تَطَيَّرَ مِنْهَا وَإِنْ رَأَى كِتَابًا أَعْرَضَ عَنْهُ
+Hypothesis:  في إنظاء محبرة تطيّر منها وإنظر أكتابنا أعرض عن
+
+Sample 403:
+Reference: .هيلين في السابعة عشر من عمرها
+Hypothesis:  إليّ كسّابات شر من عمرها
+
+Sample 404:
+Reference: بسم الله الرحمن الرحيم والنجم إذا هوى
+Hypothesis:  بسم الله الرحمن الرحيم والنجمئذا و
+
+Sample 405:
+Reference: وَأَنَّ خِيَارَ الْأُمُورِ أَوْسَاطُهَا
+Hypothesis:  وأنَّ خيارا أمور أوصى تها
+
+Sample 406:
+Reference: ما اسم الفتاة التي رأيناها ذات اليوم في الحفلة ؟
+Hypothesis:  ما إسم الفتات التي رأيناها ذات اليوم في الحفلة.
+
+Sample 407:
+Reference: قَالَ رَبِّ اجْعَلْ لِي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا
+Hypothesis:  قول ربتّجا لآيحة ، قول آيات غألة تقلما تقلما ناصل ثلاثا ليه للنسويّر
+
+Sample 408:
+Reference: ألا تبصر ؟
+Hypothesis:  على تبصر
+
+Sample 409:
+Reference: أدار بأكناف الحمى جادها الحيا
+Hypothesis:  أدارب أكناف الحماع جادها الحياة.
+
+Sample 410:
+Reference: ! لم أقصد شيئاً
+Hypothesis:  لم أقصد شيء.
+
+Sample 411:
+Reference: ما ضار لابس مثله من خاتم
+Hypothesis:  صدار علي بسو المثل هم خاتم
+
+Sample 412:
+Reference: درس كل يوم لمدة ساعة ونصف.
+Hypothesis:  درس كل يوم لمدة سعوانس
+
+Sample 413:
+Reference: فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
+Hypothesis:  فتقوا الله هو أطيعون
+
+Sample 414:
+Reference: أبا نزار تفسد القوم النعم
+Hypothesis:  أبا نظر تفسد القوما اليعم
+
+Sample 415:
+Reference: صدور الأحرار قبور الاسرار
+Hypothesis:  سنور الحراب ، قمورة أسرى
+
+Sample 416:
+Reference: إن التي زعمت فؤادك ملها
+Hypothesis:  إن التي زعنات فؤادك منها ملها
+
+Sample 417:
+Reference: تناسيت أمري واطرحت حقوقي
+Hypothesis:  تنارسيت أمر و أطراح تحقب
+
+Sample 418:
+Reference: اقتربوا أيها الأوغاد الجبناء.
+Hypothesis:  اقتربوا أيها الضغاد الضرد شبانام
+
+Sample 419:
+Reference: متأكد أن توم لن يفعل ذلك.
+Hypothesis:  متى كدنا التوم لا نفعل ذلك
+
+Sample 420:
+Reference: .نظف زجاج النافذة بقطعة قماش مبلولة
+Hypothesis:  لم تفضل جادنا في ذاتبكِ طاق الاشتكبات.
+
+Sample 421:
+Reference: أعرف اسمك.
+Hypothesis:  أعرف اسمك
+
+Sample 422:
+Reference: وذكر فإن الذكرى تنفع المؤمنين
+Hypothesis:  وركّل ، فإنّا بذكرةً لنفعل المؤمنين
+
+Sample 423:
+Reference: أساجية الجفون أكل خود
+Hypothesis:  أساجية الجفوّني أكلّ خود
+
+Sample 424:
+Reference: حاولت أن أجعل تشارلز يساعدني لكنه لم يفعل.
+Hypothesis:  هوال تأعجعلت شرس يساعدون لك إنه لم يفعل
+
+Sample 425:
+Reference: غطاه الوحل من رأسه إلى أخمص قدميه.
+Hypothesis:  الطاول وحل من مبأسهي إلى أخمس قدميه
+
+Sample 426:
+Reference: أذكر أني بعثت بالرسالة.
+Hypothesis:  أسكول أني برست بريسال.
+
+Sample 427:
+Reference: هذا الكتاب أقدم من ذاك.
+Hypothesis:  هذا ذلكتا أقدم ينزاك
+
+Sample 428:
+Reference: أمن أجله كتبتم تلك القصيدة؟
+Hypothesis:  أميعج للكتابت محتيك القصيدة ؟
+
+Sample 429:
+Reference: نبي له في كل فضل تقدم
+Hypothesis:  نبيوا الهو في كل فضل تقدم
+
+Sample 430:
+Reference: قال توم مبتسماً: " مرحباً ".
+Hypothesis:  على ضوم مبتس من ، محباً.
+
+Sample 431:
+Reference: أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَانٍ مُّبِينٍ
+Hypothesis:  أم لهم سلَّمُ يستمعُون فيه فليئة مستمعُهم بسلطان المبين
+
+Sample 432:
+Reference: الجوّ بارد جداً هذا الشتاء.
+Hypothesis:  أنجو بارجة بالهنشفة.
+
+Sample 433:
+Reference: كان جبل فوجي مغطى بالثلج.
+Hypothesis:  كان جبل فوجي مرتبس الجميع.
+
+Sample 434:
+Reference: هو ينتمي إلى عائلةٍ كبيرة.
+Hypothesis:  هو ينتمي إلى العائلة كبيرة.
+
+Sample 435:
+Reference: قال دِك: " يمكنني السباحة ".
+Hypothesis:  قلديك ، يمكنني السباحة.
+
+Sample 436:
+Reference: يا سوءتا من طلابي يا أبا الحسن
+Hypothesis:  يا سوقت من بالله بي أبلحزن
+
+Sample 437:
+Reference: وَإِذَا كَانَ الْمُتَعَلِّمُ مُعْتَدِلَ الرَّأْيِ فِيمَنْ يَأْخُذُ عَنْهُ
+Hypothesis:  وإذا كان المتعلم موم ارتد لرائي في أفيم يأخذ عنه
+
+Sample 438:
+Reference: هل شاهدت المباراة ؟
+Hypothesis:  الشاهدت المبارة.
+
+Sample 439:
+Reference: غشيت لليلى بالبرود مساكنا
+Hypothesis:  غشيت ليلى بالغرود مساكنا
+
+Sample 440:
+Reference: .لا بد من وجود طريقة ما
+Hypothesis:  لغت من وجود طريقة ما
+
+Sample 441:
+Reference: غادرت ليلى العمل برفقة سامي.
+Hypothesis:  غاضرة للعمل ، إليفقت سان.
+
+Sample 442:
+Reference: قل لعباد الخيال
+Hypothesis:  قل يبعر الخالب
+
+Sample 443:
+Reference: أستطيع تحدث الإنجليزية.
+Hypothesis:  أستطيع لو تحدث الإنجليزيّة.
+
+Sample 444:
+Reference: محاولته باءت بالفشل.
+Hypothesis:  محاولته بأأتب الخشليل.
+
+Sample 445:
+Reference: سجل أنا عربي قالها محمود درويش
+Hypothesis:  سجل أنا عربي ، قالها محمد الرجيش
+
+Sample 446:
+Reference: سررت بمعرفتك.
+Hypothesis:  سريجد لما يغفدك
+
+Sample 447:
+Reference: نُقَدِّر مساعدتك.
+Hypothesis:  وقدر مساعدتك
+
+Sample 448:
+Reference: وأزلفت الجنة للمتقين غير بعيد
+Hypothesis:  وأزلفت الجنة للمتقين غير بعيد
+
+Sample 449:
+Reference: أعز مكان في الدنا سرج سابح وخير جليس في الزمان كتاب
+Hypothesis:  وإنهم كانت في الدون سرجو سابحا وخير جليس في الزمان كتال
+
+Sample 450:
+Reference: لم يصل القطار بعد.
+Hypothesis:  لم يصل القطار بعد.
+
+Sample 451:
+Reference: تدور الأرض حول الشمس.
+Hypothesis:  تدور الأرض حول الشمس
+
+Sample 452:
+Reference: انس أمرهم.
+Hypothesis:  إنسى أمراها
+
+Sample 453:
+Reference: كتبت إلى أمي.
+Hypothesis:  كتبت إلى أمي.
+
+Sample 454:
+Reference: لم يكُن دوما هكذا.
+Hypothesis:  لم يكن دوماً حكذا.
+
+Sample 455:
+Reference: لنعد أدراجنا.
+Hypothesis:  للا أطرع جناع
+
+Sample 456:
+Reference: هناك تحر جار.
+Hypothesis:  هناك تحرغا
+
+Sample 457:
+Reference: كان لديه شعر أشيب.
+Hypothesis:  كان لدي شعر أشيب.
+
+Sample 458:
+Reference: وَيَتَصَلَّفَ عَنْ الْآثَامِ
+Hypothesis:  ويتسرّف عن أساً.
+
+Sample 459:
+Reference: أنا نعسان!
+Hypothesis:  أليلى عسام
+
+Sample 460:
+Reference: هذه التقارير لا تتطابق مع الأحداث.
+Hypothesis:  هذه هي التقارير ، لا تستابقوا مع الأحداث.
+
+Sample 461:
+Reference: يجب ألا تتحدث بصوت عالٍ.
+Hypothesis:  يجب ألا تتحدث بصوت عالم
+
+Sample 462:
+Reference: نعم الإعانة رمزا في خفا لطف
+Hypothesis:  نعم ، ألعان رمزا في خفى لطف.
+
+Sample 463:
+Reference: فيم التنازع والشقاق
+Hypothesis:  في مدنازع وشقاق
+
+Sample 464:
+Reference: من الممكن أنها لن تأتي غداً.
+Hypothesis:  من الممكن ينذهب من أملا تعتقدره.
+
+Sample 465:
+Reference: كلفت نفسي جهادا فاستفدت به
+Hypothesis:  كلافتنافسه جهادا فستفتفتبه.
+
+Sample 466:
+Reference: مجـدُهُ أرزُهُ رمزُهُ للخلود
+Hypothesis:  مجده ، أرزه ، رمزه ، لرخلود.
+
+Sample 467:
+Reference: عينان واحدة ترى مسرورة
+Hypothesis:  عينان وحدة ترى مصرورة.
+
+Sample 468:
+Reference: وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ
+Hypothesis:  والذ يومة لن يتمنى يحين
+
+Sample 469:
+Reference: العلم بحر ما له من ساحل
+Hypothesis:  الأيما بعض ما لهم ساحي
+
+Sample 470:
+Reference: نماك الأماجد من يعرب لإفريقيا المنبع الأعذب
+Hypothesis:  نمك الأمازد من يعرضي ، لإطريف للمنبع الأعذب.
+
+Sample 471:
+Reference: ألا من مبلغ عني ابن شبلي
+Hypothesis:  ألا من مبلى عني أبن شربت
+
+Sample 472:
+Reference: سآخذ سيّارتي.
+Hypothesis:  سأخص صيارتي
+
+Sample 473:
+Reference: هو ضدّ هذا المشروع.
+Hypothesis:  وَذِنتَ هَذًا مَسرورَ.
+
+Sample 474:
+Reference: تقع قمة Diadem في الجنوب الشرقي من جبل بالمر.
+Hypothesis:  تقعقم الديار في الجنوب الشرق من جبل المرح.
+
+Sample 475:
+Reference: أتشاهد التلفاز ؟
+Hypothesis:  أتشاهدت الفز
+
+Sample 476:
+Reference: من مبلغ المعتر والقانع
+Hypothesis:  من مبلغ المرتوى القانر
+
+Sample 477:
+Reference: ما الوقت الذي تشير إليه ساعتك الآن ؟
+Hypothesis:  ملوقت الذي تشيوء ليس عاة كل أن
+
+Sample 478:
+Reference: .نسيت أن أسأله
+Hypothesis:  نسيتون أسألة.
+
+Sample 479:
+Reference: بل دائما إلي بلوغ الشيب يعيبه الناس بذاك العيب
+Hypothesis:  بالذائماً إلى بلوغ الشيب يعيبه الناس بذاك العيب.
+
+Sample 480:
+Reference: جاءوا بجيشهم لقطع مياهنا
+Hypothesis:  جاءوا بجهزيهم لكتهمية هنا
+
+Sample 481:
+Reference: أتى دور كين.
+Hypothesis:  أتا دوركين
+
+Sample 482:
+Reference: .هوايتها الوحيدة هي جمع الطوابع
+Hypothesis:  هو يده الوحيدته يجمع الطواب
+
+Sample 483:
+Reference: قل لأبي حفص إذا جئته
+Hypothesis:  قلّ أبي حفصّ إذا جئته
+
+Sample 484:
+Reference: يا من رأى مثل ابن تاج الدين
+Hypothesis:  ياماً رأى أم في الأبنية جديّ.
+
+Sample 485:
+Reference: لا للتطرف أياً كان.
+Hypothesis:  لا لتطرّف أيّاً كان.
+
+Sample 486:
+Reference: متكئين فيها يدعون فيها بفاكهة كثيرة وشراب
+Hypothesis:  متكين فيها يدعون فيها بفاكية كثيرت وشرب
+
+Sample 487:
+Reference: لأخلعن عذارى في محبتكم
+Hypothesis:  لأخلعاً عذارة في محبتكم
+
+Sample 488:
+Reference: .تعطلت السيارة
+Hypothesis:  طاطل تلطة سيارة.
+
+Sample 489:
+Reference: كم فارس يدعى وليس بفارس
+Hypothesis:  كامفاق يسنود ذائعو لسنبيفاقا
+
+Sample 490:
+Reference: للناس عيد ولي عيدان في العيد
+Hypothesis:  للنسرات و ليغيّ غدا فلايط
+
+Sample 491:
+Reference: يعجبه أن يغني في حوض الاستحمام.
+Hypothesis:  يُأجبه أن يغني في حوض الاستحمام.
+
+Sample 492:
+Reference: فقط أخبرني ما الذي تريده.
+Hypothesis:  فقط ، أخبرني ملادي تريده.
+
+Sample 493:
+Reference: ضوء القمر ضعيف.
+Hypothesis:  بوقو قمري ضعيك
+
+Sample 494:
+Reference: لدي القليل من المال.
+Hypothesis:  لدي القنير من المال
+
+Sample 495:
+Reference: الله الذي جعل لكم الأنعام لتركبوا منها ومنها تأكلون
+Hypothesis:  الله الذي جعل لكم لن عام لتركبوا منها ومنها تأكلون
+
+Sample 496:
+Reference: آه ، متى سيتقابلون مجدداً ؟
+Hypothesis:  آه ، هذا سيتقى قابل يون مجدداً.
+
+Sample 497:
+Reference: وَالتَّنَاصُرَ عَلَيْهِ حَتْمًا
+Hypothesis:  والتناصر عليها حثمن
+
+Sample 498:
+Reference: هذا مستحيل.
+Hypothesis:  هذا مستحيل.
+
+Sample 499:
+Reference: .هدفي في الحياة هو أن أصبح كاتباً روائياً
+Hypothesis:  هذا في بالحياة هو النصبح كأتما والوالوعيا
+
+Sample 500:
+Reference: وَتَكونُ الجِبالُ كَالعِهنِ المَنفوشِ
+Hypothesis:  و تكون الجبال كلاه من المنفوش
+
+Sample 501:
+Reference: هل هذه صورة حديثة ؟
+Hypothesis:  هل هذه صورة حديثة ؟
+
+Sample 502:
+Reference: .يبدو المعطف الأحمر جميلاً عليك
+Hypothesis:  يبدو المعترفى ، أحمى الجميل على إك.
+
+Sample 503:
+Reference: هل تسمع أي صوت ؟
+Hypothesis:  هل تسمع أيسوق ؟
+
+Sample 504:
+Reference: وقف القضيب لقده لما مشى
+Hypothesis:  وقف القرив لقدهي لم مامشا
+
+Sample 505:
+Reference: أعطاني توم قلماً.
+Hypothesis:  أعطاني توم قلمة
+
+Sample 506:
+Reference: هل لي أن أخرج لمشاهدة فيلم الليلة ؟
+Hypothesis:  عليّ نخرج لمشاهدة في الملايلا
+
+Sample 507:
+Reference: كل الناس طيبو القلب.
+Hypothesis:  كل النسطة يبول كلم.
+
+Sample 508:
+Reference: اقتنع فاضل أنّ ليلى لم تعد تريد قتله.
+Hypothesis:  أقطنع فاضل أن ليلى لم تعدت ريت قتلة.
+
+Sample 509:
+Reference: خير ما استعصمت به الكف عضب
+Hypothesis:  خير مستعصمت به الكفوى عضب.
+
+Sample 510:
+Reference: أقلعت الطائرات النفاثة واحدة تلو الأخرى.
+Hypothesis:  أقلعت الطائرة النفادة واحدة للأخرى
+
+Sample 511:
+Reference: هم إقتسموا المال.
+Hypothesis:  مرقفة سم المالة.
+
+Sample 512:
+Reference: بَاتَتْ الْبُحَيْرَةُ هَائِجَةً.
+Hypothesis:  بارت البحية هذه إجدان.
+
+Sample 513:
+Reference: ياابن فراس أي شيء تنتظر
+Hypothesis:  يبن في راسن أي جيء للنزلذر.
+
+Sample 514:
+Reference: سيقبل الناس فكرتك أسرع إن أخبرتهم أن بنجامين فرانكلن قالها أولا.
+Hypothesis:  سيقبر الناس في كرة أصرع إنا أخبرتهم أن بين جامينا فرانك لهم قالها أولى.
+
+Sample 515:
+Reference: ماذا جرى لفاضل.
+Hypothesis:  ماذا جرى لفادل
+
+Sample 516:
+Reference: يجب أن تفي بوعدك.
+Hypothesis:  نجو أن تفبو أنك.
+
+Sample 517:
+Reference: من لصب تصاعدت حسراته
+Hypothesis:  من لصبت صاعدة حسراته
+
+Sample 518:
+Reference: التغيير هو الشيء الوحيد الذي لا يتغير.
+Hypothesis:  التنريض وشيب الوحيد الذي لا يتغيّف.
+
+Sample 519:
+Reference: يتحدث توم اليابانية بطلاقة.
+Hypothesis:  إذا حدثت توم عدير بنيا بطلاق.
+
+Sample 520:
+Reference: اتصل بي بيل ليلة أمس.
+Hypothesis:  اتصربي بيلا ليلة أمس.
+
+Sample 521:
+Reference: عقلي يحدثه لسان نائح
+Hypothesis:  أعكلي حدسوا لسان ماه
+
+Sample 522:
+Reference: لندا تحب الشوكولاتة.
+Hypothesis:  لندع تحب الشقلاتة.
+
+Sample 523:
+Reference: نادِني هاري من فضلك.
+Hypothesis:  ناديني هاري من فضلك
+
+Sample 524:
+Reference: أنا أطلي البوابة بطلاء ازرق اللون.
+Hypothesis:  أنا أطلبا وأبتبت لأن أزرخ لون
+
+Sample 525:
+Reference: دامت الخطبة ثلاثين دقيقة.
+Hypothesis:  دعمة الخطب الضلاثة دقيقة.
+
+Sample 526:
+Reference: حلمي أن أصبح معلّماً.
+Hypothesis:  حلني أن أصبح مع اللمنت
+
+Sample 527:
+Reference: إنما تكرم الطباع إذا ما
+Hypothesis:  إنا ما تكرم الطّباع إذا ما
+
+Sample 528:
+Reference: وخضراء من حوك الربيع شهدتها
+Hypothesis:  وخضراء من حوكرة بعيشها الطوى
+
+Sample 529:
+Reference: دخلت ليلى إلى البنك.
+Hypothesis:  دخلت ليلى إلى البنك.
+
+Sample 530:
+Reference: لم أتعلم كيف أقود السيارة بعد.
+Hypothesis:  لم أتعلمت في أقوب سيارباً.
+
+Sample 531:
+Reference: أعنيك يا من سواه تلحق التهم
+Hypothesis:  وعينا في عاماً سواهت الحق التهم
+
+Sample 532:
+Reference: أنا أدرس اللغة الكورية.
+Hypothesis:  أنا أدرس اللغة الكورية.
+
+Sample 533:
+Reference: وسرحة في سماء السرح قد رفعت
+Hypothesis:  وثرحة في سماع السرح قد رفعت.
+
+Sample 534:
+Reference: .لنتخيل أننا مخلوقات فضائية
+Hypothesis:  لينتخيّ الاننانا نام خلوقة تنفضائيّة.
+
+Sample 535:
+Reference: ما طول الجسر ؟
+Hypothesis:  ما طول الجسر
+
+Sample 536:
+Reference: في هذه السنة، قامت بدور البطولة في أرعبة أفلام.
+Hypothesis:  بهذه السناء خوامة بدور البقوى التي في أرعبتي أفنع.
+
+Sample 537:
+Reference: أخطاك ما كنت ترجوه وتأمله
+Hypothesis:  أخطاق ما كنت تتأتجوه وتعمل
+
+Sample 538:
+Reference: أنا من شيكوكو.
+Hypothesis:  أدم شكوفوا
+
+Sample 539:
+Reference: و أخيراً وصلنا.
+Hypothesis:  وآخيراً وصلمه.
+
+Sample 540:
+Reference: كان لكل بيت حديقة.
+Hypothesis:  كان لكل بيت حديقة.
+
+Sample 541:
+Reference: شكرا لك.
+Hypothesis:  شكراً لات
+
+Sample 542:
+Reference: .كان عمري ثماني عشرة سنة حينها
+Hypothesis:  كان عمري ثمانع أشرة سنحينها.
+
+Sample 543:
+Reference: لا تزر أن قضيت قبري ولا تبك
+Hypothesis:  لا تزر إن قنيت قبري و لا تبك
+
+Sample 544:
+Reference: سأحضر.
+Hypothesis:  سبحوه!
+
+Sample 545:
+Reference: ما تخضبت لاختيال مريدا
+Hypothesis:  ما تخدّبات لختيال مريدة.
+
+Sample 546:
+Reference: .قابلت بوب صباح اليوم
+Hypothesis:  أبنت بوب سباح اليوم
+
+Sample 547:
+Reference: أيلتمس الناس الغنى فيصيبهم
+Hypothesis:  أي التمسونناس غنا فيصيبهم
+
+Sample 548:
+Reference: نصحته ألا يضع الكثير من السكر.
+Hypothesis:  نصحتهُ ألا يضاع الكثير من السكرة.
+
+Sample 549:
+Reference: كيف سندفع ديوننا الآن ؟
+Hypothesis:  كيف تنتعود يون الان ؟
+
+Sample 550:
+Reference: الإجراء البديل هو وضع قسطرة PleurX Pleural أو قسطرة Aspira Drainage.
+Hypothesis:  الوجهوى بديله وضع قسطرة في الكلرق الظهراء وقسطر دراًا.
+
+Sample 551:
+Reference: شجا أن أروم الصبر عنك فيلتوي
+Hypothesis:  شجى أن أروا مصبر عنك فاي التويب.
+
+Sample 552:
+Reference: هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ
+Hypothesis:  هوداً ورحمةً للمحسنة.
+
+Sample 553:
+Reference: أنا أصغر منك بثلاث سنين.
+Hypothesis:  أنا أصغر من كبثلات سنين
+
+Sample 554:
+Reference: كل يوم رتبوا أربعة
+Hypothesis:  كلّ يوم رأتب أربعة.
+
+Sample 555:
+Reference: هل تغسل يديك قبل الوجبات ؟
+Hypothesis:  هل تغسلوا يتاك قبل وجباة ؟
+
+Sample 556:
+Reference: لقد انهارت حياة ليلى.
+Hypothesis:  غطئ الهارت حياة ليلى.
+
+Sample 557:
+Reference: لم أمرض يوما في حياتي.
+Hypothesis:  لم أخمر ديه من في حياته.
+
+Sample 558:
+Reference: ليس على الضارط تعيير
+Hypothesis:  ليس على الضارط تعيير.
+
+Sample 559:
+Reference: لم يسبق لأبي أن سافر إلى الخارج.
+Hypothesis:  لم يسبق لأبي أن سافغا إلى الخارج.
+
+Sample 560:
+Reference: وتقلبك في الساجدين
+Hypothesis:  وطق الوقت قلب كفسا جدا
+
+Sample 561:
+Reference: " شُكْراً " " عَفْواً "
+Hypothesis:  شكرا أفوّن
+
+Sample 562:
+Reference: إنها توّاقة إلى معرفة النتائج.
+Hypothesis:  إنها تواقطن إلى معرفة النداعج
+
+Sample 563:
+Reference: دخله الكبير يمكّنه من السفر كل سنة إلى الخارج.
+Hypothesis:  دخلوق الى ما بيري مدكنا مناسفر كل سنة كيرا الجير
+
+Sample 564:
+Reference: أحِبُّ هذا المتجر.
+Hypothesis:  أحب هذا المتجر
+
+Sample 565:
+Reference: أتسوق كل صباح.
+Hypothesis:  أتساوّق كلّ صباح.
+
+Sample 566:
+Reference: أين المشكلة ؟
+Hypothesis:  أين المشكلّة ؟
+
+Sample 567:
+Reference: لقد نفذ ما لدينا من الغاز.
+Hypothesis:  لقد نفى زمانت دين من الغالس
+
+Sample 568:
+Reference: لدي قلم.
+Hypothesis:  لدي قلم.
+
+Sample 569:
+Reference: يمكنني قراءة الأسبانية بسهولة.
+Hypothesis:  يمكنني قد عجل أسباني بالسهولة.
+
+Sample 570:
+Reference: إنه مريض جداً.
+Hypothesis:  إناها مرياً بوجدّا.
+
+Sample 571:
+Reference: إذا اشتد ما ألقاه هون علتي
+Hypothesis:  إذا اشتدى ما القاهوه هو نعلاة
+
+Sample 572:
+Reference: سمع صرخة.
+Hypothesis:  سمع صرخةً
+
+Sample 573:
+Reference: لدى القطط القدرة على الرؤية ليلاً.
+Hypothesis:  لدى القطة القدرة على الرّوية ليلى.
+
+Sample 574:
+Reference: يقال أنه كان غنيا جدا.
+Hypothesis:  يقالوا أنه كان رنيا جدا
+
+Sample 575:
+Reference: بدأ سامي يتخلّف على المدرسة.
+Hypothesis:  بدأسامي يتخلف عن المدرسة.
+
+Sample 576:
+Reference: يابن عبد الكريم من أزيد الأشياء
+Hypothesis:  يبن عبد الكريم من أزيد الأشياء.
+
+Sample 577:
+Reference: أن لغة سكان هاواي الأصليين تتكون من ثلاث عشرة حرفاً فقط.
+Hypothesis:  أنَّ نُغَتَسُكًا هَوَيْ الأَسْلِينَ تَتَكَوَّنْ مِطْلَافِلَةَ تَعْعَشَّتَ حَرْفًا فَقَطَّتْ
+
+Sample 578:
+Reference: خسر توم وظيفته.
+Hypothesis:  أسرى توم غفقا
+
+Sample 579:
+Reference: وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
+Hypothesis:  والذين كفروا وكفبوا بآياتنا أودائك أصحاب النارهم فيها خاندون
+
+Sample 580:
+Reference: أيها القبر لا برحت مصوبا
+Hypothesis:  أيها القبر لا بارة مساويبا
+
+Sample 581:
+Reference: ماذا تفعل هنا يا جمال؟
+Hypothesis:  ما ذاتف عله هنا يا جمال
+
+Sample 582:
+Reference: فاصدع بما تؤمر وأعرض عن المشركين
+Hypothesis:  فصدع بما تومر وأعرضني المشركين
+
+Sample 583:
+Reference: لو كان حي وائلا من التلف
+Hypothesis:  لو كان حيّ وإلا من التلفي
+
+Sample 584:
+Reference: سجلت رقم هاتفه.
+Hypothesis:  سجلت ورقمها تفعل.
+
+Sample 585:
+Reference: .كثيراً ما يقال أن الحلويات مضرة بالأسنان
+Hypothesis:  كثيرا ما يقال أن الحلوياة مظرة بالأسنام
+
+Sample 586:
+Reference: .من الأفضل لك الذهاب
+Hypothesis:  من أن أفضل إلى كبراهة.
+
+Sample 587:
+Reference: يا مهديا يا سمينا حول سوسنة
+Hypothesis:  يا مهد ين يسمينا حول سوسنا
+
+Sample 588:
+Reference: بركات مولانا عليك تعود
+Hypothesis:  بركات مولان عليك ترود
+
+Sample 589:
+Reference: متى سنأكل اني اشعر بالجوع.
+Hypothesis:  ما تأسناك كل إني أشعر بجوى
+
+Sample 590:
+Reference: لا أنوي أن أكون أنانيا.
+Hypothesis:  لا أنعر أقون أن نين
+
+Sample 591:
+Reference: قالوا وَهُم فيها يَختَصِمونَ
+Hypothesis:  هل هو هم فيها إخطأ سمونة ؟
+
+Sample 592:
+Reference: فَإِذَا هُمْ بِالسَّاهِرَةِ
+Hypothesis:  فإذا هم بساهرة.
+
+Sample 593:
+Reference: كل ما عليك فعله هو الضغط على الزر.
+Hypothesis:  كل ما أعليك فيه لوهو دعطة عجير.
+
+Sample 594:
+Reference: هل كنت مملاً بالفعل ؟
+Hypothesis:  الكنت مميلا بالفعل
+
+Sample 595:
+Reference: هل يمكنك أن تسبح حقاً ؟
+Hypothesis:  هذه المكين كنتساً بها حقاً.
+
+Sample 596:
+Reference: .يبدو من منظر السماء أنها من الممكن أن تمطر اليوم بعد الظهر
+Hypothesis:  يبدو من مظر السماع أنها من الممكن أن تمقر اليوم بعد الضهر.
+
+Sample 597:
+Reference: الحمد لله الذي
+Hypothesis:  الحمد لله الذي
+
+Sample 598:
+Reference: أسيلة الفحشاء نارك في دمي
+Hypothesis:  يسيلا بالفحشاء نار كافي دنيب
+
+Sample 599:
+Reference: وَمَا صَاحِبُكُم بِمَجْنُونٍ
+Hypothesis:  وما صاحبكم بمجنون
+
+Sample 600:
+Reference: لم تكن في المنزل البارحة.
+Hypothesis:  لم تكن في المنزل البرحة.
+
+Sample 601:
+Reference: رب أخ لم تلده أمك
+Hypothesis:  رباً أخيلاً لم تددعوا أمكى
+
+Sample 602:
+Reference: مديحك من تعتفي فضله
+Hypothesis:  مذهحك من تعته في فضله.
+
+Sample 603:
+Reference: فيبلغ الغاية فينا مسرعا ويهضم الحقوق منا اجمعا
+Hypothesis:  فيبلغ الغاية فينا مسرع ويهضم الحقوق من ناجمع
+
+Sample 604:
+Reference: اليوم أصعد دون قبرك منبرا
+Hypothesis:  عنيو مأسعا دون قبرك من برا.
+
+Sample 605:
+Reference: سأتصل بك يوم الجمعة.
+Hypothesis:  سأتصر بك يوم الجمعة.
+
+Sample 606:
+Reference: من أين أنت ؟
+Hypothesis:  من أين أنت
+
+Sample 607:
+Reference: ناولني ذاك الكتاب من فضلك.
+Hypothesis:  نعم ، لن ينظرك الكتاب من فضلق.
+
+Sample 608:
+Reference: ألعب التنس كل يوم.
+Hypothesis:  على عبو تنسكُلا
+
+Sample 609:
+Reference: وأنفقوا في سبيل الله ولا تلقوا بأيديكم إلى التهلكة وأحسنوا إن الله يحب المحسنين
+Hypothesis:  وأنفخوا في صبي لله وإنه ولا ترى فوق أدى كم إلا تهلكى وآسنوا إن الله يفضل مفسنيه
+
+Sample 610:
+Reference: كم عمر ابنك ؟
+Hypothesis:  تمع مرى بنكى
+
+Sample 611:
+Reference: تابعت العمل.
+Hypothesis:  تأبعط العاملة.
+
+Sample 612:
+Reference: طرفت عيون الغانيات وربما
+Hypothesis:  طريفت عيون الغانية الوروبة.
+
+Sample 613:
+Reference: أنا حامل في الشهر الرابع.
+Hypothesis:  أنا حامل في الصهر أرعبه
+
+Sample 614:
+Reference: أبله
+Hypothesis:  أبلى.
+
+Sample 615:
+Reference: شاهد سامي صورة ليلى على تويتر
+Hypothesis:  شاهد سامي سوعت ليلى على تويته.
+
+Sample 616:
+Reference: لهف نفسي وقليل ما أسر
+Hypothesis:  لعفنفس وقليل ما أصر.
+
+Sample 617:
+Reference: حسن لنطقك بادئا ومجاوبا
+Hypothesis:  حسنا لنظر كبا دين المغاوبة.
+
+Sample 618:
+Reference: سبحنا في البحيرة.
+Hypothesis:  ساميحنات من فوق المحلن
+
+Sample 619:
+Reference: شغلت خداشا عن مساعي مخلد
+Hypothesis:  شغلت خداشة عن مساعة مخبط.
+
+Sample 620:
+Reference: اقبل نعمة الأب ، ومعه ، هذا
+Hypothesis:  أكبرني عما تلابّ أمهما هو أرضه ؟
+
+Sample 621:
+Reference: هناك كلب ينبح.
+Hypothesis:  نكَفَّ الْبُنِّمْبَةِ
+
+Sample 622:
+Reference: إنها ذكية جداً ، أليس كذلك ؟
+Hypothesis:  نهادة كيجدًا ، ليس كبراًك.
+
+Sample 623:
+Reference: الحديث السادس: البعد عن مواطن الشبهات
+Hypothesis:  الحديد سادسوا في صوء ، أبو تعدون واضن شغوها تي
+
+Sample 624:
+Reference: أقسمت والحنث له آثام
+Hypothesis:  أقسمت والحنث لا هو آفام
+
+Sample 625:
+Reference: وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ
+Hypothesis:  وما أنت بمحجزينة الأرض وما لكم من دون الله بدوالي ولا نصير
+
+Sample 626:
+Reference: خُذُوهُ فَغُلُّوهُ
+Hypothesis:  خذوه فغلو
+
+Sample 627:
+Reference: توم دائما ما يفاجئني.
+Hypothesis:  توم ذائم ذائماً ما يفادئني.
+
+Sample 628:
+Reference: مثل عداء بروضات القطا
+Hypothesis:  أثل عدّاءً براضات الططاق.
+
+Sample 629:
+Reference: قل لا يعلم من في السماوات والأرض الغيب إلا الله وما يشعرون أيان يبعثون
+Hypothesis:  قل لا يعلم من في السماوات والأرض الغيب إلا الله وما يشعرون أيام يبعثون
+
+Sample 630:
+Reference: مريم
+Hypothesis:  مريم
+
+Sample 631:
+Reference: توم يكره الذهاب إلى المدرسة
+Hypothesis:  توم يكره أبداها بإلى المدرسة.
+
+Sample 632:
+Reference: إنه وقت الغداء.
+Hypothesis:  إنه وقت غدا
+
+Sample 633:
+Reference: فَقَدْ قَالَ بَزَرْجَمْهَرَ
+Hypothesis:  فقد قالوا بزرج مهارا
+
+Sample 634:
+Reference: كان هناك زوجان من الأحذية فوق الأرض.
+Hypothesis:  كان هناك زوجان من أحذيت فوق الأرض.
+
+Sample 635:
+Reference: من رام جمع الناس في مذهب
+Hypothesis:  من الضام جمع الناس في مذهب
+
+Sample 636:
+Reference: اطمئنّ.
+Hypothesis:  أطْمَن
+
+Sample 637:
+Reference: كان هناك حديقة عند كل منزل.
+Hypothesis:  كان هناك حديقا عند كل منزل
+
+Sample 638:
+Reference: أحب الشعر القصير.
+Hypothesis:  أحب الشعر القصير
+
+Sample 639:
+Reference: .نصحني الطبيب بالإقلاع عن التدخين
+Hypothesis:  نصحن الطبيب بالأقضاع عن التدخين
+
+Sample 640:
+Reference: ما أشبه العرف والإحسان بالحسنِ
+Hypothesis:  ما أجبها العرف والأخسان بالحسنة.
+
+Sample 641:
+Reference: أورت بي الشهوات نار زنادها
+Hypothesis:  أورد بشهاوات ما رزنى دها.
+
+Sample 642:
+Reference: .ظل الباب مغلقاً
+Hypothesis:  واضل البيئة مغلقاً.
+
+Sample 643:
+Reference: لا تذهب لطبيب نباتات مكتبه ميتة.
+Hypothesis:  لكن مبلكب في من لبعتة تلك السبيحي مايك
+
+Sample 644:
+Reference: هل لي أن أستعير قاموسك ؟
+Hypothesis:  هل لي أن أستعر أموسك ؟
+
+Sample 645:
+Reference: عينٌ بكت وادي العقيق بمثلِهِ
+Hypothesis:  عينبكتوى دلاقي قبب مسليه
+
+Sample 646:
+Reference: وَمَنَعَ غَيْرَهُ مِنْ الْقَبِيحِ
+Hypothesis:  ومن عغيره من القديح
+
+Sample 647:
+Reference: أعتقد أنها تعرف الحقيقة.
+Hypothesis:  اعتقد أنها تارف الحقيقة.
+
+Sample 648:
+Reference: التحدث بالإنجليزية ليس أمراً سهلاً.
+Hypothesis:  اتحدث بالإنجليزية ليس أمرًا سهلاً.
+
+Sample 649:
+Reference: أريد أن أقول لك شيئاً.
+Hypothesis:  أريد أن أقول للكشي أن
+
+Sample 650:
+Reference: أنت تحب اللغة الإنجليزية ، أليس كذلك ؟
+Hypothesis:  تتحب اللغة الإنجليزية ، على سكدال
+
+Sample 651:
+Reference: أما ترى العارض المنهل دانيه
+Hypothesis:  أما ترى العال الضلم حلّة تانيه
+
+Sample 652:
+Reference: وَلَقَدْ جِئْنَاهُمْ بِكِتَابٍ فَصَّلْنَاهُ عَلَى عِلْمٍ هُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
+Hypothesis:  ولقد جئناهم بكتاب فصلناه على علم هدا ورحمة لقوم من يؤمنون
+
+Sample 653:
+Reference: هذه مملوكة زوجها
+Hypothesis:  ها رهي ممّمُّ قتُّ الضّاؤُجحة.
+
+Sample 654:
+Reference: هل تمزحُ معي ؟
+Hypothesis:  ألتم جهوماعي ؟
+
+Sample 655:
+Reference: وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا ذَلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ
+Hypothesis:  وإذا ناديتم إلى صوات التخدوها هزئة ولاعبة دلك بأنهم قوم لا يأكلون
+
+Sample 656:
+Reference: أو مسكينا ذا متربة
+Hypothesis:  أوم سكن دامت ربا
+
+Sample 657:
+Reference: أهنئ الفطر بوجه الإمام
+Hypothesis:  أهن أُلدّ الطّرّة لبواجه الإمام.
+
+Sample 658:
+Reference: كعكتك في أمان معي.
+Hypothesis:  كاكتك في أمان معين
+
+Sample 659:
+Reference: أريد هذه الكاميرا.
+Hypothesis:  أريد هديل كامرا
+
+Sample 660:
+Reference: سمالك العارض الشرقي فائتلقا
+Hypothesis:  سمعذك العالد الشرقي وقتلقة.
+
+Sample 661:
+Reference: .كانت غرفة كبيرة
+Hypothesis:  كالدغر ستنكبيرا
+
+Sample 662:
+Reference: .لقد تعدّيت حدودك
+Hypothesis:  لغطعت عديت حدودك.
+
+Sample 663:
+Reference: قطف وروداً من أجلها
+Hypothesis:  قطفوا رود من أجلها
+
+Sample 664:
+Reference: هو قادر على تدريس كلاً من الإنجليزية والفرنسية.
+Hypothesis:  هو قابر على تدرس كل من الإنجليزية والفراسية.
+
+Sample 665:
+Reference: عندك ذاكرة حادة.
+Hypothesis:  عندك ذاكرة حادة.
+
+Sample 666:
+Reference: ليست قلقةً بشأن درجات اختبارها البتة.
+Hypothesis:  ليست قلقة بشأن درجات اختبارها البدتة.
+
+Sample 667:
+Reference: شكراً جزيلاً لك أيها الطبيب.
+Hypothesis:  شكرا جزيلاً لك أي واطن.
+
+Sample 668:
+Reference: أنهيت قراءة الكتاب للتو.
+Hypothesis:  أنهي تقرى تلك تركتب لتو.
+
+Sample 669:
+Reference: باع كل شئ بمبلغ قليل.
+Hypothesis:  بعض كل شيء بمبلاقي قليل.
+
+Sample 670:
+Reference: ولا بقول كاهن قليلا ما تذكرون
+Hypothesis:  ولا بقولكه من قليل ما تبكرون
+
+Sample 671:
+Reference: كان خبر وفاة فاضل مؤلما بالنّسبة لعمّال المستشفى.
+Hypothesis:  كان خبر وفاتفاض المؤلمة بالنسقل عمال مستشفى
+
+Sample 672:
+Reference: هيا لنشرب.
+Hypothesis:  هيا لنا شرب
+
+Sample 673:
+Reference: هل يمكنني أن أستعمل قلمك الرصاص ؟
+Hypothesis:  هل يمكنني أن أستعمل قلنا نكرق صوص؟
+
+Sample 674:
+Reference: شكوت إلى وكيع سوء حفظي فأرشدني الى ترك المعاصي
+Hypothesis:  شكوت إلى وكي عن سوء حفظي فأرشلني إلى ترك المعاصل
+
+Sample 675:
+Reference: أتريد فنجانا من الشاي؟
+Hypothesis:  تطريد فوجاناً من الشاي ؟
+
+Sample 676:
+Reference: استفت قلبك وإن أفتاك الناس وأفتوك
+Hypothesis:  استفتق البيكوى إنا افتاكا ناسوا أفتوق
+
+Sample 677:
+Reference: أعمل لدى شركة نفط.
+Hypothesis:  أعمل للا تشركت إنفط.
+
+Sample 678:
+Reference: واستمع راؤول مرة أخرى إلى حكاية المنزل
+Hypothesis:  مستمع رغوز مرة مطرع لحكاية المنزل
+
+Sample 679:
+Reference: كلنا نحرص على مشاهدة الفيلم.
+Hypothesis:  كلونا ناحة لمشاهدة المشاهدة في الم
+
+Sample 680:
+Reference: يرجى الصمت.
+Hypothesis:  يرجع الصمت
+
+Sample 681:
+Reference: ينتقي الشعراء أطيب الكلام.
+Hypothesis:  ين تقشعر أطيب الكلام.
+
+Sample 682:
+Reference: لن ينتهي ذلك أبداً.
+Hypothesis:  لا ن ينتهي ذلك أبداً.
+
+Sample 683:
+Reference: وناديناه أن يا إبراهيم
+Hypothesis:  ولا دينه أليئ برى حيم
+
+Sample 684:
+Reference: على أيّ حال ، ليس ذلك مهماً.
+Hypothesis:  عن أي حال ، ليس ذلك مهماً.
+
+Sample 685:
+Reference: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى
+Hypothesis:  ألا تزير وازرة مزرأ أخرى
+
+Sample 686:
+Reference: .وصل إلى لندن البارحة
+Hypothesis:  وصل إلى لنظن البارحة.
+
+Sample 687:
+Reference: أراد الغيث أن يحكيك جودا
+Hypothesis:  أراد الغيث أي حكيك جدا
+
+Sample 688:
+Reference: غادر جون إلى فرنسا البارحة.
+Hypothesis:  غادر جون إلى فلنساق الورها.
+
+Sample 689:
+Reference: المرأة اليابانية تبدو صغيرة ورقيقة.
+Hypothesis:  أحن مرأة لي ظانية بدون فاضيقة ورقيقة.
+
+Sample 690:
+Reference: كن كما شئت إن حبك فني
+Hypothesis:  كنتم شئت إن حبكفني
+
+Sample 691:
+Reference: متهلل والبدر فوق جبينه
+Hypothesis:  اتحلّني والبترفوك جميله.
+
+Sample 692:
+Reference: وكانت هذه محادثتهم الوحيدة طوال الوجبة
+Hypothesis:  وكانت حابهم حادثتهم من واحدة طوال الوجبه.
+
+Sample 693:
+Reference: هو أخو تارو الأكبر.
+Hypothesis:  هو أخطر الأكبر
+
+Sample 694:
+Reference: ماتش كوره القدم غدا.
+Hypothesis:  ما تكورت القدم غدا
+
+Sample 695:
+Reference: هذا مكتبي.
+Hypothesis:  هذا المكتب
+
+Sample 696:
+Reference: حضرت الشرطة خلال دقائق
+Hypothesis:  حبرت الشرطة خلال ذقاك.
+
+Sample 697:
+Reference: يزهى به القلمان إلا أن ذا
+Hypothesis:  يذهبه القلماع إلا أمضى.
+
+Sample 698:
+Reference: بالله يا من رماني بالصد والهجران
+Hypothesis:  بالله يا منغرمان بصد والهجراون
+
+Sample 699:
+Reference: رقعة من معاتب لك ظلت
+Hypothesis:  وقعت من معات باللكظلة.
+
+Sample 700:
+Reference: صنعتُ هذا الكرسي.
+Hypothesis:  سنعتوى تعدى القرسية.
+
+Sample 701:
+Reference: كان لدى سامي أوشام في شتّى نواحي جسمه.
+Hypothesis:  كان لدى سامي أو شام في شدّة واحد جسمه
+
+Sample 702:
+Reference: فَضَرَبْنَا عَلَى آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا
+Hypothesis:  فضربنا على آذانهم في الكهفس نين عددا
+
+Sample 703:
+Reference: التقى بصديقه عندما كان يسبح في الشّاطئ.
+Hypothesis:  بالتقابص لك هي عندما كان يسبح في الشاطئ
+
+Sample 704:
+Reference: عاد إلى الفن.
+Hypothesis:  عادع للفن.
+
+Sample 705:
+Reference: لم أقصد أن أؤذيك.
+Hypothesis:  لم أخصد أن أوزيك.
+
+Sample 706:
+Reference: قال يحيى لما هجونا اباه
+Hypothesis:  قول يحيّن مهجون أبا
+
+Sample 707:
+Reference: أنا أيضا بخير.
+Hypothesis:  انا عيضاً بغيق.
+
+Sample 708:
+Reference: قتل الصياد دبا.
+Hypothesis:  قتل صيّة دبّن.
+
+Sample 709:
+Reference: اكتشف فاضل أنّه في الإسلام لا يوجد مشكل بين الدّين و العلوم المتقدّمة.
+Hypothesis:  اكتشاف فاضل أنه في الإسلام لا يوجد مشكل بين الدين والأولوم المتقدمة
+
+Sample 710:
+Reference: هىَ وضعت المجلة علىَ المنضدة.
+Hypothesis:  هي وضعت المجلة على المنظة.
+
+Sample 711:
+Reference: يا خليلي أراك من شغف الحب
+Hypothesis:  يا خليلي ، أرىك من شغاف الحب
+
+Sample 712:
+Reference: إن من تهوى مع الفجر ظعن
+Hypothesis:  من منتهوى ما الفجري.
+
+Sample 713:
+Reference: شوق له بين الأضالع هاجس
+Hypothesis:  شغل الله بين الأضال هاجسون
+
+Sample 714:
+Reference: مُلئت الحافلة.
+Hypothesis:  مليعتي الحياة الحياة فيلى.
+
+Sample 715:
+Reference: هل تعتقد أنه مات ؟
+Hypothesis:  أهل تعتقدّدون أنهُ ماذا ؟
+
+Sample 716:
+Reference: اخي الصغير يشاهد التلفاز.
+Hypothesis:  أخيص صغير شاهدة الفاد
+
+Sample 717:
+Reference: العقل معدوم فلا عقل
+Hypothesis:  العقل معدوه فلا عقل
+
+Sample 718:
+Reference: هل أصبت بالبرد ؟
+Hypothesis:  هل لست بطب البرد ؟
+
+Sample 719:
+Reference: كأَنَّما الرُتبةُ كلُّ الذي
+Hypothesis:  كأنّ مروت بط كل الذي
+
+Sample 720:
+Reference: الولد الذي يغسل السيارة هو أخي.
+Hypothesis:  هل ولا تلدّدّنيّرسّ الثّيارة ؟
+
+Sample 721:
+Reference: لدي سؤال.
+Hypothesis:  لديّ سؤال.
+
+Sample 722:
+Reference: أنا أعتقد انهُ غاضب.
+Hypothesis:  أنا أععتقد أنه غاضب.
+
+Sample 723:
+Reference: .قريباً سيأتي اليوم الذي يستطيع فيه البشر السفر إلى كوكب المريخ
+Hypothesis:  قاريبا سيأت اليوم الذي يصطيع فيه البشر أصفر إلى كوك بالمرّيخ.
+
+Sample 724:
+Reference: علمتني عمتي كيف أحضّر قهوةً لذيذة.
+Hypothesis:  ألمتني عمتك فأحضروا قطة البيضة
+
+Sample 725:
+Reference: رأيت شبحا.
+Hypothesis:  لا أعرفت شظحت.
+
+Sample 726:
+Reference: لم لا تزُرنا ؟
+Hypothesis:  لم لأتزرّرّ.
+
+Sample 727:
+Reference: وحديثي مع الحوادث أني
+Hypothesis:  وحديثي مع الحواضي في أنني.
+
+Sample 728:
+Reference: فإذا انشقت السماء فكانت وردة كالدهان
+Hypothesis:  فإذاً شقطت السماك وفكانت وردت تنكدّها.
+
+Sample 729:
+Reference: كل فعل كان مني حكمه
+Hypothesis:  كلّ فعلك من يحكمة.
+
+Sample 730:
+Reference: .بعضهم مدرّسون ، وبعضهم مهندسون
+Hypothesis:  بعد حموذ لسون ، و بعد حموهم لسون
+
+Sample 731:
+Reference: قام يسعى بقده المياس
+Hypothesis:  قام يسهذه قديد من يس.
+
+Sample 732:
+Reference: هي أذكى منه.
+Hypothesis:  هي أفكى منه
+
+Sample 733:
+Reference: زار الحبيب بلطفه في ليلة
+Hypothesis:  زار الحبيب بب لطفه في ليلى لتن
+
+Sample 734:
+Reference: لا أريد أن أنتظر هذا أطول.
+Hypothesis:  لا أريد أن أن أنتظر هذا أطوى.
+
+Sample 735:
+Reference: .عليك أن تعمل بجدّ
+Hypothesis:  عليك أن تعمل بجد.
+
+Sample 736:
+Reference: بإمكانك أن تمارس السّياقة هنا.
+Hypothesis:  بإمكانك أن تماريس سسياقة هنا.
+
+Sample 737:
+Reference: هذا الطالب نشيط جدًا.
+Hypothesis:  هذا الطالب نشيطّن.
+
+Sample 738:
+Reference: جبل فوجي هو أعلى جبل في اليابان.
+Hypothesis:  جبل فوجيه وأعلى جبل في اليابان
+
+Sample 739:
+Reference: وما يستوي الأعمى والبصير والذين آمنوا وعملوا الصالحات ولا المسيء قليلا ما تتذكرون
+Hypothesis:  وما يستوى الأعمى والأعمى والبصير والذين آمنوا وعمروا الصالحات والى المسيء قليلاً ما تتتذكرون
+
+Sample 740:
+Reference: .هناك مستشفى بالقرب من هنا
+Hypothesis:  ونك مستشفى بالأغرب من هنا
+
+Sample 741:
+Reference: نحن في حداد.
+Hypothesis:  نحن في حداد
+
+Sample 742:
+Reference: فَإِنْ لَمْ تَكُونُوا عُلَمَاءَ صَالِحِينَ فَجَالِسُوا الْعُلَمَاءَ وَاسْمَعُوا عِلْمًا يَدُلُّكُمْ عَلَى الْهُدَى
+Hypothesis:  فإن لم تكونوا عوما أصوالحينة فجالس العلماء أوسماء وإن من يدلكم على الهدى
+
+Sample 743:
+Reference: يأيها الأعمى الذي لا يبصر
+Hypothesis:  يا أيها الأعمى الذي لا يبصر
+
+Sample 744:
+Reference: كان سامي يقلّد أباه المتعسّف.
+Hypothesis:  كان سامي يقلّد أباه المتعصف.
+
+Sample 745:
+Reference: إذا شاخ قوم شيبوا وابن بلبل
+Hypothesis:  إذا شاهق قو من شيبو ابن بلبل
+
+Sample 746:
+Reference: كيف أمسيت من الهجر
+Hypothesis:  كيف أنت تقول أنها شكراً ؟
+
+Sample 747:
+Reference: يوماً خروجَ السيف مِن غمدِه
+Hypothesis:  يوم ينخبو جسيف من رمدي
+
+Sample 748:
+Reference: سيأتي قريباً.
+Hypothesis:  سيأتيق ريبا.
+
+Sample 749:
+Reference: لا تقفل الخط من فضلك.
+Hypothesis:  لا تطفل فطوط من فضلك.
+
+Sample 750:
+Reference: لا تتخلى علي.
+Hypothesis:  لا تتخلع لي
+
+Sample 751:
+Reference: .خذني معك
+Hypothesis:  أجني مأك
+
+Sample 752:
+Reference: أهلال أرض أم هلال سماء
+Hypothesis:  أهيلا الواردين همهيلا لسما
+
+Sample 753:
+Reference: غالباً سيهطل الثلج غداً.
+Hypothesis:  رائيلاباً فا يهتم لنفسل جردت.
+
+Sample 754:
+Reference: في هذه الحالة، تبقى القاعدة سائرة المفعول.
+Hypothesis:  في هذه الحالة تتبقى القاعدة سائرة المفقود
+
+Sample 755:
+Reference: لديها عينان جميلتان.
+Hypothesis:  لديها عيناني جميلة.
+
+Sample 756:
+Reference: عُلم!
+Hypothesis:  عولم
+
+Sample 757:
+Reference: ما معدل البريد الجوي؟
+Hypothesis:  نعم عدّل البريد الجوي
+
+Sample 758:
+Reference: من منكما أحلى؟
+Hypothesis:  من منكم أهلا
+
+Sample 759:
+Reference: سبحان من في كل شيء شاهد
+Hypothesis:  سبحان من في كل شيء شهد
+
+Sample 760:
+Reference: أهو أمريكي ؟
+Hypothesis:  أهوى أمريكي
+
+Sample 761:
+Reference: اهتمامي مُنصَبٌّ على المستقبل لأني سأقضي باقي حياتي هناك.
+Hypothesis:  اهتماني من صبّ عجر مستقبل لأنّي صغب بعض حياة هنا.
+
+Sample 762:
+Reference: نمت جيداً الليلة الماضية, لذا اشعر بشعور جيد هذا الصباح.
+Hypothesis:  نمتجيداً الليلة الماضية لذا أشعر بشعور جيد هذا الصباح
+
+Sample 763:
+Reference: الأقربون أولى بالمعروف
+Hypothesis:  هذا خربون أولى جميعاً.
+
+Sample 764:
+Reference: كما أنه بارز في مقدمة العنوان.
+Hypothesis:  كما أنه بارز في مقدمة العنوان.
+
+Sample 765:
+Reference: أما رأيت الدهر كيف يجري
+Hypothesis:  أمر أيتاً طهر كيف يجري ؟
+
+Sample 766:
+Reference: وَهُوَ أَوَّلُ حَالِ الْوَلَدِ
+Hypothesis:  ووأوهوا الوحاول حال يونذي
+
+Sample 767:
+Reference: هناك الكثير من الطلبة في القاعة الرياضية.
+Hypothesis:  هناك الكثير من الطلبتي في القاعة الرّياضية.
+
+Sample 768:
+Reference: تدور مؤامرة "جون هازارد" حول جندي من جيش بيرغن يدعى ألبرت جرابنر.
+Hypothesis:  تظور موم رتجون هذا الضرط حول الجديم من جايش بارجين ، يدعى ألبر غربنا.
+
+Sample 769:
+Reference: كيف يبدو لك مستواي في الإنجليزيّة؟
+Hypothesis:  كيف يبدو لك مستوى يا في الإنجليزية ؟
+
+Sample 770:
+Reference: وَالثَّانِي مِنْ طَارِئٍ عَلَيْهِ
+Hypothesis:  مثلني من طغة علي.
+
+Sample 771:
+Reference: هل لك أن تمرر لي الملح من فضلك ؟
+Hypothesis:  هل لك أنت ماري رعلي الملحم فضلك ؟
+
+Sample 772:
+Reference: تحلق الطيور.
+Hypothesis:  تحنق الطيور
+
+Sample 773:
+Reference: يا وجه من لا يرتجى نيله
+Hypothesis:  يوجه ملا يرتجينيلا
+
+Sample 774:
+Reference: من فضلك اكتب ما سأقوله.
+Hypothesis:  مِنفرّي ، أُكتُّكُمَّسُ أولُ
+
+Sample 775:
+Reference: مشروب كوكا كولا في الأصل كان يحتوي على الكوكايين.
+Hypothesis:  مشروب كوك كوك في الأصلكان يحسوي على الككيين
+
+Sample 776:
+Reference: فإذا كنت معي أنت معي
+Hypothesis:  فإذا كنتمع أنتمع
+
+Sample 777:
+Reference: وترى الكأس دائرا كهلال
+Hypothesis:  وطر الكأسدائلا كهلال
+
+Sample 778:
+Reference: وَرَوَى عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدٍ قَالَ
+Hypothesis:  ورواع عطّ الرّحمن بن محمد قال
+
+Sample 779:
+Reference: أهلاً ، هل تعمل هنا ؟
+Hypothesis:  أهلاً ، ألتعمله نا
+
+Sample 780:
+Reference: أيمكنك أن تُرِيَني ذلك ؟
+Hypothesis:  هيمكنك أن تؤمن ذلك ؟
+
+Sample 781:
+Reference: فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ
+Hypothesis:  فلو أنَّ لنا نا ناكرة فنكون من المومنين
+
+Sample 782:
+Reference: لا تقف قربي.
+Hypothesis:  نا تقفقر بك.
+
+Sample 783:
+Reference: لقد عملت هنا لسنوات عديدة.
+Hypothesis:  لقد عملت هنا نساوات عديدة.
+
+Sample 784:
+Reference: إذا المرء لم يظهر لطالب رفده
+Hypothesis:  إذا المرء لم يظهر لطالبا رفده
+
+Sample 785:
+Reference: إلى الله مرجعكم وهو على كل شيء قدير
+Hypothesis:  إل الله مرجعكم وهو على كل شيء قدير
+
+Sample 786:
+Reference: هل يعلم ما فعلت ؟
+Hypothesis:  هل يعلم ما فعلت ؟
+
+Sample 787:
+Reference: أما الشباب فقد سبقت بغضه
+Hypothesis:  أم مشبابا فقط سبقة صبقة بوغضه
+
+Sample 788:
+Reference: إن شآء الله هدية الألباب في جواهر الآداب
+Hypothesis:  إنشاء الله هديّة الباب في جواهر الأذاب
+
+Sample 789:
+Reference: حل ذاك الكناس ظبي ربيب
+Hypothesis:  أحل ذاك الكلّ كناس وضبّي ربيبُّ
+
+Sample 790:
+Reference: لا أستطيع أن أفعل ذلك.
+Hypothesis:  ما أستطيع أن أفعل ذلك.
+
+Sample 791:
+Reference: لنأخذ لقطة هنا.
+Hypothesis:  من الأخضل لك الطّةً منه.
+
+Sample 792:
+Reference: أزل بالخمر أدواء الخمار
+Hypothesis:  هذه البلخمر أدواء الخمارك
+
+Sample 793:
+Reference: يا أيها الخل الذي لم ينسني
+Hypothesis:  يا أيها الخلّ الذّذي لم ينسني
+
+Sample 794:
+Reference: آسف لكني لا أستطيع أن أقابلك الليلة.
+Hypothesis:  أاسف ، لكن لا أستطيع أن أقابلك الليلة.
+
+Sample 795:
+Reference: إنه يحب أي شيء حلو المذاق.
+Hypothesis:  إنهو يحبّ أيّ شيء حلوى المدرق
+
+Sample 796:
+Reference: .هذا أسوأ فلم شاهدته في حياتي
+Hypothesis:  هذا أسوأ في المنشاهده في حياة.
+
+Sample 797:
+Reference: أسرع و ستلحق بالقطار.
+Hypothesis:  أسبيا مستطيع حقظ القطور
+
+Sample 798:
+Reference: إنها تأمل أن تصبح مصممة أزياء.
+Hypothesis:  إنها تأمول أن تسوى حمس مما تأزيق.
+
+Sample 799:
+Reference: بدأ سامي عامه الجامعي في سبتمبر.
+Hypothesis:  بدا أسامي أمه جميئي في تنبى
+
+Sample 800:
+Reference: كم شخص.. ؟
+Hypothesis:  كامشخف
+
+Sample 801:
+Reference: لَا يُؤْمِنُونَ بِهِ حَتَّى يَرَوُا الْعَذَابَ الْأَلِيمَ
+Hypothesis:  لا يؤمنون به حتى يرى العذاب الألم
+
+Sample 802:
+Reference: .ترك أبوها البيت لها في وصيته
+Hypothesis:  تركّب وه البيت لها في وصيت.
+
+Sample 803:
+Reference: من يعلم ؟
+Hypothesis:  من يعلم
+
+Sample 804:
+Reference: ما لي بودك بعد اليوم إلمام
+Hypothesis:  ما ليبوا اتكبع بعد اليوم إلى ما
+
+Sample 805:
+Reference: هل ستسافر إلى أمريكا الشهر القادم ؟
+Hypothesis:  هل ستسافر إلى أمريكا أشهر القادم ؟
+
+Sample 806:
+Reference: ذِكْرَى وَمَا كُنَّا ظَالِمِينَ
+Hypothesis:  وكراوما كنابعلمين
+
+Sample 807:
+Reference: تَجْرِي لِقَوْمٍ وَقَوْمِ وَقَدْ كَانَتْ الْفُرْسُ أَكْثَرَ النَّاسِ طِيَرَةً
+Hypothesis:  تجري لعومٍ وقومٍ وقد كانت الفرس أكثر الناس طيارةً.
+
+Sample 808:
+Reference: كاد أن يقضي سقاما ونحولا
+Hypothesis:  كرد أن يقدّيّ سطاماً ونحوّل.
+
+Sample 809:
+Reference: ليست هناك مسافة على هذه الأرض أبعد من يوم أمس.
+Hypothesis:  ليست منارك مسافة على هذه الأرض أبعض من يوم أمس.
+
+Sample 810:
+Reference: والورد في إزراره فوق الغصو
+Hypothesis:  والورض في إزراره فوق الأصوى
+
+Sample 811:
+Reference: لم يكن من السهل حل هذه المشكلة
+Hypothesis:  لم يكن من الساعل حل هذه المشكلة.
+
+Sample 812:
+Reference: .لم يكن ذلك قصدي
+Hypothesis:  لأميكنزالك كcosody
+
+Sample 813:
+Reference: يمكنني القفز.
+Hypothesis:  يمكنني الكفس.
+
+Sample 814:
+Reference: إلى أين أنت ذاهبٌ يا أبي ؟
+Hypothesis:  إلا أن أنتزحب يا أبي.
+
+Sample 815:
+Reference: وأزهر وضاح يروق عيوننا
+Hypothesis:  وأسهر و الضاح يروق عيوننا
+
+Sample 816:
+Reference: عباس يا خير الملوك عدالة
+Hypothesis:  عباس ياخير الملك عدى لتن
+
+Sample 817:
+Reference: إن الذي فتح الخزائن جوده
+Hypothesis:  إنّ الَّلَّبِي فَتَحَى الخَزاءِ نُجودِ
+
+Sample 818:
+Reference: .عندنا قطتان ، إحداهما بيضاء و الأخرى سوداء
+Hypothesis:  عندنا قدتتاً ، أحدهم مابل ضاء والأخرى سوداء
+
+Sample 819:
+Reference: .فقدت حقيبة يدها
+Hypothesis:  فقد تقضت حقيوة يدهةها.
+
+Sample 820:
+Reference: مِنْ أَحْوَالِ رِيَاضَتِك لَهَا أَنْ تَكْشِفَ لِنَفْسِك حَالَ أَجَلِك
+Hypothesis:  من أحوال رياضطك لها أن تكشف لنفسك حال أجلك.
+
+Sample 821:
+Reference: ما كان حق محبكم أن يهجرا
+Hypothesis:  ما كان حقم أحقم أحبكم أن يجرى
+
+Sample 822:
+Reference: " لكم ؟ " " لثلاثة ".
+Hypothesis:  لكم ، دي تلاثة تجين
+
+Sample 823:
+Reference: سوف تكتب رسالة بعد المدرسة.
+Hypothesis:  سوف تكتبوا يساعد من المدفع.
+
+Sample 824:
+Reference: ستحتاج إلى ذلك.
+Hypothesis:  ستحتاج إلى ذلك
+
+Sample 825:
+Reference: ما أوجب العفو على سيد
+Hypothesis:  ما أوجد العفوى على سيني
+
+Sample 826:
+Reference: الملك بين يديك في إقباله
+Hypothesis:  الميكبين يديك في إقباله
+
+Sample 827:
+Reference: ما اسم هذا الطائر ؟
+Hypothesis:  سمهراً بالطار
+
+Sample 828:
+Reference: كان أي شيء غير عادي أو غير طبيعي كافياً لإرسال زميل إلى مولوكاي
+Hypothesis:  كان أي شئ إنري العادية ، يمرو يوضبه كيف يلئسل زنين لملكاي
+
+Sample 829:
+Reference: كذلك يوحي إليك وإلى الذين من قبلك الله العزيز الحكيم
+Hypothesis:  كذلك يوحي إليك وإلى الذين من قبلك الله العزيز الحكيم
+
+Sample 830:
+Reference: ما هو تخصصك الجامعي؟
+Hypothesis:  ما هو تغسّف الصّفجاميع ؟
+
+Sample 831:
+Reference: أيا ذكريات الأمس ترقصن في الرؤى
+Hypothesis:  يا دكريتي الامسي تركسن فرواع
+
+Sample 832:
+Reference: يجب عليك فعل ذلك بنفسك.
+Hypothesis:  يجب عليك فرد عليك بنافسك
+
+Sample 833:
+Reference: وَالطَّيْرَ مَحْشُورَةً كُلٌّ لَهُ أَوَّابٌ
+Hypothesis:  والطير محشورة كل له أواد
+
+Sample 834:
+Reference: يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا
+Hypothesis:  يا أيها الذين أمنوا تقرى الله ذكرا كثيرا
+
+Sample 835:
+Reference: خليلي عوجا بالديار فإنما
+Hypothesis:  خليليّ يعيّ عيوجاً بالدّيار فإنّما
+
+Sample 836:
+Reference: وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
+Hypothesis:  وَفَسِيلَتِهِ الَّتِهِ الَّتِهِ الَّتِهِ الَّتِهُ
+
+Sample 837:
+Reference: .ستتزوّج برجل ثريّ
+Hypothesis:  ستتتزوج برد لنفر
+
+Sample 838:
+Reference: إنَّ حَقَّ الْوَالِدِ عَلَى الْوَلَدِ أَنْ يَخْشَعَ لَهُ عِنْدَ الْغَضَبِ
+Hypothesis:  إن حقا الولد على الولد عيشاء له أندى القنب
+
+Sample 839:
+Reference: مالفخرُ إلا باكتسابِ الشرفِ وطلب العلمِ بجُلِ الشغفِ
+Hypothesis:  من الفخر ألا بكتساب الشرفي وطرب العالم بجول الشغاف
+
+Sample 840:
+Reference: انتفع بالناس وانفع
+Hypothesis:  إنتفع بمس يوانفى.
+
+Sample 841:
+Reference: حوّل سامي حياتي إلى جحيم.
+Hypothesis:  حوى لسامي حياة إلى جهم
+
+Sample 842:
+Reference: ! أنظر إلى الولد و هو يقفز
+Hypothesis:  أنظر إلى الولد و يأتفز
+
+Sample 843:
+Reference: وَإِذا قيلَ لَهُمُ اركَعوا لا يَركَعونَ
+Hypothesis:  وإذا قلله لهم اركعوا لا يرفعون
+
+Sample 844:
+Reference: شاب ماء الجفون بالدم شوق
+Hypothesis:  شابا ما أولدفون بدا مشهوة
+
+Sample 845:
+Reference: إن الذي نصب المكارم للورى
+Hypothesis:  إن الذي نصب المكاري مللورا
+
+Sample 846:
+Reference: ما بعيني هذا الغزال الغرير
+Hypothesis:  ما بعيني هذا الغزال الغريق ؟
+
+Sample 847:
+Reference: طلبت منه أن يبعث الكتاب إلينا.
+Hypothesis:  طلقت منه عني بعس الكتاب إلينا.
+
+Sample 848:
+Reference: اعتقلت الشرطة المشتبه به.
+Hypothesis:  اعتقالت الشرطة المستبه به
+
+Sample 849:
+Reference: نحن هنا لأن لنا الحق أن نكون مشمولين في اتخاذ هذه القرارات.
+Hypothesis:  نحن هنا لأن لأن لن الحق أن نكون مشمولين بالتخاذي هذه الكرولات
+
+Sample 850:
+Reference: يا قبور الأحباب هل من مجيب
+Hypothesis:  يا قبور الأحباب هل من مجيك ؟
+
+Sample 851:
+Reference: بدى الصبي نائما نوما عميقا.
+Hypothesis:  بدس بيون إما النوم العميقوم
+
+Sample 852:
+Reference: أيمكنك كتابة الرسالة بالإنجليزية ؟
+Hypothesis:  ها يمكنك ككتابتا بطرسة لابل إنجليزيّة.
+
+Sample 853:
+Reference: قلبي من الطرفِ السقيم سقيم
+Hypothesis:  قلب من أطرف السكيم سكيم
+
+Sample 854:
+Reference: لم تلبث ليلى و أن تبنّت الحياة الرّيفيّة.
+Hypothesis:  لم تلبث العلاوى وأنتبنت الحياة الرّفئة.
+
+Sample 855:
+Reference: قل للأمير المرتجى
+Hypothesis:  كل الأمير المرتجاة.
+
+Sample 856:
+Reference: أسفه السفهاء المتبجح بفحش الخطاب.
+Hypothesis:  أسفه الصفها المتبجح بفحش الخطار
+
+Sample 857:
+Reference: يا خليلا لم أكن عنه خلي
+Hypothesis:  ياخليل لم أكم عنه طليم
+
+Sample 858:
+Reference: الزفزافي المسكين صرخ فعتقل.
+Hypothesis:  زفزاف في المسكين سارة خفعت قطع تقلاف
+
+Sample 859:
+Reference: الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَنِ وَكَانَ يَوْمًا عَلَى الْكَافِرِينَ عَسِيرًا
+Hypothesis:  الملك يوم إذن الحبق للرحمن وكان يومًا على الكافر عسيرا
+
+Sample 860:
+Reference: أود أن تقابل والداي.
+Hypothesis:  أود أن تقرب لولئة لديه ليدي.
+
+Sample 861:
+Reference: غير معقول!
+Hypothesis:  غير ما أقول
+
+Sample 862:
+Reference: ارحم اليوم ذلتي وخضوعي
+Hypothesis:  ارحى مليوم ديلاتي وخضوعي
+
+Sample 863:
+Reference: لِيَصِحَّ لَهُ الصَّوَابُ وَيَتَبَيَّنَ لَهُ الْحَقُّ
+Hypothesis:  يصحّح له الصواب ويتبايا له الحق
+
+Sample 864:
+Reference: بكين هي عاصمة الصين.
+Hypothesis:  بكين ياسم تسين
+
+Sample 865:
+Reference: أحضر الليل منك عقدا وثغرا
+Hypothesis:  أحظر الآن منك عقداً وستخرق
+
+Sample 866:
+Reference: الله أعلى وأعلم
+Hypothesis:  الله على وأعلم
+
+Sample 867:
+Reference: الملك أيضًا نشط سياسيًّا في الحزب الديموقراطي الأمريكي.
+Hypothesis:  الملكوءيد من نشطاً سياسياسياً في الحزب الدين مقراطي للملكي
+
+Sample 868:
+Reference: .الأمل ليس استراتيجية
+Hypothesis:  الألمع ، ليساستردتشيه.
+
+Sample 869:
+Reference: فمنهم من آمن به ومنهم من صد عنه وكفى بجهنم سعيرا
+Hypothesis:  خمي الهمنامنا من به ومهم من صدعا وكف بجهن مساعد رب
+
+Sample 870:
+Reference: معي كلمات ما يطاق احتمالها
+Hypothesis:  معيك لما تلمى ما يطاقح تما لها
+
+Sample 871:
+Reference: الأرض تنقص من أطرافها أبدا
+Hypothesis:  الأرض تنقسم الأطرافها أبدا
+
+Sample 872:
+Reference: قل للنسيم إذا الصباح أعله
+Hypothesis:  قل الناسيم إذا الصباح على
+
+Sample 873:
+Reference: .عليك أن تتحكم بنزواتك
+Hypothesis:  عليك أن تتحكم بنزواتك.
+
+Sample 874:
+Reference: أي نشاط تحتاج لتحقيقه ستحتاج إلى وقت أكثر مما تملكه.
+Hypothesis:  أيّ نشعة تحتاج لتحتاج لتحقيقه ستحتاج إلى وقت أكثر من ماتملكه
+
+Sample 875:
+Reference: كُن مُحترماً.
+Hypothesis:  كن محترم
+
+Sample 876:
+Reference: لمعت لنا بالأبرقين بروق
+Hypothesis:  لما اعتلنا بالإبريقين بروه
+
+Sample 877:
+Reference: هذه الشركة لا تولي أهمية لسلامة عمالها.
+Hypothesis:  هذه الشركة لا تولئ لأهمية لسلامة عمّالها.
+
+Sample 878:
+Reference: .على المرء أن يستحمّ
+Hypothesis:  على المريئة يستحمل.
+
+Sample 879:
+Reference: ألم يجدك يتيما فآوى
+Hypothesis:  ألم يجد كيّتي من طاعة و
+
+Sample 880:
+Reference: وَالثَّانِيَةُ الزُّهْدُ فِيمَا لَيْسَ لَك لِتُكْفَى تَكَلُّفَ طَلَبِهِ وَتَسْلَمَ مِنْ تَبِعَاتِ كَسْبِهِ
+Hypothesis:  واثانية الزهد فيما ليس لتكفى تكلم فقلب ودسل من تبعاتكسب
+
+Sample 881:
+Reference: يمكنك استعارة هذا الكتاب بشرط أن تبقيه نظيفاً.
+Hypothesis:  يمكنك السّارة تعدَ الكيسى بشرتَ تُقهيّ نظيفا
+
+Sample 882:
+Reference: إنه يحب القطارات.
+Hypothesis:  إنه يحب الخطة عرات.
+
+Sample 883:
+Reference: صرخة الفرح تنفجر من شفاه فيليب
+Hypothesis:  صرخة الفرحة فجر من شفع في ليب
+
+Sample 884:
+Reference: أيحب توشيو ساتشيكو ؟
+Hypothesis:  أيحبت تشيوصا الشيك
+
+Sample 885:
+Reference: يستحسن أن تغادر الآن.
+Hypothesis:  يستحسلون تغادر الآن.
+
+Sample 886:
+Reference: مَنْ لَمْ يَفِدْ بِالْعِلْمِ مَالًا كَسَبَ بِهِ جَمَالًا
+Hypothesis:  ملّامي في البيتب العلم معلن كسب بهجمعلا
+
+Sample 887:
+Reference: هلا وأنت بماء وجهك تشتهى
+Hypothesis:  هلا وأنت بما يوجهك تشتهيك تشتهي
+
+Sample 888:
+Reference: كيف تهجئ " جميل " ؟
+Hypothesis:  كيف تهجّج ، جميل ؟
+
+Sample 889:
+Reference: إنه يحب السفر.
+Hypothesis:  إنه يحب السفر
+
+Sample 890:
+Reference: من فضلك أعرني سكينك.
+Hypothesis:  من فضّك ، أعارني سكينك
+
+Sample 891:
+Reference: تلك عقبى البغي فانظر كيف عادا
+Hypothesis:  تلك قوق بلبي ، فمسرك فعادة.
+
+Sample 892:
+Reference: أعلم أنه يراقبني.
+Hypothesis:  أعلم أنه يرى كبني
+
+Sample 893:
+Reference: دخل الخريف.
+Hypothesis:  دخل الخريف
+
+Sample 894:
+Reference: زر قبر جرجس فياض الكريم وقل
+Hypothesis:  تزرقب رجلت صفايا ذلكري مقل
+
+Sample 895:
+Reference: أيمكنك أخذنا إلى المتحف البريطاني ؟
+Hypothesis:  أيمكنك أخذ لأئخذ ولا إلى متحفظ بريطاني
+
+Sample 896:
+Reference: منذ متى وأنت تلعب كرة القدم ؟
+Hypothesis:  من دمتا وأنت تلعب كرة القدم
+
+Sample 897:
+Reference: كيفً سيسدد ديونهُ ؟
+Hypothesis:  كيف سيستددد ديوّدّيونه ؟
+
+Sample 898:
+Reference: مَا لَمْ تَتَحَقَّقْ تَغَيُّرَهُ وَتَتَيَقَّنْ تَنَكُّرَهُ
+Hypothesis:  ما لم تتتحقق الطّضيّ رهوة تتاقاً تنكراه
+
+Sample 899:
+Reference: أنجدتني في الهوى مذ أنجدوا
+Hypothesis:  أنجدتني في الهاوى مد أن جدو
+
+Sample 900:
+Reference: النجدة! ساعدني !
+Hypothesis:  أنّجد ساعدني.
+
+Sample 901:
+Reference: إني إذا لاح البريق يماني
+Hypothesis:  إني إذا لاح البريق يماني
+
+Sample 902:
+Reference: ساهم في تأسيس المنظمة الحربية الخاصة
+Hypothesis:  سامة في تأثيس المنظمة الحربية الخاصة.
+
+Sample 903:
+Reference: مدينة بيرث هي المدينة الأكثر جاذبية في أستراليا.
+Hypothesis:  مدينة بأرث ، هي المدين الأكثر جاد بيطانفى أسطراليا
+
+Sample 904:
+Reference: عنج اللحظ ولين المنطق
+Hypothesis:  أنجلّ حثي ولين المنطق
+
+Sample 905:
+Reference: يا ابن موسى ماذا يقول الإمام
+Hypothesis:  يبنموسى ماذا يقول الإمام ؟
+
+Sample 906:
+Reference: جرّبها مرة بعد أخرى.
+Hypothesis:  جريبها مرة بعد أخرى
+
+Sample 907:
+Reference: ثمه امر آخر.
+Hypothesis:  ثمت أمروا الضعخر
+
+Sample 908:
+Reference: ليست جديدة.
+Hypothesis:  ليس جديدة.
+
+Sample 909:
+Reference: عيني تلت ما سطرته يميني
+Hypothesis:  عيني تلتّلت مصدرّة تُيمين
+
+Sample 910:
+Reference: وَرُبَّمَا عَزَبَ هَذَا الْمَعْنَى عَلَى مَنْ سَاءَ ظَنُّهُ بِخَالِقِهِ حَتَّى صَارَ سَبَبًا لِضَلَالِهِ
+Hypothesis:  ربما عزب هذا المانع لمن سأظنه بخالقي حتى صارة سبباً لضلاله.
+
+Sample 911:
+Reference: تَسَتَّر بِالسَخاءِ فَكُلُّ عَيبٍ
+Hypothesis:  تسطر بالصحاء فكل عيب.
+
+Sample 912:
+Reference: لا يوجد أي شيء مدعاة للخوف.
+Hypothesis:  لا يجد أي شيء مدعات للخو
+
+Sample 913:
+Reference: هل يستطيع أخوك أن يقود سيارة ؟
+Hypothesis:  هل يستطيع أخوك عن يخودت يا رب ؟
+
+Sample 914:
+Reference: هل استلمت الرسالة ؟
+Hypothesis:  هل يستدمت الرسارة ؟
+
+Sample 915:
+Reference: إسقنا يا يزيد بالقرقاره
+Hypothesis:  اسقناع يا عزيط بالقرقارق.
+
+Sample 916:
+Reference: يا أسدا يا ابن جهور طرقت
+Hypothesis:  يا أسدنيا بنجاهر طرقت.
+
+Sample 917:
+Reference: في سالب للشمس ثوب ضيائها
+Hypothesis:  في سال بالشمس ثلب ضيأيا
+
+Sample 918:
+Reference: لَا أَعْدِلُ بِالسَّلَامَةِ شَيْئًا
+Hypothesis:  لا أعدل بسلامة شيئاً.
+
+Sample 919:
+Reference: يا حَسرَةً عَلَى العِبادِ ما يَأتيهِم مِن رَسولٍ إِلّا كانوا بِهِ يَستَهزِئونَ
+Hypothesis:  يا حسرة على العباد ما يأتيهم من رسول إلا كانوا بي يستهزيون
+
+Sample 920:
+Reference: من فضلك رتب السرير.
+Hypothesis:  من فضل قرات بسرير
+
+Sample 921:
+Reference: سود العيون أم المواضي البيض
+Hypothesis:  سود العويون أم المواضل بال
+
+Sample 922:
+Reference: ما تمناك جعفر يا منى جع
+Hypothesis:  ما يتم من نيكى غى حرمي منزى
+
+Sample 923:
+Reference: وَإِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ
+Hypothesis:  وإنهم عندنا لم ن المستثين الأخيار
+
+Sample 924:
+Reference: أُحب تعلم اللغات القديمة.
+Hypothesis:  أحبت علم اللغة القديمة
+
+Sample 925:
+Reference: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ
+Hypothesis:  بسم الله الرحمن الرحيم اقترب للناسح سابهم وهم في غفلة معرضون
+
+Sample 926:
+Reference: ربما أنت محق.
+Hypothesis:  ربما أنت مفاق.
+
+Sample 927:
+Reference: أخى أحمق.
+Hypothesis:  أخي أحمق
+
+Sample 928:
+Reference: .لن يذهب
+Hypothesis:  لن يلعب
+
+Sample 929:
+Reference: أيمكنك أن تجاري سرعته في السباحة ؟
+Hypothesis:  أيمكنك أن تجاريسرعته في السباحة؟
+
+Sample 930:
+Reference: هل أنت غير مشغول غداً ؟
+Hypothesis:  الانتراير من شغولين غداً.
+
+Sample 931:
+Reference: لا تعجبني هذه الملاحظات.
+Hypothesis:  لاتجبني هل يلم لحضات
+
+Sample 932:
+Reference: إن كانت الخمر قد عزت وقد منعت
+Hypothesis:  إن كانك الخامر قد عسة وقد ما نعطة
+
+Sample 933:
+Reference: .أصبحت الكرة معه
+Hypothesis:  أصمحت الكورة معه.
+
+Sample 934:
+Reference: وكان من المقرر أن تستمر لثلاث سنوات.
+Hypothesis:  فقاًا مقورّ أن تستمرّ الأسلسيسنيوات.
+
+Sample 935:
+Reference: هل تعلم بأي سنة وأي شهر وأي يوم بالاسبوع نحن الان؟
+Hypothesis:  هل تعلم بأي سنة و أي شهر و أي يوم بالأسبوع نحن الآن ؟
+
+Sample 936:
+Reference: وَلَقَدْ أَرْسَلْنَا إِلَى ثَمُودَ أَخَاهُمْ صَالِحًا أَنِ اعْبُدُوا اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ
+Hypothesis:  ولقد ارسلنا إلى ثمود أخاهوا صالحنا نعبت الله فإذا هم فريقان يختصمون
+
+Sample 937:
+Reference: يوفر مجتمع البناء قروضاً عقارية وقروض وخدمات مالية أخرى
+Hypothesis:  يوفروا مجتمع البنائ قروز عقاريا وقروز وخدمات ملية أخرى
+
+Sample 938:
+Reference: الأطفال يحبون الاستماع إلى القصص الخيالية.
+Hypothesis:  الأطفاد يحبون الأجتماع إلى المفسسة خيالية.
+
+Sample 939:
+Reference: وَالْإِدْلَالَ بِالْأَبْنَاءِ أَمَسُّ
+Hypothesis:  والإدلاعلى بالأبناء أمس.
+
+Sample 940:
+Reference: من مبلغ الطائي وهو مخيم
+Hypothesis:  من المبلغ الطائيّ وهو مقياً.
+
+Sample 941:
+Reference: ما هو السبب الحقيقي لعدم رغبتك بعمل هذا ؟
+Hypothesis:  ما هو السببب الحقيقة و لعدم يلغبتك بعمل هذا.
+
+Sample 942:
+Reference: ليتها الغربة تقضي بعجل
+Hypothesis:  ليتها الوربط قد يبعج للمساعدة.
+
+Sample 943:
+Reference: وَاذْكُرْنَ مَا يُتْلَى فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا
+Hypothesis:  وزقرنا ما يتلافي بيوتكون من أية الله والحكمة إن الله كان أطيفاً خبيرا
+
+Sample 944:
+Reference: أحسَب أني مُحِق.
+Hypothesis:  أحسب أني محب.
+
+Sample 945:
+Reference: كان يحمل علبة كبيرة بين ذراعيه
+Hypothesis:  كان يحمل ع البة كبيرة بين ذراعيه.
+
+Sample 946:
+Reference: .تبدأ الدراسة في أوروبا شهر سبتمبر
+Hypothesis:  تبدأ الدراسة في أوروب شهر سبتمبر.
+
+Sample 947:
+Reference: وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ
+Hypothesis:  والذين هم للزكات فعلون
+
+Sample 948:
+Reference: ركن توم الشاحنة أمام منزل ماري.
+Hypothesis:  لكنّ توم شاحية أمام منزل المال.
+
+Sample 949:
+Reference: وَزِدْ فِي حَسَنَاتِك قَبْلَ أَنْ تَسْتَوْفِيَ مُدَّةَ الْأَجَلِ وَتُقَصِّرْ عَنْ الزِّيَادَةِ فِي السَّعْيِ وَالْعَمَلِ
+Hypothesis:  وزد في حسناتك قبل أن تستوف مدة الأجلي وتقصر عن الزيات في الساعة والعمل
+
+Sample 950:
+Reference: أم القمر؟!
+Hypothesis:  أمركمّر
+
+Sample 951:
+Reference: أستطيع البقاء هنا هذه الليلة ؟
+Hypothesis:  أستطيع البطاء أهنهاده ليلى.
+
+Sample 952:
+Reference: كل جهد يستحق المكافأة.
+Hypothesis:  كل جهد يستحق المكافى.
+
+Sample 953:
+Reference: كل شيء مستحيل نظريا حتى يَحدُث.
+Hypothesis:  كل شيء يستحيّن بري حتى احدث.
+
+Sample 954:
+Reference: لا يعرف أحد اِسمه الحقيقي.
+Hypothesis:  لا يعليه أحد الأسماه الخبر يقريب.
+
+Sample 955:
+Reference: لا أملك عنوانا.
+Hypothesis:  لا أملكو عنه نوانا
+
+Sample 956:
+Reference: أنا في لقاء البرامج الحرة لأقدم مشروع تتويبا.
+Hypothesis:  أنا في لقائل برامج الحرّة لأقدم وشر عاة تويبا
+
+Sample 957:
+Reference: هل ينظر إلى صورة صديقه ؟
+Hypothesis:  فليجبت إلى صورة صديقي
+
+Sample 958:
+Reference: ربما لا.
+Hypothesis:  ربما لا
+
+Sample 959:
+Reference: لما سمعت ببيعة لمحمد
+Hypothesis:  لمّا سماء الدُّ البَّيّا عاتِنِّ محمَّدِهِ
+
+Sample 960:
+Reference: أومُكثرًا إشارة اليدينِ أوناكِرا اوغامِزا بالعينِ
+Hypothesis:  أو مكثراً إشارة اليدين أو ناكرا أو غي مزنب العين
+
+Sample 961:
+Reference: وأصحاب المشأمة ما أصحاب المشأمة
+Hypothesis:  أصحاب المشأمتي
+
+Sample 962:
+Reference: بحمد الله يفتتح الكلام
+Hypothesis:  بحمد الله يفتتحوك لام.
+
+Sample 963:
+Reference: أعمل كل يوم ما عدا يوم الأحد.
+Hypothesis:  أعمل كلّ يوم معد يوم الأحد.
+
+Sample 964:
+Reference: وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًا
+Hypothesis:  و أم بلغوا لهم فكان أبواه مؤمنين فكشنا أن يهقر ما ترياً وقف
+
+Sample 965:
+Reference: فَلَا يَجُودُ إلَّا خَوْفًا
+Hypothesis:  فلا يجد إلا خوفاً.
+
+Sample 966:
+Reference: ذلك البيت ملكه.
+Hypothesis:  ذلك البيت ملكه
+
+Sample 967:
+Reference: ثم نكسوا على رءوسهم لقد علمت ما هؤلاء ينطقون
+Hypothesis:  ثم نكس على رؤوسهم لقد علمت ماها ولا ينطقون
+
+Sample 968:
+Reference: وَمَنْ أَقْدَمَ مِنْ غَيْرِ اضْطِرَارٍ عَلَى الِاسْتِعَانَةِ بِجَاهٍ أَوْ بِمَالٍ فَقَدْ أَوْهَى مُرُوءَتَهُ
+Hypothesis:  ومن أقدم من غير الثرارار على الاستعانة بجاه أو بمالا فقد أوهى موءته
+
+Sample 969:
+Reference: وأن أقم وجهك للدين حنيفا ولا تكونن من المشركين
+Hypothesis:  وأن أقِم مجهكّك الذين حنيفا ولا تكوننا من المشركين
+
+Sample 970:
+Reference: هذا هو منزله.
+Hypothesis:  حانه غضو مجرى.
+
+Sample 971:
+Reference: .من فضلك اِنسخ هذه الصفحة
+Hypothesis:  من فضلك إنسخة الصفحة
+
+Sample 972:
+Reference: كيف علمتَ ماذا كانت تريد ؟
+Hypothesis:  كيف علمت ماذا كان التريد ؟
+
+Sample 973:
+Reference: فَأَمَّا مَنْ طَغَى
+Hypothesis:  فأمّا من فرى.
+
+Sample 974:
+Reference: كانت جدتي تقول دائماً: "لا تتنفس وتشرب في نفس الوقت."
+Hypothesis:  كنا جدت جيدت جيد قولوا دائما ، لا تتتنفى فسوط شرفين في الوقت.
+
+Sample 975:
+Reference: أَوَيَظُنُّ الْجَاهِلُ أَنِّي أُقِيدُهُ بِأَبِي عَبْدِ اللَّهِ ؟ فَلْيَظْهَرْ آمِنًا لِيَأْخُذَ عَطَاءَهُ مُوَفَّرًا
+Hypothesis:  أعونا يضغل مرجحة رؤني أقيدك يدوغئ بها بها ببلاحظرها ضغلها عائمنا بإمكانت دائماً قد عطاقهم وورفى
+
+Sample 976:
+Reference: تبارك الذي جعل في السماء بروجا وجعل فيها سراجا وقمرا منيرا
+Hypothesis:  تبارك الذي جعل في السماء غووجا وجعل فيها سراجاً وقمراً منيراً.
+
+Sample 977:
+Reference: ندمت على أن كنت يوما دعوتني
+Hypothesis:  ندينت على أن كنت يوم دعوتني
+
+Sample 978:
+Reference: مع من تظن أنها تسكن ؟
+Hypothesis:  مع منطظموا أن نهاتسكن.
+
+Sample 979:
+Reference: وإذ قلنا للملائكة اسجدوا لآدم فسجدوا إلا إبليس أبى واستكبر وكان من الكافرين
+Hypothesis:  وإذ كلنادي المناع اختيجة دودودي آدم فسجد إلا إبليس أبا استكبر وكان من الكافرين
+
+Sample 980:
+Reference: رفع الكلب فاتضع
+Hypothesis:  رافع الكلب فتطضع.
+
+Sample 981:
+Reference: هل بإمكانك قيادة سيارة ؟
+Hypothesis:  هل بإمكانك قياة تساياع تل
+
+Sample 982:
+Reference: بررتك بالهجران لما رأيتني
+Hypothesis:  بررتك بالهجران لم ما رأيتني
+
+Sample 983:
+Reference: ظننت أنّها فكرة رائعة.
+Hypothesis:  الضننت أنّها فكرت رائعة.
+
+Sample 984:
+Reference: يا عاذلي لا تلمني انه عبث
+Hypothesis:  يا عزل الناتل مني ناوحبس
+
+Sample 985:
+Reference: لله در عصابة جالستهم
+Hypothesis:  للنهد الرعصابة جعلسته
+
+Sample 986:
+Reference: يَوْمَ يَرَوْنَ الْمَلَائِكَةَ لَا بُشْرَى يَوْمَئِذٍ لِلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَحْجُورًا
+Hypothesis:  يوم يرون الملائكة لا بشرا يومئذ للمجرمين و يقولون حجراً محجر
+
+Sample 987:
+Reference: وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ
+Hypothesis:  وأخذ الذين ظلم الصيحة فأصدحوا في ديارهم جاثين
+
+Sample 988:
+Reference: أرأيت الذي ينهى
+Hypothesis:  أرأيت الذي ينها
+
+Sample 989:
+Reference: إذا ما كنت ذا قلب قنوع فأنت ومالك الدنيا سواء
+Hypothesis:  إذا ما كنت ذاقل بين قنوعة ، فانت وماركدنيت لغتواء.
+
+Sample 990:
+Reference: كنت أحب السباحة.
+Hypothesis:  كنتُ أحب السباحة.
+
+Sample 991:
+Reference: .كان هناك حوالي عشرون شخصاً
+Hypothesis:  كان هناك حوانع شخصة.
+
+Sample 992:
+Reference: هل يوجد قبو في بيتك؟
+Hypothesis:  هل يوجد قبوم في بيتك ؟
+
+Sample 993:
+Reference: وإنك لتلقى القرآن من لدن حكيم عليم
+Hypothesis:  وإنك لتلقرق قرآن من لد الحكيم عليم
+
+Sample 994:
+Reference: أيّ طالب خرج ؟
+Hypothesis:  أي طالب الخرج
+
+Sample 995:
+Reference: ذهب إلى المحل.
+Hypothesis:  زهب إلى المحل
+
+Sample 996:
+Reference: دفعتُ ثمن التذاكر.
+Hypothesis:  دفع تثعت ثمن التذكر
+
+Sample 997:
+Reference: هنىء العام وما يعقبه
+Hypothesis:  هنئي العام وما يعكبه
+
+Sample 998:
+Reference: ما الذي حصل له ؟
+Hypothesis:  ملا ذح صلى الله
+
+Sample 999:
+Reference: تلك الإشاعة ليست صحيحة.
+Hypothesis:  تلك الإشاعات ليست صحيحة.
+
+Sample 1000:
+Reference: هذه شؤون مهمة.
+Hypothesis:  هذه شون مهمة.
+

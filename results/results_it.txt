@@ -1,0 +1,4002 @@
+Word Error Rate (WER) for it: 48.44906%
+
+Sample 1:
+Reference: Finiti gli studi, si è unito al Yokohama F. Marinos.
+Hypothesis:  Finì il studio di "Chię Unito, alloio, koama, e femmarina"
+
+Sample 2:
+Reference: Tu non puoi far niente.
+Hypothesis:  tu ne puoi far niente
+
+Sample 3:
+Reference: Cynthia Johnson e Steven Greenberg cantarono il pezzo.
+Hypothesis:  Sinti a Johnson e Stephen Greenberg cantarono il pezzo.
+
+Sample 4:
+Reference: Il ministro della difesa è responsabile della conduzione operativa in caso di conflitto bellico.
+Hypothesis:  Il ministro della difesa è responsabile della conduzione operativa in caso di conflitto berlico.
+
+Sample 5:
+Reference: Records partecipa con Naomi Campbell alla realizzazione dell'omonima canzone dello stesso anno.
+Hypothesis:  Records partecipa con unaomiccambel alla realizzazione dell'omonima canzone dello stesso anno.
+
+Sample 6:
+Reference: Anche gli stessi legionari spesso vi si trasferivano con tutta la famiglia.
+Hypothesis:  Anche gli stessi regionari spesso si trasferivano con tutta la famiglia.
+
+Sample 7:
+Reference: Tra le possibilità c'è comunque quella di terminare la serie con un film.
+Hypothesis:  tra le possibilità c'è comunque quella di terminare la serie con film
+
+Sample 8:
+Reference: Successivamente prende parte alle qualificazioni a Europei e ai Mondiali.
+Hypothesis:  successivamente prende parte alle qualificazioni a europei e a i mondiali
+
+Sample 9:
+Reference: For Freedom
+Hypothesis:  for freedom
+
+Sample 10:
+Reference: Il pretore nominava il giudice che si sarebbe pronunciato sulla controversia.
+Hypothesis:  Il pretore nominava il giudice che si sarebbe pronunciato sulla controversia.
+
+Sample 11:
+Reference: Il Museo della Civiltà Contadina è l'unico museo presente in città.
+Hypothesis:  Il Museo della civiltà quantadina è il l'unico museo presente in città.
+
+Sample 12:
+Reference: La versione integrale dovette attendere qualche anno.
+Hypothesis:  la versione integrale dovette attendere qualche anno.
+
+Sample 13:
+Reference: Ognuna delle sezioni si concentra su un diverso punto di vista del personaggio.
+Hypothesis:  Ognuna delle sezioni si concentra su un diverso punto di vista del personaggio.
+
+Sample 14:
+Reference: Le riprese si svolsero principalmente nella zona di Primavalle e Balduina, a Roma.
+Hypothesis:  Le riprese si svolsero principalmente nella zona di prima valle badovina a Roma.
+
+Sample 15:
+Reference: Era composta essenzialmente da inni funebri.
+Hypothesis:  era composta essenzialmente in nivonebri
+
+Sample 16:
+Reference: Era membro della Lega Democratica Cinese.
+Hypothesis:  è a membro della Lega Democratica Cinesi.
+
+Sample 17:
+Reference: La donna è Yukiko e questo è uno dei loro primi appuntamenti.
+Hypothesis:  La donne aiu chiico e questo è uno del loro primi appuntamenti.
+
+Sample 18:
+Reference: Il ducato finì definitivamente con l'avvento dei Franchi.
+Hypothesis:  Il locato, fini, definitivamente, con l'avvento dei franchi.
+
+Sample 19:
+Reference: Furono ricostruite la tribuna Est, gli spogliatoi, la tribuna sud e i palchi.
+Hypothesis:  furono ricostruite la tribuna s, dispogliatoi, la tribuna sud e i palchi.
+
+Sample 20:
+Reference: Louis Turenne
+Hypothesis:  Luizio toren.
+
+Sample 21:
+Reference: Il capoluogo di contea è Bangor.
+Hypothesis:  Il capoluogo di contea è Bangor.
+
+Sample 22:
+Reference: Berry in seguito scrisse un sequel di questa canzone, chiamato "Bye Bye Johnny".
+Hypothesis:  l'adventilità è in cui si è scrissante e si condipente di questa canzone, il cimato del baldò in John.
+
+Sample 23:
+Reference: Melanie pensa di aver fatto in un incubo e così non ha alcun sospetto.
+Hypothesis:  Melani, pensereva aver fatto in incubo e il così non ha un colso spetto.
+
+Sample 24:
+Reference: In seguito fu certificato quadruplo disco di platino.
+Hypothesis:  In seguito fu certificificato quadruppo di scuodi Platino.
+
+Sample 25:
+Reference: Era particolarmente affascinato dai batteristi.
+Hypothesis:  e era particolarmente affascinato dai battaristi.
+
+Sample 26:
+Reference: Sulla parte finale della navata si trova il campanile a vela con due campane.
+Hypothesis:  sulla parte finale della pàte finale della navata si trova il campanile a Villa con due campane
+
+Sample 27:
+Reference: Le tavole redatte da Piazzi riportano sette diverse canne abbinate a diversi comuni.
+Hypothesis:  Le tavoli ed attivanti da piaci, riporti riusciti di diversec'anno diventare diversi comuni.
+
+Sample 28:
+Reference: Il singolo contiene sul lato B "Mad Dog".
+Hypothesis:  Il singolo contiene sull'ato B medog.
+
+Sample 29:
+Reference: I testi delle canzoni sono sia in inglese che in spagnolo.
+Hypothesis:  i testi delle canzoni sono "sia in inglese che in spagnolo".
+
+Sample 30:
+Reference: Infine la storia si sposterà verso Siracusa.
+Hypothesis:  infine, la storia si sposterà avversa sia la cosa
+
+Sample 31:
+Reference: Fa parte dell’area metropolitana di New York City.
+Hypothesis:  fa parte dell'area metropolitana di New York City.
+
+Sample 32:
+Reference: Una classificazione alternativa delle imposte può essere effettuato in base alla loro funzione economica.
+Hypothesis:  una classificazione alternativa dell'imposta può essere effettuato in base alla loro funzione economica
+
+Sample 33:
+Reference: La sede era nel nuovo palazzo della Camera di Commercio.
+Hypothesis:  la sede era nel nuovo balaccio della gamena di commercio
+
+Sample 34:
+Reference: É nato a Londra, in Inghilterra.
+Hypothesis:  E in attualo andrà in ingil terra.
+
+Sample 35:
+Reference: Il brano vede la partecipazione della cantante Natalie Cole.
+Hypothesis:  Il brano vede la partecipazione della cantante natalicol.
+
+Sample 36:
+Reference: Durante l'incontro, due ufficiali americani perdono la vita in un attentato.
+Hypothesis:  durante l'incontro due ufficioli americani perdono la vita in un'antincato.
+
+Sample 37:
+Reference: Le operazioni di voto non risultano per nulla una cosa facile.
+Hypothesis:  Le operazioni di voto non risultano per nulla una cosa facile.
+
+Sample 38:
+Reference: L'avvio di stagione coincide con la sconfitta dei "Blues" in Community Shield.
+Hypothesis:  la bio-distagione, coincide con la scuomplita dei blues in comune di T-Shil
+
+Sample 39:
+Reference: Impazzita dal dolore, la donna abbandona il piccolo.
+Hypothesis:  in pazzita dal dolore la donna abbandone il piccolo
+
+Sample 40:
+Reference: Il contenuto di tali documenti non è mai stato reso pubblico.
+Hypothesis:  Il contenuto di tal documenti non è mai stato riso pubblico.
+
+Sample 41:
+Reference: O con me o contro di me.
+Hypothesis:  o con me o contro di me.
+
+Sample 42:
+Reference: Dopo la conquista della città Manuele riconquistò tutto il delta.
+Hypothesis:  Dopo la conquista della città, Manuel Erricon chistò tutto il delta.
+
+Sample 43:
+Reference: Esempi di esecuzione su YouTube
+Hypothesis:  Ezzenpi, desecuzione su YouTube
+
+Sample 44:
+Reference: Nello stesso mese divenne direttore sanitario della nave il tenente colonnello medico Ernesto Trombetti.
+Hypothesis:  Nello stesso mese divenne direttore sanitarri della nave intende colonnello medico Ernesto Trombit.
+
+Sample 45:
+Reference: Tutte e tre venivano rese visibili dagli autori italiani.
+Hypothesis:  Tutte tre veniva non rese visibilità di autori italiani.
+
+Sample 46:
+Reference: Quelle basali sono picciolate, mentre le cauline sono sessili ma anche picciolate.
+Hypothesis:  quelle basale sono picciolate, mentre le cauline sono sessili, ma anche picciolate.
+
+Sample 47:
+Reference: Nel Settecento, vi operò anche Andrea Massimini, che ne diresse anche il teatro anatomico.
+Hypothesis:  Nel settecento vi operò anche Andrea Massimini, che ne diressi anche il teatro anatomico.
+
+Sample 48:
+Reference: Frattamaggiore ha dato i natali a numerose personalità illustri: artisti, professionisti ed insigni prelati.
+Hypothesis:  Fratta maggiore ha dato in Italia numerose personalità personalità in illustri artisti, professionisti, professionisti ed in segni prelati.
+
+Sample 49:
+Reference: Julia, ucciso Jackal, riesce a ricongiungersi con Kenshiro.
+Hypothesis:  Giulia uccisece il jack-all, riesce a raggiungersi con che si riuscì.
+
+Sample 50:
+Reference: La pelliccia è lunga e finemente strutturata.
+Hypothesis:  la pelliccia è lunga e finemente strutturata.
+
+Sample 51:
+Reference: Questo strumento appartiene alla famiglia dei tamburi, con un suono ad altezza indeterminata.
+Hypothesis:  questo strumento appartiene alla famiglia dei tambudi con un suono ad altezza indeterminata
+
+Sample 52:
+Reference: Le mappe mentali sono suggerite come un'altra potenziale soluzione al blocco dello scrittore.
+Hypothesis:  Le mappe mentali sono suggerite come un'altra potenziale soluzione al blocco del scrittore.
+
+Sample 53:
+Reference: Può comparire in diversi ambiti.
+Hypothesis:  può comparele in diversi ambiti
+
+Sample 54:
+Reference: È un sobborgo orientale di Monaco di Baviera.
+Hypothesis:  è un suo burgo orientale di monaco di bambiara
+
+Sample 55:
+Reference: Il torto non sta mai da una parte sola.
+Hypothesis:  il torto non sta mai da una parte sola
+
+Sample 56:
+Reference: Torino iniziando con dalle categorie inferiori.
+Hypothesis:  Torino iniziando con dalle categorie inferiori.
+
+Sample 57:
+Reference: Tux venne disegnato nell'ambito di un concorso Linux.
+Hypothesis:  Tax, vero ed eseguato nel lambito di un concorso Linux.
+
+Sample 58:
+Reference: La popolazione parla una variante locale del creolo capoverdiano.
+Hypothesis:  La popolazione parla una variante locale del creolo capo verdiano.
+
+Sample 59:
+Reference: Il motore è raffreddato a liquido ed è dotato anche di scarico con catalizzatore.
+Hypothesis:  il regno solo era affreddato l'icudo ed è dotato anche di scarico con catalizzatore
+
+Sample 60:
+Reference: Marjorie, allora, va via da casa, andando a lavorare come infermiera.
+Hypothesis:  Mergioli, allora, vadì ad accazza, analghe la varare come fermiera.
+
+Sample 61:
+Reference: Ci sono differenze e varianti regionali.
+Hypothesis:  ci sono di Franze e paniente regionali
+
+Sample 62:
+Reference: Il brano è stato oggetto di cover da parte di numerosi artisti.
+Hypothesis:  il brano è stato oggetto di cover da parte dei numerosi artisti
+
+Sample 63:
+Reference: Marcinkus tuttavia non ebbe problemi, risultando tra i primi dieci a scappare.
+Hypothesis:  Parci in costuttavia non èbbe problemi, risultando tra i primi dieci a scappare.
+
+Sample 64:
+Reference: Dalla navata di sinistra si scende nella cripta, la parte più antica della cattedrale.
+Hypothesis:  data nella volta ad esistra si scelere la città la parte piantica della cartidrale
+
+Sample 65:
+Reference: Nei tre anni successivi, allena il São Caetano, con cui conquista uno scudetto.
+Hypothesis:  nei tre anni successivi, allena il Saukaitanu con cui conquista uno scudetto.
+
+Sample 66:
+Reference: Deve servirsi fresco.
+Hypothesis:  deve servire zipresco
+
+Sample 67:
+Reference: È uno dei più importanti stadi dove si svolgono gli Australian Open.
+Hypothesis:  è uno di più importanti stati i dosvolgono gli australian open.
+
+Sample 68:
+Reference: Sulla vetta sorge una croce metallica con incorporata una statua della Madonna.
+Hypothesis:  sulla vetta soltelyte una croce metallica con incorporata una statua della madonna
+
+Sample 69:
+Reference: A Palermo realizzò, insieme a Vittorio Gregotti, gli edifici della facoltà di scienze dell'Università.
+Hypothesis:  Appalermo realizzò insieme a vittorio aggregoti gli edifici della facoltà di scienze dell'Università.
+
+Sample 70:
+Reference: Chung Yong-hwan
+Hypothesis:  C'uonghungue ongua.
+
+Sample 71:
+Reference: Panzergrenadier-Division" un mese dopo.
+Hypothesis:  panzergrenadie division, un mese dopo.
+
+Sample 72:
+Reference: Queste storie vengono citate dalla Archie come "archi".
+Hypothesis:  queste storia vengono citate dalla arci come Archi
+
+Sample 73:
+Reference: Lo stesso dispositivo però mette in pericolo i posti di lavoro di molte persone.
+Hypothesis:  Lo stesso dispositivo però mette in pericolo di posti di lavoro di molte persone.
+
+Sample 74:
+Reference: Cucire i panni addosso a qualcuno.
+Hypothesis:  Ussere i vanno a dosto a qualcuno.
+
+Sample 75:
+Reference: Lo spettacolo va quindi in scena.
+Hypothesis:  lo spettacolo da cui in insena
+
+Sample 76:
+Reference: Secondo il modello divino è necessario familiarizzare con i bisogni e le sofferenze umane.
+Hypothesis:  Secondo modello divino è necessario familiarizzare con i bisogni e le sofferenze umane.
+
+Sample 77:
+Reference: Giovanni era anche uno dei santi patroni del primo proprietario, Giovanni di Valois.
+Hypothesis:  Giovanni era anche uno dei Santi Patroni del primo proprietario Giovanni di Valuò.
+
+Sample 78:
+Reference: Per i motivi suddetti, appare certamente urgente attuare misure di protezione dell"'habitat" della specie.
+Hypothesis:  Per i motivi suddetti appare certamente urgente attuare misure di protezione della abitatela della specie
+
+Sample 79:
+Reference: Il giardino, tagliato dalla ferrovia, arrivava fino al mare.
+Hypothesis:  il jardino, cagliaduto alla ferrovia, arriva a finalmare.
+
+Sample 80:
+Reference: Il personaggio si rende conto del potere che subisce, non l'accetta, cerca di ribellarsi.
+Hypothesis:  Il personaggio si rende conto del potere che su visce non la cetta cerca di rivelarsi.
+
+Sample 81:
+Reference: Quando il mio amico Simone Pau trascura per parecchi giorni di venire a trovarmi alla Kosmograph.
+Hypothesis:  Quando il mio amico Simone Pao trascura per parecchi giorni di venire trovare la cossima grazie.
+
+Sample 82:
+Reference: Per sua stessa ammissione, il suo clitoride è "sempre duro ma non sente niente".
+Hypothesis:  Per sua stessa missione, il sopvliitarite è sempre d'uro, ma non sente niente.
+
+Sample 83:
+Reference: La strumentazione, cresciuta nel tempo, conta oggi cinque strumenti principali.
+Hypothesis:  La strumentazione, cresciuta nel tempo, conta oggi cinque strumenti principali.
+
+Sample 84:
+Reference: L'album venne creato per il ventennale dalla morte di Dalida.
+Hypothesis:  l'album venne creato per il ventennale della morte di Daniela
+
+Sample 85:
+Reference: È ancora possibile visitare la stanza di Lutero.
+Hypothesis:  è ancora possibile visitare la stanza di lutero
+
+Sample 86:
+Reference: La durata della covata è poco superiore a tre settimane.
+Hypothesis:  La durata della covata è poco subteriore a tre settimane.
+
+Sample 87:
+Reference: Ormai rimangono solo Agnese, Felicita e Gabriella.
+Hypothesis:  ormai rimangono solo agli agniese, felicità e capriella.
+
+Sample 88:
+Reference: Le rivalità più accese sono quelle con Burgos e León.
+Hypothesis:  Le rivalità più accezie sono quelli come "Burghuss e Leon".
+
+Sample 89:
+Reference: Gli esemplari giovani sono meno tozzi degli adulti.
+Hypothesis:  gli esemplari giovani sono meno totsi degli adulti
+
+Sample 90:
+Reference: La vicenda che lo vede come protagonista si sviluppa tutta sul filo della droga.
+Hypothesis:  La vicenda che lo vede come protagonista si sviluppa tutta sul filo della droga.
+
+Sample 91:
+Reference: È stato tra i fondatori dell'etnomusicologia scientifica in Italia.
+Hypothesis:  è stato tra i fondatori dell'etna-musicologia scientifici scientifici in Italia.
+
+Sample 92:
+Reference: Questo conferì il pieno status universitario e rese Southampton indipendente dall'università di Londra.
+Hypothesis:  questo conferì il pieno stato stato su universitario e Resesal Tenton indipendente dall'Università di Londra.
+
+Sample 93:
+Reference: Robert Maxwell
+Hypothesis:  Robert Maxwell
+
+Sample 94:
+Reference: Fu noto avvocato penalista.
+Hypothesis:  fu noto avocato penalista.
+
+Sample 95:
+Reference: A lui si deve il nome dell'omonima montagna della Grecia.
+Hypothesis:  all'uomo si deve il nome della monima montagna della grecia
+
+Sample 96:
+Reference: Il primo Papa ad assumere la tiara fu tutto sommato un pontefice debole.
+Hypothesis:  il primo vava da assumere la diara fu tutto sommato un pontefice lebole.
+
+Sample 97:
+Reference: Il caravanserraglio misura trentuno metri e mezzo per ventitré.
+Hypothesis:  il caravanza era aglio misura 31,3,5 per 23.
+
+Sample 98:
+Reference: Il folklore e il paganesimo tradizionale furono idealizzati anche in chiave nazionalistica.
+Hypothesis:  il poglioro del parianismo tradizionale furono idealizzati anche in pianana nazionalistica
+
+Sample 99:
+Reference: Questa specie è diffusa nella cordigliera centrale della Nuova Guinea.
+Hypothesis:  questa specie è diffusa nella cordiglia era centrale della nuova guinea.
+
+Sample 100:
+Reference: Stranamente il villaggio non verrà ma più colonizzato.
+Hypothesis:  Tranamente il milaggio non verrà mai più colonizzato.
+
+Sample 101:
+Reference: L'album è un grande successo sia a livello di critica sia a livello commerciale.
+Hypothesis:  l'album è un grande successo, sia livello di critica sia livello commerciale
+
+Sample 102:
+Reference: La terapia, ove occorre, è in genere chirurgica o endoscopica.
+Hypothesis:  La terapia, ove o corre, è in genere chirurgica o endoscopica.
+
+Sample 103:
+Reference: La sua arma è una sofisticata balestra che lui stesso chiama "Bianca".
+Hypothesis:  La sua arma è una sofisticata balestra, che lo stesso chiama bianca.
+
+Sample 104:
+Reference: Venne poi trasferito in un campo per prigionieri di guerra ad Ashton-in-Makerfield, Lancashire.
+Hypothesis:  Venne il punto di rispereito è in campo per regioni di Guerra a "Tashpton in Make-Up", la città che si è scelto.
+
+Sample 105:
+Reference: L'unico vero strumento a percussione sono le maracas.
+Hypothesis:  L'unico vero strumenta per cussione sono le maracas.
+
+Sample 106:
+Reference: Thor Larsen
+Hypothesis:  For Larsen
+
+Sample 107:
+Reference: Questo progetto va inoltre a dare compattezza e continuità nel tessuto storico della città.
+Hypothesis:  Questa progetto vai inoltre ad andare con pattezza e continuità nel tessuto storico della città.
+
+Sample 108:
+Reference: In league cup si fermò invece al quarto turno.
+Hypothesis:  il link app si fermò invece al quarto turno.
+
+Sample 109:
+Reference: Oltre alla musica hanno anche girato anche quattro serie televisive.
+Hypothesis:  Oltre la musica non anche girato anche quattro serie televisive.
+
+Sample 110:
+Reference: Scotland Yard fu fondata insieme alla "Metropolitan Police" da Sir Robert Peel.
+Hypothesis:  Scott Nondayard fu fondata insieme alla metropolitano police da Si Robert Peel.
+
+Sample 111:
+Reference: A sedici anni compose la sua prima opera, "La Soubrette".
+Hypothesis:  A sedici anni compose la sua prima opera, "Le subretto".
+
+Sample 112:
+Reference: In quel periodo entrò a far parte del comitato del Teatro Goldoni.
+Hypothesis:  in quel periodo entrò a far parte del comitato del teatro Goldoni.
+
+Sample 113:
+Reference: La sindrome è ereditaria con schema autosomico dominante.
+Hypothesis:  La sindrome è ereditaria con schema autosomico dominante.
+
+Sample 114:
+Reference: L'esplorazione spaziale è in stallo per via degli elevati costi di produzione dei razzi?
+Hypothesis:  l'esplorazione spaziale è in stallo per via degli elevati coste di produzione dei razzi
+
+Sample 115:
+Reference: Per realizzarlo acquisì in Tunisia un grande bacino minerario.
+Hypothesis:  per realizzarlo a qui si intuinessi a un grande bacino minerario.
+
+Sample 116:
+Reference: Roscoe Smith
+Hypothesis:  Roscoe smittro!
+
+Sample 117:
+Reference: Successivamente, ha disputato soltanto stagioni nelle categorie inferiori del campionato locale.
+Hypothesis:  successivamente, ha disputato soltanto stagioni nelle categorie inferiori del campionato locale.
+
+Sample 118:
+Reference: Robert Thomson
+Hypothesis:  Robert Thompson
+
+Sample 119:
+Reference: Nacque in Francia da padre algerino e madre libanese, ultima di cinque figli.
+Hypothesis:  Nacco in Francia da Padre Algirino e Madre Vibanese, ultima di cinque figli.
+
+Sample 120:
+Reference: Riescono così ad arrivare fortunosamente fino alle coste irlandesi.
+Hypothesis:  Riasco non così ad arrivare fortumasamente fino alle Costa Irlandesi.
+
+Sample 121:
+Reference: Le udienza dovettero essere condotte a porte chiuse, stante la evidente mancanza di prove.
+Hypothesis:  l'endianção del re tra i recterghiò essere condotto e apporti chiuso, sente l'alimente in panse di prova.
+
+Sample 122:
+Reference: Provincia di Poltava
+Hypothesis:  provincia di Poltava
+
+Sample 123:
+Reference: Essi sono sottoposti a tortura e trattamenti inumani a causa della loro fede.
+Hypothesis:  e si sono non sottoposte a tortura la trattamento in umani a causa della loro fede
+
+Sample 124:
+Reference: Dopo dieci anni di studi pubblicò il manuale "Archeologia Cristiana", ancora oggi attuale.
+Hypothesis:  Topo dieci anni di studi pubblico il manuale archeologia cristiano ancora oggi attuale.
+
+Sample 125:
+Reference: La Classe G è il modello Mercedes-Benz più longevo nella storia della Casa tedesca.
+Hypothesis:  il gio modello mercato è sbanzo più longevo in maschia della casa di disca.
+
+Sample 126:
+Reference: Olav V di Norvegia nacque a Sandringham.
+Hypothesis:  Olaf, quinto di Norvega, nacque a San Bringham.
+
+Sample 127:
+Reference: Di solito depone tre uova.
+Hypothesis:  di solito di ponere la guava.
+
+Sample 128:
+Reference: Viene utilizzato come repellente per gli uccelli.
+Hypothesis:  viene utilizzato come repellente per gli uccelli
+
+Sample 129:
+Reference: Morandini segnala inoltre l'interpretazione di Cagney.
+Hypothesis:  Morandini segnò all'interpituazione di cagli anni.
+
+Sample 130:
+Reference: I diritti per la distribuzione internazionale della serie sono stati acquistati da Netflix.
+Hypothesis:  i diritti per la distribuzione internazionale della serie sono stati acquistati da Netflix.
+
+Sample 131:
+Reference: Gestire i titoli finanziari è collegato al problema che riguarda la proprietà.
+Hypothesis:  gestire i titoli finanziari è collegato al problema che riguarda la proprietà.
+
+Sample 132:
+Reference: Facevano parte del Comitato rappresentanti del governo, della Marina, dell'industria e del commercio.
+Hypothesis:  Fascevano parte del comitatore apprecentante del governo della marina, dell'industria e del commercio.
+
+Sample 133:
+Reference: Ci sono poche informazioni su questo periodo.
+Hypothesis:  ci sono pochi informazioni su questo periodo
+
+Sample 134:
+Reference: La grande arena
+Hypothesis:  la grande arena
+
+Sample 135:
+Reference: Intanto Codino riesce a rintracciare Consuelo e la uccide.
+Hypothesis:  intanto godina riesce ad intraacciare con sueno e l'alcide
+
+Sample 136:
+Reference: I due sono anche membri di una banda musicale.
+Hypothesis:  e due sono anche mai abbandomosegale.
+
+Sample 137:
+Reference: La strada è chiamata anche "via Mala".
+Hypothesis:  la strada è chiamata anche "Vi amala".
+
+Sample 138:
+Reference: L'impianto è dotato di due banchine laterali coperte da tettoie metalliche.
+Hypothesis:  L'impianto è dotato di due banchine laterali coperte da tettorie metalliche.
+
+Sample 139:
+Reference: La Frick Collection è uno dei più importanti piccoli musei degli Stati Uniti.
+Hypothesis:  La Frick Collection è uno dei più importanti piccoli musei dei musei di Stati Uniti.
+
+Sample 140:
+Reference: È necessario smuoversi, agitarsi, andare a pescare le emozioni più dense che erano sedimentate sul fondo.
+Hypothesis:  E necessari osmoverci, agitarsi, andare a pescare le emozioni più denze che hanno sedimentate sul fondo.
+
+Sample 141:
+Reference: Avviò la costruzione del tempio di Giove Capitolino sul Campidoglio.
+Hypothesis:  Avviò la costruzione del tempio di giovane capitolino su un campi d'oglio.
+
+Sample 142:
+Reference: Periodiche sono le nevicate.
+Hypothesis:  Veri odiché sono le nebbicate?
+
+Sample 143:
+Reference: Dopo la carriera da giocatore fu il manager degli Angels e dei Milwaukee Brewers.
+Hypothesis:  Il topo alla caviera da giocatore fu il manager degli angels e dei mili walkie brilers.
+
+Sample 144:
+Reference: La zona presenta solo cinque strade.
+Hypothesis:  La zona presenta solo cinque strada.
+
+Sample 145:
+Reference: Ned Jinks torna a Cabot Cove dopo vent'anni.
+Hypothesis:  Ned Jings torna a Cabot Cove dopo vent'anni.
+
+Sample 146:
+Reference: Nella tasca dell'uomo venne ritrovata una pistola.
+Hypothesis:  nella tasca del luomo venne ritrovato una pistola.
+
+Sample 147:
+Reference: Consisteva di quaranta libri, suddivisi in tre sezioni.
+Hypothesis:  Consisteva di quaranta libri su divisi in trasezioni.
+
+Sample 148:
+Reference: Le ricette dei secoli precedenti includevano una gamma di ingredienti più ampia.
+Hypothesis:  Deirisce ad ad esecoli precedenti, includivano una gamma di gradienti più ampia.
+
+Sample 149:
+Reference: Ha anche cantato in molti spot pubblicitari.
+Hypothesis:  ha anche cantato in molti spotto visitari
+
+Sample 150:
+Reference: Distrutta la pieve, essa fu soppiantata nella devozione popolare dalla piccola cappella.
+Hypothesis:  distrutta la pieve e saffusso piantata nella rivoltione popolare dalla piccola cappella.
+
+Sample 151:
+Reference: Queste tre città divennero, inoltre, tutte colonie.
+Hypothesis:  Queste tre città divennero inoltre tutte colonie.
+
+Sample 152:
+Reference: E dall'alto delle montagne si vide il mare.
+Hypothesis:  ed il altro lontano si videomara
+
+Sample 153:
+Reference: Morì sei mesi dopo.
+Hypothesis:  Mori, sei messi dopo.
+
+Sample 154:
+Reference: In breve, dunque, questa prima campagna militare in Britannia fu un insuccesso.
+Hypothesis:  In breve, dunque, questa prima campagna militare in Britannia fu un insuccesso.
+
+Sample 155:
+Reference: Alla fine, dopo diverse peripezie, il mistero, che coinvolge persone insospettabili, viene risolto.
+Hypothesis:  alla fine, dopo diverse per i pezzie, il mistero, che coinvolge persone insospettabili, venne risolto.
+
+Sample 156:
+Reference: Essi spesso non hanno accesso alle risorse informatiche.
+Hypothesis:  e si spesso non hanno cesso le risolse in formate che
+
+Sample 157:
+Reference: Alla presidenza della Fiorentina arriva Mario Cecchi Gori, produttore cinematografico toscano.
+Hypothesis:  alla presidenza della Fiorentina arriva Mario c'è chi gori, produttore cinematografico toscano.
+
+Sample 158:
+Reference: In epoca romana fu associato ad Apollo.
+Hypothesis:  il poca romana fu a associato ad Apollo.
+
+Sample 159:
+Reference: Ha insegnato alle università di Miami, George Mason, George Washington e John Carroll.
+Hypothesis:  Aiesina il cadd'università di Miami, George Mason, George Washington e John Carroll.
+
+Sample 160:
+Reference: È la prima versione che include il programma di ricerca Sherlock.
+Hypothesis:  è la prima versione che includi il programma di ricerca Sherlock.
+
+Sample 161:
+Reference: È piuttosto comune ai margini delle aree boschive.
+Hypothesis:  è piuttosto comune ai margini delle aree boschie.
+
+Sample 162:
+Reference: Lì studiò pianoforte, organo, composizione e direzione.
+Hypothesis:  Lee studioio, piano forte, organo, compositione e direzione.
+
+Sample 163:
+Reference: Egli celebrò anche cerimonie per la famiglia dell'imperatore.
+Hypothesis:  E gli egli ce le bro anche c'erimo ogni per la famiglia dell'imperatore.
+
+Sample 164:
+Reference: La serie è inoltre caratterizzata dalla sigla scritta da Jerry Livingston e Mack David.
+Hypothesis:  La serie è inoltre caratterizzata da la sigla scritta da Jeffrey Livestern e Mac David.
+
+Sample 165:
+Reference: Ha studiato Agronomia per qualche anno, per poi passare a Medicina Veterinaria.
+Hypothesis:  Ascutiamo a gronomia per polfiano, per poi passare a medici in avedigina medirinaria.
+
+Sample 166:
+Reference: Il paese è abitato da una grande varietà di gruppi etnici.
+Hypothesis:  Il paese è abitato da una grande varietà di gruppiietro tramici.
+
+Sample 167:
+Reference: Lynch, Dan e Parker restano così bloccati a diversi metri di altezza.
+Hypothesis:  L'inchio di a Nebbarca è restano così bloccate di versamento di altezza.
+
+Sample 168:
+Reference: Il comune fa parte dell'Unione dei comuni Alto Cilento.
+Hypothesis:  il comune fa parte dell'unione dei comuni alto-cilento
+
+Sample 169:
+Reference: L'Iraklis fu penalizzato di un punto.
+Hypothesis:  L'iraclis fu penalizzato di un punto.
+
+Sample 170:
+Reference: Terry Davis
+Hypothesis:  terri navi
+
+Sample 171:
+Reference: La sua figura è presente nella Gerusalemme Liberata di Torquato Tasso.
+Hypothesis:  La sua figura è presente nella gerusalemmia lemme liberata di torquato tasso.
+
+Sample 172:
+Reference: Tutto questo mentre sulla piana della Versilia cadevano soltanto poche gocce di pioggia.
+Hypothesis:  Tutto questo, mentre sulla piana della versiglia, caddevono soltanto poche gocce di pioggia.
+
+Sample 173:
+Reference: Esso è stato scritto da Francesco Sarcina.
+Hypothesis:  E so, è stato scritto da Francesco Sarkina.
+
+Sample 174:
+Reference: L'istituto di Gerusalemme ebbe un importante ruolo nella scoperta dei manoscritti del Mar Morto.
+Hypothesis:  L'Istituto di Gerusalemme èbbe un importante ruolo nella scoperta dei manoscritti del marmorto.
+
+Sample 175:
+Reference: Durante la sua gioventù giocò a calcio a livello agonistico.
+Hypothesis:  durante la sua giovane "tù" gioca a calcia a livello agonistico
+
+Sample 176:
+Reference: Il Milan si rifece in campionato dodici mesi dopo con il suo diciassettesimo scudetto.
+Hypothesis:  il Mellan si riferisce in campionato due uovendosi mesi dopo con il suo dieciazzettezimo scudetto.
+
+Sample 177:
+Reference: Tutta la struttura, e i giardini in particolare, sono ispirati secondo lo stile anglosassone.
+Hypothesis:  tutta la struttura e giardini in particolare sono ispiliati secondo lo stile angloserone.
+
+Sample 178:
+Reference: Gli abbonamenti permettono di usufruire tutte le linee in qualsiasi orario.
+Hypothesis:  Gli abbornamenti permette di usufo fuire tutte le linee in qualsiasi eravio.
+
+Sample 179:
+Reference: È cresciuto a Melbourne dove ha poi conosciuto e sposato la moglie Anita.
+Hypothesis:  è cresciuto a Melmord dove ha poi conosciuto sposato la moglie Anita.
+
+Sample 180:
+Reference: La localizzazione prevede un passaggio in più della semplice traduzione
+Hypothesis:  La localizzazione prevede un passaggio in più della semplice traduzione.
+
+Sample 181:
+Reference: Inizia l'attività politica nelle organizzazioni giovanili del Movimento Sociale Italiano.
+Hypothesis:  Inizia l'attività politica inizia l'attività politica negli organizzazioni due anni di movimento sociale italiano.
+
+Sample 182:
+Reference: Gli occhi sono arancioni.
+Hypothesis:  Il occhi "Zonuar andcciò unì".
+
+Sample 183:
+Reference: I due uomini diventano ottimi amici.
+Hypothesis:  I due uomini diventano ottemi amici.
+
+Sample 184:
+Reference: In seguito decise di dedicarsi interamente alle colonne sonore.
+Hypothesis:  In seguito decide di dedicarsi interamente alle colori le polone fondote.
+
+Sample 185:
+Reference: La malta utilizzata nella costruzione è speciale ed impermeabile.
+Hypothesis:  La malto utilizzata nella costruzione è speciale e impermeabile.
+
+Sample 186:
+Reference: La specie è stata reperita in Tanzania, sull'isola di Zanzibar.
+Hypothesis:  Fraspecie è stata reperi per il tanzana, sull'isola di Zanzivar.
+
+Sample 187:
+Reference: Processati anche per questo sono stati Erich Naumann ed Erich von dem Bach-Zelewski.
+Hypothesis:  processati anche per questo sono stati Eric Newman e Eric Waldenmark Zarenski.
+
+Sample 188:
+Reference: L'evento destò grande ammirazione in tutta la città, rimanendo a lungo nella memoria collettiva.
+Hypothesis:  l'evento è destò grande ammirazione in tutta la città rimanendo allungo lungo nella memoria collettiva.
+
+Sample 189:
+Reference: Il brano è incluso nel sul album di debutto Given to Fly.
+Hypothesis:  Il brano è incluso incluso nel suo album di debutto "Given to fly".
+
+Sample 190:
+Reference: Dopo la messa segue una processione attorno al santuario roccioso.
+Hypothesis:  Dopo la messa segue una processione, torna il santuario riuscione al riuscione di sottotterlo in una parte di un po' di riuscita.
+
+Sample 191:
+Reference: La redazione del testo è bilingue, siriaco e arabo.
+Hypothesis:  La redazione del testo è bilingual, si riaco e arabo.
+
+Sample 192:
+Reference: Il riconoscimento viene dato all' interno della manifestazione per il Premio Bearzot.
+Hypothesis:  Il conoscimento che viene dato l'intalto della manifesezione per il "Pamel Bersot".
+
+Sample 193:
+Reference: La famiglia comprende piante erbacee.
+Hypothesis:  La famiglia comprende pianta erbace.
+
+Sample 194:
+Reference: Se ti trovo a leggere certi libri, te li scaravento sul capo.
+Hypothesis:  Se ti trovo a leggere certe linee, te riscaraventro sul capo.
+
+Sample 195:
+Reference: Debuttò come professionista subentrando nella gara del primo turno contro i Carolina Panthers.
+Hypothesis:  debutto al come professionista subentrando nella gara del primo turno contro i Carolina Panthers.
+
+Sample 196:
+Reference: Florastella si avvicinò al marito.
+Hypothesis:  Flora stella si avvicinò al marito.
+
+Sample 197:
+Reference: Hubert Lampo
+Hypothesis:  Hubbard Lambo
+
+Sample 198:
+Reference: I è un album compilation del bluesman americano Robert Johnson.
+Hypothesis:  ai analbum compilation del "Buseman americano" e Robert Jones'Opere di Ewanal Boom è il "Americano" di un album compilazione di abilanzionale albuminista di "Americano" e "Robert Jones".
+
+Sample 199:
+Reference: Nel regno, ufficialmente, esisteva una separazione tra Chiesa e Stato.
+Hypothesis:  Nell'oregno, ufficialmente, esisteva una separazione tra chiesa a stato.
+
+Sample 200:
+Reference: In Coppa Italia, la squadra labronica esce al terzo turno contro il Siena.
+Hypothesis:  In coppità tale alla squadra la brónica esce al terzo turno contro il siena.
+
+Sample 201:
+Reference: La corte suprema è di regola unica per tutto il territorio nazionale.
+Hypothesis:  la corte suprema è dirego la unica per tutto il territorio nazionale
+
+Sample 202:
+Reference: Il presbiterio rimase comunicante con l'antica parte settentrionale mediante basse arcate.
+Hypothesis:  Il prespiterio rimane comunicante con l'antica parte settentrionale mediante base-archate.
+
+Sample 203:
+Reference: Questo fenomeno è chiamato oscillazione di sapore.
+Hypothesis:  questo fenomeno è il chiamato oscillazione di sapure
+
+Sample 204:
+Reference: Nel settembre di quell'anno la Riley fu rilevata dalla Morris, entrando nella Nuffield Organisation.
+Hypothesis:  nel settembre di quell'anno era a Rai li fu rilevata da Morris, entrando nella Nafelda Organizia.
+
+Sample 205:
+Reference: Si sposò sette volte ed ebbe diciannove figli, otto maschi e undici femmine.
+Hypothesis:  Sì sposososette volte ed èbbe diecianov dei figli, otto maschi e un'undici femmile.
+
+Sample 206:
+Reference: Sono stati pubblicati anche numerosi metodi di preparazione differenti.
+Hypothesis:  sono stati pubblicati anche numerosi metodi di preparazione differenti.
+
+Sample 207:
+Reference: È affiliato alla Federazione Italiana Vela e annovera oltre trecento soci.
+Hypothesis:  è affigliato alla Federazione italiana Vela e Novrapoltre Trecento Socci.
+
+Sample 208:
+Reference: John Shelley
+Hypothesis:  John Charlie
+
+Sample 209:
+Reference: L'area è caratterizzata da una densità demografica piuttosto elevata.
+Hypothesis:  La area caratterizzata da una densità demografica è piuttosto elevata.
+
+Sample 210:
+Reference: Be Easy
+Hypothesis:  Be easy
+
+Sample 211:
+Reference: L'Agenzia, con delibera del Consiglio direttivo, adotta i provvedimenti di distruzione o di demolizione.
+Hypothesis:  La agenzia con delibora del consiglio direttivo ad ottenuto provvedimenti di distruzione o demolizione.
+
+Sample 212:
+Reference: Dopo la sua elezione ha ceduto il seggio a Bebo Storti.
+Hypothesis:  Dopo la sua elezione ha ceduto il seguito a Bebo Storti.
+
+Sample 213:
+Reference: Per quanto riguarda la sua formazione artistico, le lacune sono altrettanto ampie.
+Hypothesis:  Per quanto riguarda la sua formazione artistico, le lacune sono tre tante ambie.
+
+Sample 214:
+Reference: Prodotto dalla World Wrestling Entertainment.
+Hypothesis:  prodotto dalla world grasse lingua e intersainmente
+
+Sample 215:
+Reference: Il farmaco si presenta prevalentemente in soluzione iniettabile.
+Hypothesis:  Il farmma così presenta prevalentemente insoluzione inietabile.
+
+Sample 216:
+Reference: Fare il nesci.
+Hypothesis:  fare il nesce
+
+Sample 217:
+Reference: Poiché le linee guida evolvono continuamente
+Hypothesis:  il genere linee guida avvolva voluto continuamente
+
+Sample 218:
+Reference: È noto come palissandro brasiliano, palissandro Rio o palissandro di Bahia.
+Hypothesis:  è noto come palissandro brasiliano, palissandro rio o palissandro di baia
+
+Sample 219:
+Reference: Queste operazioni rendono l'agenzia più flessibile.
+Hypothesis:  queste operazioni rendono la gentia più facile
+
+Sample 220:
+Reference: Nel racconto di Livio non viene detto chi fosse il comandante dell'esercito romano.
+Hypothesis:  nel racconto di Livio non viene detto chi fosse il comandante dell'esercito romano.
+
+Sample 221:
+Reference: Dai dodici anni in poi frequentò alcune scuole superiori di Porto Alegre.
+Hypothesis:  Deve di Shen in pau e fergento alcune scuole superiore di polto alle gre.
+
+Sample 222:
+Reference: È posto a sudovest del grande cratere Macrobio.
+Hypothesis:  è posto a sudolvesse del grande Crafere Macrobio
+
+Sample 223:
+Reference: È il seguito di "Predator", che annoverava Arnold Schwarzenegger quale protagonista.
+Hypothesis:  è il seguito di predator, che non verrà Varnell dswarzenegger, quale protagonista.
+
+Sample 224:
+Reference: Quando sono nei pressi del nido, gli adulti sono rumorosi.
+Hypothesis:  quando sono ne presse del nido e adulti sono rumorosi
+
+Sample 225:
+Reference: Comunque, molti Ferengi hanno un particolare disgusto per i piatti umani.
+Hypothesis:  Comunque, molti farengono un particolare di disgusto per i piatti umani.
+
+Sample 226:
+Reference: In alcuni casi, ad es.
+Hypothesis:  in alcuni casi ad es
+
+Sample 227:
+Reference: Quando Cliff si sveglia, si guarda attorno e ringrazia Clair e tutte le donne.
+Hypothesis:  Quando Clefacy sveglià, si guarda tornò in grazie a Claire e tutte le donne.
+
+Sample 228:
+Reference: Era il primo figlio di Mehmet Ali, nato a Kavala, e di Amina.
+Hypothesis:  e riprimo figlio di membe all'I nato a cavala di Amina.
+
+Sample 229:
+Reference: Viene aromatizzato con arancia, acqua di rose, limone, pistacchi, mandorle, spezie, cannella o menta.
+Hypothesis:  Viene aromatizzato con arancia, acquadirose di mune, stacchi, mandorle, spezzette cannella o menta.
+
+Sample 230:
+Reference: Un'altra innovazione fu la misurazione della pressione sull'arteria omerale, più precisa, anziché sull'arteria radiale.
+Hypothesis:  Nella'altra innovazione fu la misurazione della pressione sulla arteria omerale, più precisa, anziché sulla arteria radiale.
+
+Sample 231:
+Reference: Decisivo per la sua formazione fu il successivo incontro con Luigi Sturzo.
+Hypothesis:  Deciscizivo per la sua formazione fu il successivo in contro con Luigi Sturt.
+
+Sample 232:
+Reference: La spiegazione di tale discriminazione risiede nel concetto di pubblico pudore.
+Hypothesis:  la spiegazione in Italia di discriminazione e l'iscedere del "pubblico pubblico di pudore".
+
+Sample 233:
+Reference: Si fece molti amici e tornò spesso a Palermo per frequentare gli ambienti scacchistici.
+Hypothesis: Si fece molti amici e torna a fesso a palermo per ferguntare gli ambienti skeptisti.
+
+Sample 234:
+Reference: Temi portanti delle sue storie Disney sono i gialli e la fantascienza.
+Hypothesis:  Temi importanti delle sue storia e Disney sono in giro e la fantascienza.
+
+Sample 235:
+Reference: Arca ed Ira possono essere suonati da due esecutori o da uno.
+Hypothesis:  Arca e di rano possono essere suonati da due esecutori o da uno.
+
+Sample 236:
+Reference: L'ipotesi alternativa è che uno dei campioni sia più grande in maniera stocastica.
+Hypothesis:  il riportese alternativa è che uno dei campioni sia più grande e maniera stocastica
+
+Sample 237:
+Reference: Sebbene il vasellame risalga ad epoche diverse, non era separato da strati di terreno.
+Hypothesis:  Sebbene il vasellami risalga a epoche diverse, non era separato da strada di terreno.
+
+Sample 238:
+Reference: Io faccio così.
+Hypothesis:  Io fa ciò così.
+
+Sample 239:
+Reference: Dopo la fine della guerra, i nazionalisti alimentarono la campagna sulla "vittoria mutilata".
+Hypothesis:  Dopo la fine della guerra, il nazionalista alimentarne la campagna sulla vittoria motilata.
+
+Sample 240:
+Reference: Chi troppo vuole, nulla stringe.
+Hypothesis:  Chitra po' vuole non la stringe.
+
+Sample 241:
+Reference: Non ci sono punti neri sulla pinna dorsale.
+Hypothesis:  non ci sono punti negli sulla pina dorsale.
+
+Sample 242:
+Reference: Tuttavia, i membri devono pagare altre tasse previste anche per i progetti dell'Unione.
+Hypothesis:  Tuttavia, i membri avevano pagare altri testi previste anche per i progetti del unione.
+
+Sample 243:
+Reference: Fu la terza volta che White perse una finale.
+Hypothesis:  Full attempts a volta che il white è a segno finale.
+
+Sample 244:
+Reference: I Suebi erano divisi dalla Foresta Nera.
+Hypothesis:  i suoi bianchi erano divisi dalla foresta nera
+
+Sample 245:
+Reference: Sin dal Medioevo vi avevano luogo i consigli baschi.
+Hypothesis:  Sin del medioevo evo vi avevano luogo i consigli baschi.
+
+Sample 246:
+Reference: Durante il suo regno la riforma protestante si diffuse in tutta la Frisia orientale.
+Hypothesis:  Durante il suo regno la riforme protestante si diffusa in tutta la frissia orientale.
+
+Sample 247:
+Reference: Lanciò anche il suo primo touchdown ma subì tre sack.
+Hypothesis:  La ciooleccia e il suo primo taxtão, ma subito è sac.
+
+Sample 248:
+Reference: Pubblicò numerose opere teologiche ed erudite.
+Hypothesis:  Pubblico a numerose opere, teologiche e erudite.
+
+Sample 249:
+Reference: Tutte queste sono le attività tipiche di questo complesso vulcanico.
+Hypothesis:  Tutte queste sono le attività tipiche di questo complesso vulcano.
+
+Sample 250:
+Reference: Per completare un livello è necessario raccogliere cinque cristalli sparsi per lo schema.
+Hypothesis:  per completare un livello e necessario la colla di cinque cristalli sparsi per lo schema
+
+Sample 251:
+Reference: Il sito deve essere completamente restaurato.
+Hypothesis:  Il sito deve essere completamente restaurato.
+
+Sample 252:
+Reference: Si può accompagnare anche con carni arrosto principalmente rosse.
+Hypothesis:  si può accompagnare anche con carne a rosto principalmente rosse
+
+Sample 253:
+Reference: Venne vinta dalla Roma, battendo il ai calci di rigore.
+Hypothesis:  venne vinta dalla Roma battendo il calci di regole.
+
+Sample 254:
+Reference: Matt Carle
+Hypothesis:  matto e carne
+
+Sample 255:
+Reference: A richiesta si può aggiungere il pacchetto R-Line.
+Hypothesis:  Arricchiesta si può aggiungere il paqueto airline.
+
+Sample 256:
+Reference: Le zampe anteriori sono piccole, i piedi sono corti e larghi.
+Hypothesis:  Le zampe anteriori sono piccole, i piedi e sono corti all'arghie.
+
+Sample 257:
+Reference: La stazione tuttavia è priva di sottopassaggi.
+Hypothesis:  la stazione è tutavia in preiva di sottopassaggi
+
+Sample 258:
+Reference: E fotografia e colonna sonora accentuano lo scompiglio.
+Hypothesis:  e fotografie con una sonora a centrona scompiglia
+
+Sample 259:
+Reference: Seaman ha effettuato registrazioni con la Rochester Philharmonic per l'etichetta Harmonia Mundi.
+Hypothesis:  Simon ha effettuato registrazione con la rocester filarmonic per le tiché "Tarmonia mondi".
+
+Sample 260:
+Reference: La stazione della metropolitana prende il nome dalla via.
+Hypothesis:  la stazione della metropolitana prende il nome dalla via
+
+Sample 261:
+Reference: In passato fornì il legno per la costruzione dei vascelli dei navigatori portoghesi.
+Hypothesis:  Impassato a fornì il legno per la costruzione dei vascelli dei navigatori portoghesi.
+
+Sample 262:
+Reference: Un progetto dal titolo "Sperone.
+Hypothesis:  un progetto da un titolo sperone
+
+Sample 263:
+Reference: Tutte le libertà, tranne quella di essere vigliacchi, pacifisti, anti-italiani.
+Hypothesis:  tutte le libertà tra nequena di essere biliacchi, pacifisti, anti-italiani
+
+Sample 264:
+Reference: Ve ne sono anche in tessuto intrecciato, simili a piccole palline colorate.
+Hypothesis:  Venne sono anche in tessuto intrattorizzato, simili a piccole palline colorate.
+
+Sample 265:
+Reference: La manifestazione fu valida anche come settima edizione della Coppa delle Nazioni.
+Hypothesis:  La manifestazione fu valida anche come settima edizione della Coppa delle nazioni.
+
+Sample 266:
+Reference: Il sommo rito è stato compiuto.
+Hypothesis:  Il suo morito è stato compito.
+
+Sample 267:
+Reference: Non esiste invece dimorfismo sessuale evidente nella colorazione.
+Hypothesis:  non esiste invece di mortismo sessuale, evidente nella colore attore.
+
+Sample 268:
+Reference: La porta dal fratello che era un broker, ormai ritiratosi a vita privata.
+Hypothesis:  una porta del fratello che erano il rafformaio tirati sia in un tattro vata
+
+Sample 269:
+Reference: Compose musica sacra e profana.
+Hypothesis:  Compose, musica sacra, e profana.
+
+Sample 270:
+Reference: Sempre presso il primo policlinico di Napoli operano le scuole di specializzazione mediche.
+Hypothesis:  Sempre presso il primo policlinico di Napoli operano le scuole di specializzazione mediche.
+
+Sample 271:
+Reference: Il film risulta così privato nella versione italiana, e in altre, di alcune scene.
+Hypothesis:  Il film risulta così privato nella versione italiana è in altre di alcune scene.
+
+Sample 272:
+Reference: In Corea è spesso mangiato con sale e olio di sesamo.
+Hypothesis:  in Corea è spesso mangiato con sale e o lo di sesamo.
+
+Sample 273:
+Reference: Inizialmente furono solo dieci i frati presenti nel convento.
+Hypothesis:  inizialmente fu uno solo dieci i fravi presenti nel commento
+
+Sample 274:
+Reference: Tra i militari di stanza sull'isola figuravano probabilmente anche germanici.
+Hypothesis:  tra i militari di stanza a solili solo affiguravano probabilmente anche germanici germanici
+
+Sample 275:
+Reference: Nella sua pittura predominano i paesaggi marini o fluviali, con colori tenui e luminosi.
+Hypothesis:  nella sua pittura, Predominano i passaggi marini o fluovoli con colori tennuri e luminosi.
+
+Sample 276:
+Reference: Internet deve arricchire la vita di ogni essere umano.
+Hypothesis:  il Internet deve arricchiaire la vita di ogni estromano.
+
+Sample 277:
+Reference: Viene pertanto affermata la doppia qualificazione di organo giurisdizionale e organo costituzionale.
+Hypothesis:  viene per tanto affermata la doppia qualificazione di organo giures di azionale e organo costituzionale
+
+Sample 278:
+Reference: Inoltre, anziché cominciare da quello di Scorza, fece iniziare da quello di Grandi.
+Hypothesis:  Inoltre, anziché cominciare da quello di Scolanza, fece iniziare il dacqua due di grandi.
+
+Sample 279:
+Reference: I sistemi sanitario ed educativo sono carenti entrambi.
+Hypothesis:  I sistemi sanitario ed ed educativo sono caranti enti enti entambi.
+
+Sample 280:
+Reference: Lavorò nel bosco di Capodimonte nella realizzazione della palazzina della fabbrica di porcellana.
+Hypothesis:  lavorò nel bosco di capo di monti nelle realizzazioni della palazzina e della fabbrica di porcellano.
+
+Sample 281:
+Reference: Franz Alt
+Hypothesis:  Franz Alta
+
+Sample 282:
+Reference: Questi sono i gironi organizzati dal comitato regionale romagnolo.
+Hypothesis:  Questi sono i gironi organizzati del comitato regionale Romagnolo.
+
+Sample 283:
+Reference: Ercole Guadagni.
+Hypothesis:  e se quel è il guadante.
+
+Sample 284:
+Reference: Dorothy Mac Donald, abbandonata quindi da Forrester, si innamora di Roy Thomas.
+Hypothesis:  Dorothy McDonald, abbandonata quindi da Forester, si innamora di Roy Thomas.
+
+Sample 285:
+Reference: Bianca Stuart
+Hypothesis:  Bianca Stewart
+
+Sample 286:
+Reference: La prigionia è un'esperienza che cambia profondamente Colin.
+Hypothesis:  La Virginia è un'esperienza che cambia profondamente calling.
+
+Sample 287:
+Reference: Tipicamente contiene lo stadio olimpico e il centro stampa internazionale.
+Hypothesis:  Tibigamente contiene lo stadio olimpigo e il centro stamp internazionale.
+
+Sample 288:
+Reference: Contribuire è semplicissimo.
+Hypothesis:  contribuire è semplicissimo
+
+Sample 289:
+Reference: Il gioco utilizza il servizio di social network Crystal.
+Hypothesis:  il gioco utilizza service di social network cristal
+
+Sample 290:
+Reference: Rispettivamente, nel confiscare e destinare le ricchezze confiscate
+Hypothesis:  rispettivamente nel confiscare e destinare le richiede di ricchezze confiscate.
+
+Sample 291:
+Reference: Quando il giocatore entra in un tunnel, la visuale passa in prima persona.
+Hypothesis:  Quando il giocatore entra inontunne la visuale passa in prima persona.
+
+Sample 292:
+Reference: Braccio destro di Magnus fu suo fratello Bengt che era anche arcivescovo.
+Hypothesis:  Braccia a destro di Magnus, fu suo frattano Bent, che era anche arciviscovo.
+
+Sample 293:
+Reference: La relazione con Schlegel fece entrare Brendel nel cosiddetto "circolo di Iena".
+Hypothesis:  La relazione con Schlegli, il Ficentrale, prende il nel cosiddetto circolo di Lena.
+
+Sample 294:
+Reference: Le varianti inglesi "Jess" e "Jessie" sono condivise con il nome maschile "Jesse".
+Hypothesis:  Le varianti inglesi di Jesse e Jesse sono condivisi con il nome Maschile Jesse.
+
+Sample 295:
+Reference: Salva, Biancaneve si nasconde nella foresta dove vive insieme ai nani.
+Hypothesis:  Salva, biancaneve si nasconde nella foresta dove vive insieme a Inani.
+
+Sample 296:
+Reference: Polivalente, fece parte della nazionale femminile di sci alpino.
+Hypothesis:  Polyvalente, fece parte della nazionale femminile di Shia alpino.
+
+Sample 297:
+Reference: La catena è quella utilizzata un tempo per legare il bestiame in stalla.
+Hypothesis:  la catena è quello utilizzato da un tempo per legare il bestiammola in stava.
+
+Sample 298:
+Reference: L'esistenza di questi commerci è riportata anche negli annali cinesi di quell'epoca.
+Hypothesis:  L'esistenza di questi commerci è riportata anche negli annali cinesi di quellecca.
+
+Sample 299:
+Reference: Stalin decise di combattere i nazisti casa per casa nelle città controllate dai suoi soldati russi.
+Hypothesis:  Stale in necessità di combattere nazisti, casa per casa, in necessità contro la te e suoi suoi soldati russi.
+
+Sample 300:
+Reference: È la rappresentazione antitetica della damigella in pericolo.
+Hypothesis:  è la rappresentazione antitettica della damigiana impericolo.
+
+Sample 301:
+Reference: Le funzioni iperboliche soddisfano molte identità, simili a corrispondenti identità trigonometriche.
+Hypothesis:  le funzioni hyperbole che soddisfano molti identità simili a corrispondenti identità trigonometri che
+
+Sample 302:
+Reference: Dopo un breve processo, Bernie viene condotto in carcere.
+Hypothesis:  Dopo un breve processo processo, Berney viene condotto in carcere.
+
+Sample 303:
+Reference: O vengono seguiti da altri più dentro al progetto
+Hypothesis:  ho vengono seguiti da altri più dentro del rosetto
+
+Sample 304:
+Reference: Il capoluogo di contea è Delphi.
+Hypothesis:  il capo luogo di contea ed elchi
+
+Sample 305:
+Reference: Si ignora chi fosse il Calpurnio che eresse l'arco.
+Hypothesis:  signora chi fosse il calpurnio che è resta l'arco.
+
+Sample 306:
+Reference: Si attribuiscono a Senofonte anche alcune lettere.
+Hypothesis:  si attribuisce la stessa nove un tanque alquila lettere
+
+Sample 307:
+Reference: Le equazioni nella loro forma generica non semplificano molto il problema.
+Hypothesis:  Le equazioni nella loro forma genera non semplificano molto il problema.
+
+Sample 308:
+Reference: Concluse la carriera militare con il grado di generale di brigata aerea.
+Hypothesis:  Congluse la carriera militare con il grado di generale di Berghiaca area
+
+Sample 309:
+Reference: L’artista lascia sullo sfondo oggetti ritratti perfettamente a fuoco, dipingendo molti dettagli.
+Hypothesis:  l'artista lascia sullo sfondo oggetto e ritrati perfettamente fuoco dipingendo molti dettagli
+
+Sample 310:
+Reference: Fu zio dell'astronoma Caterina Scarpellini.
+Hypothesis:  fu odgio dell'astronoma caterina scarpellini.
+
+Sample 311:
+Reference: Tale ipotesi è stata confutata da più fonti
+Hypothesis:  Talipote se è stata confuntata da Pio Fonte.
+
+Sample 312:
+Reference: È necessario sottolineare che ai sensi dell’art.
+Hypothesis:  è necessario sotto il lineare che è essenzio di l'art.
+
+Sample 313:
+Reference: Verrà obbligato a diventare un "operativo" di Center.
+Hypothesis:  Verra ho obbligato ad diventare un operativo di Center.
+
+Sample 314:
+Reference: Ha al suo attivo numerose pubblicazioni in questo settore.
+Hypothesis:  ha il suo attivo lavoro e viагuncia anche questo esattore.
+
+Sample 315:
+Reference: Tuttavia, la situazione è cambiata, e Andre si trova disoccupato.
+Hypothesis: Tuttavia la situazione cambiata è andre e si trova disoccupato.
+
+Sample 316:
+Reference: Jason Waterhouse
+Hypothesis:  Jason, "What the House"
+
+Sample 317:
+Reference: È ancora possibile vedere alcune delle pareti esterne.
+Hypothesis:  è ancora possibile vedere alcune delle parecchie esterne.
+
+Sample 318:
+Reference: Venne inoltre criticato per l'utilizzo eccessivo delle proprietà intellettuali Disney.
+Hypothesis:  Venne inoltre criticato per l'utilizzo eccessivo delle proprietà intellettuali Disney.
+
+Sample 319:
+Reference: L'insieme vuoto è un sottoinsieme di un qualunque insieme "A".
+Hypothesis:  L'insieme vuodo è un sottenzione medio in qualsiasi quale è un colon qualsiasiame A.
+
+Sample 320:
+Reference: Tentò anche la strada della regia, senza particolare successo.
+Hypothesis:  Tento anche la strada della regia, senza particolare successo.
+
+Sample 321:
+Reference: Durante la Seconda guerra mondiale combatté nell'esercito canadese.
+Hypothesis:  durante la seconda guerra mondiale combatté nelle esercito canadese
+
+Sample 322:
+Reference: Contea di Li
+Hypothesis:  Contea di lì
+
+Sample 323:
+Reference: Direttore della programmazione era Sergio Pugliese, stimato drammaturgo egli stesso.
+Hypothesis:  Direttore della programmazione era a serge opugliese, stimato di ramaturgo agli stesso.
+
+Sample 324:
+Reference: Le applicazioni possono includere servizi Web e basi di dati.
+Hypothesis:  Le applicazioni possono in modo del servizio web e base di data.
+
+Sample 325:
+Reference: Il comune fa parte della diocesi di Oppido Mamertina-Palmi e del vicariato di Palmi.
+Hypothesis:  il comune fa parte della diocesi di Oppito ma Martina Parmi e di ricarriato di Parmi.
+
+Sample 326:
+Reference: L'ultimo invece è stato completato, ma il sovrano morì prima che iniziassero i lavori.
+Hypothesis:  L'ultimo invece è stato completato, ma il sovrano morì prima che iliziato del lavoro.
+
+Sample 327:
+Reference: Aveva potuto farsi un'idea dello stato di totale incoscienza in cui si trovavano gli uomini dell'equipaggio.
+Hypothesis:  Ha avvado tutto far si un'idea dello stato di totale incoscenza in cui si trovavano gli uomini delle cupaccia.
+
+Sample 328:
+Reference: Ken Darby
+Hypothesis:  Canda a b.
+
+Sample 329:
+Reference: Tranne pochi casi, l'articolo indeterminativo è invariabile.
+Hypothesis:  Tra neppo chi casi, l'artico determinativo è invariabile.
+
+Sample 330:
+Reference: Dalla lettura delle sue opere abbiamo notizia di molti titoli.
+Hypothesis:  dalla lettura delle sue opere abbiamo notizia di molti titoli
+
+Sample 331:
+Reference: Le sette sorelle sono Gina, Tina, Dina, Mary Angela, Mary Teresa, Veronica e Cookie.
+Hypothesis:  Le sette sorelle sono Gina, Tina, Dina, Mary Angela, Meriterezza, Verónica e Cooquie.
+
+Sample 332:
+Reference: È insolubile in acqua e leggermente solubile in solventi organici.
+Hypothesis:  è insorubile in acqua, eleggiamente assorubile in solventi organici
+
+Sample 333:
+Reference: La traduzione dal giapponese è approssimativamente "gente rumorosa del pianeta Uru".
+Hypothesis:  La traduzione dal giapponese è aproximadamente gente rumorosa del pianeta euro.
+
+Sample 334:
+Reference: L'ultima parte delle divisioni inferiori è mostrata sulla copertura satellitare.
+Hypothesis:  L'ultima parte dell'etivisione, feriori e mostratta sulla copertura satellite.
+
+Sample 335:
+Reference: Il tutto è coronato da un cornicione con una sorta di merlatura ad archetti.
+Hypothesis:  Il tutto è coronato da un cornisione con una toffe di merla dura da petti.
+
+Sample 336:
+Reference: Ad ogni modo incontrò notevoli difficoltà come ministro del culto.
+Hypothesis:  Ad ogni modo, incontrono, non teoli di difficoltà come ministro del culto.
+
+Sample 337:
+Reference: In Canada il modello è commercializzato come Buick Allure.
+Hypothesis:  in Canada il modello è come talizzato come Buick Allure.
+
+Sample 338:
+Reference: Spurie sono tre opere che ci sono pervenute con il suo nome.
+Hypothesis:  Spuri sono tre opere che ci sono pervenute con il suo nome.
+
+Sample 339:
+Reference: La popolarità del brano è dimostrata anche dalla quantità di cover avute negli anni.
+Hypothesis:  La polarità del brano è dimostrata anche dalla quantità di cover-upote degli anni.
+
+Sample 340:
+Reference: La parte absidale è sormontata da un campanile a vela.
+Hypothesis:  La parte obsidale è sormontata da un campanile avvela.
+
+Sample 341:
+Reference: Con il tempo questo trasferimento invernale divenne definitivo..
+Hypothesis:  Con il tempo questo trascendimento invernale, divenne definitivo.
+
+Sample 342:
+Reference: Questi enormi dinosauri erano entrambi erbivori.
+Hypothesis:  Questi enormi di nosori erano entrambi herbivoli.
+
+Sample 343:
+Reference: Proprietario della miniera fu il Duca di Villarosa D. Placido Notarbartolo.
+Hypothesis:  Proieterio della miniera, fu il duca di Villairosa di Plascido notar Bartolo.
+
+Sample 344:
+Reference: Il titolo alternativo in inglese è "Cactus Jack".
+Hypothesis:  Il titolo alternativo in inglese è Cactus Jack.
+
+Sample 345:
+Reference: I feel so small".
+Hypothesis:  "I field source moren.
+
+Sample 346:
+Reference: Vi sono molti siti religiosi che sono protetti e ammirati in tutto il mondo.
+Hypothesis:  Vissono, molti siti religiosi, che sono protatti e ammirati in tutto il mondo.
+
+Sample 347:
+Reference: Nello stesso periodo, il Centro pubblicò ottanta libri scientifici.
+Hypothesis:  e lo stesso periodo il centro pubblica tanta gli recentifici
+
+Sample 348:
+Reference: Su due grossi pezzi di scotch vi era scritto "Hardcore Champion".
+Hypothesis:  Sulla grossi pezzi di scocce vi è scritto a Hardcore Champion.
+
+Sample 349:
+Reference: Motto dello stemma sul sito dell'Aeronautica Militare
+Hypothesis:  Molto dello stemma sul sito della renattica militare.
+
+Sample 350:
+Reference: Nello stesso tempo vennero acquisiti alcuni elementi delle soap opera del continente americano.
+Hypothesis:  Nello stesso tempo, vennero acquisiti alcuni elementi delle sottopopera del continente americano.
+
+Sample 351:
+Reference: The Torn Letter
+Hypothesis:  "Tornelettro!
+
+Sample 352:
+Reference: Nel testo, Marina viene descritta come "una ragazza mora ma carina".
+Hypothesis:  Nel testo, Marina viene descritta come una ragazza mora macarina.
+
+Sample 353:
+Reference: Successivamente hanno proceduto, ciascuno nella propria disciplina, ad una valutazione delle conoscenze
+Hypothesis:  successivamente non proceduto, ciascuno nella propria discipline ad una valutazione delle conoscenze
+
+Sample 354:
+Reference: Considerando la vita di quelli che hanno fedelmente seguito Cristo.
+Hypothesis:  considerando la vita di quelli che hanno effettivamente seguito Cristo.
+
+Sample 355:
+Reference: La pace era quello che la nazione esausta ora richiedeva.
+Hypothesis:  la parte era quello che la nazione già uscita ora l'iccediva.
+
+Sample 356:
+Reference: In autunno gli uccelli ritornano in Africa passando sulla stessa rotta.
+Hypothesis:  in auto non gli uccelì ritorno nel nabbrica passando sulla stessa rota
+
+Sample 357:
+Reference: Giovanna è stata catturata e si trova prigioniera nelle mani degli inglesi.
+Hypothesis:  Giovanna è stata accattura a atta si trova prigioniera nelle mani dei inglesi.
+
+Sample 358:
+Reference: Ralph Fiennes è nato a Ipswich in una famiglia aristocratica di origini normanne.
+Hypothesis:  Raw thinness è nato a ip-Switch in una famiglia aristocratica di origini inormande.
+
+Sample 359:
+Reference: San Simeone è con te!".
+Hypothesis:  San Sinéone è con te.
+
+Sample 360:
+Reference: La camera era abbondantemente illuminata e ammobiliata con gusto.
+Hypothesis:  La camera era abbondantemente illuminata e amobilizzata con gusto.
+
+Sample 361:
+Reference: Successivamente è diventato uno studente della "Old Dominion University", sempre in Virginia.
+Hypothesis:  successivamente, è diventato uno studenti della Oldemigliano University Sanpre in Virginia
+
+Sample 362:
+Reference: La minoranza etnica più numerosa è costituita da rumeni.
+Hypothesis:  la minoranza etni capiunumerosa è costituito da Rumieni
+
+Sample 363:
+Reference: Il girone è stato disputato a Catania.
+Hypothesis:  Il girone è stato disputato a Catania.
+
+Sample 364:
+Reference: Tra le sue passioni la danza e il canto.
+Hypothesis:  tra le sue passioni la danza e il canto
+
+Sample 365:
+Reference: Dopo l'incarico militare partirà per le dune del Sahara in una stimolante avventura giornalistica.
+Hypothesis:  Dopo l'incarico militare, partirà per le dune del Sara in una simulante avventura giornalistica.
+
+Sample 366:
+Reference: La lingua parlata a scuola è l'inglese.
+Hypothesis:  La lingua per otta scuola è l'inglese.
+
+Sample 367:
+Reference: Lasciò la recitazione a metà degli anni Settanta.
+Hypothesis:  la sciolare citazione a metà degli anni settanta
+
+Sample 368:
+Reference: Nella pallavolo indoor ha giocato nel ruolo di palleggiatore.
+Hypothesis:  Nella pallavolo indoor ha giocato nel ruolo di palleggiatore.
+
+Sample 369:
+Reference: L'intero campionato durò meno di due mesi.
+Hypothesis:  l'intero campionato durò meno dei due mesi.
+
+Sample 370:
+Reference: Ad Antiochia di Siria fu scelto un patriarca ortodosso per sostituire l'eretico Severo.
+Hypothesis:  Ad anti occhi a di Siria, cui scelto un patriarca ortodosso per sostituire l'eretico severo.
+
+Sample 371:
+Reference: Il segretariato permanente ha sede a Yaoundé, in Camerun.
+Hypothesis:  il segrestariato permanente è a se deà e a onde in camera.
+
+Sample 372:
+Reference: Molti degli uomini di Antonio seguono quindi Tirone unendosi alla terza legione.
+Hypothesis:  molti degli omini di Antônio seguono quindi Tirono unendosi alla terza legione.
+
+Sample 373:
+Reference: Ha partecipato a numerosi progetti di ricerca, sia in Italia, sia all'estero.
+Hypothesis:  Ha partecipato a numerosi progetti di ricerca, sia in Italia, sia all'estero,
+
+Sample 374:
+Reference: Se due triangoli hanno i tre lati rispettivamente proporzionali, allora sono simili.
+Hypothesis:  Se metri hanno migliano trovati rispettionali per funzionali al loro soluzioni.
+
+Sample 375:
+Reference: Tuttavia né i muschi, né le piante vascolari erano dotati di radici profonde.
+Hypothesis: Tuttavia i nemuschi e nelle piante vascolari erano dotati di radici profonde.
+
+Sample 376:
+Reference: Ai fini della liquidazione dei buoni incassati.
+Hypothesis:  ai fini della liquidazione dei buoni incassati
+
+Sample 377:
+Reference: Sulla chiesa insiste il titolo cardinalizio omonimo.
+Hypothesis:  sulla chiesa insiste il titolo cardinalizio o monimo insiste il titolo cardinalizio insiste il titolo cardinalizio o monimo insiste il titolo cardinalizio o monimo insiste il titolo cardinalizio o monimo insiste il titolo cardinalizio o monimo
+
+Sample 378:
+Reference: La società editrice venne denominata Nuova Antologia, lo stesso nome della rivista.
+Hypothesis:  La società ed i trice venne denominata nuova antologia, lo stesso nome della rivista.
+
+Sample 379:
+Reference: In Italia uscì l'anno successivo.
+Hypothesis:  in Italia usci l'anno successivo.
+
+Sample 380:
+Reference: Sopravvivono anche degli antichi bassorilievi.
+Hypothesis:  sopravvivono anche negli antici bassori gli anni.
+
+Sample 381:
+Reference: Douglas Kennedy
+Hypothesis:  da la scelte dello Canada.
+
+Sample 382:
+Reference: Su di esso depongono le uova e su di esso si sviluppano le larve.
+Hypothesis:  su di esso, depongono le vova e su di esso si sviluppano l'larve.
+
+Sample 383:
+Reference: La Roma presenta gemellaggi ufficiali con i greci del e gli spagnoli dell'.
+Hypothesis:  La Roma presenta gemelaggio ficali con i Greci del e gli Spagnoli del
+
+Sample 384:
+Reference: Giunto al cospetto di Capitolino fu flagellato e condannato al rogo.
+Hypothesis:  Giunto il cospetto del capitolino, il cospetto più flagelato e condannato a rovo.
+
+Sample 385:
+Reference: Il lavoro politico clandestino consisteva essenzialmente in due compiti.
+Hypothesis:  il lavoro politico clandestino consisteva essenzialmente in due compiti
+
+Sample 386:
+Reference: Ma la morte non lo colse impreparato.
+Hypothesis:  ma la morte non lo colse è imprimirato.
+
+Sample 387:
+Reference: Dalla loro unione nasceranno due figli Giovanni e Paolo.
+Hypothesis:  dalla loro unione nasceranno due figli, Giovanni e Paolo.
+
+Sample 388:
+Reference: Altri pareri derivano dalla cultura popolare e da possibili correlazioni storico-etimologiche.
+Hypothesis:  Antri parelli derivano dalla cultura popolare ed è possibile con relazione storico i timodologici.
+
+Sample 389:
+Reference: La coda è assente oppure ridotta ad un tubercolo.
+Hypothesis:  la coda è assente oppure ridotta a un tubaercolo
+
+Sample 390:
+Reference: La gara venne così vinta dal pilota di casa Clay Regazzoni.
+Hypothesis:  La gara venne così vinta dal pilota di casa che le ragazioni.
+
+Sample 391:
+Reference: L'artista torna poi a casa e trova tutto sottosopra, evidente vendetta dell'ex ragazzo.
+Hypothesis:  l'artista torna poi a casa e trova tutto sotto sopra, evidentemente vendetta dell'ex ragazzo.
+
+Sample 392:
+Reference: Il film fu commissionato dalla Rai ma in seguito rifiutato.
+Hypothesis:  Il film fu commissionato da Narae, ma in seguito di frutati.
+
+Sample 393:
+Reference: Nižinskij avrebbe trascorso il resto della sua vita entrando e uscendo da ospedali psichiatrici.
+Hypothesis:  Gli nazischi avrebbe per trascorso il resto della sua vita e andando e uscendo da ospedali psichiatri.
+
+Sample 394:
+Reference: Il codice sorgente è sviluppato da ricercatori russi.
+Hypothesis:  Il codice sorgente è sviluppato da ricercatori riuscì.
+
+Sample 395:
+Reference: Accanto a lui, muore Raffaele Persichetti.
+Hypothesis:  Accanto lui muore "raffelle" per "si quieti".
+
+Sample 396:
+Reference: Mattie andò in terapia per il sopruso che dovette subire.
+Hypothesis:  Mattiando interapia per il sopruso che dovette subire.
+
+Sample 397:
+Reference: Dietro l'altare, un pregevole coro ligneo.
+Hypothesis:  Giedere al altare un pregio lecorro lineo.
+
+Sample 398:
+Reference: Faceva parte della classe Andrea Doria.
+Hypothesis:  Paceva parte della classe Andrea Doria.
+
+Sample 399:
+Reference: Quando i tedeschi aprirono il fuoco diversi olandesi caddero.
+Hypothesis:  quando i tedeschi aprirono il fuoco, diversi olandesi caddero.
+
+Sample 400:
+Reference: Preferiscono le aree di foresta pluviale.
+Hypothesis:  preferiscono le aree di foresta pluviale
+
+Sample 401:
+Reference: Queste informazioni sono diffuse attraverso Internet.
+Hypothesis:  Questa informazioni sono diffusia attraverso interna.
+
+Sample 402:
+Reference: Take a Look Around
+Hypothesis:  take a look around
+
+Sample 403:
+Reference: La seconda sosta dell'asturiano avviene al quarantesimo giro, e Schumacher passa davanti.
+Hypothesis:  e secondo assosto dell'asturiano avviene nel quantiesimo giro e su Macerpassa davanti
+
+Sample 404:
+Reference: Mary, che si dedica a opere caritatevoli, si trova un giorno nel quartiere.
+Hypothesis:  Mary che si dedica dopo per i caritatevoli si trova un giorno nel quartiere.
+
+Sample 405:
+Reference: Rilevante per una lettura della Riforma cattolica.
+Hypothesis:  Reilevante per una lettura della riforme cattolica.
+
+Sample 406:
+Reference: Forse è ora che ci dimostriamo capaci di sconvolgere l'opinione pubblica?
+Hypothesis:  forse ora che ci dimostriamo capaci di sconvolgere l'opinione pubblica
+
+Sample 407:
+Reference: Uno di quei posti fu Beringia.
+Hypothesis:  uno di quei posti fu Beringe.
+
+Sample 408:
+Reference: Per tutti gli anni ottanta continua ad essere richiesta per il grande schermo.
+Hypothesis:  Per tutti gli anni ochilità, il grande schermo è continuato per il grande schermo.
+
+Sample 409:
+Reference: Sorprendentemente, il giovane rifiutò e al contrario, decise di entrare nell'ordine dei domenicani.
+Hypothesis:  Sopragnentemente il giovane rifiutò, e al contrario decide di entrare nell'ortine dei tumenicani.
+
+Sample 410:
+Reference: Per la parte visiva predilige la ripetizione delle figure, le immagini speculari, il ritmo.
+Hypothesis:  per la parte visiva, pre-deligirare pettizione del figura, l'immagine specolare, il ritmo.
+
+Sample 411:
+Reference: La Regina Margherita e la Duchessa d'Aosta avevano acquistato azioni.
+Hypothesis:  La regina margherita e la duchessa da ostaccia avevano acquistato azioni.
+
+Sample 412:
+Reference: Pro Eggs.
+Hypothesis:  Pro X
+
+Sample 413:
+Reference: Attualmente, il dipinto è esposto alla galleria d'arte di Bergen.
+Hypothesis:  attualmente il dipinto è esposto alla galleria d'arte di Bergen
+
+Sample 414:
+Reference: Nicola e Antonella si innamorano.
+Hypothesis:  Nicola e Antonella si namorano.
+
+Sample 415:
+Reference: Fu sepolto nell'abbazia-chiesa di san Pietro, poi dedicata a sant'Agostino.
+Hypothesis:  O se ora tornerebbe la batteria è stata servita di saluto e la tratta di rettocque di una parola assentrocoschistile.
+
+Sample 416:
+Reference: Celeste incolpa Ed di non fare nulla per aiutare sua moglie.
+Hypothesis:  Se l'esso è incolpa ed di non fare nulla per aiutare sua moglie.
+
+Sample 417:
+Reference: Scendeva dalla piattaforma solo per fare il bagno nel fiume.
+Hypothesis:  Cendeva dalla piattaforma solo per fare il bagno nel fiume.
+
+Sample 418:
+Reference: Come parli frate?
+Hypothesis:  come barri frate
+
+Sample 419:
+Reference: Anche suo padre e suo fratello furono parte della sua rete di spie.
+Hypothesis:  anche suo padre soffertello furono parte della sorrita di Spia.
+
+Sample 420:
+Reference: Fu consigliere del vescovo di Brescia al Concilio di Trento.
+Hypothesis:  fu consigliere nel vescovo di Brescia al conciglio di Trento.
+
+Sample 421:
+Reference: Sua madre era una sarta.
+Hypothesis:  sua madre è l'unaserta
+
+Sample 422:
+Reference: È attiva anche una linea extraurbana per Ascoli Piceno, Giulianova, Civitanova Marche e Roma.
+Hypothesis:  e attivano anche una linea ecrourbana per ascolta il piziano giudiano nove, città nove marchie e Roma
+
+Sample 423:
+Reference: La Restaurazione fu un breve periodo felice per questa famiglia così provata.
+Hypothesis:  La restaurazione fu un breve periodo felice per questa famiglia così provata.
+
+Sample 424:
+Reference: Un vero e proprio angolo di paradiso.
+Hypothesis:  un vero è proprio angolo di paradiso
+
+Sample 425:
+Reference: Testi di Manlio Sgalambro e Franco Battiato, musiche di Franco Battiato, escluso ove indicato.
+Hypothesis:  Testi di Magnios Gallembro è Franco Battiato, musica di Franco Battiato e scluso o vendicato.
+
+Sample 426:
+Reference: Fu fondata da Charles Force, uno schiavo americano liberato che morì poco dopo.
+Hypothesis:  fu fondata da Charles Forz, uno schiavame riuscì di riponere dopo.
+
+Sample 427:
+Reference: Spesso il personaggio riappare caratterizzato diversamente o con il nome storpiato.
+Hypothesis:  Spesso il personaggio, riappare caratterizzato diversamente o con il nome storpiato.
+
+Sample 428:
+Reference: Il punto di partenza è la formulazione debole del problema alle derivate parziali.
+Hypothesis:  Il punto di partenza è la formolazione debole del problema alle derivate parziali.
+
+Sample 429:
+Reference: Wayne Glasgow
+Hypothesis:  Wayne Glasgow
+
+Sample 430:
+Reference: Svolge un ruolo importante nell"Antigone" di Sofocle.
+Hypothesis:  Svolge un volo importante l'antigua una di software.
+
+Sample 431:
+Reference: Inoltre si offrì anche un sistema sanitario gratuito insieme ad altri servizi.
+Hypothesis:  inoltre si offria anche un sistema sanitario gratuito insieme ad altri servizi.
+
+Sample 432:
+Reference: Furono posti altri restauri anche dopo i bombardamenti della Seconda Guerra Mondiale.
+Hypothesis:  Furono posti e altri restauri, anche dopo i bombardamenti della Seconda guerra mondiale.
+
+Sample 433:
+Reference: Wilson Washington
+Hypothesis:  Wilson Washington
+
+Sample 434:
+Reference: È anche tradizione che un violinista guidi il corteo nuziale verso la chiesa.
+Hypothesis:  e anche tradizione che un violinista guidi corteonuziale verso la chiesa
+
+Sample 435:
+Reference: È un corollario di quel teorema, devi memorizzarlo.
+Hypothesis:  è un corrollario di questo riman, devi memorizzarlo
+
+Sample 436:
+Reference: De Rosa
+Hypothesis:  De-roza
+
+Sample 437:
+Reference: È la più importante piazza della città insieme a piazza Cavour.
+Hypothesis:  La più importante piacere è che la sua taisima piacere è stata stata una piacerazza.
+
+Sample 438:
+Reference: Infine vi sono le mappe dette "pirata".
+Hypothesis:  infine vi sono le mappe dette pirata
+
+Sample 439:
+Reference: È stato distribuito anche in Brasile con il titolo "Volte para o Rancho".
+Hypothesis:  è stato distribuito anche in brasilia con il titolo, "Volte para-orancio".
+
+Sample 440:
+Reference: The Occult
+Hypothesis:  "The Occult".
+
+Sample 441:
+Reference: Inoltre può essere utilizzato nella carta smeriglio, un tipo di carta abrasiva.
+Hypothesis:  Inoltre può essere utilizzato nella carta smeriglio un tipo di carta braseiva.
+
+Sample 442:
+Reference: Dreaming World Big Assault!
+Hypothesis:  Dremi, uorbbi, assolutta.
+
+Sample 443:
+Reference: Andare su tutte le furie.
+Hypothesis:  andare su tutte le furie
+
+Sample 444:
+Reference: Questa riteneva, infatti, insufficienti le garanzie degli agricoltori senesi e minacciava ancora la chiusura.
+Hypothesis:  questa riteneva infatti insufficenti le garantie degli agricoltori semisi e minacciava ancora la chiusura.
+
+Sample 445:
+Reference: Il vecchio fece una risatina soave e si allontanò.
+Hypothesis:  Il vecchio fece una risattina soave e si allontano.
+
+Sample 446:
+Reference: In caso contrario sarebbero stati uccisi e gli insediamenti distrutti.
+Hypothesis:  in caso contrario sarebbe lo stato uccisi e gli insegnamenti distrutti.
+
+Sample 447:
+Reference: Dipinge "I ciechi".
+Hypothesis:  dipinge i ciché chi
+
+Sample 448:
+Reference: I coefficienti "a", "b", "c" e "d" sono ricavabili dalla tabella che segue.
+Hypothesis:  I coefficienti A, B, C e D sono ricopabili dalla tabella che segue.
+
+Sample 449:
+Reference: Il rilancio include anche nuove serie come "Incredibili Avengers" e "Nuovissimi X-Men".
+Hypothesis:  Il rilanchio includia anche nuove serie come "Incredibile Avengers" e "Novissimi X-Men".
+
+Sample 450:
+Reference: Nella zona presbiterale si trovano due piccoli portali architravati con mensole concave.
+Hypothesis:  nella zona prespiterale si trovano due piccoli portali e architravanti con mensore con cabe
+
+Sample 451:
+Reference: Yuki pensa che il bambino potrebbe essere lei stessa.
+Hypothesis:  Yuki pensa che il bambino potrebbe essere le stesse la stessa.
+
+Sample 452:
+Reference: Nella città erano presenti tre magazzini generali, due osterie, un albergo, e un fabbro.
+Hypothesis:  nella città erano presenti tre magazzioni generali due osterie un alberco e un fabbra
+
+Sample 453:
+Reference: La rete di trasporti urbana, è funzionale, efficiente e capillare.
+Hypothesis:  La rete di trasporti urbana è funzionale e fissente e capigliora.
+
+Sample 454:
+Reference: Essi sostengono anche che la persecuzione nazista anti-omosessuale era diretta esclusivamente contro le donne.
+Hypothesis:  e si sostengono anche che la perseguizione in anzistanti i stanti homosegni suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi suoi su
+
+Sample 455:
+Reference: Poi la storia ufficiale tace.
+Hypothesis:  poi la storia è ufficiale Tace.
+
+Sample 456:
+Reference: Quasi tutti, comunque, depongono tra le cinque e le dieci uova.
+Hypothesis:  Quasi tutti comunque comunque te pongono tra le cinque le dieci uova.
+
+Sample 457:
+Reference: I Curi avevano una grande tradizione guerriera, erano eccellenti navigatori e temuti pirati.
+Hypothesis:  Il curi avevano una grande tradizione guenileva, è un'eccellente navigliatori e temuti epidati.
+
+Sample 458:
+Reference: Adottando il progetto originale la linea sarebbe passata accanto alla basilica.
+Hypothesis:  Adottando il progetto originale, la linea sarebbe passata accanto alla basilica.
+
+Sample 459:
+Reference: Nel video, Pink esibisce sei differenti costumi.
+Hypothesis:  Nel video, pink esibili cessa i differenti costumi differenti.
+
+Sample 460:
+Reference: Nessuna richiesta fu accolta.
+Hypothesis:  Ne sono ricchiesta fu accolta.
+
+Sample 461:
+Reference: A Sissa venne arrestato per avere rubato il cesto delle offerte dalla chiesa.
+Hypothesis:  Assis ha venne arrestato per aver rubato il cesto dell'offerta della chiesa.
+
+Sample 462:
+Reference: Abile nel takedown, è inoltre noto per la sua capacità nel ground and pound.
+Hypothesis:  Abbevete in tartar down e inoltre notore la sua caracità nel Grand Pan Pan Pad.
+
+Sample 463:
+Reference: La tibia è priva di peli.
+Hypothesis:  La tibia è priva di peli.
+
+Sample 464:
+Reference: Un adattamento animato di "Saki" è stato annunciato sul ventiquattresimo numero di "Young Gangan".
+Hypothesis:  Un addattamento animato di sacchi è stato annunciato sul venti quattresimo numero uno di young gang.
+
+Sample 465:
+Reference: Ciò causò il disappunto di Elton, che aveva riposto buone speranze in questo brano.
+Hypothesis:  ciò causa il disapunto di Erton, che aveva riposto buon esperanzo in questo brano.
+
+Sample 466:
+Reference: Fu messa comunque per un breve periodo agli arresti domiciliari.
+Hypothesis:  Fumessa comunque per un breve periodo agli arresti domiciliari.
+
+Sample 467:
+Reference: Sempre a Bergamo numerose sue opere sono raccolte alla Galleria d'Arte Moderna e Contemporanea.
+Hypothesis:  sempre a Bergamo, numerosi suoi opere, sono raccolte alla galleria d'arte moderne e contemporanea.
+
+Sample 468:
+Reference: Comandava la gendarmeria, e diede prova di grande valore.
+Hypothesis:  Comandava alla gentarmeria e di ed è provati grande valori.
+
+Sample 469:
+Reference: Era un gigante mitico che viveva ad Anversa.
+Hypothesis:  era un gigante mitico che viveva ad anversa.
+
+Sample 470:
+Reference: I due girarono molto e diedero fino a sessanta concerti all'anno.
+Hypothesis:  I due girarono molto è dedicato di ed è il raffina sessanta con cerca l'anno.
+
+Sample 471:
+Reference: Pizzi si dimise e fu sostituito a luglio dal francese Hervé Renard.
+Hypothesis:  Pizzi, cidimese, e fu sostituito all'ulio dal Francesa Harvard andard.
+
+Sample 472:
+Reference: In genere, la lunghezza supera di otto volte la larghezza.
+Hypothesis:  In genere la lunghezza supera di otto volte la largizza.
+
+Sample 473:
+Reference: Il video si conclude con Siouxsie che goffamente suona un pianoforte a coda colpendolo.
+Hypothesis:  Il video si conclude con "Si ossì che, goffamente, sono un piano forte a coda colpendolo".
+
+Sample 474:
+Reference: Fidia, contemporaneo di Policleto, fu tra gli scultori più influenti della sua epoca.
+Hypothesis:  Fidia, contemporaneo di policleto, potra gli escoltori più influenti della sua epoca.
+
+Sample 475:
+Reference: Viene liberata dagli uomini della gang dei "Riders", la più importante banda del Bronx.
+Hypothesis:  viene liberata da gli uomini della Gang of the Riders la più importante banda del Bronx
+
+Sample 476:
+Reference: Molti anfibi sono oggi minacciati di estinzione per varie cause.
+Hypothesis:  molti anfibili sono oggi minacciati di estensione per pari a causa
+
+Sample 477:
+Reference: I voortrekker stabilirono inizialmente rapporti amichevoli con la popolazione indigena dei Venda.
+Hypothesis:  i "Wurthracker" stabilirono inizialmente rapporti e micahevoli con la popolazione indigena di Venda.
+
+Sample 478:
+Reference: Maddox, invece, usa la donna per accumulare informazioni riservate sui segreti di Wall Street.
+Hypothesis:  Maddox invece usa la donna per accumulare informazioni riservate sui segreti di Wall Street.
+
+Sample 479:
+Reference: Era stato Jorge Newbery ad acquisire i terreni in via Arena.
+Hypothesis:  era stato gli organi uberi ad acquisire i treni inviarema
+
+Sample 480:
+Reference: Si presume che la riproduzione avvenga con lo sviluppo larvale in acqua.
+Hypothesis:  si prigeume che la riportuzione avvenga con lo giuduppo la normale in acqua.
+
+Sample 481:
+Reference: La causa è neurologica.
+Hypothesis:  la causa è neuroologica
+
+Sample 482:
+Reference: Da poco ha avuto un bimbo di nome Antonio Emanuele.
+Hypothesis:  Da poco ha avuto un bimbo di nome Antony Manuel.
+
+Sample 483:
+Reference: Davide, un giovane pescatore, ritorna nella sua Camogli dopo la prigionia durante la guerra.
+Hypothesis:  Davide, un giovane pescatore, ritorna nella sua camoglie dopo la prigionia durante la guerra.
+
+Sample 484:
+Reference: In questa ecoregione di montagna le piogge sono più regolari, sebbene siano piuttosto scarse.
+Hypothesis:  In questa ecoregione di montagna le chiadezioni più agli montagni sono più egolare e benissime per il totto scarse.
+
+Sample 485:
+Reference: Offre ad uno degli uomini cento mila rupie per non rendere il video pubblico.
+Hypothesis:  Offre è avuto nonodaliuò minientamine la ruova per non rendere il videocubblico.
+
+Sample 486:
+Reference: Pica è autore di saggi antropologici in stile autobiografico ed etnografico.
+Hypothesis:  Piccà è autore il disagio entropologico e in stile autobiografico, "Tenegno-rafico".
+
+Sample 487:
+Reference: Il guardiano era un piccolo uomo napoletano, calvo.
+Hypothesis:  il guardiano era un piccolo uomo napoletano, Carlo.
+
+Sample 488:
+Reference: Per tale motivo questo salone venne ribattezzato Sala del Tricolore.
+Hypothesis:  il realtà le motivo questo salone è erbattizzato solo del tercolo loja
+
+Sample 489:
+Reference: La maggior parte degli uomini ha una doppia vita.
+Hypothesis:  La maggior parte degli homini ha una doppia vita.
+
+Sample 490:
+Reference: Morì quello stesso anno, a casa sua, di un attacco cardiaco.
+Hypothesis:  Morì quello stesso anno, a casa sua, di un attacco cardiaco.
+
+Sample 491:
+Reference: Nessuno poteva in qualche modo convincerlo a consumare i pasti nei suoi appartamenti
+Hypothesis:  nessuno potrebbe in qualche modo convincerelo a consumare i passi nei suoi appartamenti.
+
+Sample 492:
+Reference: Questo capovolgimento è spesso importante per il mantenimento dell'ossigenazione nei laghi molto profondi.
+Hypothesis:  questo capovolgimento è spesso importante per mantenimento della stagionazione dei laghi molto profondi
+
+Sample 493:
+Reference: Fu eletto tre volte presidente di corso.
+Hypothesis:  fu un retto tra volte presidente di corso
+
+Sample 494:
+Reference: Escono anche i videoclip autoprodotti di "Perché sorridere?
+Hypothesis:  escono anche i videoclip autoprodotti d perché sorridere
+
+Sample 495:
+Reference: Alcuni critici, tra cui Vittorio Cian, si sono interessati della sua opera.
+Hypothesis:  Alcuni critici tra cui "bittorio-chang si sono interessati della sua opera.
+
+Sample 496:
+Reference: Ben presto partecipò attivamente alla lotta armata.
+Hypothesis:  Bem presto partecippo attivamente partecippo alla lotta armata.
+
+Sample 497:
+Reference: Questo fatto può essere anche verificato con il teorema di Seifert-Van Kampen come segue.
+Hypothesis:  questo fatto può essere anche verificato con il teorema di Cyberfan-Canton come segue
+
+Sample 498:
+Reference: Il metallo recuperato poteva infatti essere raccolto e poi fuso in nuove monete.
+Hypothesis:  il metandolo recuperato potrebbe infatti essere l'accordo più fuose nuovendose monete.
+
+Sample 499:
+Reference: Il libro fu estremamente popolare e venne ristampato cinque volte.
+Hypothesis:  il libro fu estremamente popolare venne ristampato cinque volte.
+
+Sample 500:
+Reference: Essa è amministrata dalla prefettura di Ordos.
+Hypothesis:  Essa è amminisprata dalla pretettura di Ordos.
+
+Sample 501:
+Reference: Un'altra tradizione era quella di indossare i tefillin nei giorni intermedi di un festival.
+Hypothesis:  Un'altra tradizione era quella di dossare i Tefillin nei giorni intermedi di festival.
+
+Sample 502:
+Reference: Presso l'università degli studi di Napoli ottenne, invece, la laurea in lettere classiche.
+Hypothesis:  Presso l'Università degli studi in Napoli potente invece era l'auvelette classica.
+
+Sample 503:
+Reference: Si è scusato per questo e l'ha descritto come un caso sfortunato.
+Hypothesis:  C'è scusato per questo e la descritta come un caso scortunato.
+
+Sample 504:
+Reference: Aveva la schiena inarcata e il pelo ritto.
+Hypothesis:  aveva i varaschi in una inercata e il belurito.
+
+Sample 505:
+Reference: Per regolamento solo due ginnaste per paese possono accedere alla finale.
+Hypothesis:  Per regolamento solo due ginaste per paese possono accendere alla finale.
+
+Sample 506:
+Reference: Del vecchio monastero sono oggi sopravvissuti solo alcuni basamenti.
+Hypothesis:  Del vecchio monastero, sono oggi sopravvisuti solo alcuni basamenti.
+
+Sample 507:
+Reference: Con il nastro nero di quelle che usavano i dandies dell'Ottocento.
+Hypothesis:  con il nastro nero di quelle che usavano i tendis dell'Ottocento.
+
+Sample 508:
+Reference: Non è però escluso che possa significare "scuro", in riferimento al colore della pelle.
+Hypothesis:  Non è però escluso che possa significare scuro in riferimento al colore della pelle.
+
+Sample 509:
+Reference: Basta canzoni tristi, ovviamente.
+Hypothesis:  Ma stà canzoni tristi ovviamente massita.
+
+Sample 510:
+Reference: Oggi con la città condivide soprattutto le ampie prospettive di crescita.
+Hypothesis:  oggi con la città condivide soprattutto le ampie prospettive di crescita
+
+Sample 511:
+Reference: Morì probabilmente in quell'anno nella capitale toscana.
+Hypothesis:  Murì probabilmente in quell'anno nella capitale Toscana.
+
+Sample 512:
+Reference: Primitivo complesso di edifici religiosi adiacenti al trecentesco palazzo Sclafani.
+Hypothesis:  Primitivo a complesso di difficile rigiosi, adiacente al tracente esco para-soscola Fane.
+
+Sample 513:
+Reference: Il brano salì fino al primo posto della classifica dance di Billboard.
+Hypothesis:  il brano salì fino al primo posto della classifica dance di Billboard.
+
+Sample 514:
+Reference: In entrambi i film ha recitato anche il cantante Marques Houston.
+Hypothesis:  in entrambi film ha recitato anche il cantante Marcus Houston.
+
+Sample 515:
+Reference: Esistono alcuni tipi di scansioni più insoliti.
+Hypothesis:  esistono al cune tipe di discussionzioni più in soliti
+
+Sample 516:
+Reference: Il campanile è una torre circolare tratta da una torre del vecchio castello.
+Hypothesis:  il campanile è un attore circolare tratta da un attore del vecchio castello
+
+Sample 517:
+Reference: Rappresenta i fiumi della Čukotka.
+Hypothesis:  rappresente i fiume della Kutoccia.
+
+Sample 518:
+Reference: Appartengono alla famiglia dei Sirio, costruiti dall'AnsaldoBreda.
+Hypothesis:  Appartengono la famiglia dei Sirio, costruiti dall'ansaldo Breda.
+
+Sample 519:
+Reference: Hans Karl ritorna ed incontra Helene in procinto di uscire per cercarlo.
+Hypothesis:  Anzcarla, ritorna e l'incontra, e len in procinto di uscire per cercarlo.
+
+Sample 520:
+Reference: Il nome, ispirato al presidente Nordvietnamita Ho Chi Minh, è di origine americana.
+Hypothesis:  Il nome "ispirata al presidente nord-vietramità occhi-ming è di origine americana".
+
+Sample 521:
+Reference: Il termine, data la sua singolarità, ha messo duramente alla prova i traduttori.
+Hypothesis:  Il termine, data alla sua singolarità, ha messo duramente alla prova i traduttori.
+
+Sample 522:
+Reference: É presente in minor misura anche in Piemonte, Liguria e Sicilia.
+Hypothesis:  è presente in minormi esura anche in pienti i migliori esili agli cilri a cilri a fattore
+
+Sample 523:
+Reference: In passato è stato utilizzato nel ruolo di esterno alto.
+Hypothesis:  in passato è stato utilizzato nel ruolo di esterno alto
+
+Sample 524:
+Reference: È bagnato dalla Saale di Franconia, un affluente del Meno.
+Hypothesis:  è bagnato dalla sala di Franconia una affuente del meno.
+
+Sample 525:
+Reference: E' apertamente omosessuale ed è "Pride ambassador" per la Gymnastics New South Wales.
+Hypothesis:  è apertamente il mese suale ed è pride and basso ad armi per la gymnastics New South Wales.
+
+Sample 526:
+Reference: Entrambe le varianti erano poi disponibili in allestimento standard o "De Luxe".
+Hypothesis:  entrambi le varianti erano poi disponibili nel vestimento standard o delux
+
+Sample 527:
+Reference: Di carattere aspro.
+Hypothesis:  di carattere aspro
+
+Sample 528:
+Reference: Il compagno di squadra è il filippino Timothy Joseph Cua Albert.
+Hypothesis:  il compagno di squadra il filipino tra ottenuti Giosef Kua Aderte
+
+Sample 529:
+Reference: Il brano è stato inserito nella colonna sonora del film "Sliding Doors".
+Hypothesis:  Il brano è stato inserito nella colonna sonora del film "Lighting Dores".
+
+Sample 530:
+Reference: Per un breve periodo fu anche vicario generale della medesima diocesi.
+Hypothesis:  Per un breve periodo fu anche vicarlo generale della medesima diocesi.
+
+Sample 531:
+Reference: L'accoppiamento di norma avviene sul nido, o sul luogo dove viene costruito il nido.
+Hypothesis:  l'accopiamento di norma viene sul nido o solo dopo dove viene costruito il nido
+
+Sample 532:
+Reference: La località fu originariamente colonizzata da minatori francesi e alsaziani.
+Hypothesis:  La località fu originariamente colonizzata da minatori francesi e alzaziani minori.
+
+Sample 533:
+Reference: L’attore era lo stesso regista Borelli.
+Hypothesis:  L'attore era lo stesso regista bore agli
+
+Sample 534:
+Reference: Cavallo Pazzo ignorò la richiesta.
+Hypothesis:  cavallo, pazzo, ghiignoro, la richiesta
+
+Sample 535:
+Reference: Sì: qualche stranezza, più d'una, l'avevo commessa in quegli ultimi giorni.
+Hypothesis:  Sì, qualche estrenezza, più d'una la devo commessa in quegli ultimi giorni.
+
+Sample 536:
+Reference: Tale cappella è privata e non visitabile.
+Hypothesis:  Telle cappelle è privata e non visitabile.
+
+Sample 537:
+Reference: La pressione viene a volte misurata relativamente alla pressione atmosferica.
+Hypothesis:  la pressione viene a volte misurata e la divamente alla pressione atmosferica.
+
+Sample 538:
+Reference: La diga fu costruita per motivi di irrigazione.
+Hypothesis:  La diga fu costruita per motivi di reegazione.
+
+Sample 539:
+Reference: Retrospettivamente è considerato un classico sia dai critici che dai musicisti.
+Hypothesis:  Redrospettivamente è considerato un classico classico sia dai critici che dai musicisti.
+
+Sample 540:
+Reference: Fu forse il primo strumento Agostini a temperamento equabile.
+Hypothesis:  fu forse il primo strumento, agostini a temperamento e ho equipabile.
+
+Sample 541:
+Reference: Tali manifesti furono scritti dal giornalista Giuseppe Bonanni, del "Borghese".
+Hypothesis:  Tal manifesti furono scritti dal giornalista dusette donami del bordese.
+
+Sample 542:
+Reference: Questo congresso istituì i giochi olimpici moderni.
+Hypothesis:  questo congresso, istituì il giochio limpico in moderni
+
+Sample 543:
+Reference: Nel video sono presenti Bruno Mars e Philip Lawrence.
+Hypothesis:  nel video sono presenti il Bruno Mars, Siriscolore.
+
+Sample 544:
+Reference: Entrambi presentano un piumaggio simile.
+Hypothesis:  entrambi presentano un più maggio simile
+
+Sample 545:
+Reference: Oggi vi ha sede il Comando Militare per il Territorio dell'Esercito "Toscana".
+Hypothesis:  Oggi vi assede il comando militare per il direttore del risercito tocciama.
+
+Sample 546:
+Reference: Gli altri Yuan sono autorizzati a proporre conti legislativi allo Yuan legislativo.
+Hypothesis:  gli altri "Iuan solo autorizzate per portare i conteggi esattivi a lo luogliual legislativo".
+
+Sample 547:
+Reference: Non può conservare la carica per più di otto anni.
+Hypothesis:  non può conservare la carica per più di otto anni.
+
+Sample 548:
+Reference: Frequenta gli studi nei seminari dell'Ordine francescano a Copertino, Osimo e Civitella del Tronto.
+Hypothesis:  Frequent'a gli studi nei seminari del ordine francescano a copertino, osimo e cittella del tront
+
+Sample 549:
+Reference: Alla fine la Crociata partì verso Marsiglia.
+Hypothesis:  alla fine la crociata partì del sua mazia
+
+Sample 550:
+Reference: All'altezza del delta del Gange si incontrano numerose foreste sommerse.
+Hypothesis:  all'attenza del delta del gorge si incontra un numero seforeste il somb'ersano
+
+Sample 551:
+Reference: Joe, alla ricerca del tesoro di Lafitte, riesce a trovarlo.
+Hypothesis:  Joe, alla ricerca del tesolo della fiite, riesce a trovarlo.
+
+Sample 552:
+Reference: È stata la prima attrice cinese ad entrare nella Royal Academy of Dramatic Art.
+Hypothesis:  è stata la prima a Trice a Cineza adenzione nel narój al Accademie ottra mati carte.
+
+Sample 553:
+Reference: Al Torneo di Wimbledon perde contro la futura semifinalista Petra Kvitová.
+Hypothesis:  Al torneo di Wimbledon perde contro la futura semifinaista Petra-Gvidava.
+
+Sample 554:
+Reference: Lo stile musicale del disco è un ibrido di metal, musica latina e rap.
+Hypothesis: Lo stile musicare del disco è un libertù di metal, musica latina e rap.
+
+Sample 555:
+Reference: Pure a Taranto c'erano saline e culto di Ercole.
+Hypothesis:  Uure a taranto c'erano saline e culto di hercoles.
+
+Sample 556:
+Reference: Raimondo des Baux partecipa alla Prima crociata con Raimondo di Saint-Gilles, conte di Tolosa.
+Hypothesis:  è molto debbato, è uno di tutti i spattagli spattagli bambini di più più più più più di riusciti per riusciti ad ottenere il ritorro.
+
+Sample 557:
+Reference: La città era nota come il paradiso della Siria.
+Hypothesis:  la città è la nota come il Paradiso della serie.
+
+Sample 558:
+Reference: Il capitano non lo ascoltò e mantenne la posizione nonostante i ripetuti attacchi francesi.
+Hypothesis:  il capitano non lo lo ascoltò e mantenne la posizione nonostante ripetiti attacchi francesi.
+
+Sample 559:
+Reference: Per il resto, differiscono enormemente per aspetto e per struttura genomica.
+Hypothesis:  Per il resto, differisco il norme mantebe raspetto e per struttura genomico.
+
+Sample 560:
+Reference: Non collezionerà nemmeno una presenza in campionato con la maglia nerazzurra.
+Hypothesis:  Non collezionerà nemmeno una presenza in campionato con la maglia nezzurra.
+
+Sample 561:
+Reference: Dopo il suo ritiro lavorò come agente immobiliare nei dintorni di Orlando, in Florida.
+Hypothesis:  Dopo il suo ritiro, lavorò come agenti mobilriare nei lintorni di Orlando, in Florida.
+
+Sample 562:
+Reference: Il beneficio della manifestazione è interamente devoluti ad un progetto umanitario.
+Hypothesis:  il beneficio della manifestazione è interamente devoluto ad un progetto umanitario.
+
+Sample 563:
+Reference: Nello stesso anno, venne distribuito anche negli Stati Uniti.
+Hypothesis:  Nello stesso anno venne distribuito anche negli Stati Uniti.
+
+Sample 564:
+Reference: Sono considerati tra gli artiodattili più primitivi.
+Hypothesis:  sono considerati tra gli arti odattivi più primi attivi
+
+Sample 565:
+Reference: Quando la guerra finì, era ancora in costruzione.
+Hypothesis:  Quando la guerra è finì, erano ancora in costruzione.
+
+Sample 566:
+Reference: Pubblicò poesie su alcune riviste dell'epoca come "Noi e il Mondo" e "La Lettura".
+Hypothesis:  Pubblicò poesibili a su alcune riviste delle epoca come noi e il mondo e la lettura.
+
+Sample 567:
+Reference: North Carolina Film Critics Association Award
+Hypothesis:  North Carolina Film Critics Association Awards.
+
+Sample 568:
+Reference: Il nome comune "roveto ardente" deriva dal brillante colore rosso.
+Hypothesis:  il nome pomune "rovetorbende" deriva dal brillante colore voce.
+
+Sample 569:
+Reference: Sposò Peggy Caldwell.
+Hypothesis:  Sposò peghi caldo e
+
+Sample 570:
+Reference: Viene eliminato al terzo turno nella Coppa d’Inghilterra dal Newcastle United.
+Hypothesis:  viene eliminato al terzo turno nella coppa di England Terra dal Newcastle United.
+
+Sample 571:
+Reference: Un remix del brano è stato pubblicato nella raccolta "The Mix".
+Hypothesis:  Un remix del brano è stato pubblicato nella raccolta remix.
+
+Sample 572:
+Reference: Le volte sono decorate con affreschi, probabilmente fatti da un allievo di Albertus Pictor.
+Hypothesis:  Le volte sono decorate con affreschi, probabilmente fatti da un'agivoti Alberto Spiktor.
+
+Sample 573:
+Reference: In parte per questo hanno potuto portare prestigiose orchestre e grandi nomi nelle Fiandre.
+Hypothesis:  In parte per questo hanno potuto portare prestigio al chiestro e grandi nome nelle fianze.
+
+Sample 574:
+Reference: Un albo con dentro solo Rat-Man.
+Hypothesis:  Un album con dentro solo ratumon.
+
+Sample 575:
+Reference: Oltre al turismo, molto sviluppati sono i settori dell'industria meccanica, tessile e chimica.
+Hypothesis:  Oltra il turismo, molto sviluppati, sono i settori dell'industria meccanica, tessile e chimica.
+
+Sample 576:
+Reference: A Mantova il povero mutilato fu separato da Silvio, e ricondotto a Forlì.
+Hypothesis:  a Mantova il povero mutilato fu separato da Silvia e ricondotto a Forli.
+
+Sample 577:
+Reference: Soffre di paranoia ed è convinto di essere pedinato.
+Hypothesis:  Soffre di Paranoia ed è convinto di essere peggio per essere pagati per il nato.
+
+Sample 578:
+Reference: Ogni turno di Play Off si disputa in gare di andata e ritorno.
+Hypothesis:  ogni turno di Playoff si dispotengara di andata a ritorno.
+
+Sample 579:
+Reference: La ragazza si fa dunque scattare una foto assieme al giovane da sua madre.
+Hypothesis:  la ragazza si fa dunque scattare una foto sia il giovani da sua madre
+
+Sample 580:
+Reference: Un’App ufficiale e software di terze parti permettono di localizzare e prenotare le vetture.
+Hypothesis:  Un app ufficiale è software di terze parti per metodo di localizzare e prodottare le vetture.
+
+Sample 581:
+Reference: Discografia di John Zorn
+Hypothesis:  iscografia di John Zorn
+
+Sample 582:
+Reference: È regolarmente ospite in numerosi festival.
+Hypothesis:  è regolamente ospita in numerose festival
+
+Sample 583:
+Reference: La melodia siciliana, per esempio, tende a discendere dall'acuto, anzi dall'acutissimo al grave.
+Hypothesis:  La melodia ciciliana, per esempio, tende a descendere dalla cuto, anzi dalla cuttissima grave.
+
+Sample 584:
+Reference: La finale non è stata disputata.
+Hypothesis:  La finale è non è stata disputata disputata.
+
+Sample 585:
+Reference: Devote ma per sua fortuna non urta niente e rientra.
+Hypothesis:  Devote, ma per sua fortuna non urtagnente e rientra.
+
+Sample 586:
+Reference: Questo lavoro fu proseguito da Langevin.
+Hypothesis:  questo lavoro fu proseguito all'angivano.
+
+Sample 587:
+Reference: Qui è nato anche il capo del narcotraffico colombiano Pablo Escobar.
+Hypothesis:  Uainatò anche il capo del mercotrafico colondiano pubblico a Brescobar.
+
+Sample 588:
+Reference: Montava ruote in legno con mozzo di ghisa, ed era priva di sospensioni.
+Hypothesis:  Montava rota in legno come uso di guizza e era priva di sospensione.
+
+Sample 589:
+Reference: Quasi tutti alla fine finirono per essere nominati Consiglieri di Stato.
+Hypothesis:  Quasi tutti alla fine finirono per essere nominati consiglieri di stato.
+
+Sample 590:
+Reference: Lei, presa dal più forte, gli preferisce il fratello più debole.
+Hypothesis:  lei, presa dal più forte, gli preferisce il fratello più devole.
+
+Sample 591:
+Reference: Ha poi proseguito gli studi per completare un master in Informatica sempre a Berkeley.
+Hypothesis:  A poi proseguito gli studi per completare un master informatica sempre a Berkley.
+
+Sample 592:
+Reference: Il colore diventa così elemento libero e indipendente dalla forma.
+Hypothesis:  Il colore diventa così elemento libero e indipendente dalla forma.
+
+Sample 593:
+Reference: È un prodotto tipico della Sicilia e della Sardegna.
+Hypothesis:  è un prodotto tipico di la scisciiglia e della sardegna.
+
+Sample 594:
+Reference: Riesci a pronunciare quella parola? A me sembra impossibile.
+Hypothesis:  Riasce prunciare quella parola a me sembra impossibile.
+
+Sample 595:
+Reference: La legge entrerà in vigore in una data ancora da annunciare.
+Hypothesis:  La legge entrela invigore in una data ancora da nonciare.
+
+Sample 596:
+Reference: Dove sta Zazà?
+Hypothesis:  dove è stato azazzazza!
+
+Sample 597:
+Reference: Molti sono successivamente emigrati in tutto il mondo.
+Hypothesis:  molti sono successivamente migliorati in tutto il mondo
+
+Sample 598:
+Reference: Le decorazioni a fresco sono oggi attribuite ad Altichiero e a Jacopo Avanzi.
+Hypothesis:  Le decorazione a fresco sono oggi attribuita al tichiro e agli acciacovavanti.
+
+Sample 599:
+Reference: La collocazione temporale della battaglia non è conosciuta con precisione.
+Hypothesis:  La collocazione è tempo parla della battaglia, non è conosciuta con prestizione.
+
+Sample 600:
+Reference: Mandati per svolgere funzioni amministrative, ottennero ben presto la qualifica di conti.
+Hypothesis:  Mandati per svolgere funzioni administrative o tenere un presta la qualifica di conti.
+
+Sample 601:
+Reference: Conta sei presenze con la Nazionale di calcio della Spagna.
+Hypothesis:  Conta sei presenze con la nazionale di calcio della spagna.
+
+Sample 602:
+Reference: Una chiocciola impiega circa tre anni per diventare adulta.
+Hypothesis:  Una chioccia la impieghe circa tre anni per diventare adulta.
+
+Sample 603:
+Reference: I pari irlandesi vennero più favoriti non essendo soggetti alle medesime restrizioni.
+Hypothesis:  I pari arlandesi vennero più favoriti non essendo soggetti alle medesimi arrestrazioni.
+
+Sample 604:
+Reference: Raggiunse la madre a Roma e trascorse la sua vita da esiliato.
+Hypothesis:  Reggiunse la madre la Roma e trascorsi la sua vita della esiliato.
+
+Sample 605:
+Reference: Le più belle di...
+Hypothesis:  Le più belle di
+
+Sample 606:
+Reference: Il grande inquisitore
+Hypothesis:  il grande inquisitore
+
+Sample 607:
+Reference: Il nome di Daly compare come sceneggiatore in tre produzioni.
+Hypothesis:  Il nome di degli compare come sceneggiatore in tre produzioni.
+
+Sample 608:
+Reference: Ricordiamo che questo non è uno strumento primario.
+Hypothesis:  Ricordiamo che questo non è un strumento primario.
+
+Sample 609:
+Reference: Almeno finché non entra in gioco l'ultimo dei librettisti: Luigi Illica.
+Hypothesis:  Almeno finché non entra in gioco l'ultimo dei libretti testi, Luigi Ilica.
+
+Sample 610:
+Reference: La trama è semplice, ma con grandi livelli di azione ed animazione.
+Hypothesis:  La trame semplice ma con grandi livelli di azione ed animazione.
+
+Sample 611:
+Reference: James Montgomery
+Hypothesis:  Games non tol'amboli.
+
+Sample 612:
+Reference: Il disco comprende la produzione originale di un periodo abbastanza lungo e nessuna cover.
+Hypothesis:  Il disco comprende la produzione originale di un periodo abbastanza lungo e nessuna cover.
+
+Sample 613:
+Reference: E un odore, caro mio, un odore così forte che pareva di tabacco.
+Hypothesis:  è un odore carromio, un odore così forte che pareva di tabacco
+
+Sample 614:
+Reference: Questa battaglia sulla scuola prese proporzioni pesanti e portò a manifestazioni di massa.
+Hypothesis:  Questa battaglia sullo scuola prese e proporzioni pesanti e portò a manifestazioni di massa.
+
+Sample 615:
+Reference: Alexander Bak
+Hypothesis:  Alexander back
+
+Sample 616:
+Reference: Durante un ricevimento in casa Augusto irrompe in pigiama cercando la sua Settimana Enigmistica.
+Hypothesis:  Durante un ricevimento in casa Augusto, il romp in Pijama cercando la sua settimana ericmistica.
+
+Sample 617:
+Reference: Dale Davis
+Hypothesis:  Dio di avviso.
+
+Sample 618:
+Reference: Più alta è mantenuta conservata ed intatta la pietra su cui vennero pronunciate le parole del giuramento.
+Hypothesis:  Più alte e mantenuta, conservata e intatta la pietra, su cui vennero pronunciate le parola del giuramento.
+
+Sample 619:
+Reference: Fin da giovanissimo si appassiona alla musica ed alla pittura.
+Hypothesis:  fin da giovaniissimo se la passione alla musica è dalla pittura
+
+Sample 620:
+Reference: I distretti sudafricani sono analoghi alle contee della Gran Bretagna e degli Stati Uniti.
+Hypothesis:  I distretti sud-africani sono analogi alle contee della Gran Bretagna e degli Stati Uniti.
+
+Sample 621:
+Reference: Catturato, fu trucidato nei pressi di Norcia, dopo essere stato selvaggiamente torturato.
+Hypothesis:  Catturato, fu trucidato nei pressi di Norcia, dopo essere stato selvaggiamente torturato.
+
+Sample 622:
+Reference: La seconda pinna dorsale è molto ridotta in dimensioni.
+Hypothesis:  la seconda pina dorsale è molto ridotta in dimensioni
+
+Sample 623:
+Reference: Claudio Costa
+Hypothesis:  Claudia Costa
+
+Sample 624:
+Reference: La Cina era ben conosciuta dai cartografi romani dell'epoca.
+Hypothesis:  La Cina era ben conosciuta dai cartografi romani del epoca.
+
+Sample 625:
+Reference: Stessa sorte anche nell'ultimo gran premio della stagione, quello a Las Vegas.
+Hypothesis:  Stessa sorte anche nell'ultimo gran premio della stagione, quello a Las Vegas.
+
+Sample 626:
+Reference: Così come di altri progetti Open Source.
+Hypothesis:  così come di altri progetti o pensors.
+
+Sample 627:
+Reference: Testi e musiche di Melissa Auf der Maur, eccetto dove indicato.
+Hypothesis:  testi e musiche di Melissa Af of the Mour, eccetto dove indicato
+
+Sample 628:
+Reference: Global Publishing, Warner Bros.
+Hypothesis:  Global Publishing, Warner Bros.
+
+Sample 629:
+Reference: Viene velocemente catturato dalla macchina da presa, che lo risucchia quasi fosse un demone.
+Hypothesis:  viene velocemente catturata la macchina da presa che lo riuscita quasi fosse un demone.
+
+Sample 630:
+Reference: That Old Feeling
+Hypothesis:  That whole feeling
+
+Sample 631:
+Reference: È una classica giornata di lavoro" e morì poco dopo.
+Hypothesis:  è una classica giornata di lavoro in morì poco dopo.
+
+Sample 632:
+Reference: Barks non li utilizzerà più, mentre lo faranno altri autori.
+Hypothesis:  Barti, se non gli utilizzerà più, mentre lo faranno altri autori.
+
+Sample 633:
+Reference: Un numero uguale alla somma dei suoi divisori propri è detto numero perfetto.
+Hypothesis:  Un numero, guarda la sua ma dei suoi divisori propri ed è detto numero perfetto.
+
+Sample 634:
+Reference: Viene eseguito in una sandbox nel browser Web dopo una fase di verifica formale.
+Hypothesis:  viene eseguito in un sen box del browser web dopo una fase di verifica formale
+
+Sample 635:
+Reference: Archivio Progetti.
+Hypothesis:  Archivio progetti
+
+Sample 636:
+Reference: Gli altri nella mia vita non sono altro che oggetti che influiscono nelle mie azioni.
+Hypothesis:  di altri nella mia vita non sono altro che oggetti che enfruiscano le mie azioni
+
+Sample 637:
+Reference: L'ano è soggetto a censura solo in caso di contatto o penetrazione sessuale.
+Hypothesis:  L'anno è soggetto a censura solo in caso di contatto o penetrazione sensuale.
+
+Sample 638:
+Reference: Illuminazione con pannelli solari.
+Hypothesis:  Il luminazione è con pannelli solari.
+
+Sample 639:
+Reference: La coreografia è andata persa.
+Hypothesis:  la coreografia è andata perso
+
+Sample 640:
+Reference: Sposato, ha tre bambini.
+Hypothesis:  sposato a tre bambini
+
+Sample 641:
+Reference: Il villaggio si trova sulla costa settentrionale, nella regione storica tribale di Motu.
+Hypothesis:  il villaggio si trova sulla costa sett'entrionale nella regione storica attribale di moto
+
+Sample 642:
+Reference: In realtà, Sunset ha un secondo scopo: vendere armi ai criminali.
+Hypothesis:  In realtà a San sette a un secondo scopo vendere avanti è criminal.
+
+Sample 643:
+Reference: Per il suo mancato arrivo Nerone fu severamente richiamato da Marcello.
+Hypothesis:  Il suo mancato arriva, nero le fuse veramente riammato da Marcello.
+
+Sample 644:
+Reference: Primo, associazione criminale contro i commerci dei sudditi di sua maestà.
+Hypothesis:  Prima associazione criminale contro i commerci dei sudditi di sua vaista.
+
+Sample 645:
+Reference: Lui aveva promesso di non pronunziare quel nome davanti a John Vehrehan.
+Hypothesis:  L'uia aveva promesso promiseo di non pronunciare quel nome davanti a John Berland.
+
+Sample 646:
+Reference: La loro forza era così grande che Odo e Corrado non potevano resistere.
+Hypothesis:  la loro forza era così grande che Odo e Corrado non potevano esistere.
+
+Sample 647:
+Reference: La vittoria passa così a Caleb Ewan.
+Hypothesis:  La vittoria passa così a Calle B-One.
+
+Sample 648:
+Reference: Infatti, la maggior parte delle monovolume potevano trasportare al massimo sette passeggeri.
+Hypothesis:  in progettione, la maggior parte del vero vero rumore, potere una trasportazione, ma si è necessitopa se il loro.
+
+Sample 649:
+Reference: Garibaldi arrivò a mezzanotte entro le mura di Salto, sano e salvo.
+Hypothesis:  Garibaldi arriva a benz'annootte e entrò l'emura di Salto, Salo e Savo.
+
+Sample 650:
+Reference: Bologna in qualità di direttore tecnico.
+Hypothesis:  Bologna, in qualità di direttore tecnico.
+
+Sample 651:
+Reference: E lui lo sapeva e si sentiva a disagio.
+Hypothesis:  e lui lo sapeva e si sentiva il risaggio.
+
+Sample 652:
+Reference: Di'Anno registrò successivamente alcune collaborazioni con i Praying Mantis.
+Hypothesis:  Diano registro successivamente alcune collaborazioni con i pre-in mantes.
+
+Sample 653:
+Reference: Non è certa la data di realizzazione.
+Hypothesis:  non è certa la data di realizzazione
+
+Sample 654:
+Reference: Sua figlia, Maya Bar-Hillel, è esperta in psicologia cognitiva.
+Hypothesis:  suo figlia Maya Bar Gilell è esperto in psicologia cognitivo
+
+Sample 655:
+Reference: La sigla di questa edizione "Canto una canzone", fu incisa dalla stessa Ferrari.
+Hypothesis:  La sigla di questa edizione "Canto una canzone" fu incisa dalla stessa Ferrari.
+
+Sample 656:
+Reference: Andare a raso.
+Hypothesis:  andare a fraso
+
+Sample 657:
+Reference: Altra novità interessante sono gli "Eroi": una versione potenziata dei "seguaci".
+Hypothesis:  Altra a novità interessante sono gli eroi una versione potenziata dei seguaci.
+
+Sample 658:
+Reference: È stato nominato direttore musicale dell'orchestra Oregon Symphony.
+Hypothesis:  è stato nominato il direttore musicale dell'orchestre a Oragon Simphony.
+
+Sample 659:
+Reference: Oggi ne resta solamente il muro occidentale di contenimento, detto comunemente Muro del Pianto.
+Hypothesis:  Oggi ne resta solamente il muro occidentale di contilimento, detto comunemente muro del pianto.
+
+Sample 660:
+Reference: Da piazza Mazzini si entra in via Marcantonio Colonna.
+Hypothesis:  da piazza mattzini si entra in via Marcantone Colonna
+
+Sample 661:
+Reference: Il Corvina ha un colore rosso rubino molto intenso,quasi tendente al violaceo.
+Hypothesis:  Il corvina ha un colore rossorov solo il video molto intenso, quasi tendentali al di olaggio.
+
+Sample 662:
+Reference: Boy Meets Girl
+Hypothesis:  Boy Meets Girl
+
+Sample 663:
+Reference: Fare il diavolo e la versiera.
+Hypothesis:  Fadenziamolo e la versione.
+
+Sample 664:
+Reference: Il programma è stato allestito presso Villa Ormond, location anche della precedente edizione.
+Hypothesis:  Il programma è stato all'estito presso Villa Ormond, location anche della precedente edizione.
+
+Sample 665:
+Reference: Ramón Tapia
+Hypothesis:  Ramon Topia
+
+Sample 666:
+Reference: Le sue opere sono state dirette dai più importanti direttori d'orchestra del suo tempo.
+Hypothesis:  Le sue autore sono state dirette del più importanti direttore gorgesterà del suo tempo.
+
+Sample 667:
+Reference: Focalizzò l'attenzione dei suoi studi inizialmente sulla letteratura araba classica.
+Hypothesis:  focalizzò l'attenzione dei suoi studi inizialmente sulla letteratura araba classica
+
+Sample 668:
+Reference: Scrooge rifiuta, affermando di non poter mangiare quella roba.
+Hypothesis:  Scorruce il fiumeuta affermante da non potere mangiare quella rola.
+
+Sample 669:
+Reference: Allora gli insiemi trascurabili formano un ideale.
+Hypothesis:  allora i insieme i trascorabili formano un'ideale.
+
+Sample 670:
+Reference: Jason inizia a essere attratto da Janet, che è gentile con lui.
+Hypothesis:  Geson inizia essere attratto da Janet, chi agentile con lui.
+
+Sample 671:
+Reference: Durante la stessa giornata viene rilasciato su cauzione.
+Hypothesis:  Durante la stessa giornata viene rilasciato su calzione.
+
+Sample 672:
+Reference: Anche in questa edizione verrà utilizzato il televoto online per decretare il vincitore.
+Hypothesis:  Anche in questa edizione verrà utilizzato il televoto-line per decretare il vincitore.
+
+Sample 673:
+Reference: Il patrimonio materiale passò in mano di privati.
+Hypothesis:  Il patrimonio materiale passa in mano di privati.
+
+Sample 674:
+Reference: Dopo essere uscita dal Paese baltico, la strada si dirige a Kaliningrad.
+Hypothesis:  Do'ò essere uscita dal paese Baltico la strada si dirige a Callinindragg.
+
+Sample 675:
+Reference: Il nome, che viene dal francese, significa cestino.
+Hypothesis:  Il nome che viene dal franceseo significa "castino".
+
+Sample 676:
+Reference: L'edizione limitata dell'album include un ulteriore disco contenente le stesse tracce in versione strumentale.
+Hypothesis:  l'edizione limitato dell'album include un ulteriore disco contenente di stesse tracce in versione strumentale
+
+Sample 677:
+Reference: Dei monasteri sono stati trovati fondamenta, piattaforme e colonne.
+Hypothesis:  dei monasteri sono stati trovati fondamenti, pietra forme e colonne fondamenti.
+
+Sample 678:
+Reference: Completamente differenti anche i capitelli.
+Hypothesis:  Completamente differenti anche i capitelli.
+
+Sample 679:
+Reference: Proprio tale azione incisiva genera i canyon sottomarini.
+Hypothesis:  Prope o tale "zionantissiva" genera e Kenya sotto marino
+
+Sample 680:
+Reference: L'Oblivion Bar funge da quartier generale per il magico supergruppo degli Shadowpact.
+Hypothesis:  Loplivio in un bar funge da quartier generale per il magico supergruppo degli Shadow Pack.
+
+Sample 681:
+Reference: La riforma gregoriana cassinese coinvolse maestranze specializzate in ambiti artistici differenti.
+Hypothesis:  La reforma Gregoriana, Cassinese e Coembolse, ma è stranza specializzate in ambiti artistici differenti.
+
+Sample 682:
+Reference: La Nuova Zelanda ha una forma lunga e stretta.
+Hypothesis:  la nuova cilanda ha una forma lunga e stratta
+
+Sample 683:
+Reference: Cosa le avrebbe detto?
+Hypothesis:  cosa le avrebbe detto?
+
+Sample 684:
+Reference: La ragazza lo perdona e infine muore, causando un profondo odio nel marito.
+Hypothesis:  La ragazza lo perdona è infine vuole, causando un profondo odio in marito.
+
+Sample 685:
+Reference: Tali conoscenze sono anche impartite sul campo agli escursionisti.
+Hypothesis:  Tali conoscenze sono anche in partite sul campo agli escursi onisti.
+
+Sample 686:
+Reference: Si realizza così un insieme rigido costituito dal trittico, trattore-attacco a tre punti-macchina operatrice.
+Hypothesis:  si realizza così un insieme rigido costituito dal trittico trattore attacco a tre punti macchino per a trice.
+
+Sample 687:
+Reference: E lui per primo sedette davanti al tavolo.
+Hypothesis:  e lui per primo si è detto davanti al tavolo.
+
+Sample 688:
+Reference: Fu molto apprezzato durante la sua vita.
+Hypothesis:  fu molto apprezzato durante la sua vita.
+
+Sample 689:
+Reference: Ci serve un comitato sul posto.
+Hypothesis:  ci serve un comitato sul posto.
+
+Sample 690:
+Reference: Infatti il ponte è Gesù Cristo.
+Hypothesis:  infatti il bonte è Gesù Cristo.
+
+Sample 691:
+Reference: Alla formazione del fiore segue quella delle fogliame.
+Hypothesis:  alla formazione del fiore segue quella del fogliano
+
+Sample 692:
+Reference: Questa inversione diede ad "Ol' Man River" una qualità tragica.
+Hypothesis:  Quest'inversione di India a Dull Man river una qualità tragica
+
+Sample 693:
+Reference: Prima fase a gironi ed Eliminazione Diretta
+Hypothesis:  prima fase girone ed eliminazione diretta
+
+Sample 694:
+Reference: L’unico a fare eccezione è il dorso.
+Hypothesis:  L'unico fa recezione è il dorso.
+
+Sample 695:
+Reference: Siamo arrivati? Quanto manca?
+Hypothesis:  Siamo arrivati, quanto manca.
+
+Sample 696:
+Reference: La macchina imparò anche giocando contro se stessa centinaia di volte.
+Hypothesis:  la macchina in parola anche giocando contro le stesse stesse gentilità di voi
+
+Sample 697:
+Reference: Tale atto segna l'inizio ufficiale della Guardia còrsa.
+Hypothesis:  tale atto segna l'inizio figile della guardia corsa
+
+Sample 698:
+Reference: Ciò determina una diminuzione della quantità massima di calore che il sistema può ricevere.
+Hypothesis:  ciò determinò determinò diminuzione della quantità massima di calore che il sistema può ricevere.
+
+Sample 699:
+Reference: Le pinne non sono particolarmente allungate, la pinna caudale è arrotondata.
+Hypothesis:  Le pinne non sono particolarmente allungate, la pinne che ha udale è rotondata.
+
+Sample 700:
+Reference: Coperto da diritti di proprietà.
+Hypothesis:  Roberto da diritti di propólità
+
+Sample 701:
+Reference: Si chinò e tese la mano.
+Hypothesis:  Sì che no, è tese la mano.
+
+Sample 702:
+Reference: Le tribù si riconoscevano una con l'altra come appartenenti alla federazione etnica.
+Hypothesis:  Le tre busi riconoscevano una con l'altra globale appartenette della Federazione Estnea
+
+Sample 703:
+Reference: Un percorso artistico e linguistico con la comunità bengalese di Roma".
+Hypothesis:  un percorso artistico ed inguistico con la comunità vengaleza di Roma
+
+Sample 704:
+Reference: Di appena cinque mesi.
+Hypothesis:  di appena cinque mesi
+
+Sample 705:
+Reference: I problemi sorgono quando l'altra donna cerca di interrompere la loro relazione.
+Hypothesis:  I problemi sorgono quando l'altra donna cerca di interrompe la loro relazione.
+
+Sample 706:
+Reference: Perché pensi che ti odi?
+Hypothesis:  per che pensi che ti odi?
+
+Sample 707:
+Reference: Il collegamento può essere logico, analogico o a carattere assurdo.
+Hypothesis:  Il collegamento può essere elogico, analogico o ha caratté assuldo.
+
+Sample 708:
+Reference: Il singolo "Why Do You Hate Me?
+Hypothesis:  Il singolo, "Why do you hate me?"
+
+Sample 709:
+Reference: Presto un altro uomo si unisce al trio, il vecchio Faria.
+Hypothesis:  un altro uomo si inisce al trio "Il vecchio faria".
+
+Sample 710:
+Reference: Area formata da calcare e dolomiti fra le provincie di Avellino e Salerno.
+Hypothesis:  area formata da calcare ed omiti fra le province di avvelino e salerno
+
+Sample 711:
+Reference: Il nucleo si presenta di consistenza compatta e piuttosto accentuato.
+Hypothesis:  il nucleo si presenta di consistenza compatta e piuttosto accendocado.
+
+Sample 712:
+Reference: Si è svincolato alla fine della stessa stagione.
+Hypothesis:  si è svincolato all'offine della stessa stagione.
+
+Sample 713:
+Reference: Venne poi riconfermata nelle elezioni successive.
+Hypothesis:  Venne poi riconfermata nelle lezioni successive.
+
+Sample 714:
+Reference: Tutta la comunità dovette subire diverse restrizioni sia sul piano sociale che economico.
+Hypothesis: Tutta la comunità dovette subire diverse restrizioni, sia sul piano sociale e economico.
+
+Sample 715:
+Reference: L'uso più importante è quello per la fabbricazione di vernici e smalti.
+Hypothesis:  L'uso è più importante è quello per la fabbricazione di vernice e smalti.
+
+Sample 716:
+Reference: Allo stesso tempo, occorrerebbe introdurre forme di sostegno ai comuni per la progettazione ed il recupero strutturale dei beni oggetto di confisca.
+Hypothesis:  Allo stesso tempo, occorrerò ben trotturre forma di sostegno i comuni per la progettazione e recupera strutturali dei beni oggetti di confisca.
+
+Sample 717:
+Reference: Il suo nome persiste tra gli altri nel teorema di Hille-Yosida.
+Hypothesis:  ismonome per si si si si troaglia altri nel torema di Hilodiosita
+
+Sample 718:
+Reference: La terza maglia è nera con risvolti bianchi.
+Hypothesis:  La terza maglia è nera con risvolti bianchi.
+
+Sample 719:
+Reference: Bertone su Lawrence Murphy pochi mesi prima del suo decesso.
+Hypothesis:  Dertone, su Laurence Murphy, pochi mesi prima, è il suo decetto.
+
+Sample 720:
+Reference: Lui, allora, si suicida.
+Hypothesis:  lui allora si suicida
+
+Sample 721:
+Reference: Protegge anche la gravidanza dal sistema immunitario materno.
+Hypothesis:  proteggi anche la gravidanza del sistema immunitario materiale.
+
+Sample 722:
+Reference: Serie dominata dai milanesi ai quali bastarono solo due partite per volare in finale.
+Hypothesis:  Sere dominata da Milanesia, che quali bastarono solo due partite per volare in finale.
+
+Sample 723:
+Reference: Un esempio di questo è la caldera della Long Valley.
+Hypothesis:  Un esempio di questo è la caldera della Long Valley.
+
+Sample 724:
+Reference: Nato in Illinois, è cresciuto nello stato di New York.
+Hypothesis:  Natural in id Napoli in idilinois è cresciuto nel stato di New York.
+
+Sample 725:
+Reference: Riesce però a fuggire e ripara a Malta.
+Hypothesis:  riesce però a fuggire e ripara a malta.
+
+Sample 726:
+Reference: Ogni gruppo giura anche di non rivelare agli umani la vera natura dell'altro.
+Hypothesis:  ogni gruppo giura anche di non rivelare agli umani la vera natura dell'altro.
+
+Sample 727:
+Reference: Persone di cognome Phillips
+Hypothesis:  Persone di cognome Phillips
+
+Sample 728:
+Reference: Come pittrice realizzò opere sia a sfondo religioso che paesaggi della provincia di Palermo.
+Hypothesis:  come più trice, realizzò opere sia a spondo religioso che apprezzaggi nella province di Palermo.
+
+Sample 729:
+Reference: Tanto da lasciare la Germania per Hollywood, messa sotto contratto dalla Fox.
+Hypothesis:  Tanto da lasciare la Germania per Hollywood, mise sotto contratto dalla "Fox".
+
+Sample 730:
+Reference: Questa provincia è anche uno degli habitat naturali del panda gigante.
+Hypothesis:  questa provincia è anche uno degli abitazioni naturali del panneggigliante.
+
+Sample 731:
+Reference: Gwen Jackson
+Hypothesis:  Wayne Jackson
+
+Sample 732:
+Reference: La chiesa venne dedicata a san Giovanni Battista da mons.
+Hypothesis:  la chieda venne dedicata a San Giovanni Battista da Moons.
+
+Sample 733:
+Reference: Il comunismo ha rappresentato un ideale concreto, tangibile e realizzabile.
+Hypothesis:  Il comunismo ha rappresentato un ideale concreto, transgibile e realizzabile.
+
+Sample 734:
+Reference: Spiro Dine scrisse anche poesie e satire.
+Hypothesis:  Spiro di ne, scrisse anche poesie e satire.
+
+Sample 735:
+Reference: Questa corrente filosofica, fondata da Leucippo, venne chiamata "atomismo".
+Hypothesis:  questa corrente filosofica fondata del le uscippo venne chiamata a Tumismo.
+
+Sample 736:
+Reference: Essa è parte del patrimonio dell'umanità Unesco denominato "Weimar classica".
+Hypothesis:  e sa e parte del patrimonio dell'umanità un esco denominato "wai mark classica"
+
+Sample 737:
+Reference: Non può contenere funzioni indesiderate o potenzialmente dannose.
+Hypothesis:  non può contenere funzioni indesiderate o potenzialmente dannose
+
+Sample 738:
+Reference: Ha un suo studio-mostra permanente a Orvieto e a Roma.
+Hypothesis:  ha un suo studio mostra permanente a rilettro e a Roma.
+
+Sample 739:
+Reference: Si occupa di branding, comunicazione, web, design di prodotto, architettura, grafica e media strategy.
+Hypothesis:  si occupa di Branding, comunicazione e web, design di prodotto, architettura, grafica e media strategia.
+
+Sample 740:
+Reference: Stazione Victoria
+Hypothesis:  Stazione vittoria.
+
+Sample 741:
+Reference: Il processo di insegnamento e apprendimento avviene tramite un portale web.
+Hypothesis:  il processo di insegnamente apprendimento al viene tramite un portale web portale
+
+Sample 742:
+Reference: In tale quadro vi è raffigurato il condottiero di ventura Rinieri della Sassetta.
+Hypothesis:  in tale qualsiasso, vi era affigurato il condottiero di ventura o rinieri della sassassetta.
+
+Sample 743:
+Reference: I fossili, rinvenuti nella formazione Snow Hill Land, risalgono al Maastrichtiano inferiore.
+Hypothesis:  I fossili, rinvenuti nella formazione "Snowhill Land" risalgono al maschistiano inferiore.
+
+Sample 744:
+Reference: Egli è combattuto dai principi della scienza perché le sue teorie contrastano con quelle ammesse e valorizzate fin qui.
+Hypothesis:  e il lie combattuto dai principi della scienza perché le sue teorie contrastano anche la mese valorizzate finque
+
+Sample 745:
+Reference: Nel secondo libro devono combattere contro una potente strega resuscitata.
+Hypothesis:  nel secondo libro lo devono combattere contro una potente striga riuscita.
+
+Sample 746:
+Reference: Figlio di un negoziante milanese, Joseph Contini fu allievo in Italia di Alberto Pasini.
+Hypothesis:  Filo di un negoziante milanese, Joseph Contini fuò l'ioven Italia del Berthupazini.
+
+Sample 747:
+Reference: Spesso diceva che l'uso del vibrato nasconde i difetti e gli errori.
+Hypothesis:  Spesso diceva che l'uso del vibratione sconde di fetti e gli errori.
+
+Sample 748:
+Reference: In seguito viene mostrata la vita dei ragazzi dieci anni dopo.
+Hypothesis:  In seguito viene mostrata la vita dei ragazzi dieci anni dopo.
+
+Sample 749:
+Reference: Essa fa anche parte dell'asterismo noto come "teiera".
+Hypothesis:  Ezza fa anche parte del lasterismo noto come tegiera.
+
+Sample 750:
+Reference: Da quel momento si è quindi parlato di "scuola media unificata".
+Hypothesis:  da quel momento si è quindi parlato di "School media unificata".
+
+Sample 751:
+Reference: La diocesi comprende la parte occidentale dello Stato australiano di Victoria.
+Hypothesis:  La diocesi comprende la parte occidentale dello stato austrogiano di Victoria.
+
+Sample 752:
+Reference: Le prime tre teste di serie hanno ricevuto un bye per l'ultimo turno
+Hypothesis:  Le prima tra testi di serie hanno ricevuto un bai per l'ultimo turno.
+
+Sample 753:
+Reference: La cattedrale, nelle forme, ricorda le chiese bizantine.
+Hypothesis:  La cattedrale nelle forme ricordare chiese bizzontine.
+
+Sample 754:
+Reference: Compaiono tra la gente alcuni amici della band trentina, nonché certi musicisti locali.
+Hypothesis:  compaiono tra la gente alcuni amici della band Trentina, nonché certe musicisti locali
+
+Sample 755:
+Reference: In superficie la ragazza-robot assiste impotente al suicidio di Stella.
+Hypothesis:  il superfici della ragazzo robo assiste imponente al suo ciglio di stella
+
+Sample 756:
+Reference: Dal dopoguerra appartiene al patrimonio della regione autonoma Valle d'Aosta.
+Hypothesis:  Dal dopoguerra appartiene al patrimonio della legione autonoma, "Valle da ostà".
+
+Sample 757:
+Reference: Questa gara è il corso di mezza maratona più veloce al mondo.
+Hypothesis:  questa è il corso di mezza maratona più veloce al mondo.
+
+Sample 758:
+Reference: I due rappresentanti austroungarici avevano il diritto di maggioranza nelle sedute del consiglio.
+Hypothesis:  il puro rappresentanti, austro ungarici, avevano il diritto in maggioranza della seduta del consiglio.
+
+Sample 759:
+Reference: Ci sono varie creature, il più delle volte anonime.
+Hypothesis:  ci sono variche atture, più delle volte a ogni me
+
+Sample 760:
+Reference: Al suo funerale partecipano tutti i protagonisti del telefilm, compresi i Luthor.
+Hypothesis:  al suo funerale artescono tutti i protagonisti del telefilm, con presi di luter.
+
+Sample 761:
+Reference: Anche se gli uomini l'hanno già dimenticata.
+Hypothesis:  anche se gli uomi l'anno già dimenticata
+
+Sample 762:
+Reference: Certo l'aspettativa di vita era più bassa, gli uomini più puzzolenti e le spade più affilate.
+Hypothesis:  certo, la spitattiva diventità era più bassa, gli uomini più postolenti e le spade più affilate.
+
+Sample 763:
+Reference: Questa è una tappa fondamentale nel cammino delle politiche orientate al risultato.
+Hypothesis:  questa è una tappa fondamentale nel cammino delle politiche orientate a risultato
+
+Sample 764:
+Reference: Più tardi divenne anche direttore del quindicinale "Marina Repubblicana".
+Hypothesis:  più tardi divenne anche direttore del quindicinale Marina Repubblicana.
+
+Sample 765:
+Reference: Dopo l'omicidio di Jenna, Damien ferisce David e riesce finalmente a ucciderlo.
+Hypothesis:  Dopo l'umicidio di uccidio di gena, Damian ferisce da David e riesce finalmente a ucciderlo.
+
+Sample 766:
+Reference: Carloni divenne così di fatto un attore napoletano di adozione.
+Hypothesis:  Carlooni, divenne così di fatto una torre na coletano di adozione.
+
+Sample 767:
+Reference: A questo punto Amy decide di unirsi all'A-Team.
+Hypothesis:  A questo punto M decide di unirsi alle teme.
+
+Sample 768:
+Reference: È anche vero che in certe giornate di mare calmo e di bel tempo da una barca se ne può vedere il fondo.
+Hypothesis:  E anche vero, incitigiate giocamante di marcare calmo e di vegetità in punto da una vaca se ne può vedere il fondo.
+
+Sample 769:
+Reference: Il progetto venne affidato a Karl von Fischer.
+Hypothesis:  il progetto venne affidata Carlo von Fischer
+
+Sample 770:
+Reference: Corolla: il colore dei fiori è bianco, giallo o arancione.
+Hypothesis:  Corolla, il colore dei fiore e bianco, giallo o arrancione.
+
+Sample 771:
+Reference: Anche da questo punto di vista, quindi, l'Audi giocò un ruolo da Cenerentola.
+Hypothesis:  Anche da questo punto di vista, quindi, l'Audi gioco con ruolo da cenerentola.
+
+Sample 772:
+Reference: La versione draft delle specifiche del protocollo può essere trovata su GitHub.
+Hypothesis:  la versione "Draft" delle specifici specifici del prodocollo può essere sottrovata su ghi tab.
+
+Sample 773:
+Reference: Non lasciare che sia qualcun altro a farlo.
+Hypothesis:  non lasciare che sia qualcun altro a farlo.
+
+Sample 774:
+Reference: La maggior parte delle sue opere sono libri di catechismo.
+Hypothesis:  La maggior parte delle sue opere sono libre di catekismo.
+
+Sample 775:
+Reference: Gestiva una scuola privata per bambini con gravi difficoltà di apprendimento ad Amersfoort, nell'Utrecht.
+Hypothesis:  Jesse, una scuola privata tra i bambini, con gravi difficola cosa di apprendimento, ha da un risport in luttregg.
+
+Sample 776:
+Reference: Antonio Maglio assume la vice-direzione.
+Hypothesis:  Antonio Maglio assume la vicenda reazione.
+
+Sample 777:
+Reference: Natsumi Hoshi
+Hypothesis:  Natsumi osci.
+
+Sample 778:
+Reference: Il capoluogo di contea è Mount Carroll.
+Hypothesis:  il capolago di funtà è Mt. Cardwell.
+
+Sample 779:
+Reference: Secondo Leonard Maltin il film è una "fiacca commedia mystery".
+Hypothesis:  Secondo Leonard Martin, il film è una fiacca con media misteri.
+
+Sample 780:
+Reference: Un agente la notò online e la convinse ad andare a Los Angeles.
+Hypothesis:  una gente anche l'anno fa online la pubbliccia del dalle azazze Angelo
+
+Sample 781:
+Reference: Gregaria, forma fitti sciami.
+Hypothesis:  Greg area, forma, fitti e chammi
+
+Sample 782:
+Reference: A Benedetto si deve la decorazione del salone principale della villa..
+Hypothesis:  Abbene detto, si deve la decorazione del salone principale della villa.
+
+Sample 783:
+Reference: Esordì nello sferisterio pratese ancora giovane, diciotrtenne, sostennendo il ruolo di terzino.
+Hypothesis:  esordì nello spiri stereo i stereo pratese ancora giovane di città di città di sostenere il ruolo di tersino
+
+Sample 784:
+Reference: Dopo un biennio passò ad allenare il Pisa.
+Hypothesis:  dopun bianio passò ad allenare in pisa
+
+Sample 785:
+Reference: Il becco e le zampe sono arancioni.
+Hypothesis:  Il becco e le zambe sono arranchori.
+
+Sample 786:
+Reference: La congiuntivite allergica si può trattare con risultati variabili.
+Hypothesis:  La congluntività legica si può trattare con risultati variabili.
+
+Sample 787:
+Reference: Viene inoltre trovato un nuovo server su cui ospitare il sito.
+Hypothesis:  Vieni inoltre trovato un nuovo everso cuo e spi carisito.
+
+Sample 788:
+Reference: La cronologia si basa su dati stilistici.
+Hypothesis:  la cronologia si basa su dati stilistici.
+
+Sample 789:
+Reference: È membro della direzione nazionale del Partito Democratico.
+Hypothesis:  è membro della direzione nazionale nazionale del partito democratico democratico
+
+Sample 790:
+Reference: Up a Tree
+Hypothesis:  A Petri!
+
+Sample 791:
+Reference: Vicino a questa corrente organica in Europa sarà Alvar Aalto.
+Hypothesis:  vicino a questa corrente organici in Europa sarà al varale alto.
+
+Sample 792:
+Reference: Detto altrimenti, la sua voce dovrà essere solo e soltanto sua, non quella di un altro personaggio né quella dell'autore.
+Hypothesis:  Detto altriamenti la sua voce dovrà essere solo e soltanto sua, non quella di un altro personaggio, nella quella dell'autore.
+
+Sample 793:
+Reference: Le uniche decorazioni sono situate sui capitelli e sulla ghiera più esterna.
+Hypothesis:  Le uniche decoratezioni sono situate sui capitoli e sulla ghiera più esterna.
+
+Sample 794:
+Reference: La posizione che ne scaturisce viene considerata, dalla teoria, pressoché pari.
+Hypothesis:  La posizione che né scaturisce viene considerata dalla teoria presso che è pare.
+
+Sample 795:
+Reference: Smith pubblicò la maggior parte dei suoi volumi di poesia in questo periodo.
+Hypothesis:  Smith pubblicò la maggior parte dei suoi volumi di poesia in questo periodo.
+
+Sample 796:
+Reference: Ha foglie tondeggianti, carnose, di colore verde scuro.
+Hypothesis:  ha foglato tonde gianti carnose di coloro vero e scuro
+
+Sample 797:
+Reference: È sposata e madre di due figli.
+Hypothesis:  è sposata e madre del giù figli.
+
+Sample 798:
+Reference: Il peso della pubblicità indiretta è sempre maggiore anche in Italia.
+Hypothesis:  Il peso della pubblicità indivetta è sempre maggiore anche in Italia.
+
+Sample 799:
+Reference: Gli è stata revocata inoltre la potestà genitoriale.
+Hypothesis:  Nella è stata revocata e nuoltre la potesta genitoriale.
+
+Sample 800:
+Reference: Gioca inizialmente poche partite vista la titolarità del più quotato Tony Meola.
+Hypothesis:  giochi inizialmente poche partite vista la titolarità del più cottato toni meola
+
+Sample 801:
+Reference: Su entrambi gli assi erano presenti molle elicoidali ed ammortizzatori idraulici.
+Hypothesis:  su entrambi gli asci, erano presenti molle e liquedali, e da un marcizzatore droghi.
+
+Sample 802:
+Reference: I genitori cominciano ad indagare sulle origini del misterioso fenomeno.
+Hypothesis:  il genitori cominciano ad indagare solo gli origini del misterioso fenomeno.
+
+Sample 803:
+Reference: Lasciò la scuola al termine del primo anno.
+Hypothesis:  lasciò la scuola al termine del primo anno.
+
+Sample 804:
+Reference: Già prima del Duecento iniziò a prendere forma l'organizzazione istituzionale.
+Hypothesis:  Giò prima del Vigietrocento inizio a prendere forma l'organizzazione stituzionale.
+
+Sample 805:
+Reference: Il successivo accadimento trascendentale fu la morte della madre di Claudio.
+Hypothesis:  il successiva accadimento trascendentale con la morte della matta del audio.
+
+Sample 806:
+Reference: Anche suo fratello, Daisuke, è un pilota automobilistico.
+Hypothesis:  anche suo fratello, dai suque e un pilota automobilistico.
+
+Sample 807:
+Reference: Al suo posto subentra Michele Achilli.
+Hypothesis:  ha suo posto su ventramichele a Killy.
+
+Sample 808:
+Reference: Andrew Levane
+Hypothesis:  Andrew Devanna
+
+Sample 809:
+Reference: Il suo unico titolare è stato Bruno Bernard Heim, nunzio apostolico.
+Hypothesis:  Il suo unico titolare stato Bruno Bernard M. Nunciopostolico.
+
+Sample 810:
+Reference: Quest’unità partecipò ad azioni al fianco di quelle alleate corrispondenti.
+Hypothesis:  Il suo sonnetà vette giro alla zona fengono di quella leade che un rispondente.
+
+Sample 811:
+Reference: Quindi, la successione spettò al padre di Alfredo, che all'epoca era duca di Edimburgo.
+Hypothesis:  quindi la successione aspettò al padre di Alfredo, che all'epoca era ducadia di Immburg.
+
+Sample 812:
+Reference: Di tale crimine rispondeva anche il semplice complice.
+Hypothesis:  di tale criminal rispondeva anche il semplice complica
+
+Sample 813:
+Reference: Andrà avanti con la testa alta".
+Hypothesis:  Andrà avanti con la testa alta.
+
+Sample 814:
+Reference: Questa operazione può essere fatta sia via software sia via hardware.
+Hypothesis:  Questa operazione può essere fatta sia via software, sia via hardware.
+
+Sample 815:
+Reference: Otto poté ora proseguire nello sviluppo del motore a quattro tempi.
+Hypothesis:  Ottò, utendo ora proseguire, nel sviluppo del motore a quattro tempi.
+
+Sample 816:
+Reference: Ottenne molte onorificenze.
+Hypothesis:  Ottenne molte honorificenze
+
+Sample 817:
+Reference: È basato sul romanzo "Broncho Apache" di Paul Wellman.
+Hypothesis:  è passato sul romanzo bronco a pache di Paul Welman.
+
+Sample 818:
+Reference: Storici successivi invece lo reputano un monarca "democratico" proprio in base alle stesse ragioni.
+Hypothesis:  Sprorecci successivi, invece lo le potevano un monarca democratico e proprio in base alle stesse ratture.
+
+Sample 819:
+Reference: Ingegnere specializzato nelle costruzioni delle strutture in ferro.
+Hypothesis:  In geniere specializzato specializzato nelle costruzioni delle strutture in ferro.
+
+Sample 820:
+Reference: Sexy Sadie
+Hypothesis:  "Sexi Saidi".
+
+Sample 821:
+Reference: Allenatore II° livello, può allenare, essenzialmente, qualunque categoria.
+Hypothesis:  L'enatore secondo livello, può allenare essenzialmente con un categoria.
+
+Sample 822:
+Reference: La stagione fu buona e la squadra raggiunse la salvezza.
+Hypothesis:  La stagione fu buona e la squadra raggiunse la salvezza.
+
+Sample 823:
+Reference: Quella che segue è una lista degli capi missione italiani nel Regno Unito.
+Hypothesis:  quella che segue non avista dei capi missioni italiani davenono in unito
+
+Sample 824:
+Reference: Anche la quantità di proteine può essere misurata con svariate modalità.
+Hypothesis:  Anche la quantità di proteine o essere misurata con variate modalità.
+
+Sample 825:
+Reference: Con la viva conversazione e conducendomi con sé, di città in città, per musei e gallerie.
+Hypothesis:  Con la riva conversazione è conducendo mi con sé di città in città per Musei e gallerie.
+
+Sample 826:
+Reference: Ahmed al-Ghamdi era il fratello maggiore di Hamza al-Ghamdi.
+Hypothesis:  Hamid al Gambi era il fratello maggior di Amgia al Gambi.
+
+Sample 827:
+Reference: Infatti cancellarono tutto il palinsesto di affreschi esterni ed interni.
+Hypothesis:  I partiti che incilarono tutto il palenzecito di effreschesterno ed interno.
+
+Sample 828:
+Reference: In quegli anni partecipò come volontario alla Resistenza contro il nazismo.
+Hypothesis:  ma non è stato il rischio di un po' di domenegliere? quindi gli hanno partecipato o memorontale della restustenza contro il rilanzismo.
+
+Sample 829:
+Reference: Marzullo pone l'idea della lotta di classe e le teorie dell'educazione.
+Hypothesis:  Marzullo poi nel idee della lotta di classe e le teorie dell'educazione.
+
+Sample 830:
+Reference: Altri raccontano che avesse pugnalato un uomo senza motivo.
+Hypothesis:  Al trir e contano che avesse poi avuto un nuovo senza motivo senza avuto un nuovo senza motivo.
+
+Sample 831:
+Reference: Per questo fu visto come un traditore da parte dell'industria e fu socialmente isolato.
+Hypothesis:  Per questo fu visto come un traditore da parte dell'industria e fu socialmente isolato.
+
+Sample 832:
+Reference: Vincenzo Brenna
+Hypothesis:  di incenso prena
+
+Sample 833:
+Reference: Imparò a leggere da autodidatta esercitandosi sui libri di preghiere.
+Hypothesis:  imparò a leggere da autodidatta, esercitandosi sui libri di preghiere.
+
+Sample 834:
+Reference: È diviso in tre aree tematiche.
+Hypothesis:  è diviso in treare etematiche
+
+Sample 835:
+Reference: Arriva la signorina Fellows-Brown e iniziano le prove di vestiti.
+Hypothesis:  arriva la signorina Felos Brown e inizialò il provo di divestiti
+
+Sample 836:
+Reference: Wendlinger non andò però oltre un decimo posto al Gran Premio del Giappone.
+Hypothesis:  Wenlingher non andò però oltre un diecimoposto al gran premio del Giappone.
+
+Sample 837:
+Reference: Nelle discipline classiche le categorie sono determinate in base all'età degli sciatori.
+Hypothesis:  nei le discipline classiche, le categorie sono determinate in base alla lettera degli sciatori.
+
+Sample 838:
+Reference: Il periodo in cui vengono svolti è quello delle festività natalizie.
+Hypothesis:  Il periodo in cui vengono svolti è quello delle festività natalizia.
+
+Sample 839:
+Reference: Mickey invita a cena Carolina, che annuncia la notizia anche in famiglia.
+Hypothesis:  Michi, invitaccia in aceracadolina, chiano cattunce l'opizio anche in famiglia.
+
+Sample 840:
+Reference: Ricorrere all'opera dei ricoverati dell'Ospedale Psichiatrico sembrava la soluzione al problema.
+Hypothesis:  Ricordere all'opera dei ricoperati dell'ospedale psichiatro, si imprava la soluzione al problema.
+
+Sample 841:
+Reference: Fu grande amico di Giuseppe Di Stefano, Mike Bongiorno e Domenico Modugno.
+Hypothesis:  fu grandi amico di Giuseppe di Stefano, Mike Monjorn e domenico Monugno.
+
+Sample 842:
+Reference: Questa divinità era di fatto una delle molte manifestazioni della Grande Madre anatolica.
+Hypothesis:  questa divinità era di fatto una delle molti manifestazioni della grande madre anatomica
+
+Sample 843:
+Reference: Blaine Trump si è sposata ha divorziato due volte.
+Hypothesis:  Blaine Tramp si è sposata a divorziato due volte.
+
+Sample 844:
+Reference: Marguerite ha diversi discendenti in tutta Europa.
+Hypothesis:  Marigherì a tre diverse riuscì di scendenti in tutta Europa.
+
+Sample 845:
+Reference: Thorsten Schick
+Hypothesis:  Torstenci
+
+Sample 846:
+Reference: Javier Abano, un estroso pittore, viene ucciso.
+Hypothesis:  Giavia avvano un esseroso pittore di neucido.
+
+Sample 847:
+Reference: Di proietti, fino a quel punto nemici mortali.
+Hypothesis:  di proietti, filmo a quel punto nemici mortali.
+
+Sample 848:
+Reference: Appartenne ad una famiglia di musicisti.
+Hypothesis:  appartenne ad una famiglia di musicisti
+
+Sample 849:
+Reference: Ebbe tuttavia anche una forte opposizione, in parte sul piano personale.
+Hypothesis:  ebbe tuttavia anche una forte posizione in parte sul piano personale
+
+Sample 850:
+Reference: Il numero di azioni che i combattenti possono compiere ad ogni turno è limitato.
+Hypothesis:  Il numero di azioni che combattenti può solo compiere ad ogni turno è limitato.
+
+Sample 851:
+Reference: È il primo lungometraggio di questo artista.
+Hypothesis:  è il primo lungo metragio di questo artista
+
+Sample 852:
+Reference: La Fratelli Aletti fu una fabbrica di organi a canne, di impronta famigliare.
+Hypothesis:  La frateglie all'etti fu una fabbrica di organi a canne, di impronta familiare.
+
+Sample 853:
+Reference: Su diversi "Armadillo" furono installate due mitragliatrici Lewis.
+Hypothesis:  su diversi arma d'illogfurno installate due mitrali a trici lui.
+
+Sample 854:
+Reference: Lesioni dolorose senza deformità ossea possono essere trattate con una semplice escissione chirurgica.
+Hypothesis:  L'isicero in dolorosa esecenza reformità ossia possono essere trattate con una semplice "ecicione chirurgica".
+
+Sample 855:
+Reference: Che cosa poteva trovarvi, che non fosse stato veduto da Kruger e da Bargelli?
+Hypothesis:  che cosa potete trovi a arbi? che non fosse stato venduto da Cleuber e da Bargelli?
+
+Sample 856:
+Reference: La parete frontale è crollata; qui doveva trovarsi anche l'ingresso alla cappella.
+Hypothesis:  La parete frontale è frontale e crollata, qui doveva trovarsi anche l'ingresso sulla cappella.
+
+Sample 857:
+Reference: E tutta la casetta tranquilla.
+Hypothesis:  è tutta la cassetta tanquilla
+
+Sample 858:
+Reference: Dopo la guerra, Michel frequentò il college e successivamente lavorò come consulente politico.
+Hypothesis:  Dopo la guerra, Michael Frequento al College è successivamente lavorò come consulente politico.
+
+Sample 859:
+Reference: I produttori cominciarono quindi a lavorare ad una ricetta che i consumatori potessero apprezzare.
+Hypothesis:  I produttori, cominciarono quindi a lavorare ad una ricetta che il consumatore potrebbe essere apprezzato.
+
+Sample 860:
+Reference: Cesare non perse più tempo e si mosse con l'esercito contro le forze germaniche.
+Hypothesis:  Cesare non perse più tempo e simose con l'esercito contro le forze germaniche.
+
+Sample 861:
+Reference: La lega annunciò anche un rebranding, con l'introduzione di un nuovo logo.
+Hypothesis:  La lega, a non suo anche un Vib Rending con l'introduzione di nuovo logo.
+
+Sample 862:
+Reference: Lavora come insegnante scolastica fino alla sua elezione in Parlamento.
+Hypothesis:  L'avora, come insegnante scolastica, fino alla sua elezione in Parlamento.
+
+Sample 863:
+Reference: Tra le reliquie un frammento della Vera Croce.
+Hypothesis:  Calere elicue il famito della vera croce.
+
+Sample 864:
+Reference: A seguito di tale avvenimento la Russia si liberò definitivamente dal giogo Tataro-Mongolo.
+Hypothesis:  A seguito di tale avvenimento la russia si liberò definitivamente dal gioco tattato rumo.
+
+Sample 865:
+Reference: In ogni caso è preferibile una vibrazione più prolungata ad una di breve durata.
+Hypothesis:  In ogni caso è il preferibile una vibratione più pro-longata ad una di breve durata.
+
+Sample 866:
+Reference: È composto da una tribuna centrale e una tribuna ospiti.
+Hypothesis:  è composto da una tribuna centrale e una tribuna ospiti.
+
+Sample 867:
+Reference: In seguito Federico ritornerà a palazzo e riprenderà il potere.
+Hypothesis:  In seguito Federico, ritornereà a Valazzo e riprendereà il potere.
+
+Sample 868:
+Reference: Raffigurano "Scene della vita di san Girolamo", "Virtù" e altre figure allegoriche.
+Hypothesis:  Raffigurano scene della vita di San Girolamo, Virtu e altre figure allegoriche.
+
+Sample 869:
+Reference: Le intrusioni granitiche possono dividersi in due grandi gruppi.
+Hypothesis:  le intrusioni granicchi che possono dividerci in due grandi gruppi
+
+Sample 870:
+Reference: I file sono inviati al registrare mediante una connessione di rete Gigabit Ethernet.
+Hypothesis:  I file sono inviati al registrare mediante una connessione diretteggi David etermed.
+
+Sample 871:
+Reference: Anche se riluttante, Sharon accetta.
+Hypothesis:  anche se rilutante, sceluna città.
+
+Sample 872:
+Reference: Alcuni personaggi cambiano aspetto e abbigliamento a seconda delle scelte del giocatore.
+Hypothesis:  Al alcuni personaggi cambiano aspetto a abbigliamento a seconda delle scelte del giocatore.
+
+Sample 873:
+Reference: Queste si definiscono infezioni “opportunistiche”.
+Hypothesis:  Quest'agile si definiscono in fezione opportunistiche.
+
+Sample 874:
+Reference: Seguito dal tuono, e fu subito pioggia.
+Hypothesis:  seguito dal tono, è fu subito pioggia.
+
+Sample 875:
+Reference: La giustificazione dei valori non è intesa come invenzione dei valori stessi.
+Hypothesis:  la giustidicazione di valore non è in questa con invenzione di valori stessi
+
+Sample 876:
+Reference: Probabilmente morì suicida.
+Hypothesis:  probabilmente morì suicida
+
+Sample 877:
+Reference: Il film fu prodotto dalla Powers Picture Plays di Pat Powers.
+Hypothesis:  il film fu prodotto dalla "Powers Picture Play di Pat Powers".
+
+Sample 878:
+Reference: Giudizi contemporanei.
+Hypothesis:  giudizi contemporanei
+
+Sample 879:
+Reference: Donna Elvira però non vuole arrendersi.
+Hypothesis:  Donna e il vira però non vuole rendersi.
+
+Sample 880:
+Reference: L'album è prodotto da Claudio Cecchetto e Pier Paolo Peroni con Davide Ferrario.
+Hypothesis:  l'album è prodotto da Claudio Cecchetto e per Paolo Peroni, condabile Ferrari.
+
+Sample 881:
+Reference: In precedenza, la Geffen Records aveva pubblicato come download gratuito "Head First" degli Aerosmith.
+Hypothesis:  in precedenza, le ghi affan-record aveva pubblicato come download gratuito headfirst della Eidosmith.
+
+Sample 882:
+Reference: Bevono il tè, fanno battute nerd e a volte guardano le serie tv.
+Hypothesis:  Bevono alte, fanno battuta in erdo e a volte guardano le serie tipo.
+
+Sample 883:
+Reference: La chiesa è accompagnata anche da una piccola riproduzione della grotta di Lourdes.
+Hypothesis:  La chiesa è accompagnata anche da una piccola riproduzione della grotta di l'urt.
+
+Sample 884:
+Reference: Le abitudini sono poco note: si ritiene che sia prevalentemente notturno.
+Hypothesis:  Le abitudini sono poco notte, si ritiene che sia prevalentemente noturno.
+
+Sample 885:
+Reference: Funzioni aventi lo stesso dominio possono essere sommate o moltiplicate.
+Hypothesis:  Funzioni a venti lo stesso dominio possono essere sommate o moltiplicate.
+
+Sample 886:
+Reference: Fu presidente dell'associazione "Una voce" per il mantenimento del latino nella liturgia.
+Hypothesis:  fu presidente della sozzazione una voce per il mantenimento della tina nella ritorgia.
+
+Sample 887:
+Reference: Riprendono così nuovamente i concerti per qualche anno.
+Hypothesis:  Reprendono così nuovamente i concerti per qualche anno.
+
+Sample 888:
+Reference: Assomigliavano vagamente a grandi salamandre, con un corpo allungato e una coda compressa lateralmente.
+Hypothesis:  Assomigliavano vagamente a grandi salamandre, con un corpo allungato e una scoda compresta natelamente.
+
+Sample 889:
+Reference: Il sarcofago è in mattoni di due colori.
+Hypothesis:  Il sarcofago in mattoni di due colori.
+
+Sample 890:
+Reference: Tutti i brani sono testo e musica di Marco Castoldi, tranne dove indicato.
+Hypothesis:  Tuti i brani sono testi suonotecito e musica di Marco Castoldi, tranne dove indicato.
+
+Sample 891:
+Reference: Dopo il suo successo, venne girato una seconda pellicola dal titolo, "Attenzione!
+Hypothesis:  Dopo il suo processo venne girato una seconda pellicola da un titolo attenzione.
+
+Sample 892:
+Reference: Affondando le mani nei suoi capelli ribelli.
+Hypothesis:  affondando le mani nei suoi capelli di rebelli
+
+Sample 893:
+Reference: Lei, per procurarsi il denaro che, ovviamente, non ha, ruba il diamante rosa.
+Hypothesis:  lei per procurarsi il denaro che ovviamente non ha "urubbia il diamante rosa".
+
+Sample 894:
+Reference: Non si sa altro.
+Hypothesis:  non si è salto
+
+Sample 895:
+Reference: È segretario di Stato al Bilancio e alla Marina durante la Quarta Repubblica.
+Hypothesis:  il segretario di stato al bilancio la marina durante l'acquarta repubblica.
+
+Sample 896:
+Reference: La donna fingeva sempre di leggere.
+Hypothesis:  La donna fingeva sempre di leggere.
+
+Sample 897:
+Reference: Nacque da Antonio ed Elisabetta Rotondo; una famiglia della borghesia cittadina.
+Hypothesis:  L'acqua ed Antonio Antônio è di Elizabeth Tarotondo, una famiglia della borghisiacità dina.
+
+Sample 898:
+Reference: L'isotopo di breve vita media decade, emettendo un positrone.
+Hypothesis:  il soto può di breve vita media dei cade e mettendo un po' si trone.
+
+Sample 899:
+Reference: Nel corso della sua vita l'impegno scientifico si intrecciò con quello sociale e politico.
+Hypothesis:  Nel corso della sua vita l'impegno scientifici è stato intenzio e semplice, con quello sociale e politico.
+
+Sample 900:
+Reference: La copertina ritrae una foto di Morrissey, realizzata da Greg Gorman.
+Hypothesis:  la copertina ritrae una foto di Mori sei realizzato da Greg Gormann.
+
+Sample 901:
+Reference: Il più antico codice datato è il cosiddetto "Codice di Ursicino".
+Hypothesis:  il più antico codice datato è il cosvetto codice di urzichino
+
+Sample 902:
+Reference: Ci sono numerosi resti di oggetti di questo tipo.
+Hypothesis:  ci sono numerosi "resti" di oggetti di questo tipo
+
+Sample 903:
+Reference: Ogni osso nello scheletro è associato a una porzione della rappresentazione visuale del personaggio.
+Hypothesis:  ogni osso nello schilitro è associato a una porzione della rappresentazione visuale del personaggio.
+
+Sample 904:
+Reference: Il suo approccio agli argomenti è stato caratterizzato dall'interdisciplinarità.
+Hypothesis:  Il suo approccio agli argomenti è stato caratterizzato dall'interdisciplinarità.
+
+Sample 905:
+Reference: Una tregua può essere richiesta per negoziare un armistizio.
+Hypothesis:  una tre guapo può essere richiesta per legunziare un armistizio.
+
+Sample 906:
+Reference: Discendenti diretti della antica casata nobiliare Maggi sono tuttora presenti nella provincia di Brescia.
+Hypothesis:  Dicendenti diretti, dell'antica casata nobiliare magliare magi, sono tuttora presenti nella provincia di Brescia.
+
+Sample 907:
+Reference: L'idea suscitò interesse all'estero, e in particolare in Francia le opinioni furono diverse.
+Hypothesis:  L'inea ha suscito interesse all'estero è in particolare in Francia gli ocuni uniforono diverse.
+
+Sample 908:
+Reference: Poi ho scoperto che avrei potuto ricominciare.
+Hypothesis:  poi lo scoperto che avrebbe potuto ridominciare
+
+Sample 909:
+Reference: La spuntò Aristobulo e così Ircano dovette riparare nella cittadella di Gerusalemme.
+Hypothesis:  La spuntò a ristobulo, e così il cano dovette riparare nella cittadella di Jerusalemme.
+
+Sample 910:
+Reference: La prima stagione da professionista si conclude con due presenze.
+Hypothesis:  La prima stagione da professionista si conclude con due presenze.
+
+Sample 911:
+Reference: Jasper forma a sua volta il gruppo post-punk dei The Hunt.
+Hypothesis:  Già sperforma savolta il gruppo post-pank dei "The Hand".
+
+Sample 912:
+Reference: Ebbe inizialmente come capoluogo Sondrio, quindi Morbegno.
+Hypothesis:  e benizialmente come capoluogo sondro quindi morbegno
+
+Sample 913:
+Reference: Berg raggiunse l'accordo per un contratto biennale.
+Hypothesis:  Berg raggiunse l'accordo per un contratto biannale.
+
+Sample 914:
+Reference: A tal punto arriva la mancata comprensione dei due coniugi.
+Hypothesis:  A tapp'undo arriva la manca della comprenzione di due copici.
+
+Sample 915:
+Reference: Ciò ha spaventato il governo polacco che ha infine accettato una proposta di compromesso.
+Hypothesis:  Giò assolutta vent'altro il governo polacco che ha infine accettato una proposta di compromissi.
+
+Sample 916:
+Reference: Il Mondo
+Hypothesis:  Il mondo.
+
+Sample 917:
+Reference: Dopo che la casa di John Wayne Gacy fu demolita, ne fu ricostruita un'altra.
+Hypothesis:  Dopo che la casa di John Wayne Gacy Fudemolita ne fu di costruito un'altra.
+
+Sample 918:
+Reference: La firma dell'artista si trova sul cartellino deposto a terra al centro.
+Hypothesis:  la firma dell'artista si trova sul cartellino deposto a terra al centro
+
+Sample 919:
+Reference: Anche la fauna è piuttosto ricca.
+Hypothesis:  anche la fauna, è piuttosto arricca.
+
+Sample 920:
+Reference: Di fronte allo scarso successo del tentativo, il governo impose l'acquisto a funzionari pubblici.
+Hypothesis:  D'ifrontro a lo scarcia successo del tentativo, il governo impose la quiz di funzionari pubblici.
+
+Sample 921:
+Reference: È oggetto secondario della pesca professionale alle Hawaii.
+Hypothesis:  è un oggetto secondario del attista professionale al Hawaii.
+
+Sample 922:
+Reference: Solitamente gli aerei più piccoli e meno potenti hanno due o tre pale.
+Hypothesis:  Solizamente agli eri più piccoli e meno fosenti hanno due o tre parei.
+
+Sample 923:
+Reference: Di seguito le tracce vengono riportate in modo corretto.
+Hypothesis:  di seguito alle tracce vengono riportate in modo corretto.
+
+Sample 924:
+Reference: La loro anatomia distintiva comprendeva ali lunghe, colli allungati e denti altamente specializzati.
+Hypothesis:  La loro anatomia è distintiva, comprendeva l'unque, colelungati edenti altamente specializzati.
+
+Sample 925:
+Reference: Durante il processo vende alla stampa alcune sue poesie.
+Hypothesis:  Durante il processo vende alla stampa alcune sue poesia.
+
+Sample 926:
+Reference: Compì numerose visite pastorali.
+Hypothesis:  Compi numerose visite pastorali
+
+Sample 927:
+Reference: Se io andassi là, ebbene, che accadrebbe?
+Hypothesis:  Se io andassi la ebbene, chi accadrebbe?
+
+Sample 928:
+Reference: Per favore dammi da mangiare e da bere.
+Hypothesis:  Per favore, dammi da maggiore da bere
+
+Sample 929:
+Reference: Furia cerca di fermarla, ma finisce bloccata sotto a delle macerie.
+Hypothesis:  Furia circa di fermarla, ma finisce bloccata sotto alle macerie.
+
+Sample 930:
+Reference: Nel video ci sono scene di "Camp Rock".
+Hypothesis:  nel video ci sono scena di Camp Rock
+
+Sample 931:
+Reference: I suoi eredi cedettero alla biblioteca ambrosiana le pergamene e i manoscritti che possedeva.
+Hypothesis:  I fuori eredi cedettero alla Biblioteca Ambrosiana dei pergamene e in manoscritti che possadeva.
+
+Sample 932:
+Reference: Clelia Pellicano è stata una "pioniera del femminismo" in Italia ma anche in Europa.
+Hypothesis:  Clelly a Pelricano è stata una pioniera del femminismo in Italia, ma anche in Europa.
+
+Sample 933:
+Reference: Un approccio tollerante del tipo "riduzione del danno".
+Hypothesis:  una progetto allenerante del tipo "Reduzione del danno".
+
+Sample 934:
+Reference: Anche la biodiversità della flora è impressionante.
+Hypothesis:  anche la biodiversità della flora è impressionante
+
+Sample 935:
+Reference: Su Facebook, l'artista chiese ai suoi fan quale avrebbe dovuto essere il prossimo singolo.
+Hypothesis:  su Facebook l'artista chiese suoi fan, qualavrebbe dovuto essere il prossimo singolo
+
+Sample 936:
+Reference: Hamza Adnan-Karim
+Hypothesis:  Anza a non cattere.
+
+Sample 937:
+Reference: Il gioco è uscito per Sega Saturn, PlayStation e Personal Computer.
+Hypothesis:  il gioco è uscito per si casato un prestescio nel personal computer.
+
+Sample 938:
+Reference: Non vedo niente!
+Hypothesis:  non vedo niente
+
+Sample 939:
+Reference: Dopo essersi ritirato, ha iniziato la carriera di allenatore.
+Hypothesis:  dopod è stesse il suicidiatua e iliniziatura che era dell'ordinatore.
+
+Sample 940:
+Reference: Al turno successivo viene eliminata dalla polacca Agnieszka Radwańska.
+Hypothesis:  Al turno successiva viene eliminata da la polacca "Nesca Radvanzia".
+
+Sample 941:
+Reference: Le notizie sulla famiglia sono incerte.
+Hypothesis:  Le notizie sulla famiglia sono in certe.
+
+Sample 942:
+Reference: Inviò come vicario il fratello Rodolfo primicerio della metropolita di Milano.
+Hypothesis:  Invio, come vicario, il fratello Rodolfo I.C. della metropolità di Milano.
+
+Sample 943:
+Reference: Il solvente viene poi fatto evaporare e la mistura viene seccata e filtrata.
+Hypothesis:  Il solvente viene poi fatto e va porare, la mistura viene seccata filtrata.
+
+Sample 944:
+Reference: Il capoluogo di contea è Ellsworth.
+Hypothesis:  Il capoluogo di contea è "Elzwork".
+
+Sample 945:
+Reference: L'episodio pilota della serie era noto semplicemente come "Kids Show".
+Hypothesis:  L'episodio pilota della serie era noto semplicemente come "Kids showed".
+
+Sample 946:
+Reference: Queste scoperte furono completate e spiegate da Michael Faraday.
+Hypothesis:  Queste scoperte furono completate e spiegate da Michael Faraday.
+
+Sample 947:
+Reference: L'opera è oggi nella chiesa del Monte.
+Hypothesis:  L'opera è oggi nella chiesa del Monte.
+
+Sample 948:
+Reference: La diffusione delle fortificazioni ridusse l'importanza delle battaglie campali in favore degli assedi.
+Hypothesis:  La diffusione delle fortificazioni riuscì l'importanza delle battaglie campali in favore degli assedi.
+
+Sample 949:
+Reference: In passato è stata la lingua ufficiale della Repubblica Popolare del Kuban'.
+Hypothesis:  Impassato, è stata la lingua ufficiale della Repubblica Popolare del Cuban.
+
+Sample 950:
+Reference: Gli attori principali cantano molto spesso.
+Hypothesis:  gli attori principali cantano molto spesso
+
+Sample 951:
+Reference: La seconda giornata vede affrontarsi nel big match Manchester United e Roma.
+Hypothesis:  la seconda giornata ha avvi affrontarsi nel Big Neckmanci, Manchester United e Roma.
+
+Sample 952:
+Reference: Anche l'uso di costosi materiali da costruzione è inusuale.
+Hypothesis:  Anche lo suddicostosi materiali da costruzione è in usuale.
+
+Sample 953:
+Reference: Lo ha conosciuto solo quando aveva cinque anni.
+Hypothesis:  lo ha conosciuto solo quando aveva cinque anni.
+
+Sample 954:
+Reference: Un uomo nervoso è anche molto superstizioso.
+Hypothesis:  Un uomo nel boso è anche molto superstizioso.
+
+Sample 955:
+Reference: Da qui nascerà "Heimat".
+Hypothesis:  da qui nel Shira Ahmed.
+
+Sample 956:
+Reference: Questa affermazione fu poi ribadita anche in pubblicazioni ufficiali successive sotto licenza.
+Hypothesis:  questa affermazione fu poi ribadita anche in pubblicazioni ufficiali successivi e sottolinee in pubblicazione ufficiale successivo sotto licenza.
+
+Sample 957:
+Reference: Il Bulldog Raul fu l’ultimo della serie Disney ad essere prodotto.
+Hypothesis:  Il bordo grau fu l'ultimo della serie Disney a essere prodotto.
+
+Sample 958:
+Reference: Lo amo.
+Hypothesis:  lo amo
+
+Sample 959:
+Reference: Celebre la sua parodia di Hitler in "Vogliamo vivere!
+Hypothesis:  C'è levre la sua parodia di Hitler e vogliamo vivere.
+
+Sample 960:
+Reference: Al centro della navata si trova la statua della Beata Vergine.
+Hypothesis:  al centro della navata si trova l'astato della beata Vergina
+
+Sample 961:
+Reference: Esiste una sola generazione all'anno.
+Hypothesis:  L'isiste una sola generazione all'anno.
+
+Sample 962:
+Reference: Di professione era un insegnante scolastico.
+Hypothesis:  di provazione era un'intinate scuola, stigora.
+
+Sample 963:
+Reference: L'identica grana del legno ha poi confermato l'ipotesi.
+Hypothesis:  L'identi agrano dell'igno ha prego fermato il potersi.
+
+Sample 964:
+Reference: La sigla della trasmissione era "Ritmo" di Carolina Márquez.
+Hypothesis:  la sigla della trasmissione era l'elettimo di Carolina Markets.
+
+Sample 965:
+Reference: La pinna dorsale arriva all'altezza delle pinne pettorali.
+Hypothesis:  La pinna dorsale arriva all'altezza delle pinne peggiorali.
+
+Sample 966:
+Reference: Negli stessi mesi Olga conobbe Gabriele D'Annunzio.
+Hypothesis:  degli stessi mesi olga con obecabriere la danneo un zio.
+
+Sample 967:
+Reference: Casimiro rispose sollecitando il sostegno degli amministratori e delle città prussiane.
+Hypothesis:  Casimiro rispose sull'igitando il sostegno degli amministratoli e delle città processiane.
+
+Sample 968:
+Reference: Le perdite non erano perciò considerate necessarie e inevitabili".
+Hypothesis:  Le verdi non erano perciò, considerate necessarie e inetabili.
+
+Sample 969:
+Reference: C'era qualche precedente in Mesopotamia per doppi titoli di questo tipo.
+Hypothesis:  Sì, era qualche precedente precedente in mezzo potaglia per doppi titoli di questo tipo.
+
+Sample 970:
+Reference: Danny Gibson
+Hypothesis:  Denny Gibson
+
+Sample 971:
+Reference: In questo nuovo rilancio Marvel l'Uomo Ghiaccio riunisce i Campioni originali.
+Hypothesis:  In questo nuovo "Rilanzio Marvel" lo mogliaccio di unisce campione originali.
+
+Sample 972:
+Reference: Oggi è la sede del comune e ospita eventi e mostre temporanee.
+Hypothesis:  oggi è la sebe del comune e ospita eventi e mostra che un porano è
+
+Sample 973:
+Reference: L'area è riconosciuta come uno dei principali luoghi di immersione nel mondo.
+Hypothesis:  La rare è riconosciuta come uno dei principali luoghi principali di immersione del mondo.
+
+Sample 974:
+Reference: La fanciulla si alza in piedi.
+Hypothesis:  La fancola si è alza in piedi.
+
+Sample 975:
+Reference: La sequenza nella seconda linea contiene una serie "magica" di rune terminante in "alu".
+Hypothesis:  La sequenza nella seconda linea contiene una serie magica di rune terminante in allo.
+
+Sample 976:
+Reference: Il coordinatore difensivo Matt Patricia fu ingaggiato come capo-allenatore dai Detroit Lions.
+Hypothesis:  il coordinateurre difensivo mat patrescia fu ingaggiato come capole naturale dai Detroit Lions.
+
+Sample 977:
+Reference: Per Tommaso la sodomia è un peccato mortale rivolto contro la Natura.
+Hypothesis:  Per Tomas, la assodomia è un peccato mortale rivolto contro la natura.
+
+Sample 978:
+Reference: La coppia ebbe quattro figli: Serafina, Luis Ángel, Alfredo e Juan.
+Hypothesis:  la coppia ebbe quattro figli, serafina, lui, Sanjay, Alfredo e Juan.
+
+Sample 979:
+Reference: Ti deve venire un bel tumorazzo.
+Hypothesis:  ti devevvi nire un bel tumorazzo.
+
+Sample 980:
+Reference: Gustavo Fabbri
+Hypothesis:  Gustavo Fabri
+
+Sample 981:
+Reference: Il suo lavoro colpì anche il filosofo Baruch Spinoza.
+Hypothesis:  il suo lavoro colpì anche il filoso fubaruc spinosa
+
+Sample 982:
+Reference: Mille pensieri confusi lo agitavano;
+Hypothesis:  Mila e pensieri confusi lo citavano.
+
+Sample 983:
+Reference: Grazie a ciò si sono enormemente sviluppate la viticoltura e la frutticoltura.
+Hypothesis:  Grazie a ciò si sono enormemente sviluppate la viticolatura e la frutti-coltura.
+
+Sample 984:
+Reference: Un po' a Milano
+Hypothesis:  un po' a Milano.
+
+Sample 985:
+Reference: Stando alle dimensioni, è probabile che fosse destinato alla devozione privata.
+Hypothesis:  Stando le dimensioni progettate che fosse destinato alla democione privata.
+
+Sample 986:
+Reference: Una fontana pubblica era un luogo importante per la soddisfazione delle esigenze delle famiglie.
+Hypothesis:  Una fontana pubblica è un luogo importante per la soddisfazione delle esigenze delle famiglie.
+
+Sample 987:
+Reference: Il sistema proporzionale era il modello elettorale calzante per tale scenario politico.
+Hypothesis:  Il sistema proporzionale era il modello elettorale calzante per tale scenario politico.
+
+Sample 988:
+Reference: È un partito di tendenza democristiana, conservatrice sociale e liberista.
+Hypothesis:  è un partito di tendenza tiendenza timo cristiana, conservatrice, sociale e liberista
+
+Sample 989:
+Reference: La tranquillità non dura neanche un po'.
+Hypothesis:  la tranquillità non dura né anche un po'
+
+Sample 990:
+Reference: Nello stesso anno approdò alla di Carlo Carcano, dove rimase per tre stagioni.
+Hypothesis:  Mello stesso anno, a prodò alla di Carlo Carcano, dove rimase per tre stagioni.
+
+Sample 991:
+Reference: Vestibolo Ventura Rodríguez
+Hypothesis:  Festival ventura Rodriguezza
+
+Sample 992:
+Reference: L'abbazia ha una pianta quadrata.
+Hypothesis:  la bacia ha una pianta quadrato.
+
+Sample 993:
+Reference: Fu comunque la prima volta che tali macchinari venivano approntati fuori dai confini inglesi.
+Hypothesis:  fu comunque la prima volta che tali macchinevano venevano prontati fuori dai confini inglesi.
+
+Sample 994:
+Reference: Sul verso è rappresentata una veduta di piazza del Campidoglio a Roma.
+Hypothesis:  Sul verso è rappresentata una veduta di piazza del campi d'oglio a Roma.
+
+Sample 995:
+Reference: Il comune di Milano le dedica una via.
+Hypothesis:  il comune di Milano, le dedica una via.
+
+Sample 996:
+Reference: Altri termini aggiuntivi, come la sottospecie, sono facoltativi.
+Hypothesis:  altri termini agli ultimi, come la sotto Space sono facoltativi
+
+Sample 997:
+Reference: La donna grossa appese il lume ad un lungo chiodo sul muro.
+Hypothesis:  La donna grossa appese il lume ad un lungo chiodo sul muro.
+
+Sample 998:
+Reference: I pali venivano poi uniti insieme tramite rami e graticci di vimini.
+Hypothesis:  I pali venivano poi unite insieme tra miterami e grattici divimini tra i pali i pali i pali venivano poi unite insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme tra i pali venivano poi insieme
+
+Sample 999:
+Reference: È l'edificio sacro più antico del paese, eretto a partire dal Trecento.
+Hypothesis:  è l'edificio sacro più antico del paese, eretto a partire del recento.
+
+Sample 1000:
+Reference: Al rovescio è raffigurato un cavallo stante o al passo volto a destra.
+Hypothesis:  al rovegio è raffigurato un cavallo stante o al passo, volto a destra.
+

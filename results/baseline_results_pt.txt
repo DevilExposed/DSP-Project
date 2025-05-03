@@ -1,0 +1,4002 @@
+Word Error Rate (WER) for pt: 35.27190%
+
+Sample 1:
+Reference: Se não houver, o acordo inicial será final.
+Hypothesis:  Se não houver, o acordo inicial será final.
+
+Sample 2:
+Reference: Pedro fez um meme e mandou no WhatsApp
+Hypothesis:  Pedro fez um name e mandou no WhatsApp.
+
+Sample 3:
+Reference: Quando não há campos, não há para os santos.
+Hypothesis:  Quando não há campos, não há para os santos.
+
+Sample 4:
+Reference: Clara se mudou de Porto Alegre pra Florianópolis.
+Hypothesis:  Clara se mudou de portalegre para Florianópolis.
+
+Sample 5:
+Reference: Aqueles também querem ter lábios rosados?
+Hypothesis:  Aqueles também querem ter labos rosados?
+
+Sample 6:
+Reference: Eu direi a mesma coisa sobre a justiça federal.
+Hypothesis:  Eu direi a mesma coisa sobre justiça federal.
+
+Sample 7:
+Reference: É realmente verdade que isso é algo para garantir um bom desempenho no campo.
+Hypothesis:  É realmente verdade que isso é algo para garantir um bom desempenho no campo.
+
+Sample 8:
+Reference: Impossível por causa da substituição
+Hypothesis:  Impossível por causa da substituição.
+
+Sample 9:
+Reference: Eles também podem recorrer a programas primários de alfabetização por meio de jogos educativos.
+Hypothesis:  Eles também podem recorrer a programas primárias de alfabetização por meio de jogos educativos.
+
+Sample 10:
+Reference: Porto Vitória
+Hypothesis:  Porto Fittoria.
+
+Sample 11:
+Reference: Victoria nasceu no décimo nono anos setenta.
+Hypothesis:  Vitoria nasceu no décimo 9 ano 70.
+
+Sample 12:
+Reference: Biblioteca do Congresso dos Estados Unidos
+Hypothesis:  Biblioteca do Congresso dos Estados Unidos.
+
+Sample 13:
+Reference: Uma pessoa posa na neve.
+Hypothesis:  Uma pessoa pós-ana neve.
+
+Sample 14:
+Reference: É um termo que não está devidamente dicionarizado
+Hypothesis:  É um termo que não está devidamente dissonalizado.
+
+Sample 15:
+Reference: Um homem mergulha na água cercada por pedras e pinheiros.
+Hypothesis:  Um homem mergulha na água cercada por pedras e peneiros.
+
+Sample 16:
+Reference: reservar uma mesa na Flórida para dez pessoas
+Hypothesis:  Reservar uma mesa na flórida para 10 pessoas.
+
+Sample 17:
+Reference: Adicionar uma música à minha lista de reprodução Lista de convidados Polygon
+Hypothesis:  Adicionar uma música a minha lista de reprodução, lista convidados, poligão.
+
+Sample 18:
+Reference: Marilac
+Hypothesis:  Maldilhac.
+
+Sample 19:
+Reference: Todos refletem cada época
+Hypothesis:  Todos refletem cada época.
+
+Sample 20:
+Reference: Camila Gomes de Sales
+Hypothesis:  Camila gomes de salis.
+
+Sample 21:
+Reference: Charles Santos da Silva
+Hypothesis:  Charle Sunt da Silva.
+
+Sample 22:
+Reference: Pegue as amostras para sua observação.
+Hypothesis:  Pega a já mostres para a sua observação.
+
+Sample 23:
+Reference: Sim senhor.
+Hypothesis:  Seis mira.
+
+Sample 24:
+Reference: Você é o único que sobrou.
+Hypothesis:  Eu você é o único que sobrou.
+
+Sample 25:
+Reference: Companhia limitada
+Hypothesis:  Com colinha limitada.
+
+Sample 26:
+Reference: Eu acho que sim!
+Hypothesis:  Eu acho que sim.
+
+Sample 27:
+Reference: Sim, isso seria o melhor!
+Hypothesis:  Sim, isso seria o melhor.
+
+Sample 28:
+Reference: O que consigo é um produto, em mim
+Hypothesis:  O que consigo é um produto eimino.
+
+Sample 29:
+Reference: Na noite solitária, ele secretamente fez um juramento.
+Hypothesis:  No ano de solitária, ele secretamente fez um juramento.
+
+Sample 30:
+Reference: Quem quer que cuide da língua, fique de olho na cabeça.
+Hypothesis:  Quem quer que cude dar a limba, fique de olho na cabeça.
+
+Sample 31:
+Reference: Segredo de dois, é perigoso; segredo de três, nada vale a pena.
+Hypothesis:  Segredo de 2 é perigoso. Segredo de 3 nada vale a pena.
+
+Sample 32:
+Reference: Implementar comunicação com os moradores locais
+Hypothesis:  implementar comunicação com os moradores locais.
+
+Sample 33:
+Reference: No site você encontrará informações sobre o alojamento.
+Hypothesis:  Não sabe se você encontra a velha com uma sítia de arrozameu.
+
+Sample 34:
+Reference: Em setembro, colha as maçãs antes que as piadas cheguem.
+Hypothesis:  Em setembro, colhe as maçãs antes que as piadas chegem.
+
+Sample 35:
+Reference: A qualquer momento, poderíamos ser assassinados!
+Hypothesis:  A qualquer momento poderiam ser assassinados.
+
+Sample 36:
+Reference: Lobato
+Hypothesis:  Luba, tu!
+
+Sample 37:
+Reference: Um homem é conhecido pela empresa que ele lidera.
+Hypothesis:  Um homem é conhecido pelo empresa que ele lidera.
+
+Sample 38:
+Reference: Aproveitaremos o cortejo logo mais
+Hypothesis:  Proveitaremos o cortejo logo mais.
+
+Sample 39:
+Reference: Claiton de Matos Cabral
+Hypothesis:  Cláilton de Matos Cabral
+
+Sample 40:
+Reference: Lápis para baixo, o tempo acabou.
+Hypothesis:  Lápio de provar o tempo acabou.
+
+Sample 41:
+Reference: Tudo isso não deve exceder, em qualquer caso, as duzentas palavras.
+Hypothesis:  Tudo isso não deve ser derre em qualquer caso, as 200 palavras.
+
+Sample 42:
+Reference: Quem está ai?
+Hypothesis:  Quem está aí?
+
+Sample 43:
+Reference: A instituição que é completamente inalterada em pessoal é o fóssil
+Hypothesis:  A instituição que é completamente inodervada em pessoal é o forço.
+
+Sample 44:
+Reference: Corte a torta em grandes partes.
+Hypothesis:  Corte a torta e grunz parte.
+
+Sample 45:
+Reference: Pedreira
+Hypothesis:  Entrei-te.
+
+Sample 46:
+Reference: Torne-se parte da sociedade
+Hypothesis:  Torne-se parte da sociedade.
+
+Sample 47:
+Reference: A fofoca está terminada, abra a honra!
+Hypothesis:  A fofoca está terminada, abre a honra.
+
+Sample 48:
+Reference: Edifício Taipé
+Hypothesis:  É difícil, tá em clé.
+
+Sample 49:
+Reference: Costa Rica foi incrível no campo!
+Hypothesis:  Costa Rica foi incrível no tam.
+
+Sample 50:
+Reference: Graccho Cardoso
+Hypothesis:  Graxo a cadeus.
+
+Sample 51:
+Reference: As pessoas estão passeando em um mercado
+Hypothesis:  As pessoas estão passeando em uma écada.
+
+Sample 52:
+Reference: Minha caneta é azul.
+Hypothesis:  Minha canta é azul.
+
+Sample 53:
+Reference: Salinidade moderada e um pouco de doçura
+Hypothesis:  Salimidade moderada e um pouco de doceura.
+
+Sample 54:
+Reference: Tomei um gole da cerveja e fiquei mal
+Hypothesis:  Tomei um gole da cerveja e fiquei mal.
+
+Sample 55:
+Reference: Qual é o endereço onde será ministrada a palestra?
+Hypothesis:  Qual é o endereço onde será ministrada a palestra?
+
+Sample 56:
+Reference: Rafael fala muito bem.
+Hypothesis:  Rafa é o fala muito bem.
+
+Sample 57:
+Reference: Raios de vento, muito mar e peixe fresco.
+Hypothesis:  Raios de vento, muito mar e peixe fresco.
+
+Sample 58:
+Reference: Planejar e gerenciar os serviços, presenciais e virtuais, oferecidos pelo Serviço.
+Hypothesis:  Planejar e Gerenciar os serviços presenciais e virtuais oferecidos pelo serviço.
+
+Sample 59:
+Reference: Ele viajou para Portugual eu acho.
+Hypothesis:  Ele viajou para Portugal, eu acho.
+
+Sample 60:
+Reference: Paulo esqueceu a senha da Maria.
+Hypothesis:  Paulo, esqueceu a senha da Maria.
+
+Sample 61:
+Reference: Quando as circunstâncias o exigirem, qualquer determinação do Plano Urbano Parcial poderá ser modificada.
+Hypothesis:  Quando as circunstâncias do exigirem, qualquer determinação do plano urbano parcial poderá ser modificada.
+
+Sample 62:
+Reference: As pessoas estão desfrutando de sombra sob guarda-chuvas coloridos.
+Hypothesis:  As pessoas estão desfrutando de sombras sob guarda chuvas coloridos.
+
+Sample 63:
+Reference: Coloque um adesivo de tatuagem de primavera no braço
+Hypothesis:  Coloque um antecivo de tatuagem de primavera no braço.
+
+Sample 64:
+Reference: Palhaços andando pela rua, aparentemente em um desfile com um Porta Potty no fundo
+Hypothesis:  Palhaço, andando pela rua, aparentemente em um desfilho e com porta-pot no fundo.
+
+Sample 65:
+Reference: Desculpe, eu fui enganado.
+Hypothesis:  Desculpe o finger node.
+
+Sample 66:
+Reference: Você mostraria esses senhores à porta?
+Hypothesis:  Você mostraria esse senhores aporta?
+
+Sample 67:
+Reference: A conciliação, a mediação e outros métodos de solução consensual de conflitos
+Hypothesis:  A conciliação, a mediação em outros metros de solução consensual de conflitos.
+
+Sample 68:
+Reference: E você não pode libertá-lo?
+Hypothesis:  e você não pode libertá-lo.
+
+Sample 69:
+Reference: Casimiro de Abreu
+Hypothesis:  Casimiro de abril
+
+Sample 70:
+Reference: Desta forma, podemos avaliar com maior precisão as características e a função.
+Hypothesis:  Dessa forma podemos avaliar com maior precisão as características e a função.
+
+Sample 71:
+Reference: Leanne se juntou a um coro para que todos pudessem ouvir sua voz sublime.
+Hypothesis:  Leanne, se juntou a um couro para que todos pudessem ouvir sua voz sublime.
+
+Sample 72:
+Reference: Europa, Encélado e Titã são potenciais satélites habitáveis
+Hypothesis:  Europa, em célula do Iquitã são potenciais satélites habitáveis.
+
+Sample 73:
+Reference: Cedral
+Hypothesis:  Cedral
+
+Sample 74:
+Reference: Giovane Peres Itamaraty
+Hypothesis:  Giovanni Pérez e Tamarati.
+
+Sample 75:
+Reference: Perdizes
+Hypothesis:  Bem, por Jesus.
+
+Sample 76:
+Reference: Estou com fome e com sede.
+Hypothesis:  Estou conforme e concedo.
+
+Sample 77:
+Reference: Isso vai mudá-los?
+Hypothesis:  Isso vai mudá-los.
+
+Sample 78:
+Reference: Deixe esfriar e você já pode comê-lo.
+Hypothesis:  Deixe esfriar e você já pode comer do...
+
+Sample 79:
+Reference: Acesse as configurações e faça a atualização do sistema
+Hypothesis:  Acerce as configurações e faça atualização do sistema.
+
+Sample 80:
+Reference: Você precisa pagar antecipadamente?
+Hypothesis:  Você precisa pagar antes deadamente?
+
+Sample 81:
+Reference: O item é cinco euros.
+Hypothesis:  O item é 5 euros.
+
+Sample 82:
+Reference: Em outros eu só vejo estrangeiros.
+Hypothesis:  Em outros, eu só vejo estrangeiros.
+
+Sample 83:
+Reference: Turiúba
+Hypothesis:  Tô de Uber.
+
+Sample 84:
+Reference: Entre os princípios mais internalizados, talvez o primeiro seja o da independência.
+Hypothesis:  Entre os princípios mais internalizados, talvez o primeiro seja o da independência.
+
+Sample 85:
+Reference: Eu devo tudo a Corey Brown.
+Hypothesis:  Eu tenho tudo a cor brava.
+
+Sample 86:
+Reference: Laguna
+Hypothesis:  Lá uma.
+
+Sample 87:
+Reference: Um menino salta sobre uma corda vermelha e preta em um parque lotado.
+Hypothesis:  E um salte sobre uma cor de vermelha e um preta é um barclutado.
+
+Sample 88:
+Reference: Santo Antônio de Leverger
+Hypothesis:  São contorno de LiveVariger.
+
+Sample 89:
+Reference: Onde você vai ficar esta noite?
+Hypothesis:  Onde você vai ficar esta noite?
+
+Sample 90:
+Reference: Resgatar a norma culta da língua portuguesa no Brasil é necessário e imperativo
+Hypothesis:  A tal norma culta da língua portuguesa no Brasil é necessário e imperativo.
+
+Sample 91:
+Reference: Convívio contínuo de quarentena
+Hypothesis:  convive o continuto quarentena.
+
+Sample 92:
+Reference: Esta pintura é pura arte.
+Hypothesis:  Essa pintura é pura arte.
+
+Sample 93:
+Reference: Adalberto Aguiar Sobrinho
+Hypothesis:  Ad Alberto Aguiar Sobrinho
+
+Sample 94:
+Reference: Eu não tenho valor para tanto.
+Hypothesis:  E eu não tenho valor para tanto.
+
+Sample 95:
+Reference: Estou com muita risada esta semana.
+Hypothesis:  Estou com muita risada essa semana.
+
+Sample 96:
+Reference: hemisfério
+Hypothesis:  E me sfaio.
+
+Sample 97:
+Reference: Funerárias e serviços funerários podem ser localizados.
+Hypothesis:  Funerários e serviços funerários podem ser localizados.
+
+Sample 98:
+Reference: Ela sente dor no abdômen
+Hypothesis:  Ela sente dor no abdoio.
+
+Sample 99:
+Reference: Todo mundo se aproxima de um tipo comum.
+Hypothesis:  Todo mundo se aproxima de um tipo comum.
+
+Sample 100:
+Reference: Santa Gertrudes
+Hypothesis:  Santa Gertrudis
+
+Sample 101:
+Reference: A robótica do assalto aos cofres públicos
+Hypothesis:  A robótica do assalto aos cofres públicos.
+
+Sample 102:
+Reference: Era um pouco mais velha que ambos:
+Hypothesis:  Era um pouco mais velho aqui, Andos.
+
+Sample 103:
+Reference: Não me lembro de nada.
+Hypothesis:  Não me lembro de nada.
+
+Sample 104:
+Reference: Isso é
+Hypothesis:  Isso é!
+
+Sample 105:
+Reference: Todos caem, então, no desamparo, se não aprenderem a ajudar livremente.
+Hypothesis:  Todos caem, então, no desamparo, se não aprenderem a ajudar livremente.
+
+Sample 106:
+Reference: Ponta Porã
+Hypothesis:  Ponte a puder.
+
+Sample 107:
+Reference: Tubarões, golfinhos, tartarugas, plânctons e algas marinhas
+Hypothesis:  Tu barrois, golfinhos, datar os plantos e os mais.
+
+Sample 108:
+Reference: Desperdiçando meu tempo ouvindo esse chapeleiro maluco.
+Hypothesis:  desperdiçando o meu tempo ouvindo esse chapê-leiro maluco.
+
+Sample 109:
+Reference: Qual é a velocidade da luz?
+Hypothesis:  Qual é a velocidade da luz?
+
+Sample 110:
+Reference: Mas funciona, funciona.
+Hypothesis:  Mais funcione, funcione.
+
+Sample 111:
+Reference: As roupas estendidas nos varais já estão secas
+Hypothesis:  As roupas têm de limites de varais e já estão seca.
+
+Sample 112:
+Reference: Toda a turma é um silêncio total e absoluto, sepultamento.
+Hypothesis:  Toda turma é um silêncio total e absoluto. Seputamento.
+
+Sample 113:
+Reference: Redução no consumo de combustível e desgaste do veículo.
+Hypothesis:  Recutção no consumo de combustível é desgasta do eico.
+
+Sample 114:
+Reference: Mulheres, cães e criaturas, razões seguras.
+Hypothesis:  Mulheres, canis e criaturas, razões seguras.
+
+Sample 115:
+Reference: Como decorar seu lar para a primavera
+Hypothesis:  Como decorar celular para primavera.
+
+Sample 116:
+Reference: Quando o mérito passa pelo jardim, entre na lenha, atire e feche a porta.
+Hypothesis:  Quando Mere do Passa pelo jardim entre na linha, atire e feche a porta.
+
+Sample 117:
+Reference: Nós olhamos o tempo
+Hypothesis:  Nós olhamos o tempo.
+
+Sample 118:
+Reference: Como ele voltou de mãos vazias?
+Hypothesis:  Como envolto-o de mãos vazias?
+
+Sample 119:
+Reference: São Gotardo
+Hypothesis:  São Gotardo.
+
+Sample 120:
+Reference: Alexandre Albuquerque de Freitas
+Hypothesis:  Alexandre é o buquete de fritas.
+
+Sample 121:
+Reference: Mas eu sabia melhor do que confiar nele.
+Hypothesis:  Mas eu sabia melhor do que confiar nele.
+
+Sample 122:
+Reference: Malhada
+Hypothesis:  Me malhada.
+
+Sample 123:
+Reference: Ouça, o que é esse dispositivo?
+Hypothesis:  Oce, o que é esse dispositivo?
+
+Sample 124:
+Reference: E se ele os vendesse, ele não alcançaria metade das dívidas.
+Hypothesis:  E se ele os vendece, ele não alcançaria metade das dívidas.
+
+Sample 125:
+Reference: Existem sites de pesquisa que não coletam e nem compartilham seus dados privados
+Hypothesis:  Existe insights de pesquisa que não coletam e nem compartilhem seus dados privados.
+
+Sample 126:
+Reference: Nos restará apenas o número Pi
+Hypothesis:  nos gastará apenas um número p.
+
+Sample 127:
+Reference: Você conhece ele?
+Hypothesis:  Você conhece, é bem?
+
+Sample 128:
+Reference: O rato! O rato! exclamou a moça sufocada e afastando-se.
+Hypothesis:  O rato, o rato, exclamou amostro sufocada e afastando-se.
+
+Sample 129:
+Reference: no qual se davam na maioria dos casos, separavam-se
+Hypothesis:  No qual se dava um namorido os casos separavam-se.
+
+Sample 130:
+Reference: A convicção encorajada pelo escritor elogia sua linguagem.
+Hypothesis:  A convicção encorajada pelo escritor, elogia sua linguagem.
+
+Sample 131:
+Reference: Coisas quentes.
+Hypothesis:  Coisa e quente.
+
+Sample 132:
+Reference: Eu a ouvi dizer isso
+Hypothesis:  É oов, vinte dezoides.
+
+Sample 133:
+Reference: Adriana Emanoela Pereira Fortunato
+Hypothesis:  Adriana, Emmanuel, pera e da fortuna.
+
+Sample 134:
+Reference: Ele tem e-mail no Hotmail
+Hypothesis:  Ele tem um meio, um hot-meio.
+
+Sample 135:
+Reference: Um artista montando um cavalo enquanto agitando a bandeira americana e vestindo verde.
+Hypothesis:  o artista montando um cavalo enquanto agitando a bandeira americana e vestindo o verde.
+
+Sample 136:
+Reference: Assunção do Piauí
+Hypothesis:  Assunção do PAU
+
+Sample 137:
+Reference: Febre, existem alguns bons.
+Hypothesis:  Febre existem alguns bons.
+
+Sample 138:
+Reference: Um grupo de moradores trabalhando ao lado de uma estrada de terra.
+Hypothesis:  Um grupo de moradores trabalhando ao lado de uma estrada de terra.
+
+Sample 139:
+Reference: Itaitinga
+Hypothesis:  E está e chinga.
+
+Sample 140:
+Reference: Outras circunstâncias que impedem ou alteram os termos da adjudicação do contrato.
+Hypothesis:  Outras circunstâncias que impedem ou alteram os termos da adjudicação do contrato.
+
+Sample 141:
+Reference: Agrediu o militante em sua festa de aniversário
+Hypothesis:  Agradiu um militante em sua festa de aniversário.
+
+Sample 142:
+Reference: Nem tudo é indispensável
+Hypothesis:  Nem tudo é indispensável.
+
+Sample 143:
+Reference: Você não está enganando ninguém.
+Hypothesis:  Você não está enganando ninguém.
+
+Sample 144:
+Reference: Que delícia, cara!
+Hypothesis:  Que delícia, cara!
+
+Sample 145:
+Reference: Três cachorros estão correndo por uma paisagem arenosa.
+Hypothesis:  Tras cachorros estão correndo por uma paisagem arrenosa.
+
+Sample 146:
+Reference: Monsenhor Hipólito
+Hypothesis:  Mão Senhor e Pólito.
+
+Sample 147:
+Reference: Antônio Francisco Alves do Livramento
+Hypothesis:  Antônio Francisco Alves do Libramento.
+
+Sample 148:
+Reference: Um menino está saltando no skate no meio de uma ponte vermelha.
+Hypothesis:  O menino está saltando no skate, no meio de uma ponto vermelha.
+
+Sample 149:
+Reference: O trabalho tira seus olhos.
+Hypothesis:  O trabalho tira seus olhos.
+
+Sample 150:
+Reference: Ipameri
+Hypothesis:  E Pámeri.
+
+Sample 151:
+Reference: Sem esse amor, os sonhos de alguém não teriam significado.
+Hypothesis:  Sim esse amor, os sonhos de alguém não teriam significado.
+
+Sample 152:
+Reference: Fatores que influenciam a permeabilidade da pele.
+Hypothesis:  Fatores que influenciam a permeabilidade da pele.
+
+Sample 153:
+Reference: O dinheiro é a parte irrelevante em tudo isso.
+Hypothesis:  O dinheiro é a parte de ele, a parte de o risco.
+
+Sample 154:
+Reference: Se todas estivessem saudáveis e ensolaradas semanas, pequenos sacerdotes e burros durariam muito tempo.
+Hypothesis:  Se todas as estivias são saudáveis, nem são laradas em semanas, pequenas asciedores, um estudo ali é muito tempo.
+
+Sample 155:
+Reference: Investimentos que favoreçam a melhoria da eficiência energética em edifícios.
+Hypothesis:  Investimentos que favoreçam a melhoria da eficiência energética em edifícios.
+
+Sample 156:
+Reference: Se o galo canta muito, a água está muito próxima.
+Hypothesis:  Se eu que alocanta muito, a água está muito próxima.
+
+Sample 157:
+Reference: Aposto que é um mandado para minha prisão.
+Hypothesis:  Aposto que eu mandado para minha prisão.
+
+Sample 158:
+Reference: Poucas palavras e muitos atos.
+Hypothesis:  poucas palavras e muitos atos.
+
+Sample 159:
+Reference: Vibração tremulosa de uma nota
+Hypothesis:  Vibração tremulosa de uma nota.
+
+Sample 160:
+Reference: O suco de limões faz um bom soco.
+Hypothesis:  O suco de limões faz um bom soco.
+
+Sample 161:
+Reference: Havia também pessoas ligando para nossa casa na loja da aldeia.
+Hypothesis:  Havia também pessoas ligando para a nossa casa na loja da Albe.
+
+Sample 162:
+Reference: A necessidade é a mãe da invenção.
+Hypothesis:  a necessidade é a mãe da invenção.
+
+Sample 163:
+Reference: Anda! agora! empurra! vá! vá! Daí a pouco estaria removido o obstáculo.
+Hypothesis:  E ainda agora, em porra, va, va, va, taia poucos, taiaia, em ouvido, obstacul.
+
+Sample 164:
+Reference: Perguntou às pessoas ao seu redor
+Hypothesis:  perguntou as pessoas ao seu redor.
+
+Sample 165:
+Reference: Um homem está surfando uma pequena onda
+Hypothesis:  Um homem está surfando uma pequena onda.
+
+Sample 166:
+Reference: Salário, preço e lucro
+Hypothesis:  Salário, preço e duplo.
+
+Sample 167:
+Reference: Separe o fígado quando estiver cozido.
+Hypothesis:  Separe ou fígado quando estiver cozido.
+
+Sample 168:
+Reference: Dia que acontece, dia que você é.
+Hypothesis:  Dia que acontece, dia que você é.
+
+Sample 169:
+Reference: Abaixe o volume do quarto.
+Hypothesis:  Ambas e o volume do quarto.
+
+Sample 170:
+Reference: Eu definitivamente vou te pagar de volta mais tarde.
+Hypothesis:  Eu definitivamente vou te pagar de volta na cidade.
+
+Sample 171:
+Reference: João Miguel e Esther
+Hypothesis:  João Miguel Yester
+
+Sample 172:
+Reference: O alicate fica ao lado do gelo.
+Hypothesis:  O alicate fica ao lado do gelo.
+
+Sample 173:
+Reference: Quem não tem dente já é um canto.
+Hypothesis:  que não tem dente já é um canto.
+
+Sample 174:
+Reference: Construído janeiro décimo nono? dezenove dezessete? o monumento está celebrando agora o seu centenário.
+Hypothesis:  Construído o Janeiro deste monono, 1917, o monumento está se lembrando agora seu sincinar.
+
+Sample 175:
+Reference: O menino ficou surpreso.
+Hypothesis:  Manhã nos costurpar isso.
+
+Sample 176:
+Reference: Coisa da antiga
+Hypothesis:  Coisa da Intiga
+
+Sample 177:
+Reference: Financiamento de empréstimos e outros fundos
+Hypothesis:  Financiamento de empréstimos e outros fundos.
+
+Sample 178:
+Reference: Vale Verde
+Hypothesis:  Valverde.
+
+Sample 179:
+Reference: Ela quer falar com o tio Francis.
+Hypothesis:  Ela quer falar com o tio francesa.
+
+Sample 180:
+Reference: Ele hackeou o sistema do banco.
+Hypothesis:  Ele hackeou o sistema do banco.
+
+Sample 181:
+Reference: A floresta é o banco de poupança de um fazendeiro.
+Hypothesis:  A floresta é o banco de poupança de um fazendeiro.
+
+Sample 182:
+Reference: João apagou a luz e foi dormir.
+Hypothesis:  Juvão apagou a Louise e fui de remeirar.
+
+Sample 183:
+Reference: Não é o dinheiro.
+Hypothesis:  Não é o dinheiro.
+
+Sample 184:
+Reference: Venâncio Aires
+Hypothesis:  Final Siuai.
+
+Sample 185:
+Reference: Nós viemos de Godall.
+Hypothesis:  Nós viemos de codão.
+
+Sample 186:
+Reference: Seu filho foi para servir em um lugar distante? e se tornou um centurião.
+Hypothesis:  Seu filho foi para servir em um lugar distante e se tornou um cinturião.
+
+Sample 187:
+Reference: Atue nessas ordens com grande velocidade.
+Hypothesis:  Atuí nessa zona e chum grande velocidade.
+
+Sample 188:
+Reference: um soprar no espaço para dentro de um buraco
+Hypothesis:  Um soprar no espaço para dentro de um buraco.
+
+Sample 189:
+Reference: Faxinal dos Guedes
+Hypothesis:  Fucsinal do Gat.
+
+Sample 190:
+Reference: Gestão de fundos e outras tecnologias
+Hypothesis:  gestão de fundos e outras tecnologias.
+
+Sample 191:
+Reference: Um jovem rapaz praticando artes marciais.
+Hypothesis:  Um jovem rapaz praticando artes marciais.
+
+Sample 192:
+Reference: O presidente esteve mentindo de novo?
+Hypothesis:  O presidente esteve mentindo de novo.
+
+Sample 193:
+Reference: Foi minha culpa?
+Hypothesis:  Foi minha culpa.
+
+Sample 194:
+Reference: Ele é muito louco!
+Hypothesis:  Ele é muito louco.
+
+Sample 195:
+Reference: Andersson Pereira Carvalho
+Hypothesis:  Anderson Brera Carvão.
+
+Sample 196:
+Reference: Embora esta tarefa possa parecer simples, na prática é muito mais complicada.
+Hypothesis:  Embora esta tarefa possa parecer simples, na prática é muito mais complicada.
+
+Sample 197:
+Reference: A duração máxima do exame neste campo é de três horas.
+Hypothesis:  A duração máxima do examineste campo é de três horas.
+
+Sample 198:
+Reference: A Sicília é a maior ilha do Mar Mediterrâneo.
+Hypothesis:  A cicilha é a maior ilha do mar Mediterrâneo.
+
+Sample 199:
+Reference: União
+Hypothesis:  Um dia.
+
+Sample 200:
+Reference: Mas eu acho que sim.
+Hypothesis:  Mas eu acho que é assim.
+
+Sample 201:
+Reference: tendências filosóficas dominantes nos países burgueses
+Hypothesis:  Tendências filosóficas dominante nos países burgueses.
+
+Sample 202:
+Reference: Coloque água até cobrir.
+Hypothesis:  Galá que algo é ter cobrir.
+
+Sample 203:
+Reference: Quando chegou ao topo da duna? seu coração pulou.
+Hypothesis:  Quando chegou ao topo da duna, seu coração pulou.
+
+Sample 204:
+Reference: Em outubro finito, a mosca e o mosquito morrem.
+Hypothesis:  É o YouTube final, a mosca e o mosquito morrem.
+
+Sample 205:
+Reference: Cão branco brincando na neve.
+Hypothesis:  Com branco brincando na neve.
+
+Sample 206:
+Reference: Muito brevemente
+Hypothesis:  Muito brevemente.
+
+Sample 207:
+Reference: Bombinhas
+Hypothesis:  Bom, bínguez!
+
+Sample 208:
+Reference: A expressão facial autêntica do ator estava convencendo o júri.
+Hypothesis:  A expressão facial autêntica do autor estava começando a jure.
+
+Sample 209:
+Reference: Voltando ao campo fora do Ano Novo Chinês
+Hypothesis:  Vultando ao campo, ufora do ano novo chinês.
+
+Sample 210:
+Reference: Um jovem está carregando algo em um grande saco de lixo de plástico preto.
+Hypothesis:  Um jogo está cair de gano algo em grande, só que o lixo.
+
+Sample 211:
+Reference: Casado, prato e colher de lado.
+Hypothesis:  Casado pra tu e colher gelado.
+
+Sample 212:
+Reference: Arlindo Rodrigues da Silva
+Hypothesis:  Arlindo Rodrigues da Silva.
+
+Sample 213:
+Reference: A aventura das crianças salvou nosso dia.
+Hypothesis:  Ah, a regura da sua vida é só voar no TV.
+
+Sample 214:
+Reference: Cordilheira Alta
+Hypothesis:  Corgi-lheira outa.
+
+Sample 215:
+Reference: Camile, Caíque, Cauan, Kaique e Gabrieli
+Hypothesis:  Camille Caí que Kaoã Caí que Igabreaeli.
+
+Sample 216:
+Reference: Barro Duro
+Hypothesis:  Vamos, viu!
+
+Sample 217:
+Reference: Me mostre vídeoaulas de raciocínio lógico
+Hypothesis:  Me mostra e vídeo aulas de raciocínio lógico.
+
+Sample 218:
+Reference: Roupa suja se lava em casa
+Hypothesis:  Rupa suje se lava em casa.
+
+Sample 219:
+Reference: As duas crianças lentamente recuperaram a serenidade.
+Hypothesis:  As duas crianças lentamente recuperaram a serenidade.
+
+Sample 220:
+Reference: Eu voei do navio onde eu morava até agora.
+Hypothesis:  Eu vou ir do lado de onde eu morava até agora.
+
+Sample 221:
+Reference: Mandado de injunção, habeas corpus e habeas data
+Hypothesis:  mandado de injuição, abescorpos e abesdata.
+
+Sample 222:
+Reference: Apenas vice-presidente limitado
+Hypothesis:  apenas vice-presidente limitado.
+
+Sample 223:
+Reference: Quão fraco é o chefe?
+Hypothesis:  Com fraco eu cheio.
+
+Sample 224:
+Reference: Assim fica difícil!
+Hypothesis:  Assim fica defecil.
+
+Sample 225:
+Reference: A universidade não aceita alunos com notas baixa.
+Hypothesis:  A Universidade não aceita lonos com notas baixa.
+
+Sample 226:
+Reference: O Planetário está aberto.
+Hypothesis:  O planeta reto está aberto.
+
+Sample 227:
+Reference: De alguma forma,? os parágrafos se embaçaram.
+Hypothesis:  De alguma forma, os parágrafos se embarassam.
+
+Sample 228:
+Reference: Jovens garotas estão dançando.
+Hypothesis:  Já tem de garotas estão dançando.
+
+Sample 229:
+Reference: Mas a barriga está gritando
+Hypothesis:  mas a barriga está agritando.
+
+Sample 230:
+Reference: O Facebook tem respondido a questionamentos sobre invasão de privacidade
+Hypothesis:  O Facebook tem respondido a questionamento sobre o invasão de privacidade.
+
+Sample 231:
+Reference: Hoje há peixe fresco.
+Hypothesis:  Hoje há peixe fresco.
+
+Sample 232:
+Reference: Doutor Pedrinho
+Hypothesis:  Não tu beidrinho.
+
+Sample 233:
+Reference: Camilo fechava os olhos, pensava em outras cousas:
+Hypothesis:  Camilo fechava os olhos, pensava em outras coisas.
+
+Sample 234:
+Reference: Calebe de Oliveira Lisboa
+Hypothesis:  Calambe o olhe vai de Lisboa.
+
+Sample 235:
+Reference: A mulher está posando de salto alto em uma escada enferrujada
+Hypothesis:  A mulher está posando de salto alto e uma escada enferrujada.
+
+Sample 236:
+Reference: Reduza a dor da vítima
+Hypothesis:  Reduz a dor da vítima.
+
+Sample 237:
+Reference: Sertânia
+Hypothesis:  Sertânia!
+
+Sample 238:
+Reference: Não tenha um rei ou rocha ou uma espingarda que queime fogo.
+Hypothesis:  Não tem um rio, o roxo é um espanhave que vem com fuma.
+
+Sample 239:
+Reference: Agora é a hora de eles manterem sua palavra e começarem a agir.
+Hypothesis:  Agora é hora de eles manterem sua palavra e começarem a agir.
+
+Sample 240:
+Reference: na fase dos monopólios, do capital financeiro e do imperialismo
+Hypothesis:  Na fase dos monopoles do capital financeiro e do imperialismo.
+
+Sample 241:
+Reference: Uma pessoa que não se atreve a desistir, o coração pisca lentamente.
+Hypothesis:  Uma pessoa que não se atreve é desistir, o coração piscalentamente.
+
+Sample 242:
+Reference: Muitas vezes me pedem ajuda.
+Hypothesis:  Muitas vezes me perdem ajuda.
+
+Sample 243:
+Reference: Se você quiser? você deve pegar.
+Hypothesis:  Se você quiser, você deve pegar.
+
+Sample 244:
+Reference: Os candidatos não poderão obter mais de dez pontos pela avaliação de seus méritos.
+Hypothesis:  Os candidatos não poderão obter mais de 10 pontos pela avaliação dos seus méritos.
+
+Sample 245:
+Reference: O time Coreano se saiu bem nesse campeonato.
+Hypothesis:  O time corrida no seu bem nesse campeonato.
+
+Sample 246:
+Reference: Carlos Eduardo Silva Santos
+Hypothesis:  Carlos Eduardo Silva Santos
+
+Sample 247:
+Reference: Uma menina olhando através de uma câmera.
+Hypothesis:  Uma menina olhando através de uma câmera.
+
+Sample 248:
+Reference: Tenho que ir atrás das crianças e mandá-las para o coro.
+Hypothesis:  Tenho que ir atrás das crianças e mandá-las para o couro.
+
+Sample 249:
+Reference: Os modelos normalizados aparecem no anexo três desta Resolução.
+Hypothesis:  Os modelos normalizados aparecem no Nexus 3 desta resolução.
+
+Sample 250:
+Reference: Surpresa
+Hypothesis:  Surpresa.
+
+Sample 251:
+Reference: Cada transposição, como já indicamos, oferece uma cor diferente.
+Hypothesis:  Cada transposição, como já indicamos, oferece uma cor diferente.
+
+Sample 252:
+Reference: O menino se prometeu que? quando ele voltasse do Egito? ele compraria aquela espada.
+Hypothesis:  O menino se prometeu que quando ele voltasse do Egito, ele compraria cada espada.
+
+Sample 253:
+Reference: Serviço de Emprego da Cidade de Taipei
+Hypothesis:  Serviço de emprego da cidade de Taipei.
+
+Sample 254:
+Reference: Feira Grande
+Hypothesis:  Feira grande!
+
+Sample 255:
+Reference: Continue tirando fotos e brincando com a neve
+Hypothesis:  Continuando fotos e brincando com a neve.
+
+Sample 256:
+Reference: Fatores que aumentam a validade e confiabilidade da entrevista.
+Hypothesis:  Fatorescamento, a validade é como febridade da entrevista.
+
+Sample 257:
+Reference: Eles correram para baixo rapidamente.
+Hypothesis:  Eles correram para baixo rapidamente.
+
+Sample 258:
+Reference: Mas o menino estava certo de que ele estava olhando para eles.
+Hypothesis:  Mas o menino estava certo de que ele estava olhando para eles.
+
+Sample 259:
+Reference: Quilombo
+Hypothesis:  Que longo!
+
+Sample 260:
+Reference: Então não fale!
+Hypothesis:  Então não fale.
+
+Sample 261:
+Reference: E aqui estamos nós.
+Hypothesis:  E aqui estamos nois.
+
+Sample 262:
+Reference: Não há fogo cintilante.
+Hypothesis:  Não há fogo, sentilante.
+
+Sample 263:
+Reference: A moça ouviu-o espantada.
+Hypothesis:  A moça ouviu espantada.
+
+Sample 264:
+Reference: Os grandes governantes descobriram que a grade estava rangendo em seus nervos.
+Hypothesis:  Os grandes governantes descobriram que a grácia estava arranjando em seus nervos.
+
+Sample 265:
+Reference: Você pode adicionar o artista ao novo mix indie.
+Hypothesis:  Você pode destinar o artista ao novo mixing?
+
+Sample 266:
+Reference: Eu vi algumas espigas de trigo particularmente grandes e esplêndidas.
+Hypothesis:  Eu vi algumas espiga de trigo, particularmente grandes e explíndidas.
+
+Sample 267:
+Reference: Sua voz ainda era suave.
+Hypothesis:  Sua voz ainda era suave.
+
+Sample 268:
+Reference: Estou me especializando em fisiologia, histologia e microbiologia
+Hypothesis:  Estou me especializando em fisiologia, histologia e microbiologia.
+
+Sample 269:
+Reference: O Pedro tem um perfil falso no Instagram
+Hypothesis:  O Pedro tem um perfil falso no Instagram.
+
+Sample 270:
+Reference: Bem, eu gosto disso!
+Hypothesis:  Bem, eu gosto disso.
+
+Sample 271:
+Reference: De forma um pouco abusiva, mas sem dúvida com efetividade social
+Hypothesis:  De forma um pouco abusiva, mais sem dúvida com a efetividade social.
+
+Sample 272:
+Reference: O que vai acontecer com ele?
+Hypothesis:  O que vai acontecer com ele?
+
+Sample 273:
+Reference: A namorada de Mlinar e a namorada do viúvo raramente sentem fome.
+Hypothesis:  A namorada de Minho Man e a namorada do Viúvo, raramente centric fome.
+
+Sample 274:
+Reference: Foi um telegrama.
+Hypothesis:  Oio, me telegram.
+
+Sample 275:
+Reference: Antônio Rozildo Nunes de Souza
+Hypothesis:  Antonio Rosildo, Nunes de Souza.
+
+Sample 276:
+Reference: A mulher assina acima em uma tabela durante uma reunião da sociedade do chapéu.
+Hypothesis:  A mulher assina a cima em uma tabela durante uma reunião da sociedade do chapéu.
+
+Sample 277:
+Reference: Eu tenho que dividir um quarto com meu irmão.
+Hypothesis:  Eu tenho que dividir um quarto com meu irmão.
+
+Sample 278:
+Reference: Um homem de camisa preta se prepara para se apresentar diante de um microfone.
+Hypothesis:  O homem de camisa preta se prepara para ser apresentar diante de um microfone.
+
+Sample 279:
+Reference: Glaucilândia
+Hypothesis:  Gloves, elândia.
+
+Sample 280:
+Reference: Poderia considerar esta estalagem uma prisão, porque estou compelido a aguardar nela;
+Hypothesis:  Poderia considerar esta estálagem em uma prisão, porque estou com pelido a aguardar nela.
+
+Sample 281:
+Reference: Vamos nos encontrar amanhã.
+Hypothesis:  Vamos nos encontrar a minha.
+
+Sample 282:
+Reference: Pode agitar para frente e para trás
+Hypothesis:  Pode agitar pela frente e pela trás.
+
+Sample 283:
+Reference: Eles e as maiorias que são capazes de treinar para tomar as decisões.
+Hypothesis:  Eles e as maiores que são capazes de treinar para tomar as decisões.
+
+Sample 284:
+Reference: Piedade do Rio Grande
+Hypothesis:  Piedade do Rio Grande.
+
+Sample 285:
+Reference: Os nadadores saltam das rochas acima da água azul-esverdeada.
+Hypothesis:  Os nadadores salta um das fochas acima da água azul de Regina.
+
+Sample 286:
+Reference: Minha irmã está muito arrumada!
+Hypothesis:  mas está muito arrumada.
+
+Sample 287:
+Reference: Meter o bedelho onde não é convidado
+Hypothesis:  Metero Videl, hoje não é convitado.
+
+Sample 288:
+Reference: Se os caracóis estiverem profundamente enterrados, acumularão invernos rigorosos.
+Hypothesis:  Se os caracois estiverem profundamente enterrados, acumularão ivernos rigorosos.
+
+Sample 289:
+Reference: Eu não ficaria um pouco surpresa.
+Hypothesis:  Eu não ficaria um pouco surpresa.
+
+Sample 290:
+Reference: Homem de cabelos castanho segurando uma preguiça de brinquedo.
+Hypothesis:  Homem de cabelos castainos segurando uma preguiça de brinquedo.
+
+Sample 291:
+Reference: Fez o café da manhã?
+Hypothesis:  Feijo o café da manhã.
+
+Sample 292:
+Reference: O amor é como o mar; é perigoso se você não sabe nadar.
+Hypothesis:  O amor é como o mar. É perigoso se você não sabe nada.
+
+Sample 293:
+Reference: Tudo vai bem.
+Hypothesis:  Tudo vai bem!
+
+Sample 294:
+Reference: Capivari de Baixo
+Hypothesis:  Capoeira de baixo.
+
+Sample 295:
+Reference: Aimorés
+Hypothesis:  Eu sou o Mores.
+
+Sample 296:
+Reference: E para que propósito?
+Hypothesis:  e para aqui por pósito.
+
+Sample 297:
+Reference: Chã Preta
+Hypothesis:  Xã preta.
+
+Sample 298:
+Reference: Incluem essas transformações ou reformas que ajudam a evitar obstáculos e facilitam a mobilidade.
+Hypothesis:  Incluem-nos as transformações ou reformas que ajudam a evitar obstáculos e facilitar uma mobilidade.
+
+Sample 299:
+Reference: Claro que? volto já.
+Hypothesis:  Claro que? Votu já!
+
+Sample 300:
+Reference: Uma porta aberta pode atrair um santo.
+Hypothesis:  Uma porta aberta pode treinar um santo.
+
+Sample 301:
+Reference: Venha, vá!
+Hypothesis:  Vinha, vá.
+
+Sample 302:
+Reference: Ou sim?
+Hypothesis:  Oh, sim.
+
+Sample 303:
+Reference: A produção da mais-valia absoluta
+Hypothesis:  A produção dá mais valia e absoluta.
+
+Sample 304:
+Reference: Uma pessoa próxima também foi baleada.
+Hypothesis:  Uma pessoa próxima também foi balhada.
+
+Sample 305:
+Reference: Um menino
+Hypothesis:  Um menino.
+
+Sample 306:
+Reference: A rodovia estava congestionada
+Hypothesis:  A rodo vie estava com o gestorado.
+
+Sample 307:
+Reference: A neve é muito pesada e é neve.
+Hypothesis:  A neve é muito pesada e a neve.
+
+Sample 308:
+Reference: Antônio Lopes Figueiredo
+Hypothesis:  Tanto o anelope esfiguei redo.
+
+Sample 309:
+Reference: Jennifer, Talis, Leidiane, Carine e Yan
+Hypothesis:  Jennifer Taois Lidian Carin Iian
+
+Sample 310:
+Reference: Ou amor próprio
+Hypothesis:  Oh, amor.
+
+Sample 311:
+Reference: Quem for a Viena, solte a barriga.
+Hypothesis:  Quem for a Vienna, solta a barriga.
+
+Sample 312:
+Reference: Como funciona o parlamento de São Tomé e Príncipe?
+Hypothesis:  Como funciona o paralamento de santo meio príncipe?
+
+Sample 313:
+Reference: Use a wifi do aerorporto ou de qualquer café.
+Hypothesis:  O que é o Wi-Fi doido ao corpo da café?
+
+Sample 314:
+Reference: Conceição do Coité
+Hypothesis:  Conceição do Coiter
+
+Sample 315:
+Reference: Muito dinheiro.
+Hypothesis:  Muito dinheiro!
+
+Sample 316:
+Reference: Cacau é a matéria-prima do chocolate
+Hypothesis:  Cacao é a materia prima do chocolate.
+
+Sample 317:
+Reference: É hora de explorar de maneira prática como isso é feito.
+Hypothesis:  É hora de explorar de maneira prática como isso é feito.
+
+Sample 318:
+Reference: Temos alguma coisa no topo de uma escada no ônibus escolar?
+Hypothesis:  Temos alguma coisa no topo de uma escada no ânimo de escolar.
+
+Sample 319:
+Reference: Oportunidade de escolha
+Hypothesis:  O potronidade de escolha.
+
+Sample 320:
+Reference: Um grupo de crianças em trajes estão em um palco com cortinas vermelhas.
+Hypothesis:  Um grupo de crianças entrages estão em um palco com cortinas vermelhas.
+
+Sample 321:
+Reference: Quando você vai denunciar?
+Hypothesis:  Quando você vai denunciar?
+
+Sample 322:
+Reference: E depois a igreja brasileira tem altos destinos.
+Hypothesis:  E depois a igreja brasileira tem altos destinos.
+
+Sample 323:
+Reference: Você vai sair hoje à noite?
+Hypothesis:  Você vai sair hoje à noite.
+
+Sample 324:
+Reference: Nome da namorada de Drake.
+Hypothesis:  Então, eu não sei o que eu vou fazer.
+
+Sample 325:
+Reference: Às vezes preciso de dinheiro
+Hypothesis:  às vezes preciso de dinheiro.
+
+Sample 326:
+Reference: Qual é a diferença entre sabão em pó biológico e normal?
+Hypothesis:  Qual é a diferença entre sabão, impobiológico e normal?
+
+Sample 327:
+Reference: Luta de Classes e Luta Política
+Hypothesis:  Luta de classes e luta política.
+
+Sample 328:
+Reference: Os refrescos de cortesia foram satisfatórios.
+Hypothesis:  Pois refrescos de cortesia foram satisfatórios.
+
+Sample 329:
+Reference: O material será mandado para a perícia.
+Hypothesis:  O material ser mandado para a perícia.
+
+Sample 330:
+Reference: Matupá
+Hypothesis:  Matupa!
+
+Sample 331:
+Reference: Vamos dizer que é claro que foi sangrado pelo vinho.
+Hypothesis:  Vamos dizer que é claro que foi sangrado pelo pinho.
+
+Sample 332:
+Reference: Nós temos tempo suficiente.
+Hypothesis:  Mostram os tempos de estudo.
+
+Sample 333:
+Reference: Dispensar um trabalhador; isto é o que você vê.
+Hypothesis:  Despenhar um trabalhador, isso é o que você vê.
+
+Sample 334:
+Reference: Vale pouco mais que nada.
+Hypothesis:  Vale pouco mais que nada.
+
+Sample 335:
+Reference: As tristezas do pão fazem com que seja melhor passar.
+Hypothesis:  As tristezas do bão fazem com que seja melhor passar.
+
+Sample 336:
+Reference: O pai dela está muito preocupado com ela.
+Hypothesis:  O pai dela está muito preocupado com ela.
+
+Sample 337:
+Reference: Mas ainda não.
+Hypothesis:  Mas ainda não.
+
+Sample 338:
+Reference: Cuparaque
+Hypothesis:  Comparar aqui.
+
+Sample 339:
+Reference: Não vai funcionar depois de dez horas.
+Hypothesis:  Não vai funcionar depois de 10 horas.
+
+Sample 340:
+Reference: Não é sempre que o dinheiro pode salvar a vida de alguém.
+Hypothesis:  Não é sempre que o melhor pode salvar a vida delogar.
+
+Sample 341:
+Reference: Eu não pude fazer nada
+Hypothesis:  Eu não pude fazer nada.
+
+Sample 342:
+Reference: um rapaz debaixo de água com alguém a ajudá-lo a nadar
+Hypothesis:  Um rapaz de baixo de água com alguém a ajudar a lutar.
+
+Sample 343:
+Reference: Onde será o jogo?
+Hypothesis:  Onde será o jogo?
+
+Sample 344:
+Reference: Pedro do Rosário
+Hypothesis:  Pedro do Rosário
+
+Sample 345:
+Reference: Onde a serra é colocada?
+Hypothesis:  Onde a serra é colocada?
+
+Sample 346:
+Reference: Em gregal, nem peixe nem pardal.
+Hypothesis:  Ingrigar o Nem-Pê-Chi Nem-Pardão.
+
+Sample 347:
+Reference: São anos de viagens, pregações e milagres, refletidos nas várias vidas que foram preservadas.
+Hypothesis:  São anos de viagens, pregações e milagres, refletidos nas várias vidas que foram preservadas.
+
+Sample 348:
+Reference: Rondonópolis
+Hypothesis:  Home do Notholis.
+
+Sample 349:
+Reference: Badall não pode mentir: ele quer comer ou quer dormir.
+Hypothesis:  badal não pode mentir, ele quer comer ou quer dormir.
+
+Sample 350:
+Reference: Particularmente, meu cuscuz cortado eu gosto de comer bem, em vez de grelhado.
+Hypothesis:  Particularmente, meu cucho cucho cortado e gosto de comer bem, em vez de grigada.
+
+Sample 351:
+Reference: O que você faz?
+Hypothesis:  O que você faz?
+
+Sample 352:
+Reference: As criaturas sempre têm um intestino vazio.
+Hypothesis:  As criaturas sempre têm um testinho no Brasil.
+
+Sample 353:
+Reference: Paes Landim
+Hypothesis:  Bais lindin!
+
+Sample 354:
+Reference: O próximo domingo é doze no ano.
+Hypothesis:  O próximo domingo é 12 no ano.
+
+Sample 355:
+Reference: Duas mulheres caminham pela calçada.
+Hypothesis:  Núvas mulheres caminham pela calçada.
+
+Sample 356:
+Reference: sacrificar seu democratismo e a aliar-se aos reacionários para reprimir os operários
+Hypothesis:  Sacrificar seu democratismo e alhear seus reacionários para reprimir os operários.
+
+Sample 357:
+Reference: Como consanguinidade e incesto destruíram uma família real?
+Hypothesis:  Como com a sanguinidade em sexto destruir uma família real?
+
+Sample 358:
+Reference: Os grãos foram ensacados no inverno
+Hypothesis:  Os grãos foram sacados no Inverno.
+
+Sample 359:
+Reference: Organizando muitos caracteres em uma imagem limitada
+Hypothesis:  Organizando muitos caracteres em uma imagem limitada.
+
+Sample 360:
+Reference: Você me contou sobre seus sonhos? sobre o velho rei e seu tesouro.
+Hypothesis:  Você me contou sobre seus sonhos, sobre o velho rei e seu tesouro.
+
+Sample 361:
+Reference: Natal chuvoso, ruim para os campos e bom para os touros.
+Hypothesis:  Natal chuvosa, pompa nos campos e pompa nos todos.
+
+Sample 362:
+Reference: Eu era o único paciente na sala de espera.
+Hypothesis:  Eu era o único paciente na sala de espera.
+
+Sample 363:
+Reference: Selecionou o zagueiro, o atacante e o goleiro
+Hypothesis:  Selecionou os a Geiro, o atacante e o goleiro.
+
+Sample 364:
+Reference: Aurilene Oliveira Ribeiro Silva
+Hypothesis:  Aurelhanie Oliveira e Berosiuva.
+
+Sample 365:
+Reference: Campos Dos Goytacazes
+Hypothesis:  Campos dos Goita Cases.
+
+Sample 366:
+Reference: Me dê mais tempo.
+Hypothesis:  Me dei mais tempo.
+
+Sample 367:
+Reference: Perigoso significa que garante a execução de leis de degradação aduaneira.
+Hypothesis:  Perigoso significa que garante execução de leite de agradação adornire.
+
+Sample 368:
+Reference: Canindé de São Francisco
+Hypothesis:  Canidade e São Francisco.
+
+Sample 369:
+Reference: Pois então resolverá por si mesma.
+Hypothesis:  Pois então, resolverá por si mesma.
+
+Sample 370:
+Reference: O menino assistiu a troca com fascinação.
+Hypothesis:  O menino assistiu a troca com fascinação.
+
+Sample 371:
+Reference: Campo Formoso
+Hypothesis:  Campo Formoso
+
+Sample 372:
+Reference: Flor de janeiro não enche o padeiro.
+Hypothesis:  Flor de Janeiro não é insupadeiro.
+
+Sample 373:
+Reference: No verão, assim como no inverno, perto do calor é quente.
+Hypothesis:  No verão assim como o liberto perto do calor é quente.
+
+Sample 374:
+Reference: Antônio Pereira da Luz
+Hypothesis:  Antônio Pereira da Us
+
+Sample 375:
+Reference: Um músico no palco chega a um fã na platéia.
+Hypothesis:  Um músico no palco chega a um flana plateia.
+
+Sample 376:
+Reference: Os gestos publicitários serão em nome do licitante vencedor.
+Hypothesis:  Os gestos publicitários serão em nome do ilicitante vencedor.
+
+Sample 377:
+Reference: Enquanto eles procuravam a loja juntos.
+Hypothesis:  enquanto eles procuravam a loja juntos.
+
+Sample 378:
+Reference: Aceitar doações, subsídios ou subvenções, sejam elas de entidades públicas ou de particulares.
+Hypothesis:  Aceptar doações, subsíveis ou subvenções, seja a la identidade de públicas ou de particular.
+
+Sample 379:
+Reference: Irineu, você não sabe e nem eu
+Hypothesis:  E de neu, você não sabe nem eu.
+
+Sample 380:
+Reference: Os dias de verão são chatos.
+Hypothesis:  Os dias deverão são chatos.
+
+Sample 381:
+Reference: São Gonçalo do Rio Abaixo
+Hypothesis:  São Gonçalo do meu baixo.
+
+Sample 382:
+Reference: Sabotagem
+Hypothesis:  Sabotagem.
+
+Sample 383:
+Reference: Nós só precisamos de metade disso, certo?
+Hypothesis:  Não só precisamos de metade disso, certo?
+
+Sample 384:
+Reference: Vinte e uma bases industriais foram planejadas
+Hypothesis:  Vinte em uma base dos triais foram planejadas.
+
+Sample 385:
+Reference: Imitando com sucesso o seu design
+Hypothesis:  Imitando com sucesso seu design.
+
+Sample 386:
+Reference: Se as cópias fornecidas não corresponderem, elas não serão consideradas.
+Hypothesis:  Se as cópias fornecidas não corresponderem, elas não serão consideradas.
+
+Sample 387:
+Reference: Trepou e bateu.
+Hypothesis:  Clipou e bateu!
+
+Sample 388:
+Reference: A imprensa é, por excelência, o instrumento democrático da liberdade.
+Hypothesis:  O preço é por excelente o instrumento democrático da liberdade.
+
+Sample 389:
+Reference: O ponto é que dura no tempo.
+Hypothesis:  O ponto é que dura no tempo.
+
+Sample 390:
+Reference: O Conto da Aia trata de uma distopia machista e religiosa
+Hypothesis:  O conto da Aia trata de uma distopia machista e religiosa.
+
+Sample 391:
+Reference: Cecília Lincoln Sodré
+Hypothesis:  Se silha lhe emcomso a dre.
+
+Sample 392:
+Reference: É uma presa bem grande.
+Hypothesis:  É uma presa bem grande.
+
+Sample 393:
+Reference: Você pode me dizer?
+Hypothesis:  Você pode me dizer
+
+Sample 394:
+Reference: Ao esperar pelo avião
+Hypothesis:  Ao esperar pelo avião.
+
+Sample 395:
+Reference: Nada do que o velho estava dizendo fazia muito sentido para o garoto.
+Hypothesis:  Nada do que o velho estava dizendo fazia muito sentido para o garoto.
+
+Sample 396:
+Reference: Existem milhões e milhões.
+Hypothesis:  Existem milhares e milhões.
+
+Sample 397:
+Reference: Muito boa tarde a todos.
+Hypothesis:  Muito boa tarde a todos!
+
+Sample 398:
+Reference: O futuro é agora.
+Hypothesis:  O futuro é agora.
+
+Sample 399:
+Reference: Rock ficou surpreso.
+Hypothesis:  Róque ficou surpreso.
+
+Sample 400:
+Reference: Campo Largo
+Hypothesis:  Cântula!
+
+Sample 401:
+Reference: A rede tem cargas no perímetro e é mantida no centro por uma corda.
+Hypothesis:  A redita em cargas no perímetro e é manchida no centro por uma corda.
+
+Sample 402:
+Reference: João me mandou no WhatsApp
+Hypothesis:  João me mandou no WhatsApp.
+
+Sample 403:
+Reference: Nós também
+Hypothesis:  Nostra, bem.
+
+Sample 404:
+Reference: Ela se sentiu fraca em seu coração.
+Hypothesis:  Ela se sentiu fraca em sem coração.
+
+Sample 405:
+Reference: Dois jovens praticam Kickboxing.
+Hypothesis:  2 jogas para tipo um kickbox
+
+Sample 406:
+Reference: Ele não tem como falar
+Hypothesis:  Ele não tem como falar.
+
+Sample 407:
+Reference: Eles me deram uma casa em um hotel comigo.
+Hypothesis:  Eles me deram uma casa em um hotel comigo.
+
+Sample 408:
+Reference: São Sepé
+Hypothesis:  São CP.
+
+Sample 409:
+Reference: Mas me senti infeliz ao vê-lo murchar como um dente-de-leão murcho.
+Hypothesis:  Faz meu sentido, eu sou velho, puxar com um chameu, meu moche.
+
+Sample 410:
+Reference: Campo Mourão
+Hypothesis:  Com pô morão.
+
+Sample 411:
+Reference: Boa Vista
+Hypothesis:  Boa vista!
+
+Sample 412:
+Reference: Nova expansão: guardiões dos ancestrais
+Hypothesis:  No aviso, onde eu estou, se estresse.
+
+Sample 413:
+Reference: Notifique as partes.
+Hypothesis:  notificias para a chica
+
+Sample 414:
+Reference: Verificou-se que eles não existiam e foram colocados para criá-los.
+Hypothesis:  A perificou que eles não existiam e foram colocados para criá-los.
+
+Sample 415:
+Reference: Isso é o que eu sou.
+Hypothesis:  Isso é o que eu sou.
+
+Sample 416:
+Reference: O navio foi esmagado em uma crista afiada.
+Hypothesis:  O navio foi smagado em uma cristã afiada.
+
+Sample 417:
+Reference: Claricia Oparie da Silva
+Hypothesis:  Clarícia o pare da Silva.
+
+Sample 418:
+Reference: Qualquer lugar para fugir dessa disputa.
+Hypothesis:  Qualquer lugar para fugir dessa disputa.
+
+Sample 419:
+Reference: Poço Fundo
+Hypothesis:  Posso fundo.
+
+Sample 420:
+Reference: Pertence a você no domínio completo.
+Hypothesis:  Pertensa você no domínio completo.
+
+Sample 421:
+Reference: Fevereiro não deixa carneiro ou cordeiro.
+Hypothesis:  Feverir não deixe carneiro o cordeiro.
+
+Sample 422:
+Reference: Cafelândia
+Hypothesis:  Cafelândia.
+
+Sample 423:
+Reference: De qualquer forma,?, acho que devemos ser extremamente cautelosos.
+Hypothesis:  De qual que é forma, acho que devemos ser extremamente cautelosos.
+
+Sample 424:
+Reference: Vou esquentar a água.
+Hypothesis:  Vou esquentar na água.
+
+Sample 425:
+Reference: Casa Branca
+Hypothesis:  Casa branca.
+
+Sample 426:
+Reference: Catolândia
+Hypothesis:  Cato Lângia.
+
+Sample 427:
+Reference: Acontecerá na primeira quarta-feira após a data final do prazo de envio.
+Hypothesis:  A acontecerá na primeira quarta-feira, pois a data final do prazo de envio.
+
+Sample 428:
+Reference: Ativar modo silencioso.
+Hypothesis:  Ativar modo silencioso.
+
+Sample 429:
+Reference: Agronômica
+Hypothesis:  agronolca
+
+Sample 430:
+Reference: Arabutã
+Hypothesis:  Era puta.
+
+Sample 431:
+Reference: Muitas pessoas gritaram e gritaram.
+Hypothesis:  Me despeço a resguitar, não gritaram.
+
+Sample 432:
+Reference: Feliz Natal
+Hypothesis:  Feliz Natal
+
+Sample 433:
+Reference: Itapemirim
+Hypothesis:  E está bem-vindo.
+
+Sample 434:
+Reference: Eles imediatamente vão aproveitar o pouco, o mínimo, o abrigo.
+Hypothesis:  Eles imediatamente vão aproveitar o pouco o mínimo, o abrigo.
+
+Sample 435:
+Reference: Deus te proteja de vizinhos maus e iniciantes no violino.
+Hypothesis:  Eu este proteza de visinos mal e iniciante o violino.
+
+Sample 436:
+Reference: a serviço do imperialismo norte-americano, esfomeia nosso povo
+Hypothesis:  A serviço do imperialismo norte-americano, esfomeia nosso povo.
+
+Sample 437:
+Reference: Tripulação de fotografia se preparar para uma sessão de fotos.
+Hypothesis:  Tribulação de fotografia sempre para uma sessão de fotos.
+
+Sample 438:
+Reference: Cubra a vida com uma colher cheia.
+Hypothesis:  Cubra a vida com uma colher cheia.
+
+Sample 439:
+Reference: Ele foge do mar que não sabe nadar.
+Hypothesis:  Ele foge do mar que não sabe nadar.
+
+Sample 440:
+Reference: Mas? mais importante? ele foi capaz todos os dias de viver o seu sonho.
+Hypothesis:  Mais, mais importante, Ele vai capaz todos os dias de viver o seu sonho.
+
+Sample 441:
+Reference: Quais são os quatro tipos diferentes de osso no corpo?
+Hypothesis:  quais são os quatro tipos diferentes de oso no corpo.
+
+Sample 442:
+Reference: Assista o relógio
+Hypothesis:  Assista o rolojão.
+
+Sample 443:
+Reference: Você está trabalhando para crianças ou melhorando a indústria de computadores?
+Hypothesis:  Você está trabalhando para crianças ou melhorando a indústria de computadores.
+
+Sample 444:
+Reference: Claro que funciona!
+Hypothesis:  Claro que funciona!
+
+Sample 445:
+Reference: Ontem, a carne estava seca e deliciosa.
+Hypothesis:  Ontem a carne estava cerca e deliciosa.
+
+Sample 446:
+Reference: Ele chega em Canton, ele vai lá alguns dias e retorna.
+Hypothesis:  Ele chega em cantun, ele vai lá alguns dias e retorno.
+
+Sample 447:
+Reference: Cinco vezes campeão
+Hypothesis:  5 vezes campeão
+
+Sample 448:
+Reference: O tribunal declarará nulo se o teste não for concluído.
+Hypothesis:  O tribunal declarará no ilusio test no For Concluído.
+
+Sample 449:
+Reference: Eu estarei lá.
+Hypothesis:  Eu estarei lá!
+
+Sample 450:
+Reference: Instruções de visita
+Hypothesis:  Isto só é a divisiva.
+
+Sample 451:
+Reference: tendência a distorção
+Hypothesis:  Tendença a distorção.
+
+Sample 452:
+Reference: Você está certo?
+Hypothesis:  Você está certo?
+
+Sample 453:
+Reference: Marquinho
+Hypothesis:  Machu!
+
+Sample 454:
+Reference: Caetanos
+Hypothesis:  Caetanos.
+
+Sample 455:
+Reference: Aldemir Cosntantino dos Santos
+Hypothesis:  Poder ver constantinho do Santos.
+
+Sample 456:
+Reference: Horas extras adicionadas à morte
+Hypothesis:  Hora as extras adicionadas a morte.
+
+Sample 457:
+Reference: Lagoa Alegre
+Hypothesis:  Lagoa alegre.
+
+Sample 458:
+Reference: Águas passadas não movem moinhos
+Hypothesis:  Ago as passadas não movem moinhos.
+
+Sample 459:
+Reference: folheou-o de ponta a ponta, confirmou no índice e nada encontrou
+Hypothesis:  Folhiou ou deponta a ponta confirmou no índice e nada encontrou.
+
+Sample 460:
+Reference: As crianças brincam na rua sob um jato de água de uma máquina grande.
+Hypothesis:  As crianças brincam na rua sobre o jato de água de uma máquina grande.
+
+Sample 461:
+Reference: Ter um plano de longo prazo
+Hypothesis:  Tiro pleno de longo prazo.
+
+Sample 462:
+Reference: Mas esta é uma visão errônea que a experiência corrige todos os dias.
+Hypothesis:  Mas esta é uma visão errónea que a experiência corrige todos os dias.
+
+Sample 463:
+Reference: Peço horas de cabeleireiro.
+Hypothesis:  Dessu horas de cabelho aí que eu...
+
+Sample 464:
+Reference: É outro dia de tremor
+Hypothesis:  É outro dia de ferro.
+
+Sample 465:
+Reference: Pelo menos por agora.
+Hypothesis:  pelo menos por agora.
+
+Sample 466:
+Reference: Fogo é meia vida
+Hypothesis:  Pogo é minha vida.
+
+Sample 467:
+Reference: o estudo concreto de todas as formas do antagonismo econômico existentes
+Hypothesis:  O estudo concreto de todas as formas do antagonismo econômico existentes.
+
+Sample 468:
+Reference: Bezerros
+Hypothesis:  Bezeros.
+
+Sample 469:
+Reference: Homem de pé enquanto usava um capacete.
+Hypothesis:  Comente peio enquanto usava um capacete.
+
+Sample 470:
+Reference: Ela acha que o mundo tem pés de barro.
+Hypothesis:  Ela acha que o mundo tem pez de barro.
+
+Sample 471:
+Reference: Positivamente, tinha medo.
+Hypothesis:  positivamente, tinha medo.
+
+Sample 472:
+Reference: Jurisprudência, filosofia e política acudiram-me, mas não me acudiram as forças necessárias.
+Hypothesis:  Juros pudência, filosofia e política acudiram-me, mas não me acudiram as forças necessárias.
+
+Sample 473:
+Reference: e esta obrigação lhe deve ser inculcada pelos social-democratas
+Hypothesis:  E esta obrigação deve ser inculcada pelos Social-Democratas.
+
+Sample 474:
+Reference: Que Deus te abençoe!
+Hypothesis:  Que Deus te abençoia!
+
+Sample 475:
+Reference: Me ligue de volta, por favor.
+Hypothesis:  Neliga de volta, por favor.
+
+Sample 476:
+Reference: Na Idade Média, o poder de testar era, por assim dizer, ilimitado.
+Hypothesis:  Na idade média, o poder de testar ela por assim dizer, ilimitado.
+
+Sample 477:
+Reference: Venha? deixe-me abraçar você!
+Hypothesis:  Venha, deixe-me abraçar você.
+
+Sample 478:
+Reference: Cidiney Menezes Fiesca
+Hypothesis:  Seja em Menezes, fia-se.
+
+Sample 479:
+Reference: Em todo lugar.
+Hypothesis:  em todo lugar.
+
+Sample 480:
+Reference: Seus acordos, adotados pelo princípio da maioria, obrigam todo o colegiado.
+Hypothesis:  Seus acortos adotados pelo princípio da maioria, obrigam todo o colegiar.
+
+Sample 481:
+Reference: Não poupou esforços, médicos, remédios, ares, todos os recursos e todos os paliativos.
+Hypothesis:  Não popou esforços médicos, remédios, ares, todos os recursos e todos os paliativos.
+
+Sample 482:
+Reference: Dois cães se enfrentam no meio de um campo
+Hypothesis:  2 cães se enfrentam no meio de um campo.
+
+Sample 483:
+Reference: Um homem sentado ao ar livre, tomando uma cerveja e segurando dois dedos acima.
+Hypothesis:  Um homem sentado ao ar livre, tomando uma cerveja e segurando dois dedos acima.
+
+Sample 484:
+Reference: Organização Mundial do Movimento Escoteiro
+Hypothesis:  Organização Mundial do Movimento Escoteiro.
+
+Sample 485:
+Reference: Um homem com um assobio na boca está segurando uma grande bandeja de comida.
+Hypothesis:  Um homem com o açubil na boca está segurando uma grande bandeja de comida.
+
+Sample 486:
+Reference: Camila, Caio, Sandro, Naira e Edvan
+Hypothesis:  Camila caiu, Sandra na Ira e Edivã.
+
+Sample 487:
+Reference: O preço é muito alto.
+Hypothesis:  O preço é muito alto.
+
+Sample 488:
+Reference: Não obrigado.
+Hypothesis:  Não obrigado.
+
+Sample 489:
+Reference: Em seguida, divide alguns conteúdos genéricos do Programa de Monitoramento Ambiental.
+Hypothesis:  Em seguida, divide alguns conteúdos genéricos do programa de monitoramento ambiental.
+
+Sample 490:
+Reference: Você tem alguma suspeita sobre quem eles poderiam ser?
+Hypothesis:  Você tem algumas espetas sobre quem eles poderiam ser?
+
+Sample 491:
+Reference: Este exercício, na eleição do tribunal, pode ser lido em sessão pública pelo candidato.
+Hypothesis:  Eixa exercício na eleição do Tribunal pode ser lida em sessão pública pelo candidato.
+
+Sample 492:
+Reference: Avila Amaral de Souza
+Hypothesis:  Avela a maravilha de Soza.
+
+Sample 493:
+Reference: Quase
+Hypothesis:  Quase.
+
+Sample 494:
+Reference: Ele não pode ter dinheiro em tudo
+Hypothesis:  Ele não pode ter dinheiro em tudo.
+
+Sample 495:
+Reference: Uma corrida para bater um tempo recorde.
+Hypothesis:  Uma corrida para bater um tempo recorrente.
+
+Sample 496:
+Reference: Teste de aptidão ocupacional e habilidades de busca de emprego, etc.
+Hypothesis:  Test de aptidão ocupacional e habilidade de busca de emprego, etc.
+
+Sample 497:
+Reference: Fontoura Xavier
+Hypothesis:  Foutora Xavier.
+
+Sample 498:
+Reference: Franci não gosta de pimenta.
+Hypothesis:  France não gosta de pimenta.
+
+Sample 499:
+Reference: Olha ele, andando de triciclo!
+Hypothesis:  Olha ele, andando de triciclo.
+
+Sample 500:
+Reference: Palavras humanas são uma medida de sua mente.
+Hypothesis:  Palavros da Manação, medita de somente.
+
+Sample 501:
+Reference: Novak não ficará feliz com isso.
+Hypothesis:  Novo aqui, não ficará feliz com isso.
+
+Sample 502:
+Reference: Jacinto
+Hypothesis:  Já cinto.
+
+Sample 503:
+Reference: Se a barriga não for feliz, todo o seu corpo sofrerá.
+Hypothesis:  Se a barriga não for feliz, todo o seu corpo sofrerá.
+
+Sample 504:
+Reference: Lassance
+Hypothesis:  O açância.
+
+Sample 505:
+Reference: Para fazer o pacote funcionar, o melhor remédio é o vinho.
+Hypothesis:  Para fazer o pacote funcionar, o melhor é remédio ao vinho.
+
+Sample 506:
+Reference: Ele fez tanto ghostwriting que ele começa a se sentir como um fantasma? também.
+Hypothesis:  Ele fez tanto Ghost Riding que ele começou a se sentir com o fantasma também.
+
+Sample 507:
+Reference: O medo é livre
+Hypothesis:  O medo é livre.
+
+Sample 508:
+Reference: Pacajus
+Hypothesis:  Acajos.
+
+Sample 509:
+Reference: Coloque o açúcar restante em uma chama e dê-lhe uma temperatura de caramelo.
+Hypothesis:  Coloque o açúcar restante em uma chama e dele uma temperatura de caramelo.
+
+Sample 510:
+Reference: Ele consultou sua mãe.
+Hypothesis:  Ele consultou sua mãe.
+
+Sample 511:
+Reference: Catalão, uma história de sucesso na Internet.
+Hypothesis:  Catadão, uma história de sucesso na internet.
+
+Sample 512:
+Reference: Rita deu-se pressa em dizê-lo ao outro, e sobre isso deliberaram.
+Hypothesis:  Recadeu-se preça em dizer o outro e sobre isso deliberaram.
+
+Sample 513:
+Reference: O coração do menino começou a falar de medo.
+Hypothesis:  O coração do menino começou a falar de medo.
+
+Sample 514:
+Reference: Ele postou no Insta
+Hypothesis:  e depois todo mundo está.
+
+Sample 515:
+Reference: Salto da Divisa
+Hypothesis:  Salto da Divisa.
+
+Sample 516:
+Reference: Ele franziu a testa
+Hypothesis:  E de franzio a testa.
+
+Sample 517:
+Reference: Em maio, as tempestades dão errado.
+Hypothesis:  Ei, maio, as tempestas de domingados.
+
+Sample 518:
+Reference: Raul Soares
+Hypothesis:  Paus Suaris
+
+Sample 519:
+Reference: Para combater a tuberculose é preciso desenvolver melhores medicamentos
+Hypothesis:  Para combater a tuberculose, é preciso desenvolver mais ou menos medicamentos.
+
+Sample 520:
+Reference: Oficiais especializados estão atualmente apoiando sua família.
+Hypothesis:  Oficiais especializados estão atualmente apoiando sua família.
+
+Sample 521:
+Reference: Função: Descreve o conteúdo da tela por síntese de voz.
+Hypothesis:  Função. Descreve o conteúdo da tela por 5x de voz.
+
+Sample 522:
+Reference: Celia Ribeiro da Silva
+Hypothesis:  Sérde arrebeiro da Silva.
+
+Sample 523:
+Reference: Do Imaculado ao Natal, dezessete dias inteiros.
+Hypothesis:  Doem maculado ao Natal, 17 dias inteiros.
+
+Sample 524:
+Reference: Onde há música, coisa ruim não pode haver.
+Hypothesis:  O dia música, coisa ruim não pode haver.
+
+Sample 525:
+Reference: A dança da tarde começa às oito.
+Hypothesis:  A dança da tarde começa às 8.
+
+Sample 526:
+Reference: Apagar luzes.
+Hypothesis:  Apagar luzes.
+
+Sample 527:
+Reference: Relatórios e vídeos de análises de Empresas.
+Hypothesis:  Relatórios e vídeos de análises de empresas.
+
+Sample 528:
+Reference: Arlete Nascimento da Silva
+Hypothesis:  Arlette nascimento da siu.
+
+Sample 529:
+Reference: Encontre um restaurante japonês
+Hypothesis:  Encontro um restaurante e aconeixe.
+
+Sample 530:
+Reference: A guerra não tem olhos.
+Hypothesis:  A guerra não tem olhos.
+
+Sample 531:
+Reference: Santa Helena
+Hypothesis:  Sante Lena
+
+Sample 532:
+Reference: Chelton Mota Sampaio
+Hypothesis:  Shelton Motosampai
+
+Sample 533:
+Reference: Você trabalha na indústria cinematográfica?
+Hypothesis:  Você trabalha em duestas e cinematográficas.
+
+Sample 534:
+Reference: Rede doméstica, casa quieta.
+Hypothesis:  Higi Domestika, casa quieta.
+
+Sample 535:
+Reference: Eu gostaria de beber um copo de refrigerante.
+Hypothesis:  Eu gostaria de beber com um copo de refrigerante.
+
+Sample 536:
+Reference: Eu atribuo o exercício da autoridade dos pais exclusivamente ao progenitor da mãe.
+Hypothesis:  E vou atribuir o exercício da autoridade dos pais exclusivamente ao Progene Torre da mãe.
+
+Sample 537:
+Reference: Conde
+Hypothesis:  Com J.
+
+Sample 538:
+Reference: Eles até tiveram que avisar a polícia.
+Hypothesis:  Eles até tiveram que avisar a polícia.
+
+Sample 539:
+Reference: deveria ser desenvolvido um movimento amplo e estruturado
+Hypothesis:  Deverei a ser desenvolvido um movimento amplo e estruturado.
+
+Sample 540:
+Reference: É proibido envelhecer
+Hypothesis:  Aproibir de Invilhecer.
+
+Sample 541:
+Reference: Há muita ênfase nisso e quais são os efeitos colaterais?
+Hypothesis:  Há muita infezinho em isso e quais são os efeitos poderais?
+
+Sample 542:
+Reference: Bom Jesus do Norte
+Hypothesis:  Bom Jesus do Norte!
+
+Sample 543:
+Reference: Nós viemos de Algemesí.
+Hypothesis:  Nós vimos de algo que é mesm.
+
+Sample 544:
+Reference: O Eduardo não tinha pontos da Latam, mas tinha da Gol.
+Hypothesis:  No vidro, Ardo não tinha ponto da lata, mas tinha da gola.
+
+Sample 545:
+Reference: Ambos eram amantes e trabalhavam nessa loja.
+Hypothesis:  vamos fazer um antes e trabalharam nessa loja
+
+Sample 546:
+Reference: Um grupo de homens usando suéteres jantando no salão.
+Hypothesis:  Um grupo de homens usando suéteres e antando do salão.
+
+Sample 547:
+Reference: Piraúba
+Hypothesis:  Perauba.
+
+Sample 548:
+Reference: Conteúdo?
+Hypothesis:  conteúdo.
+
+Sample 549:
+Reference: Nenhum mérito que não esteja devidamente credenciado será registrado.
+Hypothesis:  Nem um mérito que não esteja devidamente credenciado será registrado.
+
+Sample 550:
+Reference: Beleza puxa mais de dez volumes.
+Hypothesis:  Boleza por chamar este tesvolos.
+
+Sample 551:
+Reference: Avaliação comparativa do efeito dos colírios
+Hypothesis:  A avaliação comparativa do efeito dos colírios.
+
+Sample 552:
+Reference: É algo que alguém te deu?
+Hypothesis:  É algo que eu ia te dar.
+
+Sample 553:
+Reference: Dois homens colocam os braços e as pernas para o lado.
+Hypothesis:  2 ones colocam os braços e as pernas para o lado.
+
+Sample 554:
+Reference: Finalmente, duas coisas se destacam.
+Hypothesis:  Finalmente, duas coisas se destacam.
+
+Sample 555:
+Reference: O que você espera de um porco? mas um grunhido?
+Hypothesis:  O que você espera tem um porco, mais um grunhido?
+
+Sample 556:
+Reference: Sem solidariedade não somos nada.
+Hypothesis:  Sem soldariedade, não sou nos nada.
+
+Sample 557:
+Reference: Pombos transmitem doenças por causa dos seus carrapatos
+Hypothesis:  Pombos transmite enduínteses por causa dos seus carrapados.
+
+Sample 558:
+Reference: enfrentamos a ditadura do Estado Novo e o regime militar
+Hypothesis:  enfrentamos a ditadura do Estado novo e o restino militar.
+
+Sample 559:
+Reference: Dois jovens? Os machos brancos estão do lado de fora perto de muitos arbustos.
+Hypothesis:  Dois jovens, os maixles brancos estão do lado de fora perto de muitos nervos.
+
+Sample 560:
+Reference: Desenvolva protótipos verificando o ajuste dos padrões no processo de criação.
+Hypothesis:  Desenvolva protóticos, verificando a justos padrões no processo de criação.
+
+Sample 561:
+Reference: O dragão soprou um jato de fogo de nove metros de comprimento.
+Hypothesis:  O dragão soprou um jato de fogo de 9 metros de comprimento.
+
+Sample 562:
+Reference: Dores do Rio Preto
+Hypothesis:  Dois do Rio Preto.
+
+Sample 563:
+Reference: Decisão que manteve Renan na relatoria
+Hypothesis:  Decisão que manteve Renana relatoria.
+
+Sample 564:
+Reference: Eu preciso falar com meu advogado.
+Hypothesis:  Eu preciso falar com o meu adogado.
+
+Sample 565:
+Reference: Antônio Ribeiro de Souza Silva
+Hypothesis:  Antônio Ribeiro de Souza Silva.
+
+Sample 566:
+Reference: Dois ingressos, por favor.
+Hypothesis:  2 graças por favor
+
+Sample 567:
+Reference: Você vai fazer isso
+Hypothesis:  Você vai fazer isso.
+
+Sample 568:
+Reference: Nunca pedimos subsídio e sempre rejeitamos cordialmente aqueles que nos ofereceram.
+Hypothesis:  Nunca pedimos o subsídio e sempre rejeitamos cordialmente aqueles que nos ofereceram.
+
+Sample 569:
+Reference: Deixe drenar
+Hypothesis:  Deixei dê-lo, não é?
+
+Sample 570:
+Reference: Nada mais poderia ser feito.
+Hypothesis:  Nada mais poderia ser feito.
+
+Sample 571:
+Reference: Chuva de outubro, sem queda dura.
+Hypothesis:  Show-va de autulro sem queda dura.
+
+Sample 572:
+Reference: Não existe tempo como o presente.
+Hypothesis:  Não existe tempo como no presente.
+
+Sample 573:
+Reference: Atuou como bode expiatório para lançar uma cortina de fumaça
+Hypothesis:  A todo mundo vai desviar toda o carro e dançar uma curtida e fumaça.
+
+Sample 574:
+Reference: Mas ele está certo.
+Hypothesis:  Mas ele está certo.
+
+Sample 575:
+Reference: O dia perfeito chegou.
+Hypothesis:  O dia perfeito chegou.
+
+Sample 576:
+Reference: Palácio do Buriti
+Hypothesis:  Palácio do Burití.
+
+Sample 577:
+Reference: Rita concordou que era possível.
+Hypothesis:  Rita concordou o que era possível.
+
+Sample 578:
+Reference: As montanhas da primavera são tão silenciosas
+Hypothesis:  As montanhas da primavera são tão silenciosas.
+
+Sample 579:
+Reference: Colaborar com os inspetores atuariais na avaliação de ativos urbanos e rurais.
+Hypothesis:  Colaborar com os espetores atuariais na avaliação de ativos urbanos e rurais.
+
+Sample 580:
+Reference: Um cão do exército sendo treinado por um soldado.
+Hypothesis:  Um câmbio exército sendo treinado por um soldado.
+
+Sample 581:
+Reference: Ônibus esperando por ele para começar
+Hypothesis:  ônibus esperando por ele para começar.
+
+Sample 582:
+Reference: A arqueologia se desenvolveu muito no norte da África e Oriente Médio
+Hypothesis:  A arqueologia se desenvolveu muito no norte da África e Oriente Médio.
+
+Sample 583:
+Reference: Eu não queria voltar para o mundo.
+Hypothesis:  Eu não queria voltar para o mundo.
+
+Sample 584:
+Reference: O que é que você quer?
+Hypothesis:  O que é que você quer?
+
+Sample 585:
+Reference: Bem vindo senhor!
+Hypothesis:  Bem vindo, senhor.
+
+Sample 586:
+Reference: A vida está perdida para a vida.
+Hypothesis:  A vida está me dute para a vida.
+
+Sample 587:
+Reference: "Eu só vou assistir ele?" ele disse para si mesmo.
+Hypothesis:  Eu só vou assistir ele, ele disse pra si mesmo.
+
+Sample 588:
+Reference: Hur, estamos indo para o Alasca!
+Hypothesis:  Estamos indo para a Alaska.
+
+Sample 589:
+Reference: Paripueira
+Hypothesis:  Pode ir.
+
+Sample 590:
+Reference: Enfrentando os olhos piscando
+Hypothesis:  enfrentando os olhos pescando.
+
+Sample 591:
+Reference: Se aplicável, interlocutório de sinalização de lançamento em execução dos títulos judiciais.
+Hypothesis:  Se aplicável, interlocutório de sinalização de lançamento e execução dos títulos judiciais.
+
+Sample 592:
+Reference: Os fazendeiros se entreolharam e ficaram em silêncio.
+Hypothesis:  Os fazendeiros se entrolaram e ficaram em silêncio.
+
+Sample 593:
+Reference: Minha esposa vai ficar comigo a qualquer momento.
+Hypothesis:  Minha esposa vai ficar comigo a qualquer momento.
+
+Sample 594:
+Reference: Sobre o Papel do Trabalho na Transformação do Macaco em Homem
+Hypothesis:  sobre o papel do trabalho na transformação do macaco em homem.
+
+Sample 595:
+Reference: "Vamos parar este?", disse outro comandante.
+Hypothesis:  Vamos para este desciote comumente.
+
+Sample 596:
+Reference: Cinco e seis artigos definem situações sociais sérias e situações de emergência social.
+Hypothesis:  5.6 artigos definem situações sociais e situações de emergência social.
+
+Sample 597:
+Reference: Brasilândia do Tocantins
+Hypothesis:  Bracilândia Dr. Kantins.
+
+Sample 598:
+Reference: "Estou observando um comportamento passivo-agressivo", disse o psicólogo em tom profissional.
+Hypothesis:  Estou observando um comportamento passivo-agressivo, disso psicólogo em tom profissional.
+
+Sample 599:
+Reference: uma das principais pesquisadoras do tema
+Hypothesis:  Uma das principais pesquisadores do tema.
+
+Sample 600:
+Reference: Seu adversário tinha três respawns restantes.
+Hypothesis:  Filha adversário tem três respalhos restantes.
+
+Sample 601:
+Reference: O leopardo não muda suas manchas.
+Hypothesis:  O leu pardo não bunda suas mântimas.
+
+Sample 602:
+Reference: Você realmente ateou fogo na casa para matar uma barata?
+Hypothesis:  Você realmente até o fogo na casa para matar uma barata?
+
+Sample 603:
+Reference: Cachorro pula de água enquanto mulher se ajoelha na doca brincando com ele
+Hypothesis:  Cachorro, pula de água enquanto mulher se ajulele na doca brincando com ele.
+
+Sample 604:
+Reference: Você me ouviu
+Hypothesis:  Você me ouviu.
+
+Sample 605:
+Reference: Gilbués
+Hypothesis:  Jogos
+
+Sample 606:
+Reference: Ele irá acompanhar o arranjo completamente.
+Hypothesis:  Ele irá acompanhar uma arranjo completamente.
+
+Sample 607:
+Reference: Aqui está uma carta.
+Hypothesis:  Aqui está uma carta.
+
+Sample 608:
+Reference: Alegrete do Piauí
+Hypothesis:  Além, ele é o rei de piós vi.
+
+Sample 609:
+Reference: Eu vou fazê-la.
+Hypothesis:  Eu vou fazer ela.
+
+Sample 610:
+Reference: São Roque de Minas
+Hypothesis:  São Rock de Minas.
+
+Sample 611:
+Reference: Qual é a fração do círculo que não é verde?
+Hypothesis:  Qual é a fraçando o círculo que não é verdade?
+
+Sample 612:
+Reference: Ela é acusada de roubar um relógio.
+Hypothesis:  Ela é acusada de roubar um eloto.
+
+Sample 613:
+Reference: É um lugar maravilhoso, onde você não deve perder nada que você vê.
+Hypothesis:  É um lugar maravilhoso, onde você não deve perder nada que você vê.
+
+Sample 614:
+Reference: Constantine é uma das mais importantes obras de arte romana em Istambul.
+Hypothesis:  Constantine é uma das mais importantes obras de arte humana em Istanbul.
+
+Sample 615:
+Reference: Lembre-se!
+Hypothesis:  Lembre-se.
+
+Sample 616:
+Reference: Nós viemos de Vilada.
+Hypothesis:  Nós viemos de vilada.
+
+Sample 617:
+Reference: As motivações são plurais e difíceis de enumerar.
+Hypothesis:  As motivações são plurais e difíciles de enumerar.
+
+Sample 618:
+Reference: Era meio-dia
+Hypothesis:  Era meio dia.
+
+Sample 619:
+Reference: Mas ele ficou quieto porque ouviu o que o alquimista disse ao monge.
+Hypothesis:  mas ele foi o quieto porque eu vi o que é o que me xedisse ao monge
+
+Sample 620:
+Reference: Manuella, Tauani, Tifani, Kemili e Kayke
+Hypothesis:  Manuela, Tauan, Tiffany, Camille e Caíque.
+
+Sample 621:
+Reference: Dê o diabo o seu devido.
+Hypothesis:  Deu deabo o seu devido.
+
+Sample 622:
+Reference: Lucas do Rio Verde
+Hypothesis:  Lucas do Rio Verde
+
+Sample 623:
+Reference: Substâncias inócuas para um ambiente tão inóspito
+Hypothesis:  Substâncias inóquias para um ambiente tão inóspido.
+
+Sample 624:
+Reference: Um homem fica em pernas de pau, enquanto as crianças assistem.
+Hypothesis:  O homem fica em pernas de pau enquanto os crianças assistem.
+
+Sample 625:
+Reference: Crepúsculo engole, há inverno por semanas.
+Hypothesis:  Crepúsculo em Gólico, a Inverno por Semanas.
+
+Sample 626:
+Reference: em oposição aqueles socialistas que, sem admitir a teoria dos social-democratas
+Hypothesis:  Em oposição àqueles socialistas que sem admitir a teoria dos social-democratas,
+
+Sample 627:
+Reference: a juízo de delibação no Brasil.
+Hypothesis:  A juílio deve limpação no Brasil.
+
+Sample 628:
+Reference: Então, você pretende pedir um táxi?
+Hypothesis:  Então você tem de pedir um faça.
+
+Sample 629:
+Reference: Chiapetta
+Hypothesis:  Fia peta!
+
+Sample 630:
+Reference: Você sabe o que
+Hypothesis:  Você sabe o quê?
+
+Sample 631:
+Reference: Abrir portão.
+Hypothesis:  É o brilhamento portão.
+
+Sample 632:
+Reference: Cada macaco no seu galho
+Hypothesis:  Cada macaco no seu galho.
+
+Sample 633:
+Reference: Uma empolgação pareceu atravessar a multidão, que então passou de sacada para sacada.
+Hypothesis:  Uma impolgação parecei atravessar a multidão, que então passou de sacada para sacada.
+
+Sample 634:
+Reference: O volante Lamborghini é feito de couro de pantera.
+Hypothesis:  O volante Lamborghini é feito de colo de pantera.
+
+Sample 635:
+Reference: Em um tempo de semanas?, estamos indo para a América.
+Hypothesis:  Em um tempo de semanas estamos indo para a América.
+
+Sample 636:
+Reference: São José da Varginha
+Hypothesis:  São José da Varginha.
+
+Sample 637:
+Reference: O tribunal pode remover os textos legais comentados, rebocados ou comentados à mão.
+Hypothesis:  O Tribunal pode remover os textos legais comentados, rebocado ou comentados à mão.
+
+Sample 638:
+Reference: Documentos que certifiquem o treinamento específico necessário, quando apropriado.
+Hypothesis:  Documentos que certifiquem o treinamento específico necessário quando apropriado.
+
+Sample 639:
+Reference: Antônio Monteiro de Oliveira
+Hypothesis:  Antonio Monteira de Lever.
+
+Sample 640:
+Reference: cenário geográfico
+Hypothesis:  Senário em Show Grafico.
+
+Sample 641:
+Reference: Ele se levantou? ajustou sua roupa? e pegou sua bolsa.
+Hypothesis:  Ele se levantou, ajustou sua roupa e pegou sua bolsa.
+
+Sample 642:
+Reference: Sabedoria e inteligência são duas coisas muito separadas.
+Hypothesis:  Sabedoria e inteligência são duas coisas muito separadas.
+
+Sample 643:
+Reference: Luciara
+Hypothesis:  Luciana.
+
+Sample 644:
+Reference: A sociedade americana muda a um ritmo maior do que a oferta eleitoral republicana.
+Hypothesis:  A sociedade americana muda um ritmo maior do que a oferta elitural republicana.
+
+Sample 645:
+Reference: Pão fresco e vinho fresco causam dores na barriga.
+Hypothesis:  Tom fresco e vinho fresco, causam dores na parriga.
+
+Sample 646:
+Reference: Posfácio à Segunda Edição Alemã do Livro Primeiro de
+Hypothesis:  Pos fácil a segunda edição alebandou livro primeiro-te.
+
+Sample 647:
+Reference: Serra do Ramalho
+Hypothesis:  Serra do ramalho.
+
+Sample 648:
+Reference: O youtuber foi desmonetizado
+Hypothesis:  O YouTube foi desmonetrizado.
+
+Sample 649:
+Reference: Será útil superar esses obstáculos pelo caminho dos votos ou pela pressão direta.
+Hypothesis:  Será útil superar esses obstacos pelo caminho dos votos ou pela pressão direta?
+
+Sample 650:
+Reference: Por meio disso, todos os outros foram submetidos sem o saberem.
+Hypothesis:  Por meio disso, todos os outros foram submetidos sem o saberem.
+
+Sample 651:
+Reference: O dano ao pano foi reparado rapidamente.
+Hypothesis:  O dano ao plano foi reparado rapidamente.
+
+Sample 652:
+Reference: Aqui está o cardápio e a lista de bebidas.
+Hypothesis:  Aqui está o cardápio e ele está devido.
+
+Sample 653:
+Reference: Não incluído na discussão no momento do planejamento
+Hypothesis:  Não incluído na discussão no momento do planejamento.
+
+Sample 654:
+Reference: Você toma leite e açúcar?
+Hypothesis:  Você toma leite e açúcar?
+
+Sample 655:
+Reference: Eu não posso mais fazer.
+Hypothesis:  Eu não posso mais fazer.
+
+Sample 656:
+Reference: Clarice Batista dos Santos
+Hypothesis:  Clarice Batista dos Santos.
+
+Sample 657:
+Reference: Esse é o único jogo de xadrez que eu já joguei.
+Hypothesis:  Essa é uma clima de chatelhas que eu já joguei.
+
+Sample 658:
+Reference: Não há distância entre os dois bancos
+Hypothesis:  Não há distância entre os dois bancos.
+
+Sample 659:
+Reference: Carlinda Ferreira da Silva
+Hypothesis:  Lindo para o raio da Silva.
+
+Sample 660:
+Reference: De acordo com o sinal? sem estacionamento hoje por causa da filmagem do filme.
+Hypothesis:  De acordo com o sinal, sem estacionamento hoje por causa da filmagem do filme.
+
+Sample 661:
+Reference: Nós temos muitos amigos dos outros lugares.
+Hypothesis:  Nós temos muitos amigos ou outros lugares.
+
+Sample 662:
+Reference: São José da Tapera
+Hypothesis:  São José da Tapela.
+
+Sample 663:
+Reference: São João da Barra
+Hypothesis:  São João da Barra
+
+Sample 664:
+Reference: Ela colocou na prateleira? e lá ficou.
+Hypothesis:  Ela colocou na brasileira, ela ficou...
+
+Sample 665:
+Reference: Coma, beba e não acredite.
+Hypothesis:  Como é beba e não acredite?
+
+Sample 666:
+Reference: Hospital de Taipei
+Hypothesis:  Hospital de Taipei
+
+Sample 667:
+Reference: Ela ficará mais seca no domingo.
+Hypothesis:  Ela ficará mais seca no domingo.
+
+Sample 668:
+Reference: Abril e maio são a chave do ano.
+Hypothesis:  Abriu e maio, só achar a vida o ano.
+
+Sample 669:
+Reference: Peter tem idade suficiente para ter um cérebro.
+Hypothesis:  Quer ter tendo a desuficiante para ter um cérebro?
+
+Sample 670:
+Reference: Cinquenta?
+Hypothesis:  50
+
+Sample 671:
+Reference: Você gostaria de dizer, mas não é ruim de ouvir.
+Hypothesis:  Você gostaria de dizer, mas não é ruim de ouvir.
+
+Sample 672:
+Reference: E mais nada.
+Hypothesis:  E mais nada.
+
+Sample 673:
+Reference: Eu não posso ajudar vocês.
+Hypothesis:  Eu não posso ajudar vocês.
+
+Sample 674:
+Reference: João Ramalho
+Hypothesis:  João Hamali
+
+Sample 675:
+Reference: Você tem Facebook?
+Hypothesis:  Você tem Facebook?
+
+Sample 676:
+Reference: Eu recomendo que você tente primeiro para ver se funciona para você.
+Hypothesis:  Eu recomendo que você tente primeiro para ver se funciona para você.
+
+Sample 677:
+Reference: Ainda gosto de mim conversando com ela
+Hypothesis:  E ainda é gostar de me conversar no canal.
+
+Sample 678:
+Reference: O cachorro para o dono e o gato para a casa.
+Hypothesis:  O cachorro para o dono e o gato para a casa.
+
+Sample 679:
+Reference: Mário Campos
+Hypothesis:  Maricambos
+
+Sample 680:
+Reference: Eu vou antes do anoitecer.
+Hypothesis:  e o volante do noite cedo
+
+Sample 681:
+Reference: Ele muitas vezes não consegue entender o que estou falando.
+Hypothesis:  Ele, muitas vezes, não consegue entender o que estou falando.
+
+Sample 682:
+Reference: O velho sem vergonha faz o pequeno ousado.
+Hypothesis:  O velho sem vergonha faz o pequeno ou usado.
+
+Sample 683:
+Reference: Toda a conversação a este respeito foi constrangida.
+Hypothesis:  Toda conversação e esse respeito foi constrangida.
+
+Sample 684:
+Reference: Adicionar esta faixa à minha lista de reprodução de metal
+Hypothesis:  A Dicionais está faixa a minha lista de reprodução de metal.
+
+Sample 685:
+Reference: Você entende o que quero dizer?
+Hypothesis:  Você entende o que quero dizer?
+
+Sample 686:
+Reference: Cabo Frio
+Hypothesis:  Cable for you.
+
+Sample 687:
+Reference: O ganso foi trazido direto do mercado antigo.
+Hypothesis:  O ganso foi trazido direto do mercado antigo.
+
+Sample 688:
+Reference: Os espaços transformacionais dependem da criatividade, sendo essenciais para o seu desenvolvimento.
+Hypothesis:  Os espaços transformacionais dependem na criatividade, sendo essenciais para seu desenvolvimento.
+
+Sample 689:
+Reference: Subscrito na plataforma de compras on-line pública
+Hypothesis:  Subscreva na sua plataforma de compras online pública.
+
+Sample 690:
+Reference: Um novo filme é exibido pela primeira vez no cinema.
+Hypothesis:  Um novo filme é exibido pela primeira vez no cinema.
+
+Sample 691:
+Reference: Quente e chuvoso no ano rico e abundante.
+Hypothesis:  Gente, isso vosso não é um lego e abundante.
+
+Sample 692:
+Reference: O homem está instalando a telha na parede do banheiro.
+Hypothesis:  O homem está instalando a teia na parede do banheiro.
+
+Sample 693:
+Reference: Artigos de sacrifício são ainda mais numerosos
+Hypothesis:  Artigos de sacrifício são ainda mais numerosos.
+
+Sample 694:
+Reference: Como um jardineiro, também é um jardim.
+Hypothesis:  Como o jardineiro também é um jardim.
+
+Sample 695:
+Reference: Os senadores são eleitos para cargos no Senado Federal
+Hypothesis:  O senadores são eleitos para cargos no Senado Federal.
+
+Sample 696:
+Reference: Onde é que moras?
+Hypothesis:  Um decorres.
+
+Sample 697:
+Reference: Terça-feira seria melhor para o pai, então eu te veria então.
+Hypothesis:  E a sua filha seria melhor para o pai, então eu ter veria.
+
+Sample 698:
+Reference: Por qual razão?
+Hypothesis:  Por qual razão?
+
+Sample 699:
+Reference: Crianças dormindo no chão.
+Hypothesis:  Crianças dormindo no chão.
+
+Sample 700:
+Reference: As meninas lembraram como um sonho o rosto irônico e glacial de outras ocasiões.
+Hypothesis:  As meninas lembraram como um sonho o rosto irônico e glacial de outras ocasiões.
+
+Sample 701:
+Reference: Quando haverá feriado novamente no meu estado?
+Hypothesis:  Quando haverá fagiado novamente no meu estado.
+
+Sample 702:
+Reference: Evite andar descalça se não quiser contrair fungos nos pés
+Hypothesis:  Evite andar de escalça senão quiser contra ir com um bom respeito.
+
+Sample 703:
+Reference: Pedro tinha internet da Vivo, mas queria mudar pra Oi ou pra Claro.
+Hypothesis:  Pedro é de internet da vivo mas queríamos dar para hoje ou para claro.
+
+Sample 704:
+Reference: Beatriz Lima de Lara
+Hypothesis:  Beatriz Lima de Lara
+
+Sample 705:
+Reference: Onde você esteve esta tarde?
+Hypothesis:  onde você esteve este tarde.
+
+Sample 706:
+Reference: Não valeu nada; estou brincando.
+Hypothesis:  Não valeu nada, estou brincando.
+
+Sample 707:
+Reference: O primeiro ano mais gasta a morte do que o vivo.
+Hypothesis:  O primeiro é um mais casta, a morte do que o vivo.
+
+Sample 708:
+Reference: Bom tempo no primeiro dia, os agricultores estão felizes colhendo.
+Hypothesis:  Bom tempo no primeiro dia. Os agricultores estão felizes colhendo.
+
+Sample 709:
+Reference: A empresa foi contratada novamente
+Hypothesis:  A empresa foi contratada novamente.
+
+Sample 710:
+Reference: Antônio de Souza Amorim
+Hypothesis:  Eu tenho de fos a morrer.
+
+Sample 711:
+Reference: Sirva bem quente.
+Hypothesis:  Silva bem quente.
+
+Sample 712:
+Reference: Uma competição em cavalos em um dia bonito entre o verde.
+Hypothesis:  Uma competição em cavalos em um dia bonito entre o verde.
+
+Sample 713:
+Reference: Muito bom dia a todos.
+Hypothesis:  Muito bom dia a todos!
+
+Sample 714:
+Reference: Ele é boliviano
+Hypothesis:  E li é Boliviano.
+
+Sample 715:
+Reference: Diga filha e entenda-se filha.
+Hypothesis:  Jiga filha e entenda de filha.
+
+Sample 716:
+Reference: O gato sentou-se na cerca.
+Hypothesis:  O gato sentou-se na cerca.
+
+Sample 717:
+Reference: Medina
+Hypothesis:  Medina.
+
+Sample 718:
+Reference: Quatro horas da manhã e nenhum sinal dele.
+Hypothesis:  4 horas da manhã e nenhum sinal dele.
+
+Sample 719:
+Reference: Por que eu digo isso?
+Hypothesis:  Por que eu digo isso?
+
+Sample 720:
+Reference: Eu até trouxe isso pra te mostrar
+Hypothesis:  E o Atetro, o Síso, por que mostro?
+
+Sample 721:
+Reference: Fui bloqueado por aquele embuste
+Hypothesis:  Rebloqueando por aquele bus.
+
+Sample 722:
+Reference: Salto do Jacuí
+Hypothesis:  Salto do Jacuí.
+
+Sample 723:
+Reference: Dois meninos puxando uma carroça.
+Hypothesis:  2 meninos puxando uma carroça
+
+Sample 724:
+Reference: O menino repetiu sua pergunta.
+Hypothesis:  O menino repetiu sua pergunta.
+
+Sample 725:
+Reference: São João da Paraúna
+Hypothesis:  São João, dá para uma.
+
+Sample 726:
+Reference: Ela mal sobreviveu ao salário para pagar a vida.
+Hypothesis:  Ela mal sobreviveu o salário para pagar a vida.
+
+Sample 727:
+Reference: As pessoas tomam lições de kickboxing no parque.
+Hypothesis:  As pessoas tomam missões de aqui que bó que são em um parque.
+
+Sample 728:
+Reference: Todo homem é o arquiteto de seu destino.
+Hypothesis:  Todo homem é o arquiteto de seu destino.
+
+Sample 729:
+Reference: Google vai para baixo
+Hypothesis:  Google vai pra baixo.
+
+Sample 730:
+Reference: O silêncio é menos prejudicial do que uma resposta ruim.
+Hypothesis:  O silêncio é menos prejudicial do que uma resposta ruim.
+
+Sample 731:
+Reference: Sua proposta abarca a Classe Média e os miseráveis?
+Hypothesis:  Sua proposta abarca a classe média e os miseráveis.
+
+Sample 732:
+Reference: Eu sei tudo.
+Hypothesis:  Eu sei tudo.
+
+Sample 733:
+Reference: Não seja bobo.
+Hypothesis:  Não seja bobo.
+
+Sample 734:
+Reference: Sobre os Tipos e Natureza de Modelos de Ação para os Guerrilheiros Urbanos
+Hypothesis:  Sobre os tipos e natureza de modelos já são para os guerreiros urbanos.
+
+Sample 735:
+Reference: Abadia dos Dourados
+Hypothesis:  Abadinha dos Doirados
+
+Sample 736:
+Reference: Para você
+Hypothesis:  Para você.
+
+Sample 737:
+Reference: A infância é simples e bonita
+Hypothesis:  A infância é simples e bonita.
+
+Sample 738:
+Reference: Um pai e seu filho estão brincando com alguns Legos no quarto da criança.
+Hypothesis:  Um pai e seu filho estão brincando com alguns legos no corte da criança.
+
+Sample 739:
+Reference: Quantos quilos pesa um elefante adulto?
+Hypothesis:  Antes que eles pedam a la punta do outro.
+
+Sample 740:
+Reference: O que você pode fazer hoje não deixa para amanhã.
+Hypothesis:  O que você pode fazer hoje não deixa para amanhã?
+
+Sample 741:
+Reference: Continue estudos inacabados
+Hypothesis:  Continuí estudos inacabados.
+
+Sample 742:
+Reference: Você deve ver que a pasta é consistente, embora, quando legal, tenha muita repercussão.
+Hypothesis:  Você deve ver de a paz para é consistente, embora quando legal tenha muita repercussão.
+
+Sample 743:
+Reference: Nossa Senhora de Agosto esconde o coelho no fundo e São Miguel o retira.
+Hypothesis:  Nossa senhora de Agosto esconde o coelho no fundo e só um Miguel retira.
+
+Sample 744:
+Reference: Por exemplo.
+Hypothesis:  Por exemplo.
+
+Sample 745:
+Reference: Eu pensei em sair e parar.
+Hypothesis:  Eu pensei em sair de parar.
+
+Sample 746:
+Reference: Voltarei a convocar o conselho novamente com caráter extraordinário nesta mesma tarde.
+Hypothesis:  Vou tarea convocar o conselho novamente com um caráter extraordinário nessa mesma tarde.
+
+Sample 747:
+Reference: As crianças participam de uma corrida de saco.
+Hypothesis:  As crianças participam de uma corrida de saco.
+
+Sample 748:
+Reference: Boas lembranças
+Hypothesis:  Boas lembranças.
+
+Sample 749:
+Reference: Quem ou o quê?
+Hypothesis:  Ok.
+
+Sample 750:
+Reference: Crianças em patins estão jogando hockey dentro de casa
+Hypothesis:  Crianças em Patins estão jogando hockey dentro de casa.
+
+Sample 751:
+Reference: Ele adivinhou tudo.
+Hypothesis:  Ele adivinhou tudo.
+
+Sample 752:
+Reference: Jovem de blusa branca? shorts azuis compridos? jogando tênis.
+Hypothesis:  Jovem de Blusa Branca, short Jesus com Friedos, jugando tênis.
+
+Sample 753:
+Reference: O trem bala entre o Rio de Janeiro e São Paulo será construído.
+Hypothesis:  O trem bala entre o Rio de Janeiro e São Paulo será construído.
+
+Sample 754:
+Reference: Em cada casa uma folha é perdida.
+Hypothesis:  Em cada casa uma folha perdida.
+
+Sample 755:
+Reference: Eu não selecionei essa expressão.
+Hypothesis:  Eu não se necessonei essa expiração.
+
+Sample 756:
+Reference: Ela tem cinco metros de altura.
+Hypothesis:  Ela tem 5 metros de altura.
+
+Sample 757:
+Reference: Como fazer isso?
+Hypothesis:  Como fazer isso?
+
+Sample 758:
+Reference: Ela retraiu sua declaração.
+Hypothesis:  Ela retraiu de sua declaração.
+
+Sample 759:
+Reference: Você pode me pegar o jogo do Club Nation?
+Hypothesis:  Você pode me ver hoje o jogo do Google Natural.
+
+Sample 760:
+Reference: Antônio Oliveira Pereira
+Hypothesis:  Antonio Rivera Pereira.
+
+Sample 761:
+Reference: Doutor Ulysses
+Hypothesis:  Do Tô, o Lísis.
+
+Sample 762:
+Reference: Vou dormir.
+Hypothesis:  Vou dormir.
+
+Sample 763:
+Reference: Ele está procurando por você.
+Hypothesis:  Ele está procurando por você.
+
+Sample 764:
+Reference: A neve de janeiro parece um cavalheiro.
+Hypothesis:  A neve de janeiro parece um cavaleiro.
+
+Sample 765:
+Reference: Perguntas ao Presidente da Generalitat.
+Hypothesis:  Peraga, muitas obras doente da cineôr amittal.
+
+Sample 766:
+Reference: Outra plataforma.
+Hypothesis:  O deprata forma.
+
+Sample 767:
+Reference: O Reino Unido de Portugal, Brasil e Algarves
+Hypothesis:  O reino Unido de Portugal, Brasil e Algarves.
+
+Sample 768:
+Reference: Israelândia
+Hypothesis:  É grande a gente.
+
+Sample 769:
+Reference: A estrada era tão íngreme que o motoqueiro teve que mudar algumas marchas.
+Hypothesis:  A estrada era tão inclimitiva que o motoqueiro teve que mudar algumas marchas.
+
+Sample 770:
+Reference: Rio Bom
+Hypothesis:  Há o bom.
+
+Sample 771:
+Reference: O viajante parecia estar chamando alguém.
+Hypothesis:  O viajante parecia estar chamando a olla.
+
+Sample 772:
+Reference: Procurando por ela para ter algo para comer
+Hypothesis:  Procurando por ela para ter algo para comer.
+
+Sample 773:
+Reference: Quando o ônibus chegar, pegue o ônibus.
+Hypothesis:  Quando o ônibus chegar, pegue o ônibus.
+
+Sample 774:
+Reference: Uma raposa caída não pega galinhas.
+Hypothesis:  Uma voz caída não pega galinhas.
+
+Sample 775:
+Reference: Agora, como veremos mais adiante, as intervenções desses dois últimos monges são puramente testemunhais.
+Hypothesis:  Agora, como veremos mais adiantes, as intervenções desses dois outros monge são puramente testemunhais.
+
+Sample 776:
+Reference: Garanta que os impostos estaduais serão devidamente pagos
+Hypothesis:  Garanta que os impostos estandoais serão devidamente pagos.
+
+Sample 777:
+Reference: O menino pensou no comerciante de cristal.
+Hypothesis:  O menino pensou no comerciante de cristal.
+
+Sample 778:
+Reference: Salsa é o melhor molho.
+Hypothesis:  Sausam melhor, mole.
+
+Sample 779:
+Reference: Vá e nunca olhe para trás.
+Hypothesis:  Vai e nunca olhe para trás.
+
+Sample 780:
+Reference: Ele não conseguia pensar nisso.
+Hypothesis:  Ele não conseguia pensar nisso.
+
+Sample 781:
+Reference: Deixe o parlamento rever o orçamento
+Hypothesis:  Deixe o parlamento, revê o orçamento.
+
+Sample 782:
+Reference: Novo decreto entra em vigor na terça
+Hypothesis:  Nuva o decreto entre a invícorna terça.
+
+Sample 783:
+Reference: Agora é diferente da era anterior.
+Hypothesis:  Agora, diferência da era anterior.
+
+Sample 784:
+Reference: Quanto é a poupança nacional das famílias?
+Hypothesis:  Quanto é a Pulpança Nacional das Famílias?
+
+Sample 785:
+Reference: Beatriz Lima de Arruda
+Hypothesis:  Beatriz limite a aguda.
+
+Sample 786:
+Reference: Levante-se!
+Hypothesis:  Levante, sim.
+
+Sample 787:
+Reference: Sarzedo
+Hypothesis:  Sarzid
+
+Sample 788:
+Reference: Cargas de trabalho suspensas, penalidade perdida.
+Hypothesis:  Cargas de trabalho suspensas penalidade perdida.
+
+Sample 789:
+Reference: Laranjeiras
+Hypothesis:  Laranjira
+
+Sample 790:
+Reference: Camilo achou o tílburi esperando; a rua estava livre.
+Hypothesis:  Camilo achou o Tiu-Buri esperando a rua Estava livre.
+
+Sample 791:
+Reference: O falcão é um caçador incrível!
+Hypothesis:  O Falcão é um caçador incrível.
+
+Sample 792:
+Reference: Outras tarefas para desenvolvimento fora da sala de aula que reforçam o aprendizado.
+Hypothesis:  Outras tarefas para desenvolvimento fora da sala de aula que reforçam aprendizado.
+
+Sample 793:
+Reference: Padrões semelhantes aos teus
+Hypothesis:  Padrões semelhantes aos Teus
+
+Sample 794:
+Reference: O fenômeno da migração das águas-vivas ocorre anualmente
+Hypothesis:  O fenômeno da migração das aguas vivas ocorre anualmente.
+
+Sample 795:
+Reference: Todos nós esperamos que eu esteja certo.
+Hypothesis:  Todos nós esperemos que o esteja certo.
+
+Sample 796:
+Reference: Quando o galgo é esperado, a lebre salta.
+Hypothesis:  Quando o galgo é esperado, a leve salta.
+
+Sample 797:
+Reference: Rever a instrução e processamento de registros de sancionamento de shows de touradas tradicionais.
+Hypothesis:  Reve a instrução e posse assamento de resistos de sancionamento de shows detouradas tradicionais.
+
+Sample 798:
+Reference: A festa irá ocorrer na sexta.
+Hypothesis:  A festa irá ocorrer o nascesta.
+
+Sample 799:
+Reference: Quem não tem cão caça com gato
+Hypothesis:  Quem não tem cão, caça com gato.
+
+Sample 800:
+Reference: Por que não procuramos em seus quartos?
+Hypothesis:  Por que não procuramos em seus quartos?
+
+Sample 801:
+Reference: A noite do jantar, a lua cheia deve ser.
+Hypothesis:  A noite do Jantar, a Lua Cheia deve ser.
+
+Sample 802:
+Reference: Além do mais, nós já estamos aqui mesmo
+Hypothesis:  Além do mais, nós já estamos aqui mesmo.
+
+Sample 803:
+Reference: O Tribunal por sorteio selecionará três assuntos e os candidatos terão que desenvolver dois.
+Hypothesis:  O Tribunal por sorteio selecionará 3 assuntos e os candidatos terão que desenvolver 2.
+
+Sample 804:
+Reference: Cães perseguem um ao outro.
+Hypothesis:  que eu não espere seguindo um ou outro.
+
+Sample 805:
+Reference: Também encontrei alguns problemas
+Hypothesis:  Também encontrei alguns problemas.
+
+Sample 806:
+Reference: A linha de trem passa na sua cidade
+Hypothesis:  Ali é de trem passa na sua cidade.
+
+Sample 807:
+Reference: A calvície é determinada por fatores genéticos
+Hypothesis:  Acaurar e se lhe ter nada com o fato de rejeitar.
+
+Sample 808:
+Reference: Se houver malícia, será considerada uma falta muito séria.
+Hypothesis:  Seu vermelhícia será considerado uma falta muito séria.
+
+Sample 809:
+Reference: Não cumprimento da obrigação de seguro, que é obrigatória.
+Hypothesis:  Não compreento na obrigação de seguro que é o bem retor.
+
+Sample 810:
+Reference: No verão, os pássaros estão se aninhando.
+Hypothesis:  Noverão os pássaros estão se aninhando.
+
+Sample 811:
+Reference: acentuar o caráter monopolista e cada vez mais impiedoso e voraz
+Hypothesis:  Ascentuar o caráter monopolista e cada vez mais impiedoso e vorais.
+
+Sample 812:
+Reference: Que vergonha!
+Hypothesis:  Que vergonha!
+
+Sample 813:
+Reference: mês
+Hypothesis:  Mês!
+
+Sample 814:
+Reference: E é a torneira
+Hypothesis:  E é a torneira.
+
+Sample 815:
+Reference: Varjão
+Hypothesis:  Bargeu!
+
+Sample 816:
+Reference: Portanto, é necessário estabelecer medidas corretivas que permitam mitigar esse possível impacto.
+Hypothesis:  Portanto, é necessário saber lecer medidas corretivas que permitam mitigar esse possível impacto.
+
+Sample 817:
+Reference: Um desses objetivos temáticos é promover a pesquisa, o desenvolvimento tecnológico e a inovação.
+Hypothesis:  Um desses objetivos temáticos é promover a pesquisa, o desenvolvimento tecnológico e a inovação.
+
+Sample 818:
+Reference: Um cão bronzeado persegue um cão branco através da grama frondosa
+Hypothesis:  O câmbro de arte, desse aí o câmbro através da grana, frondou-se.
+
+Sample 819:
+Reference: João Dourado
+Hypothesis:  Sua dorado.
+
+Sample 820:
+Reference: Se isso salvaria a vida de uma mulher.
+Hypothesis:  Isso salgaria a vida de um mulher.
+
+Sample 821:
+Reference: As funções do Conselho Eleitoral serão todas aquelas relacionadas ao controle do processo eleitoral.
+Hypothesis:  As funções do Conselho Eleitoral são todas aquelas relacionáveis ao controle do processo Eleitoral.
+
+Sample 822:
+Reference: Ele me deu sua palavra de honra.
+Hypothesis:  Ele me deu sua palavra de onde?
+
+Sample 823:
+Reference: Qualquer proposta que contrarie o que é estabelecido é nula e sem efeito.
+Hypothesis:  Qualquer propósito que encontraria o que é estabelecido a nula e sem efeito.
+
+Sample 824:
+Reference: Mas João sabia vender caro o seu peixe.
+Hypothesis:  Mas João sabia vender caro o seu pente.
+
+Sample 825:
+Reference: é assegurado a todos o acesso à informação e resguardado o sigilo da fonte
+Hypothesis:  É assegurado a todos o acesso à informação e resguardado o sigilo da fonte.
+
+Sample 826:
+Reference: O homem parece estar descansando bem.
+Hypothesis:  O homem parece estar descansando bem.
+
+Sample 827:
+Reference: Ambos podem delegar aos gerentes gerais responsáveis pela habitação de ambas as administrações.
+Hypothesis:  Ambos podem delegar aos gerentes de herais responsáveis pela habitação de ambas administrações.
+
+Sample 828:
+Reference: É um bom homem, empregado no arsenal de guerra.
+Hypothesis:  É um bom homem em plegado no arsenal de guerra.
+
+Sample 829:
+Reference: O relatório coletou uma série de considerações sobre os regulamentos do Plano.
+Hypothesis:  O relatório coletou uma série de considerações sobre os regulamentos do plano.
+
+Sample 830:
+Reference: Eu quero ver ela.
+Hypothesis:  Eu quero que ele...
+
+Sample 831:
+Reference: Você pode por favor confirmar sua presença?
+Hypothesis:  Você pode por favor confirmar seu presente?
+
+Sample 832:
+Reference: Sim ou não?
+Hypothesis:  Sim ou não?
+
+Sample 833:
+Reference: A validade desses diplomas é indefinida.
+Hypothesis:  Avalidade desses diplomas é indefinida.
+
+Sample 834:
+Reference: E dado que sim, o que menos convinha a essa anônima era aparentá-lo
+Hypothesis:  E dado que sim, o que menos convinha a essa anônima era aparentá-lo.
+
+Sample 835:
+Reference: Há cinco meninos girando em um merrygoround.
+Hypothesis:  Assim com meninos girando em um merry go-round.
+
+Sample 836:
+Reference: Dois homens vestindo óculos? falando.
+Hypothesis:  2 homens vestindo óculos, falando.
+
+Sample 837:
+Reference: Igarassu
+Hypothesis:  E agora sou.
+
+Sample 838:
+Reference: Vá em frente com catalão e novas tecnologias.
+Hypothesis:  Vai em frente com cada alão e novos tecnologias.
+
+Sample 839:
+Reference: Se você quer ser uma batata, coloque-a em primeiro plano.
+Hypothesis:  Se você quer ser uma batata, coloque em primeiro plano.
+
+Sample 840:
+Reference: Dora tem um trampolim em seu jardim.
+Hypothesis:  Dora, tem um trampolim em seu jardim.
+
+Sample 841:
+Reference: O pescador, se ele tem muito, segura a cana em linha reta.
+Hypothesis:  O pescador, se ele tem muito, segura a cana em linha R et.
+
+Sample 842:
+Reference: Bela Vista de Minas
+Hypothesis:  Pela vista de mim, né?
+
+Sample 843:
+Reference: As terras não apresentam um risco hidrológico previsível.
+Hypothesis:  As terras no presente um risco hidrologico pré-visível.
+
+Sample 844:
+Reference: Celia Geracina Camilo
+Hypothesis:  Celia Veracina Camilo
+
+Sample 845:
+Reference: Eu estou tão feliz.
+Hypothesis:  Estou tão feliz!
+
+Sample 846:
+Reference: São duas horas da tarde.
+Hypothesis:  São duas horas de tarde.
+
+Sample 847:
+Reference: Toda a inovação atual de software é feita com base em software livre.
+Hypothesis:  Toda a inovação atual de software é feita com base em software livre.
+
+Sample 848:
+Reference: A verdade é que não me lembro disso e fiquei muito surpreso.
+Hypothesis:  A verdade é que não me lembro disso e fiquei muito surpreso.
+
+Sample 849:
+Reference: O envio falhou!
+Hypothesis:  O envio foi ou.
+
+Sample 850:
+Reference: Era domingo.
+Hypothesis:  Era domingo.
+
+Sample 851:
+Reference: Marcelo não abriu seu caderno nem seu notebook.
+Hypothesis:  Marcelo não abriu seu caderno nem seu notebook.
+
+Sample 852:
+Reference: Você poderia nos dar uma chance?
+Hypothesis:  Você poderia nos dar uma chance?
+
+Sample 853:
+Reference: O dos oficiais também não é ilimitado.
+Hypothesis:  O dos oficiais também não é ilimitado.
+
+Sample 854:
+Reference: Há, sim, buscas dispersas e desiguais no valor de suas contribuições.
+Hypothesis:  Assim, busca as dispersas e desiguais no valor de suas contribuições.
+
+Sample 855:
+Reference: Guantánamo
+Hypothesis:  Não tentei mais.
+
+Sample 856:
+Reference: Tem certeza que não há erro?
+Hypothesis:  Tem certeza que não é erro?
+
+Sample 857:
+Reference: A constituição de seu apartamento não era ideal.
+Hypothesis:  A constituição de seu apartamento é uma ideia.
+
+Sample 858:
+Reference: Almir Dias de Almeida
+Hypothesis:  Ameia-te a este ameida.
+
+Sample 859:
+Reference: A inovação é a oportunidade para Taiwan sobreviver no futuro.
+Hypothesis:  A inovação é a oportunidade para Taiwans sobreviver no futuro.
+
+Sample 860:
+Reference: Frei Gaspar
+Hypothesis:  Frega-spa.
+
+Sample 861:
+Reference: O lábaro que ostentas estrelado
+Hypothesis:  Olá, Baro, que ostentas estrelado.
+
+Sample 862:
+Reference: Movimentos Continentais
+Hypothesis:  movimentos continuentais.
+
+Sample 863:
+Reference: Eu vejo que bens e males são igualmente distribuídos no mundo.
+Hypothesis:  Eu vejo que dens e males são igualmente distribuídos no mundo.
+
+Sample 864:
+Reference: Um menino loiro pula de uma cama para outra.
+Hypothesis:  O menino loiro pula a te machuma para o outro.
+
+Sample 865:
+Reference: Os presságios me levaram a uma perseguição selvagem.
+Hypothesis:  Os pressagens me levaram a uma perseguição seuagem.
+
+Sample 866:
+Reference: Vulcão em erupção nas Canárias
+Hypothesis:  O carro é o opção dos canários.
+
+Sample 867:
+Reference: Essa é a realidade.
+Hypothesis:  Essa é a realidade.
+
+Sample 868:
+Reference: Os catalisadores possibilitam reações químicas em baixas temperaturas.
+Hypothesis:  Os catalizadores possibilitam reações químicas em baixas temperaturas.
+
+Sample 869:
+Reference: Laranjal Paulista
+Hypothesis:  Látersiao, Paulista.
+
+Sample 870:
+Reference: Três pessoas estão do lado de fora de um barraco do gueto.
+Hypothesis:  3 pessoas estão do lado de fora de um barraco do Guido.
+
+Sample 871:
+Reference: Ao invés de sair, resolvemos ficar em casa.
+Hypothesis:  A investigação é de que o governo fica na casa.
+
+Sample 872:
+Reference: Carlos Celson Mendes Monteiro
+Hypothesis:  Carlos Celso Mendes Monteiro
+
+Sample 873:
+Reference: Finalmente, existem políticas de cluster que servem para fortalecer a competitividade global.
+Hypothesis:  Finalmente, existem políticas de cluster que servem para fortalecer competitividade global.
+
+Sample 874:
+Reference: Que tipo de aparição é essa?
+Hypothesis:  O que tipo de apareção é essa?
+
+Sample 875:
+Reference: Encantamento da lua
+Hypothesis:  Encantamento da Lua.
+
+Sample 876:
+Reference: Não é uma palavra de verdade!
+Hypothesis:  Não é uma palavra de verdade.
+
+Sample 877:
+Reference: Aquele que não tem confiança nos outros, não lhes pode ganhar a confiança.
+Hypothesis:  Aquele que não tem confiança nas outros não lhes pode ganhar confiança.
+
+Sample 878:
+Reference: O trole urbano de uma cidade em um dia ensolarado.
+Hypothesis:  O trolho urbano de uma cidade em um dia ensolarado.
+
+Sample 879:
+Reference: Oh não, meu coelho desapareceu de sua gaiola!
+Hypothesis:  Oh, não! O colho desapareceu de sua gaiola.
+
+Sample 880:
+Reference: Três crianças que jogam a corda de salto na grama entre as árvores.
+Hypothesis:  3 crianças que jogam a corda de salto na grama em 3 árvores.
+
+Sample 881:
+Reference: Foi um processo como outro; Apenas a qualidade dos litigantes diferia.
+Hypothesis:  Foi um processo como outro apenas a qualidade dos litigantes de feria.
+
+Sample 882:
+Reference: Como um empreendedor
+Hypothesis:  Como um empreendedor.
+
+Sample 883:
+Reference: O proletariado agrícola britânico
+Hypothesis:  O proletariado agrícolo britânico.
+
+Sample 884:
+Reference: Nas federações, as disposições do artigo anterior serão aplicadas a elas.
+Hypothesis:  Nas federações, as disposições do artigo anterior são aplicadas aéons.
+
+Sample 885:
+Reference: Um jarro vai frequentemente para o poço?, mas é finalmente quebrado
+Hypothesis:  Um jarro vai frequentemente para o pôso, mas é finalmente quebrado.
+
+Sample 886:
+Reference: Finalmente, as bancadas são selecionadas, classificadas, embaladas e paletizadas.
+Hypothesis:  Finalmente, as bancadas são soasionárias, classificadas, embaladas e paletizadas.
+
+Sample 887:
+Reference: Alessandro Gomes de Oliveira
+Hypothesis:  Alessandro como estileteira.
+
+Sample 888:
+Reference: Não há uma resposta única e simples.
+Hypothesis:  Não há uma resposta única e simples.
+
+Sample 889:
+Reference: Gritando, não me mate
+Hypothesis:  gritando na um imati
+
+Sample 890:
+Reference: O que não pode ser, não pode ser, e além disso é impossível.
+Hypothesis:  Não pode ser, não pode ser. E além disso, é impossível.
+
+Sample 891:
+Reference: Não importa se ele é culpado.
+Hypothesis:  Não importa se é culpado.
+
+Sample 892:
+Reference: O leitor só precisa saber o que faz.
+Hypothesis:  Leitou e só preze a saber o que faço.
+
+Sample 893:
+Reference: No caso de usar fontes próprias, o título concessional deve ser certificado.
+Hypothesis:  No caso de usar fontes próprias, o título concessional deve ser certificado.
+
+Sample 894:
+Reference: Guarani de Goiás
+Hypothesis:  Quara nir de goias.
+
+Sample 895:
+Reference: Bebedouro
+Hypothesis:  Bebe douro!
+
+Sample 896:
+Reference: As reivindicações, se aplicáveis, serão direcionadas ao diretor da escola de idiomas oficial correspondente.
+Hypothesis:  As reivindicações se aplicáveis serão direcionadas ao diretor da escola de idiomas oficial correspondente.
+
+Sample 897:
+Reference: Apaziguou os ânimos em certa feita
+Hypothesis:  Após de gol os ânimos, em certa feita.
+
+Sample 898:
+Reference: De acordo com a receita, precisamos de mostarda leve.
+Hypothesis:  De acordo com a receita, precisamos de mostrar da leve.
+
+Sample 899:
+Reference: Nós a aconselhamos a sair e tomar banho de sol
+Hypothesis:  Nós aconselhamos a seguir, tomar um de soco.
+
+Sample 900:
+Reference: Palácio da Justiça
+Hypothesis:  Palácio da R$1.
+
+Sample 901:
+Reference: Capelão eu agradeço
+Hypothesis:  Capelão, eu agradeço.
+
+Sample 902:
+Reference: A Lígia mora no Recanto das Emas e trabalha no Guará.
+Hypothesis:  A lígia mora no recanto das hemas e trabalha no guará.
+
+Sample 903:
+Reference: Itaara
+Hypothesis:  E ta ara!
+
+Sample 904:
+Reference: Nós viemos da Lagoa.
+Hypothesis:  Nós viemos da água.
+
+Sample 905:
+Reference: Em resumo, a sociedade civil espera que suas instituições públicas estejam do seu lado.
+Hypothesis:  Em resumo, a sociedade se viu, espera que suas instituições públicas estejam do seu lado.
+
+Sample 906:
+Reference: Várias normas da hierarquia reguladora especificam essas lições, seus currículos e sua avaliação.
+Hypothesis:  Várias normas da hierarquia reguladora especificam nessas reções. Sos currículos e sua avaliação.
+
+Sample 907:
+Reference: Todo cachorro tem seu aniversário.
+Hypothesis:  Tonto, cachorro, tensa o universo.
+
+Sample 908:
+Reference: Posso te ajudar?
+Hypothesis:  Posso te ajudar?
+
+Sample 909:
+Reference: Taguaí
+Hypothesis:  Tá, guei.
+
+Sample 910:
+Reference: O que eu faço agora para me classificar?
+Hypothesis:  O que eu faço agora para me clasificar?
+
+Sample 911:
+Reference: Como está sua sobrinha?
+Hypothesis:  Como está a sua sobrinha?
+
+Sample 912:
+Reference: Mas em países onde a soberania é dividida, nem sempre é esse o caso.
+Hypothesis:  Mas em países onde a soberania é dividida, nem sempre é esse o caso.
+
+Sample 913:
+Reference: O velho tem sinal suficiente, o jovem precisa de todo o seu pessoal.
+Hypothesis:  O velho tem sinal suficiente, o jovem precisa de todo o seu pessoal.
+
+Sample 914:
+Reference: Santana do Cariri
+Hypothesis:  Santa Ana do Carerí.
+
+Sample 915:
+Reference: Mulheres e seus filhos no parque
+Hypothesis:  Mulheres e seus filhos no parque.
+
+Sample 916:
+Reference: tecnologia habilitada para voz
+Hypothesis:  tecnologia, abri para a voz.
+
+Sample 917:
+Reference: Tente você mesmo primeiro.
+Hypothesis:  Tente você mesmo primeiro.
+
+Sample 918:
+Reference: É melhor cuspir sapatos do que lençóis.
+Hypothesis:  É na Iocos que assapatos do que ele em sois.
+
+Sample 919:
+Reference: O almoço descansou; o jantar andou.
+Hypothesis:  Ou um monço descansou, o jantar um dobro.
+
+Sample 920:
+Reference: Um menino carregando dois vegetais verdes.
+Hypothesis:  Um menino carregando dois vegetais verdes.
+
+Sample 921:
+Reference: Às vezes somos um pouco derrotistas.
+Hypothesis:  As versões um pouco de rotistas.
+
+Sample 922:
+Reference: Contribuir com o projeto do Common Voice me dá prazer
+Hypothesis:  Contribuir com o projeto do Comon Voice, me dá prazer.
+
+Sample 923:
+Reference: Não acho.
+Hypothesis:  Não acho.
+
+Sample 924:
+Reference: aquelas nuvens escuras que cobrem o azul como um crepe funéreo
+Hypothesis:  Aquelas nuvens escuras que cobrem o azul como um trepifonério.
+
+Sample 925:
+Reference: Um homem em um terno de negócio andando na calçada.
+Hypothesis:  Um homem em um termo de negócio andando na calçada.
+
+Sample 926:
+Reference: Dá-me dinheiro, que dicas não vinculam.
+Hypothesis:  Dá a medinheiro, que dicas não vinculam.
+
+Sample 927:
+Reference: Como poderia ser estranho?
+Hypothesis:  Como poderia ser estranho?
+
+Sample 928:
+Reference: Por que o ônibus está atrasado?
+Hypothesis:  Por que o ônibus está atrasado?
+
+Sample 929:
+Reference: Santa Cecília
+Hypothesis:  Sampa, se se...
+
+Sample 930:
+Reference: Cinco!
+Hypothesis:  5
+
+Sample 931:
+Reference: Ele foi acusado de hackear o sistema de um banco.
+Hypothesis:  Ele foi acusado de raquero sistema de um banco.
+
+Sample 932:
+Reference: Estes dois passam cada dia ao mesmo tempo.
+Hypothesis:  Estes dois passam cada dia ao mesmo tempo.
+
+Sample 933:
+Reference: As experiências relatadas vão do Vale do Jequitinhonha ao Norte e Sul do país.
+Hypothesis:  As experiências relatadas vão do Vale do Jekithinônia ao norte e sul do país.
+
+Sample 934:
+Reference: Para o Candlestick, o dia avança uma hora inteira.
+Hypothesis:  Para o candlestick, o dia avançou uma hora inteira.
+
+Sample 935:
+Reference: Adrianópolis
+Hypothesis:  Adriano Apulhez
+
+Sample 936:
+Reference: É um quarto de dois.
+Hypothesis:  É um quarto de dois.
+
+Sample 937:
+Reference: Um cordão rígido serve para prender o sapato.
+Hypothesis:  Um cordão rígido serve para aprender o sapato.
+
+Sample 938:
+Reference: Águia Branca
+Hypothesis:  Aguia Branca.
+
+Sample 939:
+Reference: Conhaque de vinho ruim
+Hypothesis:  Gonyak de Vinho Rui
+
+Sample 940:
+Reference: Um policial chinês em pé na frente de sua estação.
+Hypothesis:  Um policial chinês em pé na frente de sua estação.
+
+Sample 941:
+Reference: Caminhou três quilômetros até chegar
+Hypothesis:  Com 1,3 km da tais queda.
+
+Sample 942:
+Reference: Quando o ônibus passará?
+Hypothesis:  Quando o On dos passará?
+
+Sample 943:
+Reference: Antônia Vieira de Sales
+Hypothesis:  Não estou anivir a desales.
+
+Sample 944:
+Reference: conciso
+Hypothesis:  Conciso.
+
+Sample 945:
+Reference: Um jovem rapaz de camisa vermelha entra em uma rua de terra.
+Hypothesis:  Um jovem rapar de camisa vermelha entre em uma rua de terra.
+
+Sample 946:
+Reference: Ele é grato.
+Hypothesis:  Ele é gratu.
+
+Sample 947:
+Reference: Carnaubeira da Penha
+Hypothesis:  Carnau Beira da Pinha.
+
+Sample 948:
+Reference: Arlindo Souza Tunes
+Hypothesis:  Arlim do Souza Tunis.
+
+Sample 949:
+Reference: Vamos ver isso
+Hypothesis:  Vamos abrir isso.
+
+Sample 950:
+Reference: O gás hidrogênio escapou.
+Hypothesis:  O gás do grungeiro de escapou.
+
+Sample 951:
+Reference: Muitos mentem na cabeça dos outros.
+Hypothesis:  Muitos mê tem na cabeça dos outros.
+
+Sample 952:
+Reference: O rebanho de muitos, o lobo come.
+Hypothesis:  O rebanho de muitos, o lobo come.
+
+Sample 953:
+Reference: o trabalho dos social-democratas, orientado contra o populismo
+Hypothesis:  O trabalho do social democrático é linda, muito populista.
+
+Sample 954:
+Reference: Uma senhora explicando com as mãos que era tão grande.
+Hypothesis:  O maior explicando com as mãos que era tão grande.
+
+Sample 955:
+Reference: Oh? Eu sei disso!
+Hypothesis:  Ah, eu sei disso.
+
+Sample 956:
+Reference: Notícias de São Petersburgo
+Hypothesis:  notícias de São Peters de Curro.
+
+Sample 957:
+Reference: Nova Palmeira
+Hypothesis:  Nova Palmeira.
+
+Sample 958:
+Reference: Casamento de maio, curta duração.
+Hypothesis:  Casamento de maio, curta duração.
+
+Sample 959:
+Reference: Eu não me importo com qual foto eles estão publicando.
+Hypothesis:  Eu não me importo com qual foto eles estão publicando.
+
+Sample 960:
+Reference: uma mulher segura seus dois filhos no meio da multidão.
+Hypothesis:  Uma mulher segura seus desfilhos no meio da multidão.
+
+Sample 961:
+Reference: Trabalhadores que estão em uma almofada de arroz.
+Hypothesis:  Trabalhadores que estão em uma homofada de arroz.
+
+Sample 962:
+Reference: Será necessário contribuir junto com a relação, os certificados emitidos pela Administração correspondente.
+Hypothesis:  Será necessário contribuir junto com a relação, o certificado e metido pela administração correspondente.
+
+Sample 963:
+Reference: Trabalho Assalariado e Capital
+Hypothesis:  Trabalha salariado e captar.
+
+Sample 964:
+Reference: Tudo o que eles pensam é comida e água.
+Hypothesis:  Tudo o que eles pensam é comida e água.
+
+Sample 965:
+Reference: Wanderlei Gomes Paulino
+Hypothesis:  Van derlei, Gomes Paulino.
+
+Sample 966:
+Reference: Ria e o mundo ri com você. Chore e chore sozinho.
+Hypothesis:  Aqui o mundo hico você, chari, chari, chari, sonho, e...
+
+Sample 967:
+Reference: Tanabi
+Hypothesis:  Tá, não.
+
+Sample 968:
+Reference: Ele me disse que eu deveria tentar fazer isso.
+Hypothesis:  Ele me disse que eu deveria tentar fazer isso.
+
+Sample 969:
+Reference: Se você a tivesse visto três dias antes, teria sido infectada também.
+Hypothesis:  Se você ativesse visto três dias antes, teria sido infectada também.
+
+Sample 970:
+Reference: Barretos
+Hypothesis:  Barrritos
+
+Sample 971:
+Reference: Você está exigindo seus direitos.
+Hypothesis:  Você exige em seus gilhinhos.
+
+Sample 972:
+Reference: Felizmente não é assim.
+Hypothesis:  Felizmente não é assim.
+
+Sample 973:
+Reference: Nova Cruz
+Hypothesis:  Nova cruz.
+
+Sample 974:
+Reference: Clarice, Catarina, Mírian e Mara
+Hypothesis:  Clarice, Catarina, Miriam e Mara.
+
+Sample 975:
+Reference: O sol fluirá novamente e a serra reverberará os campos.
+Hypothesis:  O Sol fluirá novamente e a Serra reverberará os campos.
+
+Sample 976:
+Reference: É um clube privado, apenas para as pessoas mais respeitáveis.
+Hypothesis:  É um clube privado apenas para as pessoas mais respeitáveis.
+
+Sample 977:
+Reference: Encontre os horários dos filmes no Bow Tie Cinemas.
+Hypothesis:  Encontre os horários dos filmes no Boltais Cinemas.
+
+Sample 978:
+Reference: O velho marinheiro sorriu triunfante.
+Hypothesis:  O velho marinheiro sorreutriam fante.
+
+Sample 979:
+Reference: Duas pessoas conversando em uma doca.
+Hypothesis:  Tu as pessoas conversando em uma doca.
+
+Sample 980:
+Reference: Guaxinins são mamíferos também.
+Hypothesis:  O Ashnín são mamíferos também.
+
+Sample 981:
+Reference: Uma menina montando um pônei com tranças e arcos-de-rosa
+Hypothesis:  Uma menina montando um pônei com transas e arcos de rosa.
+
+Sample 982:
+Reference: O fogão é branco.
+Hypothesis:  O fogo não é branco.
+
+Sample 983:
+Reference: Deslize a caixa para esse espaço vazio.
+Hypothesis:  Desvize a caixa para esse espaço vazio.
+
+Sample 984:
+Reference: Ela vem naturalmente.
+Hypothesis:  Ela vem naturalmente.
+
+Sample 985:
+Reference: Anselma Angelo dos Santos
+Hypothesis:  A selma de libos financeiros.
+
+Sample 986:
+Reference: Caturaí
+Hypothesis:  Catturaí.
+
+Sample 987:
+Reference: Este homem é seu irmão?
+Hypothesis:  Isto é uma emissão.
+
+Sample 988:
+Reference: A derrota de sete a um foi gravada na mente coletiva nacional.
+Hypothesis:  A derrota de 7 é um foi gravada na mente coletiva nacional.
+
+Sample 989:
+Reference: Willian Leite de Oliveira
+Hypothesis:  William Leigh-Jonevira.
+
+Sample 990:
+Reference: Nossa galáxia, a Via Láctea, aparentemente contém matéria escura.
+Hypothesis:  Nossa galáxia havia láctea, aparentemente, contei matéria escura.
+
+Sample 991:
+Reference: Passos Maia
+Hypothesis:  Passos maia.
+
+Sample 992:
+Reference: Os cachorros do Estado costumam ser um pouco ignorantes
+Hypothesis:  Os cachorros do estado costumam ser um pouco ignorantes.
+
+Sample 993:
+Reference: Clarismundo Silva dos Santos
+Hypothesis:  Clares Mundo Silva, 200
+
+Sample 994:
+Reference: Pela catedral da igreja, como os pais foram, os filhos serão.
+Hypothesis:  Pila Cathedral da Igreja, como os pais furam, os filhos serão.
+
+Sample 995:
+Reference: Um jogador de beisebol sentado em um tubo com uma mancha no joelho.
+Hypothesis:  Um jogador de gensbol sentado em um tubo com uma mancha no joelho.
+
+Sample 996:
+Reference: O homem está caindo de uma corda balançando em um rio calmo.
+Hypothesis:  O homem está caindo de uma corda balançando e um rio calmo.
+
+Sample 997:
+Reference: Roubando Peter para pagar Paul
+Hypothesis:  Cobando o biter para pagar o ombro.
+
+Sample 998:
+Reference: Eu não estou com pressa
+Hypothesis:  Eu não estou com pressa.
+
+Sample 999:
+Reference: Antes de Santa Caterina, não esmague a azeitona.
+Hypothesis:  Antes de Santa Caterina, não smague as aitona.
+
+Sample 1000:
+Reference: Colocar gema de ovo é opcional.
+Hypothesis:  Colocar Gima de Ovo é opcional.
+

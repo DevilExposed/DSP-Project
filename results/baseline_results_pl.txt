@@ -1,0 +1,4002 @@
+Word Error Rate (WER) for pl: 46.19726%
+
+Sample 1:
+Reference: — Przypuszczenie twoje — rzekł — ma dużo cech prawdopodobieństwa.
+Hypothesis:  Przepuszczenie twoje, że ma dużo cech prawdopodobieństwa.
+
+Sample 2:
+Reference: Celem wniosku jest zmniejszenie administracyjnego obciążenia w przedsiębiorstwach związanych z żywnością
+Hypothesis:  Co nam wniosku jest zmniejszenie administracyjnej, no by obciążenia, a w przedsiębiorstw w chłolskim zdaniem z żywnością.
+
+Sample 3:
+Reference: "Miło nam dodać, że obecnie cieszy się dobrem zdrowiem."
+Hypothesis:  Miłonem dodać, że obecnie cieszę się dobrym zdrowym.
+
+Sample 4:
+Reference: "Po tych słowach klapa zamknęła się na nowo i nastało głuche milczenie."
+Hypothesis:  Po tych słowach Klappa zamknęła się na nowo i na stałą głochem dczanie.
+
+Sample 5:
+Reference: — Jeżeli pani będzie w towarzystwie przez cały czas trwania podróży…
+Hypothesis:  Jeżeli pani będzie w towarzystwie przez cały czas trwania podróży.
+
+Sample 6:
+Reference: Spośród-wniosków Rady chciałabym wyróżnić wagę zasady swobodnego przepływu wiedzy w Unii Europejskiej
+Hypothesis:  W spośród wniosków rady chciałabym wyróżnić waga zasady swobodnego przepływu wiedzy w Unii Europejskiej.
+
+Sample 7:
+Reference: "Mistrz spojrzał na nich z zadowoleniem."
+Hypothesis:  Mistrz spojrzał na nich z zadowoleniem.
+
+Sample 8:
+Reference: jak pogodzić utrzymanie bioróżnorodności z intensywnym rozwojem infrastrukturalnym i gospodarczym?
+Hypothesis:  Jak pogodzić utrzymanie bioróżnorodności z intensywnym rozwają infrastrukturalnym i gospodarczym?
+
+Sample 9:
+Reference: — Dziwny przypadek — powiedział poprzez wiatr Emil.
+Hypothesis:  Dziwny przypadek powiedział poprzez wiatr Emin.
+
+Sample 10:
+Reference: Od kiedy on jest taki wypicowany?
+Hypothesis:  Odkier do niej jest taki wypicowany.
+
+Sample 11:
+Reference: Ale on cię kocha.
+Hypothesis:  Oni Ciekocha.
+
+Sample 12:
+Reference: Zostaje coraz mniej możliwości, szans.
+Hypothesis:  Zostaje coraz mniej możliwości, szans.
+
+Sample 13:
+Reference: Zgromadzenie Ogólne proklamuje niniejszą Deklarację praw dziecka.
+Hypothesis:  Zklamadzenie ogólne proklamuje niej szodeklarację upraw dziecka.
+
+Sample 14:
+Reference: On wszedł w nią całkiem i ona odczuwała go, jak psy chiczny płód.
+Hypothesis:  On odczuwał od ruchu, jak psy chiczny płód.
+
+Sample 15:
+Reference: A może nie czekać.
+Hypothesis:  A może nie czekać?
+
+Sample 16:
+Reference: Czy Komisja przygotuje następnie sprawozdanie z procesu wdrażania przepisów tego rozporządzenia w państwach członkowskich?
+Hypothesis:  Czy Komisja przygotuje następnie z prawa zdanie z procesu w trażania przepisów tego rozporządzenia w państwach członkowskich?
+
+Sample 17:
+Reference: Wiesz zresztą, że tu niema żadnych osad ani misji.
+Hypothesis:  Wiesz, że to, że tu nie ma żadnych osób ani nicji.
+
+Sample 18:
+Reference: Tak więc ciemną nocą, kiedy mieszkańcy fortu posnęli, Biały Kieł zębami spróbował kij.
+Hypothesis:  Tak więc ciemną nocą kiedy mieszkańcy fortu posnęli białok jełzebami spróbował kii.
+
+Sample 19:
+Reference: Gdy wziął pocisk do ręki, wydał mu się on strasznie ciężki.
+Hypothesis:  Wydaje się podziś staryki, wydam mu się strasznie ciężki.
+
+Sample 20:
+Reference: Rozstawione daleko od siebie.
+Hypothesis:  Rostawiony daleko w siebie.
+
+Sample 21:
+Reference: Dlatego potrzebujemy jasnego procesu decyzyjnego
+Hypothesis:  Dlatego potrzebujemy jasnego procesu decyzji.
+
+Sample 22:
+Reference: "„Inny świat... inny świat!.."
+Hypothesis:  I mny świat.
+
+Sample 23:
+Reference: Nie miała zapewne nic do powiedzenia.
+Hypothesis:  Nie miałem za pewność z te powietania.
+
+Sample 24:
+Reference: "Wspomniałem o tem twojemu ojcu."
+Hypothesis:  Spąknie ale mnie to nie ma.
+
+Sample 25:
+Reference: Ale nie smuci mnie to.
+Hypothesis:  Ale niesmucimy to.
+
+Sample 26:
+Reference: Ćwicz dalej!
+Hypothesis:  Trzycz doling.
+
+Sample 27:
+Reference: Z początku nie mógł tam trafić, bo ja nic nie robiłam, aby mu ułatwić.
+Hypothesis:  Z początku nie mógł tam trafić, bo ja nic nie robiłam, a bym ułatwić.
+
+Sample 28:
+Reference: "Lecz pozostając, czy nie przeszkodzę twojej przechadzce?"
+Hypothesis:  Lecz pozostając czy nie przeszkocam twojej przechodzę?
+
+Sample 29:
+Reference: Jest to następne zadanie dla Komisji
+Hypothesis:  Jest to następne zadanie dla komisji.
+
+Sample 30:
+Reference: Wziąłem teczkę, uporządkowałem papiery i poszedłem.
+Hypothesis:  Wziąłem tęczkę, porządkowałem papiary i poszedłem.
+
+Sample 31:
+Reference: — Należało wcześniej pomyśleć o tym!
+Hypothesis:  Należało wcześniej pomyśledzi o tym.
+
+Sample 32:
+Reference: Taka boska siła tworząca coś z niczego.
+Hypothesis:  Taka boska siła tworząca coś z niczego.
+
+Sample 33:
+Reference: Nie wrócę do domu.
+Hypothesis:  Nie wrócę do domu.
+
+Sample 34:
+Reference: "Dalibóg, dobry koncept!"
+Hypothesis:  Dali Bóg dobry koncepty.
+
+Sample 35:
+Reference: Wraz ze wzmocnieniem Eurojustu zwiększą się również prerogatywy przedstawicieli krajowych
+Hypothesis:  Wraz z wzmocyniem eurojustu zwiększa się również prerogatywy przedstawicieli krajowych.
+
+Sample 36:
+Reference: Zgadza się pan?
+Hypothesis:  Zgadza się pan.
+
+Sample 37:
+Reference: "Wązki korytarz był natłoczony po brzegi."
+Hypothesis:  Pomski korytasz był na tłoczone po brzegi.
+
+Sample 38:
+Reference: Żyją naturalnie i — być może — lepiej od mężczyzn.
+Hypothesis:  Żyją naturalnie i być może lepiej od mężczyzn.
+
+Sample 39:
+Reference: Drgnął jeszcze raz.
+Hypothesis:  Drgno ujeżdżę raz.
+
+Sample 40:
+Reference: Wyżarła — wyznał z westchnieniem jednoręki.
+Hypothesis:  Wyżarła, wyznał w westynie biednorynki.
+
+Sample 41:
+Reference: W Unii Europejskiej idzie o konkurencję, ale również o spójność i solidarność
+Hypothesis:  Unij europejskiej i dzieło konkurencja, ale również o spójność i solidarności.
+
+Sample 42:
+Reference: Trzecim przepisem, który muszę podać, jest płukanie pewnego mojego znajomego dentysty.
+Hypothesis:  Trzecim przepisom, który muszą podać jest wbukanie pewnego mojego zdaniemnego dęczysty.
+
+Sample 43:
+Reference: Ładnie wyglądasz.
+Hypothesis:  Ładnie wyglądasz.
+
+Sample 44:
+Reference: — Czy tylko nie bujasz?
+Hypothesis:  Czy tylko nie bojasz?
+
+Sample 45:
+Reference: Wrzask nieludzki zagłuszył ostatnie słowa.
+Hypothesis:  Zachłek nie ludz załóżył ostatni słowa.
+
+Sample 46:
+Reference: — A teraz poślij no kogo, by mi kupił materiału na turban.
+Hypothesis:  A teraz poślij na kogo by nie kupił materiału na Turban.
+
+Sample 47:
+Reference: Z teczkami pod pachą, rozmawiali o przeczytanych książ kach.
+Hypothesis:  Z teczkami pod pachą rozmawiali o przeczytanych książkach.
+
+Sample 48:
+Reference: W powrotnej drodze wstąpiłem tutaj, by się dowiedzieć, co słychać.
+Hypothesis:  W ogóle w tym radze z kampijem dotarali by się wyjdzieś. To stójacz.
+
+Sample 49:
+Reference: Z sonatą B-mol męczę się potwornie.
+Hypothesis:  Są na tą B-Mole, męczą się potwornie.
+
+Sample 50:
+Reference: Ciąża byłaby dla Stelli prawdziwą katastrofą.
+Hypothesis:  Ciążę byłaby z telli i prawdziłym katastrofon.
+
+Sample 51:
+Reference: "Wokulski podał to klaczy, która bez namysłu zjadła."
+Hypothesis:  W okulski pod autoklacy, która beznamy suzjadła.
+
+Sample 52:
+Reference: Nazwisko.
+Hypothesis:  Nasbisko.
+
+Sample 53:
+Reference: — Ruszaj natychmiast! — brzmiała gniewna odpowiedź.
+Hypothesis:  Ruszal na tych miast brzmiama gniewna odpowiedź.
+
+Sample 54:
+Reference: "Zamykam się w moim pokoju..."
+Hypothesis:  Zamykamy się, że my...
+
+Sample 55:
+Reference: Pewnego razu spotkał Anię.
+Hypothesis:  Wnego razu spotkowaniu.
+
+Sample 56:
+Reference: Chciałem to wyłączyć.
+Hypothesis:  Ciałem to wyłączyć.
+
+Sample 57:
+Reference: Lecz sen nie spływał na powieki od jego pieśni monotonnej.
+Hypothesis:  Lecz Sen nie spływał napowiki od jego pietni monotomnej.
+
+Sample 58:
+Reference: Dlatego jakiekolwiek zmiany w tej materii byłyby przedwczesne
+Hypothesis:  Dlatego jakiekolwiek zmiany w tej materii byłyby przedwczesne.
+
+Sample 59:
+Reference: "Rozdzierającem serce było pożegnanie jego z ukochaną dziewicą."
+Hypothesis:  Rozdzierającem serca było pożegnanie jego ukochanu dziewiców.
+
+Sample 60:
+Reference: Chciałbym tylko podzielić się dwoma lub trzema krótkimi uwagami
+Hypothesis:  Chciałbym tylko podzielić się 2 malu przymykrotkimi uwagami.
+
+Sample 61:
+Reference: Konserwatyści brytyjscy popierają likwidację różnic płacowych i innych form dyskryminacji ze względu na płeć
+Hypothesis:  Konserwatyści Bruteisty popierają u kwidacja różnych spłacowych i innych form dyskryminacji ze względu na poeć.
+
+Sample 62:
+Reference: Posprzątałem dom i odkurzyłem podłogi.
+Hypothesis:  Posłontałem dom i odkurzyłem podłogi.
+
+Sample 63:
+Reference: - Zawsze był głupim psem - wtrącił Bill.
+Hypothesis:  Zawsze był głupim sam wstrącił bil.
+
+Sample 64:
+Reference: Stanąłem o parę kroków przed nim i zacząłem go usypiać.
+Hypothesis:  Ztanowiam parę kroków przed nim i zacząłem go usypiacie.
+
+Sample 65:
+Reference: Postaram się rzecz tę wyjaśnić nieco później.
+Hypothesis:  Postaram się rzecz. Te u wyjaśnij z nieco płyniej.
+
+Sample 66:
+Reference: Podczas kolacji, w sali jadalnej, było cicho, bo jedzono kurczęta; to wymagało skupienia.
+Hypothesis:  Podczas kolacji, w sali jadalnej było cicho, bo jedzono kurczęto. To wymagało skupienie.
+
+Sample 67:
+Reference: Alkohol był jedną z przyczyn kolizji.
+Hypothesis:  Alkochal był jedną z przyczyn kolizji.
+
+Sample 68:
+Reference: Tam widzę go każdego ranka…
+Hypothesis:  Mówię, tam widzę go każdego ranka.
+
+Sample 69:
+Reference: W ogóle lubię podróżować w milczeniu.
+Hypothesis:  W ogóle lubię podróżować umilczeniu.
+
+Sample 70:
+Reference: Wiedzą jej kochankowie.
+Hypothesis:  Wiedzą jej kochankowie.
+
+Sample 71:
+Reference: Na Rynku będzie można odwiedzić stragany z najróżniejszymi wyrobami
+Hypothesis:  Na rynku upędcie można odwiedzić strakany z najróżniejszymi wyrobani.
+
+Sample 72:
+Reference: "To jest główna jego wada; ale w ogóle jest to dobry chłopak."
+Hypothesis:  To jest główna jego wada, ale w ogóle jest to dobry chłopak.
+
+Sample 73:
+Reference: Po co ja się z nim w ogólę zadaję?
+Hypothesis:  Po co ja się z nim w ogóle zadaję.
+
+Sample 74:
+Reference: Zyskaliśmy na sile i wpływach, jesteśmy bogatsi i bardziej zróżnicowani
+Hypothesis:  Zaskaliśmy na chwilę i w pływach. Jesteśmy bogaci i bardziej zróżnicowani.
+
+Sample 75:
+Reference: Popieram konkurencyjny rynek części zamiennych
+Hypothesis:  Popieram konkurencyjny rynek części zamiennych.
+
+Sample 76:
+Reference: Nagle odwróciła się i skierowała kroki ku drzwiom.
+Hypothesis:  Na gdzie odwróciła się i skrewała kroki kudwila.
+
+Sample 77:
+Reference: - W jej oczach ukazały się wesołe błyski.
+Hypothesis:  Wiej boczach ukazały się wesowa błyski.
+
+Sample 78:
+Reference: skąd mamy uzyskać dochód, który pozwoli nam wyjść z kryzysu?
+Hypothesis:  Strządu mamy uzyskać dochód, który pozwoli nam wyjść z tle zesu.
+
+Sample 79:
+Reference: Prosi nas pan o pomoc w osiągnięciu konsensusu
+Hypothesis:  Piosz i nasz pan opomoz 8 ljęciu konsensusu.
+
+Sample 80:
+Reference: To nie były nogi żywej dziewczyny.
+Hypothesis:  To nie były nogi żywej dziewczyny.
+
+Sample 81:
+Reference: Bo i tak jest zaiste.
+Hypothesis:  Bo i tak jest za istnie.
+
+Sample 82:
+Reference: Żeby uniknąć zatorów drogowych, Rada Miasta wprowadziła również dodatkowe, bezpłatne przejazdy autobusowe.
+Hypothesis:  Żeby uniknąć zatorów drugowych, radę miasta wprowadziła również rzadkowe, bezpłatne przejazdę autobusowe.
+
+Sample 83:
+Reference: Jest to ludność szczególnie wrażliwa, zagrożone kobiety, dzieci i nieletni bez opieki
+Hypothesis:  Jest ta ludność szczególnie wrażliwa zagrożone kobiety, dzieci i nieletni bez apieki.
+
+Sample 84:
+Reference: Ładny indyk, nie ma co mówić.
+Hypothesis:  Odnę indyk. Je ma co mówić.
+
+Sample 85:
+Reference: I to również byłoby nieszczęściem.
+Hypothesis:  I to również byłoby nieszczęściem.
+
+Sample 86:
+Reference: — Jak tu mało zieleni! — rzekłem tonem skargi.
+Hypothesis:  Jak tu ma ozieleni, że kłym tonem skargii.
+
+Sample 87:
+Reference: Cynamonki w Kofikadzie to prawdziwy hit, zapraszam na nie wszystkich znajomych.
+Hypothesis:  Cynamonki w Kofika, gdzie to prawdziwy hit. Zapraszam dla nie wszystkich znajomych.
+
+Sample 88:
+Reference: Powiem Panu, że musimy być bardzo ostrożni
+Hypothesis:  Powiem panu, że myśmy być bardzo ostrożni.
+
+Sample 89:
+Reference: Marzeniem jego było polować kiedyś na wielkie zwierzęta w Afryce środkowej.
+Hypothesis:  Marzeniem Jego było polować kiedyś na wielkie zbierzam tafk w ryce środkowej.
+
+Sample 90:
+Reference: Usiadłyśmy w głównej nawie katedry.
+Hypothesis:  Usiadliśmy w głównej nawie Katadry.
+
+Sample 91:
+Reference: Śmiech i łopot serca.
+Hypothesis:  Śmiech i łopat serca.
+
+Sample 92:
+Reference: "Rozpoczęły wesołe igraszki i śpiewy."
+Hypothesis:  Rozpoczęłyby całej grafszki i śpiewę.
+
+Sample 93:
+Reference: Jeśli wiesz, co to znaczy... Lecz Zosiu kochana
+Hypothesis:  Jeśli wiesz, to to znaczy lecz z osił kochanal.
+
+Sample 94:
+Reference: Poza mną zapadły głucho w zamek ciężkie, dębowe drzwi…
+Hypothesis:  Poza mną zapadły guchow za mek ciężkie dębowe drzwi.
+
+Sample 95:
+Reference: Lecz ostrożność nie zawadzi.
+Hypothesis:  Lecz ostrożność nie zawadzi.
+
+Sample 96:
+Reference: Są to bardzo ważne działania
+Hypothesis:  Są to bardzo ważne działane.
+
+Sample 97:
+Reference: Słońce zaszło, zmierzch padł na rzekę i światła zaczęły się ukazywać wzdłuż brzegu
+Hypothesis:  Słońce zeszło z mieszkpadu na rzekę i światło zaczęły się ukazywać w dłuższy brzegu.
+
+Sample 98:
+Reference: Weź podejdź do okna i zobacz czy jego samochód nie stoi na dole.
+Hypothesis:  Weź podejdź do okna i zobacz, czy jego samochód nie stoi na dore.
+
+Sample 99:
+Reference: Równości Kobiet i Mężczyzn, aby zagwarantować jego pozytywne uruchomienie
+Hypothesis:  równość kobiet i noszczyst, aby zagwarantować jego pozytywne uruchomienie.
+
+Sample 100:
+Reference: "Czy kocham rodziców czy nie?"
+Hypothesis:  Czy kocom rodziców czy nie?
+
+Sample 101:
+Reference: — Pan uległ zapewne pomyłce.
+Hypothesis:  Pan ulegóza pewnie pomijuta.
+
+Sample 102:
+Reference: W lesie spoczniemy.
+Hypothesis:  Wyle się spoczniemy.
+
+Sample 103:
+Reference: W Europie stworzyliśmy zamożność tworząc bogactwo
+Hypothesis:  W Europie stworzyliśmy za możnań, tworzyłem z bogast.
+
+Sample 104:
+Reference: — Co mi dasz? Tamten odpowiada na serio i poważnie.
+Hypothesis:  Co mi dasz? Tam ten odpowiada na senjon i poważnie.
+
+Sample 105:
+Reference: "Konie ze stajen wywieść i wozy zaprzęgać!"
+Hypothesis:  Konie zostaję wywieźć i woz zaprzęgać.
+
+Sample 106:
+Reference: Z tego spotkania można było coś niecoś skorzystać.
+Hypothesis:  Z tego spotkania można było coś nieco się skorzystać.
+
+Sample 107:
+Reference: — Czy mogę dowiedzieć się bliższych szczegółów?
+Hypothesis:  Czy mogę dowiedzieć się bliższych szczegółów?
+
+Sample 108:
+Reference: I balon za nimi jak pies.
+Hypothesis:  i balon zanimijak pies
+
+Sample 109:
+Reference: Na ścianie mojej łodzi piszę wiersze-dokumenty.
+Hypothesis:  Na ścianie mojej łodzi pisze o wiersze dokumenty.
+
+Sample 110:
+Reference: Kocie łby.
+Hypothesis:  Kociełby.
+
+Sample 111:
+Reference: Otóż jakie, zdaniem pańskim, mogą być zamiary takiego psychicznego rekonesansu?
+Hypothesis:  Otóż jakie zdaniem pańskim mogą być zamiary takiego psychicznego rysonu.
+
+Sample 112:
+Reference: Dlatego ponownie dokonujemy oceny historycznych niedorzeczności i historycznych ograniczeń praktycznych, występujących dotychczas
+Hypothesis:  Dlatego ponownie dokonujemy o ceny historycznych, niedożeczności i historycznych, ograniczeń praktycznych występujących do tych czas.
+
+Sample 113:
+Reference: Zdawało się, że rzeczywistości nie ma.
+Hypothesis:  Zdawało się, że rzeczywistości nie ma.
+
+Sample 114:
+Reference: A jak nie, to on jeden.
+Hypothesis:  A jak nie to on jeden.
+
+Sample 115:
+Reference: Deszcz spływał jej strugami po twarzy.
+Hypothesis:  Desz tzływowi i studami potwarzy.
+
+Sample 116:
+Reference: Zwłaszcza jej epilog nad ranem…
+Hypothesis:  Zwłaszcza jej epiloknogranem.
+
+Sample 117:
+Reference: A teraz przypomniał sobie i zapragnął mieć blisko.
+Hypothesis:  A teraz przypomniał sobie i zapragną mieć blisko.
+
+Sample 118:
+Reference: "To byłoby głupie."
+Hypothesis:  To byłoby głupie.
+
+Sample 119:
+Reference: — Czy nie mógłbyś i ty chodzić do szkoły?
+Hypothesis:  Czy nie mógłbyś i Ty chodzić do szkoły?
+
+Sample 120:
+Reference: Przeważają wśród nich ludzie miejscowi.
+Hypothesis:  Przeważają wśród nich ludzie miejscowi.
+
+Sample 121:
+Reference: Mówisz dobrze po francusku, więc możesz pomagać w nauce młodszym dziewczynkom.
+Hypothesis:  Mówisz dobrze po francusku, więc możesz pomagać w nauce młodszym dziewczynku.
+
+Sample 122:
+Reference: Słyszałam, że jak już tam wejdziesz, to wychodzisz spłukany.
+Hypothesis:  Słyszałem, że jak już tam wejdziesz, to wychodzisz z pukany.
+
+Sample 123:
+Reference: Już zapomniałaś, jak ci wrona gniazdo uwiła na głowie?
+Hypothesis:  Już zapomniałeś jak Cifron Agnios dołowiła na głowie?
+
+Sample 124:
+Reference: Słowo daję, przynajmniej dobrze, żem ciebie spotkał.
+Hypothesis:  Słowodaję przynajmniej dobrze, żem ciebie spotka.
+
+Sample 125:
+Reference: Łaskawie przyjął ich spojrzenia i wyprostował się uroczyście.
+Hypothesis:  A skawie przyjął ich spężenia i wyprostalował uleczyście.
+
+Sample 126:
+Reference: Trzysta dolarów odrzekł.
+Hypothesis:  300 dolarów od rzeku.
+
+Sample 127:
+Reference: "Z dala już huczy gromkie trąbienie nadjeżdżającej straży ogniowej."
+Hypothesis:  Zdala już huczy gromkie trąbienie nadjeżdżającej straży ognowej.
+
+Sample 128:
+Reference: Niebezpieczny zakręt przed tobą
+Hypothesis:  Nie bestieczny w atem przez to woli.
+
+Sample 129:
+Reference: Ciągle tylko brzęczy i burczy, lub kwili i skamli.
+Hypothesis:  Ciągle tylko brzęcz jej buty lub chwili i sklami.
+
+Sample 130:
+Reference: Wieczorem wrzód pękł sam bez przecinania.
+Hypothesis:  Wieczorem w żód pęku sam bez przycinania.
+
+Sample 131:
+Reference: Dzisiaj zadaję sobie pytanie, co to właściwie oznacza, poza samymi słowami
+Hypothesis:  Dzisiaj zadaje sobie pytanie, co to właściwie oznacza poza samym i słowami.
+
+Sample 132:
+Reference: — Szmuglowane i niezdrowe na płuca!
+Hypothesis:  Szmuglowane i niezdrawena półca.
+
+Sample 133:
+Reference: Prawda: nie lubiłem Maciusia.
+Hypothesis:  Prawda, nie lubiłem, czusia.
+
+Sample 134:
+Reference: O niczym innym nie marzę, jak o powrocie do biura.
+Hypothesis:  Oni czym innym nie marzą, jak opowrocie do biura.
+
+Sample 135:
+Reference: Porzuciłem uniwersytet i zacząłem rozglądać się za płatną posadą.
+Hypothesis:  Pożyciłem uniwersytet i zacząłem rozkądać się za płatną posadą.
+
+Sample 136:
+Reference: Niby uboga, a trzyma w ręku iPhone'a.
+Hypothesis:  Nie by uboga, aczyma w ręku iPhone A
+
+Sample 137:
+Reference: Serce mu biło mocno, coraz mocniej, jeszcze mocniej.
+Hypothesis:  Serce mu było mocno, coraz mocniej, jeszcze mocniej.
+
+Sample 138:
+Reference: Znakowanie pomoże także chronić zdrowie publiczne oraz środowisko naturalne
+Hypothesis:  Znakowanie pomoże także chroni i dziedzielowie publiczne oraz środowisko naturalne.
+
+Sample 139:
+Reference: "Chciałem panu umożliwić wyjście z tej sprawy."
+Hypothesis:  Chciałem panu, umożliwić wyjść z tej sprawy.
+
+Sample 140:
+Reference: Stanowisko Komisji wydaje mi się dość mało ambitne pod tym względem
+Hypothesis:  Stanowisko komisji wydajemy się do śmawa bitnę, pod tym względem.
+
+Sample 141:
+Reference: "Pożar w domu."
+Hypothesis:  Ozwarę budowo.
+
+Sample 142:
+Reference: "Dlatego rozkazałem ci, abyś nie brał ze sobą pistoletów."
+Hypothesis:  Dlatego rozkazałem ci, aby się nie brał ze sobą pistoletów.
+
+Sample 143:
+Reference: Wszyscy wiedzieli, że rabuś, a nikt mu nie mógł dowieść niczego!
+Hypothesis:  Wszyscy wiedzieli, że rabuś, a nikt mu nie mógł dowieś niczego.
+
+Sample 144:
+Reference: Ludzie nie wyjeżdżają wtedy, kiedy zaplanują
+Hypothesis:  Ludzie nie wyjeżdżają wtedy, kiedy zaplanują.
+
+Sample 145:
+Reference: — Czy skończyłaś już robotę?
+Hypothesis:  Wszystkończywa się do kapota.
+
+Sample 146:
+Reference: Stawał na przystankach tramwajowych i pomagał wychodzić panom z siwymi brodami.
+Hypothesis:  Stawał na przestankach tramwujowych i pomaga wychodzić paną siłymi brudami.
+
+Sample 147:
+Reference: Ale nie mocno.
+Hypothesis:  Ale nie ma od snu.
+
+Sample 148:
+Reference: Trzem takim jak ja dałby rady.
+Hypothesis:  Trzem takim jak ja dałby rady.
+
+Sample 149:
+Reference: Zagłosuję przeciwko
+Hypothesis:  Zagłysujemy przeciwko.
+
+Sample 150:
+Reference: "Dziś dopiero przychodzi mi na myśl wiele szczegółów."
+Hypothesis:  Dziś dopiero przychodzimy na myślenie wiele szczegółów.
+
+Sample 151:
+Reference: Byłem jeszcze dzieckiem, ale wiedziałem, co to znaczy, wiedziałem doskonale.
+Hypothesis:  Byłem jeszcze dzieckiem, ale nie działańskiów znaczy, nie działań ze skonawacją.
+
+Sample 152:
+Reference: "Bardzo dobrze był zasadzony i podzielony."
+Hypothesis:  Bardzo dobrze był zasadzony i podzielony.
+
+Sample 153:
+Reference: "Byłoby to w tej porze roku raczej o wpół do piątej, niż szóstej."
+Hypothesis:  Byłaby to w tej pażerokuraczy o wpłudupiontej niż szóstej.
+
+Sample 154:
+Reference: Nie pamiętam kiedy ostatni raz widziałem policjanta.
+Hypothesis:  Nie pamiętam, kiedy ostatni raz widziałem policjanta.
+
+Sample 155:
+Reference: — No, jakże się jasnemu panu wędrowało w powietrzu?
+Hypothesis:  Jak wrzucimy jasne mu panu Wędrował w powietrzu?
+
+Sample 156:
+Reference: Słyszałem tylko o tym dziwnym człowieku.
+Hypothesis:  Słyszałem tylko o tym dziwnym człowieku.
+
+Sample 157:
+Reference: podpisanie aktów prawnych przyjętych w trybie zwykłej procedury ustawodawczej
+Hypothesis:  Podpisanie aktów prawnych przyjętych w trybiec wykoj procedury ustawodawczej.
+
+Sample 158:
+Reference: Po wybuchu śmiechu zaci nało się coś w niej: zegar, który przestał nagle chodzić.
+Hypothesis:  Powred Buchu Śmiechu zacinało się coś w niej, zegar, który przestał na gleb chodzić.
+
+Sample 159:
+Reference: — Oszczędź mi pan swych dowcipów!
+Hypothesis:  O szczęśmi pan swych dowcipów.
+
+Sample 160:
+Reference: — Pamiątka rodzinna — objaśniał zadowolony z pochwał właściciel.
+Hypothesis:  Pamiętka rodzinna objaśnią zadowolony z pochwał właściciel.
+
+Sample 161:
+Reference: Ustawodawstwo i inne środki stworzą mu wszelkie możliwości.
+Hypothesis:  Ustawodastwo i inne środki stworzył mowszalkie możliwości.
+
+Sample 162:
+Reference: Ogarnął go nudny zawrót głowy.
+Hypothesis:  Ogarnę ugorę, nudyny zabrót głowy.
+
+Sample 163:
+Reference: Postanowił iść do niego.
+Hypothesis:  Postanowił iść do niego.
+
+Sample 164:
+Reference: "Wreszcie otuliłem się znowu w płaszcz i zacząłem się zastanawiać, co dalej począć."
+Hypothesis:  Wreszcie oteliałem się znowu w płaszcz i zacząłem się zastanawiać co dalej począć.
+
+Sample 165:
+Reference: W tym momencie doszedł mnie złowrogi trzask przepalonych belek pułapu…
+Hypothesis:  W tym momencie doszły mięstwo w rogi trzask, przeparonych berek ułapu.
+
+Sample 166:
+Reference: Odbierz ten telefon!
+Hypothesis:  Odbierz ten telefon.
+
+Sample 167:
+Reference: Chciałoby mi się gadać o ich życiu.
+Hypothesis:  Chciałoby mi się gadać o ich życiu.
+
+Sample 168:
+Reference: Powinniśmy stale wyraźnie o tym mówić
+Hypothesis:  Powinniśmy stare wyraźni o tym mówić.
+
+Sample 169:
+Reference: — Czegóż pan chce więcej?
+Hypothesis:  Czekłusz Pan w Cewięcej.
+
+Sample 170:
+Reference: "Zamiast oczu miał dwie czerwone jamy."
+Hypothesis:  Zamiast oczu miał 2 czerwone jamy.
+
+Sample 171:
+Reference: mów prawdę i dotrzymuj słowa
+Hypothesis:  Mów prawdę i dotrzemu słowo.
+
+Sample 172:
+Reference: — Skąd pan to wszystko może wiedzieć? — zapytał szczerze zdumiony.
+Hypothesis:  Skąpę, to wszystko może wiedzieć, zabytał szczerze zdumiony.
+
+Sample 173:
+Reference: — Rzeczywiście — przyznał towarzysz.
+Hypothesis:  Rzeczywiście przyznał towarzysz.
+
+Sample 174:
+Reference: I w drodze do leśniczówki cichutko się przemknąłeś?
+Hypothesis:  I wdraza baleźni człowiek i ci chłopka się szanknować.
+
+Sample 175:
+Reference: Dwudziestego dziewiątego czerwca imieniny obchodzą Piotr i Paweł.
+Hypothesis:  29 czerwca im inny obchodzą piotr i pawę.
+
+Sample 176:
+Reference: — Ale czy książki mówią prawdę? — marszcząc brew zapytał pan Ryszard.
+Hypothesis:  Ale czekściążki mówią prawo do marzaczek, by by zapydał pan ryżet.
+
+Sample 177:
+Reference: Rozgląda się dzikie wiejskie dziecko po ogromnym mieście.
+Hypothesis:  Rozgląda się dziki wiejskiej dziecko po gromnym mieście.
+
+Sample 178:
+Reference: "Dlatego też zależało mi bardzo na tem, abym wystąpił w stroju cywilnym."
+Hypothesis:  Dlatego też zarażował mi bardzo na tym, aby wystąpił w stroju cywilnym.
+
+Sample 179:
+Reference: Potem usnął.
+Hypothesis:  Potem uśmie.
+
+Sample 180:
+Reference: Zgasił lampę i położył się.
+Hypothesis:  Zgasił lampę i położył się.
+
+Sample 181:
+Reference: O, dobrotliwy nasz panie!
+Hypothesis:  O, dobro, tliwy na szpanie.
+
+Sample 182:
+Reference: W sektorach zaawansowanych technologii, gdzie prace są wyższe, kobiety są zdecydowanie niedoreprezentowane
+Hypothesis:  W sektorach zawansowanych technologii, gdzie pracę są wyższe, kobiety są zdecydowanie i nie do rozwysytowane.
+
+Sample 183:
+Reference: Kilka osób rzuciło się nawet w pogoń za zbiegłą.
+Hypothesis:  Kilka osobi, że ci się nawet w pogodzie z olbiegłą.
+
+Sample 184:
+Reference: Weźcie pod uwagę ilość popularyzujących dzieł w Niemczech.
+Hypothesis:  Weźcie pod uwagę ilości popularyzyjących dzieł w Niemczech.
+
+Sample 185:
+Reference: Przed nim stał długi, długi szereg mrówek.
+Hypothesis:  Przed nim stał długi, długi szereg mrowek.
+
+Sample 186:
+Reference: Opowiadał szeroko o jej piersiach w swoich wykładach na Universite Perverse.
+Hypothesis:  Opowiadał szeroko o jej pierciach w swoich wykładach na Uniwersight Pervers.
+
+Sample 187:
+Reference: Ty się mylisz.
+Hypothesis:  Ty się umyli.
+
+Sample 188:
+Reference: No, sarna wróci chyba do leśniczówki.
+Hypothesis:  No, sarna wróci chyba do leśniczówki.
+
+Sample 189:
+Reference: Czas postawić kropkę nad ipsylonem.
+Hypothesis:  Czas postawić kropkę nad ipsylonem.
+
+Sample 190:
+Reference: Traktat reformujący ma zasadnicze znaczenie
+Hypothesis:  Traktat reformujący ma zasadnicze znaczenie.
+
+Sample 191:
+Reference: W istocie kroki czyjeś zbliżyły się do drzwi biblioteki.
+Hypothesis:  I stocie kroki, czyjeś, zbliżyłeś się do zwimii, bioteki.
+
+Sample 192:
+Reference: Dźwięk tego imienia, szept tego imienia, jego zapach…
+Hypothesis:  Dźwięk tego imienia szept tego imienia jego zapach.
+
+Sample 193:
+Reference: Sprawozdanie ma zostać zatwierdzone przez zdecydowaną większość
+Hypothesis:  Sprawdodznaniem ma zostać dotwierdzone przez zdecydowaną wiem wsiłość.
+
+Sample 194:
+Reference: Przewodniczący w imieniu Parlamentu przekaże ofiarom oraz dotkniętej tragedią społeczności wyrazy solidarności oraz kondolencje
+Hypothesis:  Przewodniczący w imieniu parlamentu przekażę ofiarą oraz dockniętej tragedie uspoczności wyrazy swojej darności oraz kondolencje.
+
+Sample 195:
+Reference: Ludzie nauczyli się zabijać swój czas, to znaczy zabijać życie.
+Hypothesis:  Ludzie nauczyli się zawijać z góry, to znaczy, zabijać życie.
+
+Sample 196:
+Reference: Chciałbym również zwrócić się w tej sprawie do moich koleżanek i kolegów
+Hypothesis:  Chciałbym również zwrócić się w tej sprawie do moich koleżanek i kolegów.
+
+Sample 197:
+Reference: — Hm! — westchnął Dan.
+Hypothesis:  Hmm, let's close down.
+
+Sample 198:
+Reference: Siedzieliśmy na tarasie i oglądaliśmy seriale?
+Hypothesis:  Wszystko materaficja był doliczma seriala.
+
+Sample 199:
+Reference: Odeszła, cofając się wolno, tyłem, jak teatralny paź.
+Hypothesis:  Podeszła, co fając się wolno tyłem, jak teatralny paź.
+
+Sample 200:
+Reference: W pokoju Janka kasztan wsadzał głowę przez okno.
+Hypothesis:  W pokoju Janka, kasztan wsazał głowę przez okno.
+
+Sample 201:
+Reference: Wyjrzałem przez okno.
+Hypothesis:  Dajżałem przez okno.
+
+Sample 202:
+Reference: Odnajdywała go wszędzie i ciągle, ze zwierzęcą, jasno widzącą pewnością.
+Hypothesis:  Odnajdywała go wszędzie i ciągle, ze zwierzęcą jasną widzącą pewnością.
+
+Sample 203:
+Reference: A jak wyglądasz? — spytała dziwożona.
+Hypothesis:  A jak wyglądaż, spytawa dziwo żona?
+
+Sample 204:
+Reference: Otuchy dodaje nam również fakt, że Rada Europejska wyraża poczucie nagłej potrzeby działania
+Hypothesis:  Otoche dodaje nam również fakt, że radę europejska wyraża poczucie nagłej potrzeby działania.
+
+Sample 205:
+Reference: Wtedy padł strzał…
+Hypothesis:  Wtedy padyb z tształ.
+
+Sample 206:
+Reference: "Płynęły im wśród mroków nocnych dni i noce."
+Hypothesis:  Płynęły im wśród mraków nocnych dni i noce.
+
+Sample 207:
+Reference: Otoczyliśmy ją kołem.
+Hypothesis:  Otoczyliśmy ją kołem.
+
+Sample 208:
+Reference: Wszędzie doskonałe, obfite pastwiska.
+Hypothesis:  Szań gdzie doskonałe opwita pasw twiska.
+
+Sample 209:
+Reference: Już je widzę, o, już je mam.
+Hypothesis:  Już je widzę. O, już je mam.
+
+Sample 210:
+Reference: Musimy zastanowić się, w jaki sposób wydajemy pieniądze
+Hypothesis:  Musimy zastanarzyć się w jaki sposób, wydajemy pieniądze.
+
+Sample 211:
+Reference: - Ej, tam kosmacz! Pójdź do nogi! - zawołał. - Chociaż wilk czy pies, czy ki diabeł!
+Hypothesis:  A i tam kosmacz. Pójdę nogi. Zawało. Choć ożywilki czy pies, czyki diabeł.
+
+Sample 212:
+Reference: Niskie wymagania depozytowe na rynku oznaczają, iż rynek ten jest otwarty na manipulacje
+Hypothesis:  Niskie wymagania depozytowe na rynku oznaczają i szrynek ten jest otwarty na manipulację.
+
+Sample 213:
+Reference: — Do czego służy ta brudna belka? — zapytała Liza.
+Hypothesis:  Do czego służy to brudna belka zapytawa liza?
+
+Sample 214:
+Reference: Otarł rękawem zimny pot z czoła.
+Hypothesis:  Otar rękawem siłnepoczczowa.
+
+Sample 215:
+Reference: — Jednak zawsze już bliżej końca.
+Hypothesis:  Zatrzymaj się, że przyzwyczaj się.
+
+Sample 216:
+Reference: "Fotografia bardzo się wytarła, ale się nie martwię."
+Hypothesis:  fotografie bardzo siły witaruale i nie martwe
+
+Sample 217:
+Reference: "Miał na sobie ciemny uniform i jakiś kapelusz z białem piórkiem."
+Hypothesis:  Miał na sobie ciemny kmiiform i jakiś kapel już jest białym piórkiem.
+
+Sample 218:
+Reference: Nawet jednoręki zaniepokoił się pilnie i otarł usta rąbkiem rękawa.
+Hypothesis:  Nawet jednoręki za niepokojuszą pinie i otar ustarą kim rękawa.
+
+Sample 219:
+Reference: "Jak przypuszczałem, wychodziła ta szeroka ulica na główny plac, który mi opisał generał."
+Hypothesis:  Jak przypuszczałem, wychodziła ta szeroka olica na główny plac, który mi opiecał generał.
+
+Sample 220:
+Reference: Przez okno leje się woda i kapie na mnie.
+Hypothesis:  Przez okno leje się woda i kapie na dnie.
+
+Sample 221:
+Reference: Lubię spać przy otwartym oknie.
+Hypothesis:  Lubię uspać przed fartem ownie.
+
+Sample 222:
+Reference: Był w męczącej sytuacji.
+Hypothesis:  Był w włączące sytuacji.
+
+Sample 223:
+Reference: Jest godzina siedemnasta czterdzieści pięć.
+Hypothesis:  Jest kozinę 1745.
+
+Sample 224:
+Reference: Czekałam tylko na rozkaz, bym mogła zabrać tacę.
+Hypothesis:  Czekałam tylko na rozkazbym mogła zabrać taca.
+
+Sample 225:
+Reference: Nieszczęśliwi Murzyni odetchnęli, napada i grabieże ustały.
+Hypothesis:  Nieszęsili, muszyni odtchnęli, napada i grabieżę ustawy.
+
+Sample 226:
+Reference: — Nie szkodzi, zaraz je uspokoję.
+Hypothesis:  Nie szkodzi, zaraz się uspokuję.
+
+Sample 227:
+Reference: Emil dziwił się, że Janek tyle mówi.
+Hypothesis:  Emil dziwił się, że Janek tyle mówi.
+
+Sample 228:
+Reference: "Sądzę, że pora włożyć maski."
+Hypothesis:  Są ze wziąpora boruczowami.
+
+Sample 229:
+Reference: Masz czas w piątek?
+Hypothesis:  Masz czas w piątek?
+
+Sample 230:
+Reference: Na ulicy ulewa.
+Hypothesis:  Na ul. ulewa.
+
+Sample 231:
+Reference: Należy te sposoby rozumowania odróżnić od dedukcji naukowej
+Hypothesis:  Nareszy te sposoby rozumowania odróżnić od dedukcji naukowej.
+
+Sample 232:
+Reference: — Trzeba stąd odjeżdżać.
+Hypothesis:  Trzeba stąd odjeżdżać.
+
+Sample 233:
+Reference: Nad jej oczami zwisały pojedyncze kłosy trawy.
+Hypothesis:  Nadyj oczami z visowy pojedynczek posytraw.
+
+Sample 234:
+Reference: Na poddaszu jednak było nad wyraz smutno.
+Hypothesis:  Na podytaszu jednak było na dwie razy smutno.
+
+Sample 235:
+Reference: W maju jak w gaju.
+Hypothesis:  W maju jak wgaju.
+
+Sample 236:
+Reference: Jakim byś był, gdybyś tego nie robił, nie dowiesz się nigdy.
+Hypothesis:  Jakim byś był, gdybyś tego nie robił, nie dowiesz się nigdy.
+
+Sample 237:
+Reference: "Ja wracam natychmiast do mego pułku."
+Hypothesis:  I opraczamy na tych miast, to mi go półko.
+
+Sample 238:
+Reference: Będziesz ze mną teraz rozmawiał czy też wolisz rozmyślać za kratami?
+Hypothesis:  Będziesz ze mną teraz rozmawiał? Czy też wojszrozmyślać z akratami?
+
+Sample 239:
+Reference: "Panna Izabela zwiesiła głowę i cicho przebierając palcami po stole, dumała."
+Hypothesis:  Pan na Izabela zwiesiła głowę i cicho przebierając palcami po stole do mała.
+
+Sample 240:
+Reference: Tak okropnej wieści nie słyszała jeszcze w swym życiu.
+Hypothesis:  Tak, okropnej wieści nie słyszała jeszcze w swym życiu.
+
+Sample 241:
+Reference: Jak zwykle.
+Hypothesis:  Ja jest bykle.
+
+Sample 242:
+Reference: — Ale należy go odróżnić od mojego brata.
+Hypothesis:  Ojej, należy go odróżnić o mojego brata.
+
+Sample 243:
+Reference: Ach, jak śmiesznie!
+Hypothesis:  Ach jak śmiesznie.
+
+Sample 244:
+Reference: Ta rozmowa.
+Hypothesis:  A rozmowa.
+
+Sample 245:
+Reference: Mam nadzieję, że założyła znowu słuchawki
+Hypothesis:  Mam nadzieję, że założę Was na sławki.
+
+Sample 246:
+Reference: Przyczyna leży zdaje się w wyczerpaniu nerwowym.
+Hypothesis:  Przeczyna leży zda i się w wycierpaniu nerwowym.
+
+Sample 247:
+Reference: A ja nie śpię i muszę ją ratować.
+Hypothesis:  A ja nie śpiewam i muszę ją ratować.
+
+Sample 248:
+Reference: Należy unikać działań zwiększających cykliczność gospodarki zarówno w okresie prosperity, jak i recesji
+Hypothesis:  Należy unikować, jak się uciekających cykliczność gospodarki. Wyróbmy w okresie rozpręduć jak i razy.
+
+Sample 249:
+Reference: Poparłem sprawozdanie Konrada Szymańskiego dotyczące przeglądu Instrumentu Europejskiej Polityki Sąsiedztwa i Partnerstwa
+Hypothesis:  Po paru, z prawo zdanie Konrada Szamaniskiego dotyczące przyglądu instrumentu europejskiej polityki, sąsiedztwa i partnerstwa.
+
+Sample 250:
+Reference: "Wstrząsnęli tylko głowami."
+Hypothesis:  Wstrząsny lityk o kochowami.
+
+Sample 251:
+Reference: Wydaje mi się zatem, że wspólny program poprowadziłby nas we właściwym kierunku
+Hypothesis:  Wydaje mi się zatem, że wspólny program poprowadził by nas wywaścił kierunku.
+
+Sample 252:
+Reference: Jest zdjęcie chomika jak je, tylko nie za dobrze widać, bo jest grube ziarno.
+Hypothesis:  Jest zdjęcie homika, jak ja, tylko nie za dobrze widać, bo jest grube dziarnot.
+
+Sample 253:
+Reference: To jest błędne koło, z którego nie ma wyjścia.
+Hypothesis:  To jest błędne koło, z którego nie ma wyjścia.
+
+Sample 254:
+Reference: Tak, młynarz przeżył bez wątpienia bardzo ciężki okres.
+Hypothesis:  Tak, my nasz przeżył bez wątpienia bardzo ciężki okres.
+
+Sample 255:
+Reference: To było ostatnie nasze zajście w granicach Rosji.
+Hypothesis:  To było ostatnie nasze zajście w granicach Rosji.
+
+Sample 256:
+Reference: To było też rytualne.
+Hypothesis:  To było też rydualne.
+
+Sample 257:
+Reference: Pisze się, oczywiście, rachunki, wykazy, a owszem!
+Hypothesis:  Piszę się oczywiście rachunkim wykazy owszym.
+
+Sample 258:
+Reference: Nikłe światło rozjaśniło izbę: nie było nikogo.
+Hypothesis:  Nikłe światło rozjaśniło Izben. Nie było nikogo.
+
+Sample 259:
+Reference: Mimo woli rodziło się podejrzenie, czy puchar nie zawiera trucizny.
+Hypothesis:  Mimo woli rodziło się podejrzanie, czy puhr nie zawiera trucizny.
+
+Sample 260:
+Reference: — Właśnie chcę ci wstydu narobić!
+Hypothesis:  Właśnie chce ci wstydł na robić.
+
+Sample 261:
+Reference: Anna ma dwadzieścia cztery.
+Hypothesis:  Anina Madwa Cieszęczera.
+
+Sample 262:
+Reference: Dlatego go lubię.
+Hypothesis:  Tak, tego klubia.
+
+Sample 263:
+Reference: Wyglądają jak dołki i rowki, powstałe od nakłucia szpilką.
+Hypothesis:  Wyglądają jak dołki i rówki powstałe od nakłócia szpilką.
+
+Sample 264:
+Reference: "Tam przedstawił się jej straszny widok."
+Hypothesis:  Tam przedstawił się jej straszny widok.
+
+Sample 265:
+Reference: Jako pszczelarz, osobiście spotkałem się w Puławach z pszczelarzami, którzy przyjechali z całej Polski
+Hypothesis:  Jako brzczelarz, osobiście spotkałem się w puławach z brzczelarzami, którzy przyjechali z całej Polski.
+
+Sample 266:
+Reference: Wiosłował powoli, z odpoczynkami, żeby się nie zmęczyć tak bardzo.
+Hypothesis:  Wiesłował powoli z odpoczynkami, żeby się nie zmęczyć tak bardzo.
+
+Sample 267:
+Reference: Czy mogę pani w czymś pomóc?
+Hypothesis:  Czy mogą Panie wstrząś pomóc?
+
+Sample 268:
+Reference: o niepełnosprawnych, bezrobotnych i osoby w wieku emerytalnym
+Hypothesis:  Oni prawdę sprawdzę sobie, żeby by bym byłabym.
+
+Sample 269:
+Reference: — Zapach bije spod podłogi, bo to jest szczytowa ściana.
+Hypothesis:  Zapach pi jest pod podługi, bo to jest szczytowa ściana.
+
+Sample 270:
+Reference: Pracujcie z nami
+Hypothesis:  Pracujcie z nami.
+
+Sample 271:
+Reference: Jest to przyczyną dodatkowych kosztów i zmniejszenia konkurencyjności Europy pod względem produkcji żywności
+Hypothesis:  Jest to przyczyna dodatkowych kosztów i zmniejszenia konkurencyjności Europy Bozwendem Produkcji Żywności.
+
+Sample 272:
+Reference: Na czym polega pańskie bogactwo?
+Hypothesis:  Znaczym po leka Fajnski Bugadztwo.
+
+Sample 273:
+Reference: Doceniamy osiągnięte ostatnio postępy
+Hypothesis:  Dociniamy osiągnięty ostatnie postęty.
+
+Sample 274:
+Reference: Znajdował tylko swoje ręce i swoje nogi.
+Hypothesis:  Zajdawał tylko swoje ręce i swoje nogi.
+
+Sample 275:
+Reference: Dojdziemy do celu tyko wówczas, gdy wszyscy - kobiety i mężczyźni - będziemy współpracować
+Hypothesis:  Dojdziemy do celu tylko wówczas, gdy wszyscy, kobiety i mężczyźni, będziemy współpracować.
+
+Sample 276:
+Reference: "Teraz postanowiłeś tylko myśleć i nic więcej."
+Hypothesis:  Teraz postanowiłeś tylko myśleć i nic więcej.
+
+Sample 277:
+Reference: Jednoręki spoważniał.
+Hypothesis:  Jednoranki spowodnażniał.
+
+Sample 278:
+Reference: Więc kto nie chce, żebym chodził do szkoły, niech podniesie rękę.
+Hypothesis:  Więc kto nie chce, żebym chodził do szkoły, niech podnie się rękę.
+
+Sample 279:
+Reference: "Nie, nie, tego ryzykować nie można!"
+Hypothesis:  Nie, nie, tego ryzykować nie można.
+
+Sample 280:
+Reference: Lecz istota przejawu pozostaje ta sama: zła, występna i tajemnicza.
+Hypothesis:  Lecz istotna przejawu pozostaje ta sama, zła, występna i tajemnicza.
+
+Sample 281:
+Reference: — Chcemy cię wziąć na kolację.
+Hypothesis:  Cement czym wziąć na kolację.
+
+Sample 282:
+Reference: Doba ma dwadzieścia cztery godziny.
+Hypothesis:  Dobę ma 24 godziny.
+
+Sample 283:
+Reference: Aby naprawić tę sytuację, należy uzupełnić rozporządzenie o bardziej szczegółowe przepisy dotyczące inspekcji krajowych
+Hypothesis:  Aby doprawić się sytuację, należy uzupełnić, rozporządzenie obardzieść, czołgowa, przepisy, drząca, inspekcji krajowych.
+
+Sample 284:
+Reference: Dlatego chciałbym jeszcze raz podziękować kontrsprawozdawcom, którzy zaangażowali się w osiągnięcie kompromisu
+Hypothesis:  Dlatego chciałbym jeszcze raz podziękować kontw z prawą zdawcą, którzy zaangażowali się w osiągnięcie kompromisu.
+
+Sample 285:
+Reference: — Jonaszem jest wszystko, co przynosi nieszczęście.
+Hypothesis:  I o naszym jest wszystko, co przynosi nieszczęście.
+
+Sample 286:
+Reference: Zdumiewało go jej wyrafinowanie erotyczne.
+Hypothesis:  Sluwa o województwo i ojrę.
+
+Sample 287:
+Reference: Zdejmuje mokrą sukienkę i kładzie do miednicy.
+Hypothesis:  Zdejmuję oprąso, kiedy kajkocz lemiednisa.
+
+Sample 288:
+Reference: Stanowiska wiążące Komisję przyjmuje wyłącznie kolegium komisarzy
+Hypothesis:  Stanowiska wiążące komisję przyjmuje wyłącznie kolegnion komisaggi.
+
+Sample 289:
+Reference: "Głos jej drżał."
+Hypothesis:  Głos jej drzau.
+
+Sample 290:
+Reference: Wcale nie myślimy o przyłączeniu Turcji
+Hypothesis:  Wcale nie myślimy o przyłączeniu Turcji.
+
+Sample 291:
+Reference: — Kłamał dzień w dzień.
+Hypothesis:  Chłamał dzień w dzień.
+
+Sample 292:
+Reference: A wszystkiemu kto był winien?
+Hypothesis:  A wszystkie mu ktały winien.
+
+Sample 293:
+Reference: — Czemu się tak wpatrujesz we mnie?
+Hypothesis:  Czemu się tak wpatrujesz w mnie?
+
+Sample 294:
+Reference: "Starałem się pochwycić ręką lont, którego drugi koniec sięgał do magazynu prochu."
+Hypothesis:  Starałem się po chwyci sięką ląd, którego drugi koniec sięgęł do magazynu profu.
+
+Sample 295:
+Reference: Po paru dniach rana zagoiła się, nie pozostawiając śladu blizny.
+Hypothesis:  Po paru dniach herana zagoiła się, nie pozostawiając śladu blizny.
+
+Sample 296:
+Reference: W ten sposób ich dialogi stawały się coraz mniej zrozumiałe dla otoczenia.
+Hypothesis:  W ten sposób ich dialogistowało się coraz mniej zrozumiałe dla otoczania.
+
+Sample 297:
+Reference: "Będziemy czytać to tylko, co się nam podoba."
+Hypothesis:  Będziemy czytać tylko to, co się nam podoba.
+
+Sample 298:
+Reference: Trzy razy na dzień byłem świadkiem ceremoniału ablucji.
+Hypothesis:  3 razy na dzień bym świadkiem cerym aniału, ablucji.
+
+Sample 299:
+Reference: Potem tegoż wieczora dostałem zaproszenie na występ w prywatnym mieszkaniu.
+Hypothesis:  Potem tego zwiedzora dostałem zaproszenie na występ w prywatnym mieszkaniu.
+
+Sample 300:
+Reference: Nie — odrzekła dziwożona i wspięła się ku niemu na palcach.
+Hypothesis:  Nie, odrzekła dziwożona i wspiera się ku niemu na palcach.
+
+Sample 301:
+Reference: I teraz stała się rzecz najsmutniejsza.
+Hypothesis:  I teraz stała się rzecz najsmutniejsza.
+
+Sample 302:
+Reference: Miał minę wesołą.
+Hypothesis:  Niemie nam do sobą.
+
+Sample 303:
+Reference: Mała jest biedna i potwornie ambitna.
+Hypothesis:  Mała jest biedna i potwarnia ambitna.
+
+Sample 304:
+Reference: Marzymy bowiem o Białorusi demokratycznej, wolnej, dzielącej z nami europejskie wartości i standardy
+Hypothesis:  Marzymy bowiem objałorusi demokratycznej wolnej, zielącej z nami europejskie wartości i standardy.
+
+Sample 305:
+Reference: Oczywiście, nie znał słów pieśni.
+Hypothesis:  Oczywiście nie znał słów pjeźni.
+
+Sample 306:
+Reference: Chodziło o białego ogiera.
+Hypothesis:  Koziło objawego ogiera.
+
+Sample 307:
+Reference: Dla mnie wicher — przykrość, dla niego — uciecha.
+Hypothesis:  dla mnie w ich herprzygrość, dla niego uciecha.
+
+Sample 308:
+Reference: Powinniśmy się rozdzielić.
+Hypothesis:  Powinniśmy się rozdzierić.
+
+Sample 309:
+Reference: Otoczyła nas atmosfera hali targowej.
+Hypothesis:  Otóczyła nas atmosfera hali targowej.
+
+Sample 310:
+Reference: Oszczędność energii rozwiązuje całą masę problemów
+Hypothesis:  O szczędność energii rozwiązuje całą masę problemów.
+
+Sample 311:
+Reference: I przyjemnie Maciusiowi, choć nie wie dlaczego.
+Hypothesis:  I przyjemnie maciu siowi, choć nie wie dlaczego.
+
+Sample 312:
+Reference: Wór najwidoczniej siedział na trawie.
+Hypothesis:  Wór najwidoczniej się dział na trawie.
+
+Sample 313:
+Reference: Jednakże tylko dwie lub trzy schwytał na ustach językiem: resztę zachował dla Nel.
+Hypothesis:  Jednakże tylko dwie lub trzy zchwytał na ustach językiem. Resztyn zachował dla nery.
+
+Sample 314:
+Reference: Chyba zajrzę po drodze do księgarni.
+Hypothesis:  Chyba zajrze po drodze do księgarni.
+
+Sample 315:
+Reference: Kilka takich pisemnych relacji udało się już zebrać.
+Hypothesis:  Kilka takich pisałnych relacji udało się już zebrać.
+
+Sample 316:
+Reference: Anna odchodzi do Emila, który ma osiemnaście lat.
+Hypothesis:  Anna odchodzi do Emila, który ma 18 lat.
+
+Sample 317:
+Reference: I kolega Adama, Stach.
+Hypothesis:  I kolka na tamas.
+
+Sample 318:
+Reference: Czytałem jakiś czas temu popularnonaukową analizę czytelników fantastyki.
+Hypothesis:  Przytałem jakiś czas temu popularna naukowo-manalizą czytelników fantastycznych.
+
+Sample 319:
+Reference: Był bardzo wzruszony.
+Hypothesis:  Był bardzo wzroszone.
+
+Sample 320:
+Reference: Mówię tu o szpitalach, z których każdy kosztuje dziesięć milionów dolarów
+Hypothesis:  Mówię tu o szpitalach, z których każdy kosztuje 10 milionów dolarów.
+
+Sample 321:
+Reference: Lecz była to noc nieprzyjemna!
+Hypothesis:  Dlaczego to było to noc nieprzyjemna?
+
+Sample 322:
+Reference: Zona: — Emilku, on musi iść przynajmniej o dwunastej spać.
+Hypothesis:  Zona, Emilko, Omosiste, Dina i niej, od Donastyni Spatia.
+
+Sample 323:
+Reference: "Nikt się nie bił, nie pchał, nie przezywał."
+Hypothesis:  Nik się nie wił, nie pchał, nie przezywał.
+
+Sample 324:
+Reference: - Dwanaście.
+Hypothesis:  Dwa nasta.
+
+Sample 325:
+Reference: Między ogródkami działkowymi biegnie wąska ścieżka.
+Hypothesis:  Między okrutkami działkowymi, jak nie woltska wcieżka.
+
+Sample 326:
+Reference: I jak dadzą lody, to mi roztopi.
+Hypothesis:  Jak dadzą loty to mi rozstopi.
+
+Sample 327:
+Reference: — Więc ja ci udowodnię.
+Hypothesis:  Wiącej a ci udowodnie.
+
+Sample 328:
+Reference: Dolina Małej Łąki w Tatrach w zimie.
+Hypothesis:  Dolina małej łąki w Katrach w Zimie.
+
+Sample 329:
+Reference: No, cóż, zrozumiałeś?
+Hypothesis:  No cóż, zrozumiałeś?
+
+Sample 330:
+Reference: Perspektywa akcesji Islandii została przyjęta pozytywnie
+Hypothesis:  Perspektywa akcesji islandii została przyjęta pozytywnie.
+
+Sample 331:
+Reference: Wielce się uradował podstarzały pan Gajowiec.
+Hypothesis:  Wielce się urodował pod stażowy pan Gajowiec.
+
+Sample 332:
+Reference: "Na kilka lat przynajmniej wyzwoli ją to od trosk życia codziennego."
+Hypothesis:  Na kilka lat przynajmniej wyzwol ją to od trosk życia codziennego.
+
+Sample 333:
+Reference: Kanarek wesoło zaśpiewał.
+Hypothesis:  Kanarek wysoło zaśpiewał.
+
+Sample 334:
+Reference: Moim zdaniem należy zająć się tymi zagadnieniami, najlepiej w oparciu o dogłębne zrozumienie faktów
+Hypothesis:  Mojej sajem narazyzają się tymi sekatliniami na najlepiej w oparciu o to, kuem nas rozumienia faktu.
+
+Sample 335:
+Reference: — Pozwól, chcę go obejrzeć dokładniej.
+Hypothesis:  Po suru chcę go obejrzeć dokładniej.
+
+Sample 336:
+Reference: Lewica, prawica, średnica.
+Hypothesis:  Mewica prawicła średnicą.
+
+Sample 337:
+Reference: Dowodzi to jednego
+Hypothesis:  To w acie to jednego.
+
+Sample 338:
+Reference: A tak była czarna, że prawie niebieska.
+Hypothesis:  A tak była czarna, że prawie niebieska.
+
+Sample 339:
+Reference: Pierwszym elementem kształtującym człowieka jest genetyka.
+Hypothesis:  Pierwszy na to, żeby wyłączyć człowieka jest klętyka.
+
+Sample 340:
+Reference: "Nie wypuścił jej, ale w pewnym momencie zniżył kolbę."
+Hypothesis:  Nie wypuścił jej, ale w pewnym momencie zniżł kolbe.
+
+Sample 341:
+Reference: Nie dowierzam cudzoziemcom, zarówno żywym jak i umarłym.
+Hypothesis:  Nie dowierzam co do ziemi co zarówno żywym, jak i umarłem.
+
+Sample 342:
+Reference: Największa tragedia Chińczyków wiąże się jednak z katastrofami politycznymi
+Hypothesis:  Najmniejsza tragedia, hinchyku, wiąże się jednak z katastrofami politycznymi.
+
+Sample 343:
+Reference: Proszę o przekazanie tej wiadomości do sekretariatu
+Hypothesis:  Proszę o przekazanie tej wiadomości do sekretariatu.
+
+Sample 344:
+Reference: Chcę ci coś pokazać.
+Hypothesis:  Chcę ci coś pokazać.
+
+Sample 345:
+Reference: — Nie łamcie przysiąg wobec niewinnej dziewulinki!
+Hypothesis:  Nie mam cię przysiąg wobec niewinnej dziewulinki.
+
+Sample 346:
+Reference: Muszę przyznać, że rozczarowała mnie ostatnia wizyta w Parlamencie prezydenta Zumy
+Hypothesis:  Muszę przyznać, że rozszerwała mnie ostatnia emycję ta w Parlamety Prezydentar Zoom.
+
+Sample 347:
+Reference: "Ze zdziwienia o mało nie upadłem z krzesła."
+Hypothesis:  Zaszziwienia mało nie upatłem skrzestwa.
+
+Sample 348:
+Reference: "Żywy, wesoły uśmiech przebiegł dokoła jak promień słońca."
+Hypothesis:  Żywy, wesoły uśmiach przebieg do koła jak promiej Słońca.
+
+Sample 349:
+Reference: Jednak państwom europejskim też nie udało się poradzić sobie z wysoką zachorowalnością na gruźlicę
+Hypothesis:  Jednak państwem europejskim też nie udało się poradzić, sopiec wysoką zachorowalnością na gróżnicy.
+
+Sample 350:
+Reference: — Ale pan tutaj u nas zostanie?
+Hypothesis:  Ale pan tutaj u nas zostanie?
+
+Sample 351:
+Reference: Nie widziałem… ale i to jeszcze nastąpi…
+Hypothesis:  Nie wycięłam, ale to jeszcze nastąpi.
+
+Sample 352:
+Reference: A karmiąc swe dziecię, matka czuje się szczęśliwa.
+Hypothesis:  A karmiąc wiedzicie, matka czuje się szczęśliwa.
+
+Sample 353:
+Reference: "Spojrzeli na mnie zdziwieni, gdy się do nich zbliżałem."
+Hypothesis:  Spoiżali na mnie zdziwieni, gdy się do nich zbliżały.
+
+Sample 354:
+Reference: A ich Eskimosi bardzo obchodzą.
+Hypothesis:  A ich eski musi bardzo wchodzą.
+
+Sample 355:
+Reference: — Prawda, że się chce wymiotować? Emil poruszył głową w nieokreślonym kierunku.
+Hypothesis:  Prawdzasz, jeśli chce wymiotować, to ruszył głomą w niekryślanym kierunku.
+
+Sample 356:
+Reference: Gdzie trzymacie mopa?
+Hypothesis:  Gdzie trzymacie mopa?
+
+Sample 357:
+Reference: Muszę go wpierw wystawić i obliczyć cenę wraz z karą.
+Hypothesis:  Muszę go wpierd wstawić i obiechnić tenom raz skaram.
+
+Sample 358:
+Reference: Biedny, biedny, biedny Maciuś!
+Hypothesis:  Biedny, biedny, biedny maczusz.
+
+Sample 359:
+Reference: Przywidziało ci się, Stacha.
+Hypothesis:  Przewidziało ci się, stach.
+
+Sample 360:
+Reference: — Nic wam, bracia i siostry, nie mogę powiedzieć, choć wiem wszystko.
+Hypothesis:  Nic Wam, braciaj siostry nie mogę powiedzieć, choć wiem wszystko.
+
+Sample 361:
+Reference: — Zapewne jedziecie zwiedzić skarbiec królewski? — zapytała nas.
+Hypothesis:  Zapywnijcie zwiedzić z karbys króelski, zapytawane z.
+
+Sample 362:
+Reference: Dawaj, dalej, bo nie mam czasu.
+Hypothesis:  Dawa i dalej, bo nie mam czasu.
+
+Sample 363:
+Reference: Rozmawiają o tym, o owym.
+Hypothesis:  Rozmawiają o tym o o tym.
+
+Sample 364:
+Reference: W pokoju ciekawie obejrzał bratanka.
+Hypothesis:  W pokoju ciekawie obejrza ubratanka.
+
+Sample 365:
+Reference: Jako najbliżsi jego dostojnej osoby, uważali się za coś lepszego od innych.
+Hypothesis:  Jak one je bliści, jego dostojenny osoby uważali się za coś lepszego od innych.
+
+Sample 366:
+Reference: Jeśli nie, to coś jest nie tak z integracją
+Hypothesis:  Jeśli nie, to coś jest nie tak zintegracją.
+
+Sample 367:
+Reference: "Czy można kochać, jeżeli się nie zna?"
+Hypothesis:  Czy można kochać, jeżeli się nie zna?
+
+Sample 368:
+Reference: Był w stadium jednej ze swych słynnych „ucieczek”.
+Hypothesis:  Był wstawion jednej z tych słynnych ucieczak.
+
+Sample 369:
+Reference: Chyba udajesz, moja kochana.
+Hypothesis:  Chyba udajesz mój akohama.
+
+Sample 370:
+Reference: Bo nie było podówczas pośród wszystkich ludzi
+Hypothesis:  Bo nie było podówczas pośród wszystkich ludzi.
+
+Sample 371:
+Reference: I wyszedł z sypialni.
+Hypothesis:  I wyszedł sypialnie.
+
+Sample 372:
+Reference: Odczuwał niezrozumiały niepokój i wiedział, że jutro albo pojutrze zrozumie go.
+Hypothesis:  Odczuwał niezrozumiały niepokój i wiedział, że jutro albo po jutrze zrozumiego.
+
+Sample 373:
+Reference: Patrzyła, jakie to na nim robi wrażenie.
+Hypothesis:  Patrzyła, jakie to najmniej robi wrażenie.
+
+Sample 374:
+Reference: Wisła, Odra, Warta i Bug to cztery najdłuższe rzeki w Polsce.
+Hypothesis:  Wisła, odra, art i book, to cztery najdłuższe rzeki w Polsce.
+
+Sample 375:
+Reference: Apollo, chcąc objąć Daphne — objął krzew laurowy.
+Hypothesis:  A Polo chcąc objąć dawne, objęł kszeflaurowy.
+
+Sample 376:
+Reference: Twierdzenie, że w Polsce rządzi burżuazja, nie jest prawdą.
+Hypothesis:  Twierdzenie, że w Polsce rządzi burzuazja, nie jest prawdą.
+
+Sample 377:
+Reference: — Dlaczego nie zapalisz lampy, tylko siedzisz przy świecy? — Bo tak było na wsi.
+Hypothesis:  Dlaczego nie zapaliś lampy tylko siedzisz przyświecy? Bo tak było napsi.
+
+Sample 378:
+Reference: Wierzę, że w tym, co Pani tu powiedziała właśnie o to chodziło
+Hypothesis:  Wierzę, że w tym, co pani tu powiedziała, właśnie o to chodziło.
+
+Sample 379:
+Reference: Ty to rozumiesz, przyjacielu „Mostowy”, i zrobisz, jak ja proszę.
+Hypothesis:  Ty to rozumiesz, przejaciół lumostowy i zrobisz jak ja proszę.
+
+Sample 380:
+Reference: Stosunek z nim nie sprawia mi ani połowy takiej przy jemności, jak z P.
+Hypothesis:  W stosunek z nim nie sprawia mi ani połowy takiej przyjemności jak sp.
+
+Sample 381:
+Reference: Proszę się położyć spać.
+Hypothesis:  Proszę się położyć spadź.
+
+Sample 382:
+Reference: "Przeciw jego piekielnej chytrości nic nie był w stanie uczynić Aron."
+Hypothesis:  Przeciwcie kochpiekielnych i trości nic nie był w stanie uczynić Aron.
+
+Sample 383:
+Reference: Powoli nabierze łaskawy pan rozmachu.
+Hypothesis:  Woli nabierzeł oskady Pan Rozmachu.
+
+Sample 384:
+Reference: A gdyby… a gdyby…!
+Hypothesis:  Aktypę.
+
+Sample 385:
+Reference: Dzbanek stojący w drugim kącie pokoju ożył.
+Hypothesis:  Dzwanek stojący w drugim koncie pokoju ożył.
+
+Sample 386:
+Reference: Listy będę pisał i przez gołębie wysyłał.
+Hypothesis:  Listy będą depisał i przez golem nie wysyłał.
+
+Sample 387:
+Reference: "Niech się językiem broni."
+Hypothesis:  Nie się językiem broni.
+
+Sample 388:
+Reference: Opuścił powoli swoje przezroczyste oczy i jego usta stały się jeszcze bardziej wąskie.
+Hypothesis:  Opuścił powoli swoje przezroczyste oczy i jego usta stały się jeszcze bardziej wąskie.
+
+Sample 389:
+Reference: "Jakże szybko pędziłem teraz bez ciężkiego płaszcza!"
+Hypothesis:  Jak szybko będziełem teraz bez ciężkiego płaszcza.
+
+Sample 390:
+Reference: "Świnie wam paść, psubraty!..."
+Hypothesis:  Świnie nam ta ściwczy wyrady.
+
+Sample 391:
+Reference: "Mój towarzysz uśmiechnął się zagadkowo."
+Hypothesis:  Mój towarzysz uśmiechną się zagadkowo.
+
+Sample 392:
+Reference: — Bo to nie moje — odparła Marta z godnością.
+Hypothesis:  bo to nie moje od parła Marta z Goodnostką.
+
+Sample 393:
+Reference: Żeby chciała wziąć.
+Hypothesis:  Żeby chciała wziąć.
+
+Sample 394:
+Reference: Musiał pan czytać, jak polują na foki, na morsy.
+Hypothesis:  Musia pan czytać jak po lewej na foki, na morsy.
+
+Sample 395:
+Reference: Nie myśl, że zgubię się w innych.
+Hypothesis:  Nie myśl, że zgubią się w innych.
+
+Sample 396:
+Reference: Wtem w krzakach, tuż obok, niesamowity pisk.
+Hypothesis:  Wytem w kszakach tuż obok nie samo wytepisk.
+
+Sample 397:
+Reference: Woda chlusta wielką strugą, oczy chłopcu zalewa.
+Hypothesis:  Wodach losta wielką strugą ocz chłopco zalewa.
+
+Sample 398:
+Reference: Do strumienia, ludzie dobrzy, do strumienia! — wrzasnął uradowany nową obietnicą Podlasiak.
+Hypothesis:  Dostrumienia, ludzie dobrze, dostrumienia w rzasną, uradowany nową obitnicą pod lasiami.
+
+Sample 399:
+Reference: Od sprawy Małkowskiego wieża olsztyńskiego ratusza budzi mieszane skojarzenia.
+Hypothesis:  Od sprawy Małkowskiego bieża Olszczyńskiego Ratusza budzi mieszane skojarzenia.
+
+Sample 400:
+Reference: Na niebo wytoczyły się małe obłoczki, które zakrywały chwilami księżyc.
+Hypothesis:  Na niebo wytyczyły się małe obłaczki, które zakały filmy księżc.
+
+Sample 401:
+Reference: Ostatecznie, my posłowie reprezentujemy ludzi i ludzie żądają od nas zainteresowania się także bogatymi
+Hypothesis:  Ostatecznie, my posłowie, prezentujemy ludzi i ludzie żądają odnacne interesowanie się także pobety.
+
+Sample 402:
+Reference: Dwa lata temu z górą, koło Zielonych Świątek, sczezł bez śladu.
+Hypothesis:  W falle temu z górą kołozie onych świątek szczęzu bez śladu.
+
+Sample 403:
+Reference: Pochwaliła mnie pani, że dobrze.
+Hypothesis:  Puchwaliło mnie pani, że dobrze.
+
+Sample 404:
+Reference: — Czy jesteś silniejszy niż ci chłopcy, z którymi się bawisz? — Fredek jest słabszy.
+Hypothesis:  Czy jesteś silniejsze niż cichłopcy z którymi się bawisz? Pradek jest słabrze.
+
+Sample 405:
+Reference: "Niedługim był namysł więźniów."
+Hypothesis:  Nie długim był namysł wyjaśniów.
+
+Sample 406:
+Reference: Cicho być, nagrywam podcast.
+Hypothesis:  Cichobyć nagrywam podcast.
+
+Sample 407:
+Reference: Naszym wspólnym obowiązkiem jest reakcja na zmiany w wymiarze światowym
+Hypothesis:  Naszym wspólnym obowiązkiem jest reakcja na zmiany wymiarze światowym.
+
+Sample 408:
+Reference: — Stara historia.
+Hypothesis:  Starach Historia.
+
+Sample 409:
+Reference: Libijczycy muszą mieć pierwszeństwo przed wszystkimi innymi do decydowania o przyszłości swojego kraju
+Hypothesis:  Lubi czyce muszą mieć pierwszeństwo przed wszystkimi innymi, dodecydowanie o przyszłości swojego kraju.
+
+Sample 410:
+Reference: Ten idiota myślał, że to skrzep, i próbował operować.
+Hypothesis:  Ten idiot a myśleł, że to skrzydł i próbował operować.
+
+Sample 411:
+Reference: Jesteś tchórz.
+Hypothesis:  Jest to śrzus.
+
+Sample 412:
+Reference: Wyprzedziłem go, by rozświetlać drogę latarką.
+Hypothesis:  Wyprzedziłem go by rozświetlać drogę latarku.
+
+Sample 413:
+Reference: Gdy była chora, leżała na brzuchu, rozkrzyżowana; czasem, gdy miała miesiączkę.
+Hypothesis:  Gdybyła chora, leżała na brzuchu rozkrzyżowane. Czasem ty miałamy się czekę.
+
+Sample 414:
+Reference: A czy bardzo bolą cię ręce?
+Hypothesis:  Znaczy bardzo wolności ręce.
+
+Sample 415:
+Reference: Koło dziewiątej wieczorem.
+Hypothesis:  Koło 9 wieczorem.
+
+Sample 416:
+Reference: Tymczasem Wierusz odprowadzał chorą materię już ku palcom.
+Hypothesis:  Tym czasem wieróż odprowadzą chorą materiał i uszkupającą.
+
+Sample 417:
+Reference: Był poza tym w najwyższym stopniu wstrętny.
+Hypothesis:  Był poza tybionaj wyszym stupniu wstrętnej.
+
+Sample 418:
+Reference: Niestety nie ma tu dziś ich przedstawicieli, ale mam nadzieję, że usłyszą to przesłanie
+Hypothesis:  Niestety nie ma tu dziś ich przedstawicieli, ale mam nadzieję, że usłyszą to przesłanie.
+
+Sample 419:
+Reference: Przyszła jej na myśl przyjaciółka lat dziecięcych.
+Hypothesis:  W przyszłowej inamy się trzyjaciółka lat dziecięcych.
+
+Sample 420:
+Reference: Jesteśmy bardzo dumni z tego postępu
+Hypothesis:  Jesteśmy bardzo dumni z tego postępu.
+
+Sample 421:
+Reference: Kulawiec przemilczał, coraz zapalczywiej oddając się namysłom.
+Hypothesis:  Kula więc przemilczał, coraz zapalczywiej oddając się na mesu.
+
+Sample 422:
+Reference: Nie zbytkuj! — pogroził jej palcem na nosie kulawiec.
+Hypothesis:  Nie zbytkuj. Wyobraź jej palce na nosie kula wie.
+
+Sample 423:
+Reference: Dlaczego jest to takie ważne
+Hypothesis:  Dlaczego jest to takie ważne?
+
+Sample 424:
+Reference: Wytrenuję sobie cardio i może stracę pare kilo.
+Hypothesis:  Wytrannuję sobie cardio i moja stracę parę kilo.
+
+Sample 425:
+Reference: Byłem pewny, że kłamie.
+Hypothesis:  Byłem pewny rzekłomie.
+
+Sample 426:
+Reference: Miał za dozorcę księdza, który go pilnował
+Hypothesis:  Miał za dożorca księdza, którego pilnową.
+
+Sample 427:
+Reference: — A gdyby tak było?
+Hypothesis:  A gdyby tak było?
+
+Sample 428:
+Reference: Jak cię widzą, tak cię piszą.
+Hypothesis:  Jak ci widzą, tak cię piszą.
+
+Sample 429:
+Reference: Dlatego ty, kobieta do głębi, nie jesteś sentymentalna.
+Hypothesis:  Złatwego to kobieta do głębi i jest decentementalna.
+
+Sample 430:
+Reference: Coś takiego trza było teraz zawołać.
+Hypothesis:  Coś takiego trzeba było teraz zawałać.
+
+Sample 431:
+Reference: Zadaje mi niemal fizyczny ból.
+Hypothesis:  Zadaje mi niemal fizyczny ból.
+
+Sample 432:
+Reference: Chodzi o zmniejszenie kosztów energii
+Hypothesis:  Chodzi o zmniejszenie kosztów energii.
+
+Sample 433:
+Reference: Zamykam oczy.
+Hypothesis:  Zamykam orczy.
+
+Sample 434:
+Reference: Wiecie przed czym?
+Hypothesis:  Wiecie przetrzym?
+
+Sample 435:
+Reference: "Straszne były te oczy."
+Hypothesis:  Straszne były te oczy.
+
+Sample 436:
+Reference: Otrzymają ją, jeżeli przyjęte zostaną nasze poprawki
+Hypothesis:  otrzymają, jeżeli przyjęte zostaną nasze poprawki.
+
+Sample 437:
+Reference: Lecz niedługo trwały chwile ukojenia.
+Hypothesis:  Lęcznie długo trwały chwilę ukujemy.
+
+Sample 438:
+Reference: Sen pełen majaków, zmagań i widm.
+Hypothesis:  Sen pelę majaków z magani widum.
+
+Sample 439:
+Reference: — Nie — powiedział prędko.
+Hypothesis:  Nie, powiedział prędko.
+
+Sample 440:
+Reference: "Nocami nawet byłem czujny."
+Hypothesis:  No sami nawet byłem czujny.
+
+Sample 441:
+Reference: Postanowili iść do domu.
+Hypothesis:  Postanowili iż ci do domu.
+
+Sample 442:
+Reference: Wierzę, że osiągnęła wiele dobrego
+Hypothesis:  Wierzą, że osiągnęła wielodobrego.
+
+Sample 443:
+Reference: Zdecydowanie podzielam opinię, że należy wyznaczyć specjalną pozycję w budżecie na potrzeby synergii czarnomorskiej
+Hypothesis:  Zdecydowanie podziałam opinii, że należy wyznaczyć specjalną pozycję w budżetie na potrzeby synerii czarnomorskiej.
+
+Sample 444:
+Reference: Wybuchała z nich wtedy nienawiść.
+Hypothesis:  Wybuchała z nich wtedy nie nawiści.
+
+Sample 445:
+Reference: Znała aż za dużo historyjek z małymi dziewczynkami.
+Hypothesis:  Znowu o z za dużo historie jak z małymi dziewczynkami.
+
+Sample 446:
+Reference: "Czekaj, wybiła twoja ostatnia godzina."
+Hypothesis:  Czekaj, nie zrobiła twoje ostatniego cina.
+
+Sample 447:
+Reference: Bo na morzu szaruga…
+Hypothesis:  Bonam ozusa Ruga.
+
+Sample 448:
+Reference: Los padł na Michała, prostodusznego i kochającego młodzież entuzjastę.
+Hypothesis:  Ospada nam Michała, prosto już nagolikochającego młodzieścia entuzjazne.
+
+Sample 449:
+Reference: "Gorzki posmak jął mię dusić w gardle."
+Hypothesis:  Góżki posłaki, ją miał dłuśnić w gardla.
+
+Sample 450:
+Reference: Krużganki między domami.
+Hypothesis:  Króżganki między domami.
+
+Sample 451:
+Reference: Na bok reszta! — krzyknął Podlasiak, podniecony otrzymanym uśmiechem.
+Hypothesis:  Na bokreszta, krzykną podlasiak podniedzony o trzymanym uśmiechem.
+
+Sample 452:
+Reference: Były to istotnie poruszające wydarzenia
+Hypothesis:  Były to istotnie paluszające wydarzenia.
+
+Sample 453:
+Reference: — Jak można sprzeciwiać się pani?
+Hypothesis:  Jak można spróciwiać się Pani?
+
+Sample 454:
+Reference: Chciałbym zamówić pizzę z ananasem na ulicę Rolniczą dwanaście, mieszkania czterdzieści pięć.
+Hypothesis:  Chciałbym zamówić picę, zona nasem na ulicę, w rolniczą 12 mieszkania 45.
+
+Sample 455:
+Reference: — Spij, smarkaczu! Zobaczył, że zasypia.
+Hypothesis:  Śpij z markaczu. Zobaczem, że wasypia.
+
+Sample 456:
+Reference: "Szedł więc za nią."
+Hypothesis:  Szerdewję z rano.
+
+Sample 457:
+Reference: Trzeba powiedzieć, że zmiana i aktualizacja istniejącego prawodawstwa są naprawdę ważnymi kwestiami
+Hypothesis:  Trzeba powiedzieć, że zmiana i aktualizacja istniejącego prawodostwa są naprawdę ważnymi kwestiami.
+
+Sample 458:
+Reference: Marzena zatrzymała się kilka metrów wcześniej i patrzyła w dal.
+Hypothesis:  Marzena zatrzymała się kilka metrów wcześniej i patrzyła w dal.
+
+Sample 459:
+Reference: Musimy dziś skorzystać z okazji i przyjąć prawdziwą reformę
+Hypothesis:  Musimy dziś skorzystać z okazji i przyjąć prawdziwą reformę.
+
+Sample 460:
+Reference: Pewnego razu powiedział do niej: — Istnieje jeszcze rzecz, którą zataiłem przed tobą.
+Hypothesis:  Pewnego razu powiedział do niej. Istnieje jeszcze rzecz, którą zadałem przed tobą.
+
+Sample 461:
+Reference: Ogół kobiet, jeśli chodzi o miłość, jest przerażająco niesentymentalny.
+Hypothesis:  O głókowie, jeśli chodzi o miłość, jest przeżarająco niesentymentalne.
+
+Sample 462:
+Reference: Socjopata nie potrafi żyć w społeczeństwie.
+Hypothesis:  Co to opatna nie potrafi żyć w społeczeństwie.
+
+Sample 463:
+Reference: O wpół do pierwszej zaczynała coś wiedzieć i kładła się spać.
+Hypothesis:  O wpół do pierwszej zaczynała coś wiedzieć i kładła się spać.
+
+Sample 464:
+Reference: Kali siadł w kucki przy Stasiu i Nel, łowiąc otwartymi ustami powietrze.
+Hypothesis:  Kaliśadów kudki przystaśł inel, łowiąc otwartymi ustami powietrze.
+
+Sample 465:
+Reference: Najważniejsze znaczenie ma zapewnienie dostępu do szybkiego Internetu wszystkim obywatelom
+Hypothesis:  Na razniejsze znaczenie ma zapewnienie dostępu do szybkiego internetu.
+
+Sample 466:
+Reference: Nie ruszył się.
+Hypothesis:  Nie ruszył się.
+
+Sample 467:
+Reference: — Oto jest twoja myśl o śmierci.
+Hypothesis:  Oto jest twoja myśl 8.
+
+Sample 468:
+Reference: Powidła, pyszna rzecz!
+Hypothesis:  Powidła, pyszna recz.
+
+Sample 469:
+Reference: — Co też tym kobietom do głowy przychodzi — rzekł mąż pani Emilii.
+Hypothesis:  Co też tym kobietom do głowy przychodzi, że Kmoż pani Emili.
+
+Sample 470:
+Reference: "Szczęściem nie długo pewnie... tęsknić za nim będę."
+Hypothesis:  Szczęściem niedługo pewnie, ten sknij za nim będę.
+
+Sample 471:
+Reference: Bo kaptur i czepiec to prawie to samo.
+Hypothesis:  bo kaptur i ciepiec to prawie to samo.
+
+Sample 472:
+Reference: Zamknięte powieki błyszczały, jak zrobione z białego metalu.
+Hypothesis:  Zamknięte powieki błyszczały jak zrobione z białego metalu.
+
+Sample 473:
+Reference: "Maciuś pisze pamiętnik."
+Hypothesis:  Maciuś pisze pamiętnik.
+
+Sample 474:
+Reference: Niech dusza powraca do ciała!
+Hypothesis:  Niech dusza powraca do ciała.
+
+Sample 475:
+Reference: — Niech Jej Wysokość wraca do domu!
+Hypothesis:  Niech jej wysokość wraca do domu.
+
+Sample 476:
+Reference: Czasem znosiliśmy ławki i krzesła do sal prelekcyjnych.
+Hypothesis:  Czasem znosiliśmy ławki i kszesła do sal prelekcyjnych.
+
+Sample 477:
+Reference: Ona nas ocali.
+Hypothesis:  Ona nas otarzi.
+
+Sample 478:
+Reference: Dokładnie wiem.
+Hypothesis:  Dokładnie wiem.
+
+Sample 479:
+Reference: "Ja sama wzięłam na siebie całą odpowiedzialność."
+Hypothesis:  Ja sama wzięłam na siebie cały odpowiedzialność.
+
+Sample 480:
+Reference: Czasem stawia na przemian — raz duży, raz mały krok.
+Hypothesis:  Czasem stawiany przemian raz duży, raz mały krok.
+
+Sample 481:
+Reference: Kobieta uśmiecha się i patrzy na mnie w szczególny sposób.
+Hypothesis:  Kobieta uśmiecha się i patrzy nam mnie w szczególny sposób.
+
+Sample 482:
+Reference: Apetyt rośnie w miarę jedzenia.
+Hypothesis:  A pety troszmi w miarę jedzenia.
+
+Sample 483:
+Reference: Tymczasem Adam wypróbował wszystkie pozy, opisane od czasów starokreteńskich do Magnusa Hirschfelda.
+Hypothesis:  Tymczasem Adamy próbował wszystkie pozy, opisane od czasu starokratęńskich do Magnusach Hirschwielda.
+
+Sample 484:
+Reference: "Więc to tu miałby być Koguci zaułek?"
+Hypothesis:  Więc to miałby być kogucz i załorak.
+
+Sample 485:
+Reference: "Bez ruchu podawało mi to stworzenie dłoń."
+Hypothesis:  bez ruchu podobało mi to skworzenie w tłoniu.
+
+Sample 486:
+Reference: Mówi, że go królowie oszukali, że port zabrali.
+Hypothesis:  Mówi, że go królowie oszukali, że port zabrali.
+
+Sample 487:
+Reference: "Zbyszko też tam musi być."
+Hypothesis:  Zbyszko też tam musi być.
+
+Sample 488:
+Reference: Nie możemy tolerować faktu, że niektórzy pracujący ludzie często są zależni od opieki społecznej
+Hypothesis:  Nie możemy tolerować faktu, że niektórzy precyjący ludzie często są zależni od opieki społecznej.
+
+Sample 489:
+Reference: — Drobnostka, kochany panie.
+Hypothesis:  Drognostka, kochany panie.
+
+Sample 490:
+Reference: "Wilson aż gwizdnął ze zdziwienia."
+Hypothesis:  Wilson aż w wizną ze zdziwienia.
+
+Sample 491:
+Reference: Dzisiaj na obiad hamburgery.
+Hypothesis:  Dziś na obiadę w Europie.
+
+Sample 492:
+Reference: Mogłaby wymrzeć w trochę piękniejszych i potężniejszych formach — trudno.
+Hypothesis:  Mogłaby wymrzeć w trochę piękniejszych i potężniejszych formach. Trudno.
+
+Sample 493:
+Reference: Więc nie wiadomo, czym jest naprawdę: parą, wodą czy lodem.
+Hypothesis:  Więc nie będę w oczy, więc naprawdę parą, w hodą czy młodą.
+
+Sample 494:
+Reference: Pieniądze szczęścia nie dają.
+Hypothesis:  Pieniąc zaszczęście nie dają.
+
+Sample 495:
+Reference: "Wówczas powiem otwarcie, co wiem i co, zdaniem mojem, należy uczynić."
+Hypothesis:  Wówczas powiem otwarcie co wiem i co zdanie mojem należy uczynić.
+
+Sample 496:
+Reference: "Gdy wydostałem się na dwór, byłbym ze zdumienia głośno krzyknął."
+Hypothesis:  Kiedy wy dostajem się nadwór, byłbym za zdumienie głośne krzykną.
+
+Sample 497:
+Reference: "Spodziewa dowiedzieć się wszystkiego jeszcze dzisiejszej nocy."
+Hypothesis:  Spodziewa dowiedzieć się wszystkiego jeszcze dzisiejszej noty.
+
+Sample 498:
+Reference: Bez poważnego kryzysu nigdy nie zdołacie zbudować prawdziwej demokracji europejskiej, prawdziwej wspólnoty politycznej
+Hypothesis:  Bez poważnego prezyzysu nigdy nie zdawać zgodować prawdziwej demokracji europejskiej, prawdziwej wspólnoty politycznej.
+
+Sample 499:
+Reference: "„Tak, każdej chwili."
+Hypothesis:  Tak, każdych film.
+
+Sample 500:
+Reference: Pompuje się wodę, robi się studnie podziemne.
+Hypothesis:  Pompuje się woda, robi się studnie podziemne.
+
+Sample 501:
+Reference: Zamknięte są bramy domów i zgaszone światła.
+Hypothesis:  Zamknięte są brami domów i zgaszone światło.
+
+Sample 502:
+Reference: Zbrzydnie im to bardzo prędko i całkiem przestaną się mną zajmować.
+Hypothesis:  z przyzrytniemi to bardzo prędko i całkiem przestaną się mną zajmować.
+
+Sample 503:
+Reference: To wojska prezydenta Mubaraka spowodowały obecny terror na ulicach Egiptu, a nie demonstranci!
+Hypothesis:  To Wojska Prezydenta Mubaraka spowodowały obecny teren na ulicach Egiptu, a nie Demonstranci.
+
+Sample 504:
+Reference: Była to pierwsza taka inicjatywa
+Hypothesis:  Była to pierwsza taka inicjatywa.
+
+Sample 505:
+Reference: "Właśnie z przed dwóch miesięcy."
+Hypothesis:  właśnie z przety dwóch miesięcy.
+
+Sample 506:
+Reference: Dlatego uważam, że spotka się to z pełnym poparciem naszej grupy
+Hypothesis:  Dlatego uważam, że spotkaś się z pełnym poparciu naszej grupy.
+
+Sample 507:
+Reference: Sami sieją waśń między rodzeństwem i dlatego nie może być zgody.
+Hypothesis:  Sami się wasim między rodzeństwami, dlatego nie może być skody.
+
+Sample 508:
+Reference: Dała mi koc, powiedziała, że się wszystkim zajmie.
+Hypothesis:  Dała mi koc, powiedziała, że się wszystkim zajmie.
+
+Sample 509:
+Reference: Miłosierny ponad wszelkie rozumienie.
+Hypothesis:  Niełśierny ponad wszelkie rozumienie.
+
+Sample 510:
+Reference: Dobrym przykładem jest horyzontalna dyrektywa ukierunkowana na zwalczanie dyskryminacji
+Hypothesis:  Dobrzym przykładem jest horizontalna dyrektywa ukrymkowana na stoczenie dyskryminacji.
+
+Sample 511:
+Reference: Pan wie doskonale, jak!…
+Hypothesis:  Pan wie to skonale, jak?
+
+Sample 512:
+Reference: Jest godzina dziewiąta zero zero.
+Hypothesis:  Jest godzina 9.00.
+
+Sample 513:
+Reference: Kiedy był królem, robił to, co mu te właśnie człowieczki mówiły.
+Hypothesis:  Kiedy był królem, robił to, co mógł te człowieczki mówili.
+
+Sample 514:
+Reference: Czy podoba ci się ta myśl, Lizo?
+Hypothesis:  Czy podoba ci się tam na ślednizą?
+
+Sample 515:
+Reference: Był u celu podróży.
+Hypothesis:  Był u celu podróży.
+
+Sample 516:
+Reference: Wszystko mi się pomieszało!
+Hypothesis:  Wszystko mi się pomieszęło.
+
+Sample 517:
+Reference: Mógłby przyjść.
+Hypothesis:  Mogły przyjść.
+
+Sample 518:
+Reference: Masz już prawo jazdy?
+Hypothesis:  Masz już prawo jazdy.
+
+Sample 519:
+Reference: Los czyli nie przychodzi ku nam mimo naszej woli?
+Hypothesis:  Loss nie przychodzi kuna mimo naszej wolii.
+
+Sample 520:
+Reference: Jednak osiągnięcie tych celów zależy od tego, jak służbę tę zorganizujemy
+Hypothesis:  Jednak osiągnięcie tych celu zależy od tego, jak służbał tę bezorganizujemy.
+
+Sample 521:
+Reference: Słońce krąży wokół Ziemi.
+Hypothesis:  Słońce krąży w ogózień.
+
+Sample 522:
+Reference: Bawcie się dobrze, pantoflarze
+Hypothesis:  Bawcie się dobrze, pan to wlaża.
+
+Sample 523:
+Reference: "Walenty uczy mnie grać na skrzypcach."
+Hypothesis:  Falenty uczy mnie grać na skrzypcach.
+
+Sample 524:
+Reference: Najlepiej wieczorem, po deszczu, kiedy czujesz to, co się dzieje w zamkniętych domach.
+Hypothesis:  Najlepiej wieczorem, po deszczu kiedy czujesz to co się dzieje w zamkniętych domach.
+
+Sample 525:
+Reference: Polska jest w czołówce krajów europejskich pod kątem segregowania śmieci.
+Hypothesis:  Polska jest w czołówce krajów europejskich pod kątem Cygregowania śmiedź.
+
+Sample 526:
+Reference: Uspokój się tylko.
+Hypothesis:  Uspakuj się tylko.
+
+Sample 527:
+Reference: Ktoś goni po przedpokoju.
+Hypothesis:  Ktoś goni poprzed pokoju.
+
+Sample 528:
+Reference: Ta sama, co u Emila na fortepianie.
+Hypothesis:  To sama. Sąoe Mila na fortepianie.
+
+Sample 529:
+Reference: Upiór! — poprawił go niewczesny kulawiec.
+Hypothesis:  Upiór poprawię go niewczesny kulawiec.
+
+Sample 530:
+Reference: Sprawozdanie w pełni odzwierciedla szczególne zainteresowania Parlamentu dotyczące kwestii polityki rolnej
+Hypothesis:  Sprawozdanie w pełni odzwiercielna szczególne zainteresowania parlamentu dotyczące kwestii polityki rolnej.
+
+Sample 531:
+Reference: Deformacje rzeczywistości przy wpatrywaniu się w ciemnym pokoju bardzo znaczne.
+Hypothesis:  Deformacje rzeczywistości przy wpatrywaniu się w ciemnym pokoju bardzo znaczne.
+
+Sample 532:
+Reference: — Tylko w jaki sposób? O mało nie wpadli pod taksówkę.
+Hypothesis:  Tylko w jaki sposób? Omało nie wpadli tak słówka.
+
+Sample 533:
+Reference: Zwracam się zatem z prośbą do Komisji o ponowne rozpatrzenie przedmiotowego tekstu
+Hypothesis:  Zwracam się za tą sproźbą do Komisji, oponowno rozpatrzenie przedmiotowego tekstu.
+
+Sample 534:
+Reference: "Obcięto je znacznie i prawie cały ich ciężar przerzucono na robotników."
+Hypothesis:  Okcięto jest znacznie i prawie całej ich ciężar przerzucono na robotników.
+
+Sample 535:
+Reference: Ogarnęło go przykre uczucie osamotnienia.
+Hypothesis:  Ogarnęło go przykre uczucie o samotnienie.
+
+Sample 536:
+Reference: Sytuacja była wówczas sprzyjająca
+Hypothesis:  Situacja była wówczas przyjejąca.
+
+Sample 537:
+Reference: Byłem jeszcze wówczas dębem, przykutym do miejsca i do własnego milczenia.
+Hypothesis:  Byłem jeszcze wówczas bałą, bym przykłutym do miejsca i do własnego miliczania.
+
+Sample 538:
+Reference: — Z kim? Ja nie lubię w klasy.
+Hypothesis:  Skim i ja nie lubię w klasy.
+
+Sample 539:
+Reference: Odchyliła ku mnie głowę.
+Hypothesis:  Odchalił akumnie Głoga.
+
+Sample 540:
+Reference: To mnie odrywa od smutnych myśli.
+Hypothesis:  To mnie odrywa od smutnych myśli.
+
+Sample 541:
+Reference: "Ale ponura twarz jego świadczyła, że słowa przeciwnika nie odniosły skutku."
+Hypothesis:  Ale ponurat faz Jego świadczyła, że słowa przeciwnika nie odmiosły skutku.
+
+Sample 542:
+Reference: Dla mnie byłoby to zbyt wielkim ciężarem.
+Hypothesis:  dla mnie było to spęd w jakim ciężarach
+
+Sample 543:
+Reference: A teraz jest spokój.
+Hypothesis:  A teraz jest spokój.
+
+Sample 544:
+Reference: — Allach mnie ukarał, żem go wyzwał i kusił.
+Hypothesis:  Allah nie ukarał, żeby go wyzwał i kusił.
+
+Sample 545:
+Reference: Skończyło się na gadach.
+Hypothesis:  Z koncursie nankada.
+
+Sample 546:
+Reference: Nikt nie wie i o to chodzi.
+Hypothesis:  Nikt nie wie i o to chodzi.
+
+Sample 547:
+Reference: Spojrzenie Ani.
+Hypothesis:  Spójrzenie ani.
+
+Sample 548:
+Reference: "Grobowa cisza panowała dokoła."
+Hypothesis:  Grobowacisza panowała do koła.
+
+Sample 549:
+Reference: Ponowiłem próbę na przedramieniu z tym samym rezultatem.
+Hypothesis:  Ponoviłem próbę na przedramieniu z samym rezultatem.
+
+Sample 550:
+Reference: Uciekającego najczęściej goni się.
+Hypothesis:  Uciekrancego najczęściej go nisią.
+
+Sample 551:
+Reference: Ale cierpliwie, żeby nie bić.
+Hypothesis:  Ale czyszliwe, żeby nie być.
+
+Sample 552:
+Reference: Nie z tchórzostwa, lecz dla idei!
+Hypothesis:  Nie jest hóżostwa, ależ dla idę.
+
+Sample 553:
+Reference: O piątej po południu zapaliłem bez wielkiej przyjemności pierwszego papierosa.
+Hypothesis:  Popiątej po południu zapadziłem bez wielkiej przyjemności pierwszego papierosa.
+
+Sample 554:
+Reference: Spełń ostatnią prośbę tego, który ci dał wszystko, co posiadał.
+Hypothesis:  Spęni ostatniom prośbietego, który ci dał wszystko, co posiadam.
+
+Sample 555:
+Reference: Dalej, ruszaj się!
+Hypothesis:  Dalej rusza i się!
+
+Sample 556:
+Reference: Lekarz oświadczył, że to apopleksja.
+Hypothesis:  Lekarz oświadczył, że to apopleksja.
+
+Sample 557:
+Reference: Całuję twoje kręcone włosy.
+Hypothesis:  Zawię twoje krymca na głosy.
+
+Sample 558:
+Reference: I dziwożona wskazała palcem ową stronę, gdzie się znajdował niezbędny dla jej namysłów rozstaj.
+Hypothesis:  I dziwo żona wskazała palcem o wą stronę, gdzie się znajdował niezbędny dla jej na mysłów rosyj.
+
+Sample 559:
+Reference: Wtedy pojawiła się sprawa szkoły przy torach kolejowych, o której mało osób wie.
+Hypothesis:  Wtedy pojawiło się sprawa szkoły przy torah kolejowych, o której mało osób wie.
+
+Sample 560:
+Reference: Czy to rzeczywiste płatności za wykonane usługi
+Hypothesis:  Czy to rzeczywiście fatności za wykonanej sługi?
+
+Sample 561:
+Reference: Obfity kark Cherokee był jedynym miejscem, do którego sięgnąć mógł Biały Kieł.
+Hypothesis:  Obfity karg cziroki był jedynym miejscem do którego sięgnąć mógł biały kiel.
+
+Sample 562:
+Reference: Wychodząc, pułkownik zawołał wesoło.
+Hypothesis:  Wychodzą, tylko w niekszabawach w S&R.
+
+Sample 563:
+Reference: Szła stamtąd na nas stęchlizna i zaduch.
+Hypothesis:  Szła stamtąd na nas ten chliz na Izaduch.
+
+Sample 564:
+Reference: Ktoś ma złość do naszej panienki i rzucił uroki.
+Hypothesis:  Ktoś ma złożc do naszej panienki i rzucił ułogoki.
+
+Sample 565:
+Reference: Te trzy książki czytał na zmianę.
+Hypothesis:  Te trzy książki czy to nazmianą?
+
+Sample 566:
+Reference: Tak dyskryminująca praktyka jest zła i jest nie do przyjęcia
+Hypothesis:  Tak dyskryminująca praktyka jest zła i jest niedobrzyjęcia.
+
+Sample 567:
+Reference: Nie zaszkodzi wykonać podwójną minetę
+Hypothesis:  Nie zaszkodzi wykonać pod wojną minetem.
+
+Sample 568:
+Reference: "Więc mówmy, jakie jeszcze dodać dzieciom prawa."
+Hypothesis:  Więc mówmy, jakie jeszcze dodać dzieciom prawa.
+
+Sample 569:
+Reference: Wtedy jeszcze można bez wysiłku zawrócić.
+Hypothesis:  Wtedy jeszcze można bez wysiłku zawrócić.
+
+Sample 570:
+Reference: Usiedli po obu stronach balonu i pocałowali się ponad nim.
+Hypothesis:  Uśredli po obu stronach balonu i pocałowali się ponad nim.
+
+Sample 571:
+Reference: Wszyscy chodzili uśmiechnięci.
+Hypothesis:  Wszyscy chodzi mi uśmiechnięci.
+
+Sample 572:
+Reference: "Ręce do góry, albo ci kulę wpakuję w łeb!"
+Hypothesis:  Ręsa do góry, a bocikuję w paku je w web.
+
+Sample 573:
+Reference: "Pozostawało mi więc dokładne zastanowienie się nad pierwszą częścią wyprawy."
+Hypothesis:  Pozostawało mi więc dokładne zastanowienie się nad pierwszą częścią wyprawy.
+
+Sample 574:
+Reference: Żeby wiedzieć jaka kultura tutaj była, jaka gwara była.
+Hypothesis:  Żeby wiedzieć jaka kultura była, jaka gwara była.
+
+Sample 575:
+Reference: — Nie jadę na wakacje.
+Hypothesis:  Nie jadę na wakacje.
+
+Sample 576:
+Reference: Rozmawiałem ze wszystkimi głowami państw
+Hypothesis:  Rozmawiałem ze wszystkimi głowami państw.
+
+Sample 577:
+Reference: W końcu zostaje tylko jedna.
+Hypothesis:  W końcu zostawię tylko jedno.
+
+Sample 578:
+Reference: "Juranda nie było przy tem, albowiem działy się z nim rzeczy dziwne."
+Hypothesis:  Juranda nie było przytem, albo wiem, działo się z nim rzeczy dziwne.
+
+Sample 579:
+Reference: W sumie to nie wiem na ile to naprawdę Google.
+Hypothesis:  W sumie to nie wiem na ile to naprawdę on Google.
+
+Sample 580:
+Reference: — Rano mycie, wieczorem mycie, przed jedzeniem mycie!
+Hypothesis:  Na no mycie, wieczorem mycie, przed jedzeniem mycie.
+
+Sample 581:
+Reference: Zwierzę, któremu utkwiła strzała w grzbiecie; tarza się, biega, ryczy, pluje, krew zalewa.
+Hypothesis:  Zwieżym, który mód kwiła strzała w brzbiecie, taża się biega, leczy pluje krew zalewa.
+
+Sample 582:
+Reference: Ma żal do mnie.
+Hypothesis:  Może do mnie.
+
+Sample 583:
+Reference: Musimy trochę zaczekać, aż któraś podpłynie.
+Hypothesis:  Musimy trochę zaczekać, aż kturyc podpór.
+
+Sample 584:
+Reference: "Powtórzyłem owe dziwne słowa, zdawało się, pozbawione jakiegokolwiek znaczenia."
+Hypothesis:  Powtórzyłem o wedziwne słowa, zdawało się pozbawione jakiego korwik znaczenia.
+
+Sample 585:
+Reference: Domagali się od niego, by im wyjaśnił, co mają czynić.
+Hypothesis:  Do Magali się od niego by im wyjaśnił co mają czynić.
+
+Sample 586:
+Reference: "Stanąłem wyprostowany w środku pokoju i spoglądałem na wejście."
+Hypothesis:  Stanowałem wyprostowany w środku pokoju i spoglądałem na wejście.
+
+Sample 587:
+Reference: "Używa podstępu w miejsce rycerstwa, pióra w miejsce szpady, to wstyd."
+Hypothesis:  Używa podstępu w miejsce rytzerstwa. Piora w miejsceż pady. To wstyd.
+
+Sample 588:
+Reference: Chyba chcemy, żeby tak się właśnie stało
+Hypothesis:  Chyba chcemy, żeby tak się właśnie stało.
+
+Sample 589:
+Reference: Jest to bardzo ważna rzecz
+Hypothesis:  Jest to bardzo ważny rzecz.
+
+Sample 590:
+Reference: "O świcie zaczynał śpiewać."
+Hypothesis:  Oświczę, zaczynam się biebać.
+
+Sample 591:
+Reference: — Więc co jest w naczyniu?
+Hypothesis:  Więc co jest w naczyniu?
+
+Sample 592:
+Reference: "Powrócił do swej nędznej izby, mając plan zemsty gotowy."
+Hypothesis:  Zwróć do spainęznej i zbyt mając plan zemsty gotowy.
+
+Sample 593:
+Reference: Wydawało się to jakąś upiorną bajką.
+Hypothesis:  Wydawało się to jakąś uiorną bajką.
+
+Sample 594:
+Reference: Nie wiem jednakże, czy mógł czytać dalej.
+Hypothesis:  Nie wiem jednak, czy mogę czytać dalej.
+
+Sample 595:
+Reference: Jakie przesłanie dla ludzi płynie z Brukseli i Strasburga?
+Hypothesis:  Jakie przesłanie dla ludzi, Płynie z Brukseli i Zdrazburga.
+
+Sample 596:
+Reference: No, puść już, puść!
+Hypothesis:  No, pójść już, pójść.
+
+Sample 597:
+Reference: Naszym kapitanem i gospodarzem był dyrektor różnych towarzystw
+Hypothesis:  Naszym kapitanym nie gospodane do unierektor ryn netobale.
+
+Sample 598:
+Reference: Usiadłem przy niej, pojąc oczy harmonią jej ruchów.
+Hypothesis:  Usiadłem przy niej pojąc oczy harmonią jej ruchu.
+
+Sample 599:
+Reference: Trochę mi szkoda chłopaka.
+Hypothesis:  Trachę muszkoda chłopaka.
+
+Sample 600:
+Reference: Jest godzina dwudziesta druga dwadzieścia.
+Hypothesis:  Jest kozin na 22-20.
+
+Sample 601:
+Reference: "Powiedziałem wam już, panowie, że przed gospodą ładowano próżne beczki od wina."
+Hypothesis:  Powiedziałem wam już panowie, że przed gospodą ładowano próżne beczki odwina.
+
+Sample 602:
+Reference: To trochę patologiczne, że siedzimy tu razem i udajemy, że to normalne.
+Hypothesis:  To trochę patologiczne, że siedzimy tu razem i udajemy, że to normalne.
+
+Sample 603:
+Reference: Ostatni zeszedł ze schodów człek młody, średniego wzrostu, silnie zbudowany.
+Hypothesis:  Ostatni zeszedł ze schodów człowiek młody, średniego wzrostu silnie zbudowany.
+
+Sample 604:
+Reference: Tak wygląda nasze krytyczne stanowisko
+Hypothesis:  Tak wygląda nasze krytyczne stanowisko.
+
+Sample 605:
+Reference: I rzeczywiście Arabowie, którzy przyłączyli się do karawany, niezbyt obawiali się pogoni.
+Hypothesis:  I rzeczywiście a rabowie, którzy przyłączyli się do karawane, nie zbyt objawiali się pogoni.
+
+Sample 606:
+Reference: — To są stosy papierów i nic więcej.
+Hypothesis:  To są stosy papierów i nic więcej.
+
+Sample 607:
+Reference: Zgłoszone wnioski dotyczące opodatkowania transakcji rynku finansowego zostały odrzucone przez odpowiedzialnego komisarza
+Hypothesis:  Zgłoszone wnioski dotyczące opodatkowania transakcji rynku finansowego zostały odrzucone przez odpowiedzialnego komisarza.
+
+Sample 608:
+Reference: Tegoż dnia Tybetańczycy opuścili klasztor.
+Hypothesis:  Te gożdźnia, Ty by ten czytce opustili klaszczor.
+
+Sample 609:
+Reference: Czuł się jak wykolejeniec…
+Hypothesis:  Czuł się jak by kolejniec.
+
+Sample 610:
+Reference: Chyba użył pan tego wyrażenia w znaczeniu przenośnym?
+Hypothesis:  Chyba użył Pan tego wyrażenia, znaczenie przynośnie.
+
+Sample 611:
+Reference: "I ze łzami w oczach wróciła do pałacu."
+Hypothesis:  i za uzami waczak wyłcowa do palacu.
+
+Sample 612:
+Reference: Prędko, mówię ci, albo nie uratuje go już żadna siła!
+Hypothesis:  Prędko mówi ci, albo nie uratuje, że już żadna siła.
+
+Sample 613:
+Reference: A u żadnej z lalek nie spotkałam takiego spojrzenia.
+Hypothesis:  A u żadny islalek nie spotkałam takiego spojrzenia.
+
+Sample 614:
+Reference: Pański program wskazuje zaś na zupełnie inną drogę
+Hypothesis:  Panie skni programu, wskazuje zaś na zupełnie inną drogę.
+
+Sample 615:
+Reference: Pragnę zwrócić uwagę na zagadnienie zmodyfikowanej genetycznie żywności
+Hypothesis:  Pragnę zwrócić uwagę na zagadnienie zmodyfikowanej genetyczni żywności.
+
+Sample 616:
+Reference: Już jest prawie jasno.
+Hypothesis:  Już jest prawie asno.
+
+Sample 617:
+Reference: Obudził się i spojrzał przytomnie.
+Hypothesis:  Obudził się i spojrzał przy to mnie.
+
+Sample 618:
+Reference: — Nel, co tobie jest?
+Hypothesis:  Nel co tobie jest?
+
+Sample 619:
+Reference: Niech stara maszyna nie próżnuje!
+Hypothesis:  Niech staram maszynanie próżnuje.
+
+Sample 620:
+Reference: Oni tu będą za chwilę.
+Hypothesis:  Oni, tu będą za chwilę.
+
+Sample 621:
+Reference: "„Nie moim, dzięki Bogu!"
+Hypothesis:  Nie moim dźwięki Bogu.
+
+Sample 622:
+Reference: Od strony praktycznej dane te trzeba przechowywać i przetwarzać zgodnie ze szczegółowym prawodawstwem europejskim
+Hypothesis:  Od strony praktycznie i dane to trzeba przechowywać i przetwarać zgodnie ze szczegółowym prawodastwem europejskim.
+
+Sample 623:
+Reference: Nie myślałem nawet, czy są naprawdę.
+Hypothesis:  Nie myślałem nawet, czy są naprawdę.
+
+Sample 624:
+Reference: Rozpinał jej bluzkę, a ona pozwalała na to.
+Hypothesis:  Rozpinał jej bluskę, a ona pozwalała na to.
+
+Sample 625:
+Reference: — A potem psa i krowę.
+Hypothesis:  A potem psa i krawą.
+
+Sample 626:
+Reference: Zamiar nasz mieliśmy zrealizować zaraz nazajutrz po południu.
+Hypothesis:  Zamiar nasz mieliśmy zrealizować zaraz na zajęcz po południach.
+
+Sample 627:
+Reference: Szczegóły oczywista nie wchodzą w zakres naszych rozważań.
+Hypothesis:  Szczegóły oczywista nie wchodzą w zakres naszych rozważań.
+
+Sample 628:
+Reference: — Patrz, teraz mu wbiję igłę do serca.
+Hypothesis:  Patrz, teraz mordie igła 1 do 100.
+
+Sample 629:
+Reference: I popatrzyła na mnie wyzywająco.
+Hypothesis:  I popatrzyła na mnie wyzywająco.
+
+Sample 630:
+Reference: I uszczypnął go w udo.
+Hypothesis:  i uszczepnogow udą.
+
+Sample 631:
+Reference: To jest bardziej swobodne rolnictwo, bardziej swobodni rolnicy i wolny handel
+Hypothesis:  To jest bardziej swobodne rolnictwo, bardziej swobodni rolnice i wolny handel.
+
+Sample 632:
+Reference: Calais, Boulogne i Dunkierki, przeprowadzonej w ubiegłym tygodniu przez pracowników francuskiego sektora rybołówstwa
+Hypothesis:  Kaleis, Bologn i Dunkierki przeprowadzonej w obiegu entygoniu przez pracowników francuskiego sektora rybo ustwa.
+
+Sample 633:
+Reference: "Gdy się odwróciłem, ujrzałem przed sobą wspomnianego już małego księdza."
+Hypothesis:  Kty się odwróciłem, ujrzałem przed sobą wspomnianego już małego księdza.
+
+Sample 634:
+Reference: — Poeto mój, przyszłam do ciebie!
+Hypothesis:  Po этом mówi, przyszłam go ciebie.
+
+Sample 635:
+Reference: "Z tych wszystkich powodów spodziewałem się, że oni przyjdą dziś w nocy."
+Hypothesis:  Z tych wszystkich powodów spodziewałem się, że oni przejdą dziś w nocy.
+
+Sample 636:
+Reference: "Nie chcę absolutnie żadnych układów i proszę o ostre warunki."
+Hypothesis:  Nie chcę absolutnie żadnych układów i proszą o ostre w armach.
+
+Sample 637:
+Reference: Zapach unosił się z ziemi.
+Hypothesis:  Zapachł nosił się z ziemi.
+
+Sample 638:
+Reference: — Bo tak chciałam.
+Hypothesis:  bo tak chciałabym.
+
+Sample 639:
+Reference: Zamiłowanie do muzyki wyssałam z mlekiem matki.
+Hypothesis:  Zamiowanie do muzyki wysadzą z mlekiem matki.
+
+Sample 640:
+Reference: Czy uważa pan, że możliwe jest wprowadzenie tu identycznych przepisów prawnych?
+Hypothesis:  Tu uważa pan, że możliwe jest wprowadzenie tu jedycznych przepisów prawnych.
+
+Sample 641:
+Reference: Obawiamy się, że kapitał, który włożyliśmy w ten projekt może być zmarnowany.
+Hypothesis:  Obawiamy się, że kapitał, który włożyliśmy w ten projekt, może być smartolana.
+
+Sample 642:
+Reference: Przysiągłeś, że bez bójki się usuniesz! — krzyknął jednoręki, grożąc spuchniętą lewicą.
+Hypothesis:  Przysiągłeś, że bez bóki się usuniesz, krzyknął, jedno ręki, grażąc z pochniętą lewicą.
+
+Sample 643:
+Reference: — Co to za napój?
+Hypothesis:  Zatraszaj na poja.
+
+Sample 644:
+Reference: Nie znaczy to wcale, żeby Cezarek był złym synem, a jego matka niedołężną ciapą.
+Hypothesis:  Nie znaczy to wcale, żeby cezarek był zły msynem, a jego matka nie dołączną ciałą.
+
+Sample 645:
+Reference: "Gubernator nie zważając na ten śmiech, odetchnął jak nurek, co nad wodę wypłynął."
+Hypothesis:  Guber na tor nie zważając na ten śmierć, oddatchnął jak nurek, co nad wodem wypłyną.
+
+Sample 646:
+Reference: Chcę panu zrobić niespodziankę.
+Hypothesis:  Chcę panu zrobić niespodziankę.
+
+Sample 647:
+Reference: Opowiadają, że odznaczyłem się w pewnej bitwie.
+Hypothesis:  Popowiadają, że odznaczyłem się w pewnej bitwie.
+
+Sample 648:
+Reference: — Dobrze ci tutaj?
+Hypothesis:  Dobrze ci tutaj.
+
+Sample 649:
+Reference: "Z kim że więc pan chcesz mówić?"
+Hypothesis:  Z kimże więc pan chcesz mówić?
+
+Sample 650:
+Reference: Błagać ją o co?
+Hypothesis:  Błagać ją o co?
+
+Sample 651:
+Reference: Lecz nie znalazłem teraz już nikogo.
+Hypothesis:  Blęć nie znalazłem teraz już nikogu.
+
+Sample 652:
+Reference: — Ty naprawdę myślisz, że ja się o to obawiam?
+Hypothesis:  Czy naprawdę myślisz, że ja się o to obawiam?
+
+Sample 653:
+Reference: — Jestem tego samego zdania! — zgodził się muł — Widocznie mamy wspólne upodobania!
+Hypothesis:  Jestem tego samego zdania, zgłodził się mu. Widocznie mamy wspólne upodobania.
+
+Sample 654:
+Reference: — A co tam słychać u sąsiadów?
+Hypothesis:  A co tam z chłyszełośni?
+
+Sample 655:
+Reference: Chcę umrzeć, leżąc na tobie, tak, właśnie tak.
+Hypothesis:  Chcę umrzeć, leżąc na tobie, tak, właśnie tak.
+
+Sample 656:
+Reference: Jestem podobny do mokrej szmaty, do psów po deszczu.
+Hypothesis:  Jestem podobny do makry i śmati, do psów podeszczu.
+
+Sample 657:
+Reference: Dlatego też prowadzimy w tej sprawie ciągły dialog z administracją amerykańską
+Hypothesis:  Dlatego też prowadzimy w tej sprawie ciągu dialog z administracją amerykańską.
+
+Sample 658:
+Reference: Tekst opracowany na podstawie: Antoni Lange, W czwartym wymiarze.
+Hypothesis:  Text opracowany na podstawie Antoni Lang w kwartym wymiarze.
+
+Sample 659:
+Reference: — Już jem.
+Hypothesis:  I wcięmom.
+
+Sample 660:
+Reference: "Pan Łęcki kilka razy porachował stos nowych sturublówek i podpisał dokument."
+Hypothesis:  Patłewęski kilka razy poragował co z nowych storu Blówek i podpisował dokument.
+
+Sample 661:
+Reference: Lecz powrócę jeszcze kiedyś w chwały dzień.
+Hypothesis:  Ale powrócę jeszcze kiedyś w chwałydzień.
+
+Sample 662:
+Reference: Jedna trzecia sprzedawców odmawia realizacji dostaw towarów za granicę, szczególnie do nowych państw członkowskich
+Hypothesis:  Jedne cześć asprzydawców odmawie realizacji dostawtowa rów za kronice, szczególnie do nowych państw członkowskich.
+
+Sample 663:
+Reference: Tak naprawdę to chciałbym pojechać do Hagi.
+Hypothesis:  Tak naprawdę, to chciałbym pojechać do hagi.
+
+Sample 664:
+Reference: Rezultaty pewne otrzymuje się tylko indukcją
+Hypothesis:  Resultaty pewne utrzymuje się tylko indykcją.
+
+Sample 665:
+Reference: "Na bezludnej wyspie mieć będzie wszystko, co już dziś posiada."
+Hypothesis:  Na bezludnej wyspię mieć będzie wszystko, co już dziś posiada.
+
+Sample 666:
+Reference: Zalogowała mi się na Twittera i wysłała jakieś głupoty.
+Hypothesis:  Zalogowałem mi się na Twittera i wysłałe jakieś głupoty.
+
+Sample 667:
+Reference: Próbował wszystkiego, co mu strzeliło do głowy.
+Hypothesis:  Próbowało wszystkiego, co mu strzeliło do głowy.
+
+Sample 668:
+Reference: Dlatego zagłosowaliśmy za przyjęciem przedmiotowego sprawozdania
+Hypothesis:  Dlatego zagłosowaliśmy za przyjęciem przedmiotowego sprawozdania.
+
+Sample 669:
+Reference: — Mnie zaś nie wydaje się to niezwykłym u osobnika tego pokroju.
+Hypothesis:  Nie coś nie wydaje się to nie zdypym osobnik od tego pokroju.
+
+Sample 670:
+Reference: Ja to zapomnę.
+Hypothesis:  Ja to zapomnę.
+
+Sample 671:
+Reference: — Ala duża, Ala chce na wojnę.
+Hypothesis:  Ale dużo, ale chce na wojny.
+
+Sample 672:
+Reference: Przy powitaniu wyczytałem w jej oczach utajoną obawę i niepewność.
+Hypothesis:  Przy powitaniu wyczytałem w jej oczach utajoną obawę i niepędność.
+
+Sample 673:
+Reference: Kto pierwszy ten lepszy.
+Hypothesis:  Kto pierwszy ten naprzy?
+
+Sample 674:
+Reference: Nie znam takiego, a jednak widziałem go nagiego do pasa.
+Hypothesis:  Nie znam takiego, a jednak działam go na jego dopasa.
+
+Sample 675:
+Reference: — Lecz wszystko ma swój koniec.
+Hypothesis:  Lęt wszystko ma swój koniec.
+
+Sample 676:
+Reference: Cóż może mieć wspólnego z człowiekiem wolny naród wilków?
+Hypothesis:  Cóż możemy mieć wspólnego z człowiekiem wolny naród wilków?
+
+Sample 677:
+Reference: Sara z wolna zaczęła uspokajać się w płaczu.
+Hypothesis:  Saraz wolna zaczęła uspokajać je w płaczu.
+
+Sample 678:
+Reference: "Zamierzał jednak tylko, zanim przekreślono jego plan, przesłać mi w tej kopercie klucz."
+Hypothesis:  Zamierzam jednak tylko za nim przekroślono jego plan, przesłać mi w tej kopercie klucz.
+
+Sample 679:
+Reference: Oświadczam: Ja — się — na tym — nie — znam.
+Hypothesis:  Oświatczam. Ja się na tym nie znam.
+
+Sample 680:
+Reference: Hulaj dusza, piekła nie ma.
+Hypothesis:  Kulaj dusza, piekłaniemy.
+
+Sample 681:
+Reference: — Zresztą można czasem śnić i na jawie — wtrącił niby od niechcenia.
+Hypothesis:  Zresztą można czasem śnić i najawię. Wtrąćło nie było od nich senja.
+
+Sample 682:
+Reference: — No, ta to się będzie złościć, jak mnie zobaczy.
+Hypothesis:  To się będzie złościć, jak nie zobaczy.
+
+Sample 683:
+Reference: — Czy woda ciebie kąsa? — żartowała z niego Danusia.
+Hypothesis:  Czy woda Ciebie kąsa? Rzartowała z niego danusza.
+
+Sample 684:
+Reference: Nie daj mi znormalnieć, bo to jest śmierć.
+Hypothesis:  Nie daj mi z normalnieć, bo to jest śmierci.
+
+Sample 685:
+Reference: Stan jest wybitnie samobójczy.
+Hypothesis:  Stan jest wybitnie samobójczy.
+
+Sample 686:
+Reference: Zwłaszcza w dziedzinie matematyki.
+Hypothesis:  Zwłaszcza w dziedzinie matematyki.
+
+Sample 687:
+Reference: "Aby go te mniszki nie odkryły, musiał go Hubert ukryć starannie."
+Hypothesis:  A wygotem nieśknie odkryły, musiał go hubert ukryć starannie.
+
+Sample 688:
+Reference: Chciałbym poruszyć przy okazji tej debaty podstawową kwestię
+Hypothesis:  Chciałbym poruszyć przy okazji tej debaty podstawową kwestię.
+
+Sample 689:
+Reference: Stanisław.
+Hypothesis:  Stanisław.
+
+Sample 690:
+Reference: Pacjent miał już otworzony brzuch, w którym było widać tylko żółto- -białą masę.
+Hypothesis:  Patrzę, miały już otworzony brzuch, którym było widać tylko żółto białą masę.
+
+Sample 691:
+Reference: Takich sytuacji nie możemy akceptować
+Hypothesis:  Takich sytuacji nie możemy akceptować.
+
+Sample 692:
+Reference: Młodzież nie jest łatwym jury, a ocenia każdy krok i każdy ruch.
+Hypothesis:  Młodzisz niej z łatwym żiri, a ocenia każdy krok i każdy ruch.
+
+Sample 693:
+Reference: Czy wierzymy w możliwie najszerszy dostęp do wspólnotowych instrumentów odbudowy?
+Hypothesis:  Czy wierzymy w możliwie najszerzy dostęp do wspólnotowych instrumentów odbudowy?
+
+Sample 694:
+Reference: Miłość i łaska spływały z pałacu chana, zamienionego w świątynię szczęścia.
+Hypothesis:  Miłość i łaska spływowy z Pałasu Hanna zamienionego w Świątynie Szczęście.
+
+Sample 695:
+Reference: Po zamknięciu pogadanki zbliżył się do mnie pierwszy i przedstawił się.
+Hypothesis:  Po zamknięciu pogadanki zbliżą się do mnie pierwszy i przedstawił się.
+
+Sample 696:
+Reference: "Skąd bierze pieniądze?"
+Hypothesis:  Skąd pieży pieniądze?
+
+Sample 697:
+Reference: Myślę, że nie muszę już nic dodawać
+Hypothesis:  Myślę, że nie muszę już nic dodawać.
+
+Sample 698:
+Reference: Otóż chce, abyś mu dał schronienie.
+Hypothesis:  Otóż chcę być do uskanienia.
+
+Sample 699:
+Reference: Albo się pomyliłeś, albo jesteś pomylony.
+Hypothesis:  Albo się pomeliłeś albo jesteś pomelony.
+
+Sample 700:
+Reference: "Ale ten zamiast iść, zbliżył się."
+Hypothesis:  Paletem zemest ich zbliżup się.
+
+Sample 701:
+Reference: Był czas, kiedy mówiono o ich małżeństwie.
+Hypothesis:  Był czas, kiedy mówiono o ich możliwie.
+
+Sample 702:
+Reference: Czasem czują się zapomniane.
+Hypothesis:  Czasem przyjął się zapomniana.
+
+Sample 703:
+Reference: — Ale dlaczego musiało być właśnie wtedy? — Nie martwisz się, że było wtedy.
+Hypothesis:  Ale dlaczego musiałobyć właśnie wtedy? Nie martwisz się, że było wtedy.
+
+Sample 704:
+Reference: "Stanąłem i zdrętwiałem."
+Hypothesis:  Stanowę mi z drentywiałem.
+
+Sample 705:
+Reference: Jakie dokładnie powinny być jej pierwsze zadania?
+Hypothesis:  Jakie dokładnie pojdyby ci jej pierwsza zadania?
+
+Sample 706:
+Reference: I jeszcze krótka uwaga na temat klonowania
+Hypothesis:  I to jest tylko obawianie na temat konołania.
+
+Sample 707:
+Reference: — Dałem wam naukę!
+Hypothesis:  Daję wam naukę.
+
+Sample 708:
+Reference: Tego roku Kongres miał się odbyć w Kalkucie.
+Hypothesis:  Tego roku Kongres miał się odbyć w kalku Cię.
+
+Sample 709:
+Reference: "Ale nie narzekał."
+Hypothesis:  Ale nie narzekał.
+
+Sample 710:
+Reference: W rozmowach z Cezarym wskazywał palcem na kilka „cudów”.
+Hypothesis:  W rozmowach z cezarem wskazywał palcem na kilka cudów.
+
+Sample 711:
+Reference: "Naturalnie wtedy nie mogłem tego zrobić."
+Hypothesis:  Naturalnie wtedy nie mogłem tego zrobić.
+
+Sample 712:
+Reference: — Wolałabym wstrzymać się od wróżby.
+Hypothesis:  Wolałbym wstrzymać się od wróżby.
+
+Sample 713:
+Reference: Jeszcze ci iPhone potrzebny.
+Hypothesis:  Jeszcze ci iPhone potrzebny.
+
+Sample 714:
+Reference: "Kawaler mówi znów."
+Hypothesis:  Kawałew, mówi znowu.
+
+Sample 715:
+Reference: Wiem, że nie lubisz Androida, ale ja po prostu mam inne gusta.
+Hypothesis:  Wiem, że nie lubisz Androida, ale ja po prostu mam inne gusta.
+
+Sample 716:
+Reference: Tylko ani słowa, rozumiesz, bo tajemnica służbowa.
+Hypothesis:  Tylko ani słowa, rozumiesz? Bo ta jemnica służbowa.
+
+Sample 717:
+Reference: Pracował dla agencji, z którą mamy rozmawiać.
+Hypothesis:  Pracował dla Akancinsku, którą mamy rozmawiać.
+
+Sample 718:
+Reference: On mi zesłał tę nieznajomą kobietę.
+Hypothesis:  On mi zeswał, tę nie znajamą kobietę.
+
+Sample 719:
+Reference: Odszedłem z uczuciem ulgi i wkrótce zasnąłem głęboko.
+Hypothesis:  Odszarym z uczucią ulgi i wkrótce z osnowem gęboko.
+
+Sample 720:
+Reference: Szkoda, że taką właśnie okazję tym raportem utraciliśmy
+Hypothesis:  Szkoda, że taką właśnie okazję na tym rapportem utraciliśmy.
+
+Sample 721:
+Reference: "Wszystko wydaje się u nich piegowate."
+Hypothesis:  Wszystko wydaje się, unik biegowate.
+
+Sample 722:
+Reference: Niestety, wzgórza już opustoszały, a Ludek Górski wywędrował z tych okolic.
+Hypothesis:  Niestety, zgłużają już opustoszały, a Ludę Głóżski wywęduowałby z tych okolic.
+
+Sample 723:
+Reference: — Nie zaprzeczam ich istnienia.
+Hypothesis:  Nie zaprzeczam ich istnienia.
+
+Sample 724:
+Reference: "muszę mieć nerwy dobrze rozbite."
+Hypothesis:  Muszę mieć narybuję dobrze rozbita.
+
+Sample 725:
+Reference: Oczywiście nie w chwili samego gimnastykowania się.
+Hypothesis:  Oczywiście nie w chwili samego gimnastikowania się.
+
+Sample 726:
+Reference: Po wejściu ustaw w życie sytuacja często niewiele się zmienia
+Hypothesis:  Po wejście ustaw życie, sytuacja, często nie wresie zmienia.
+
+Sample 727:
+Reference: Ale mniejsza o to…
+Hypothesis:  Ale mnie jest o to.
+
+Sample 728:
+Reference: Obaj zaczerwienili się.
+Hypothesis:  Opaj za czerwieni mi się.
+
+Sample 729:
+Reference: Rozumiem — szepnął z uśmiechem i pogardliwie spojrzawszy na jednorękiego, przywołał go ruchem dłoni.
+Hypothesis:  Rozumiem, szabną z śmiechami powierdliwyj spojrzasz na jednoręciego przywoła go ruchenduomi.
+
+Sample 730:
+Reference: Świeże, ścięte przymrozkiem powietrze orzeźwiło mnie.
+Hypothesis:  Świeże ścięte przy mroskiem powietrze ożyźwiło mnie.
+
+Sample 731:
+Reference: — Równocześnie wiruje wraz z całym globem dookoła Słońca…
+Hypothesis:  Równocześnie wieruję wraz z całym globalem do koła Słońca.
+
+Sample 732:
+Reference: Na ustach jego ukazał się lekki uśmiech i pozostał.
+Hypothesis:  Na ustach jego okazał się lepiej w uśmiech i pozostał.
+
+Sample 733:
+Reference: Zróbmy tak: niech każdy doprowadzi do porządku fabrykę.
+Hypothesis:  Zróbmy tak, niech każdy doprowadzi do porządków obryka.
+
+Sample 734:
+Reference: Takie niejasne podejście jest nie do przyjęcia
+Hypothesis:  Takie niejasne podejście jest niedobrzyjania.
+
+Sample 735:
+Reference: "Widzi pan, że jest to ograniczone tylko na Londyńczyków i dorosłych."
+Hypothesis:  Wycipam, że jest to ograniczone tylko na ląd o niczych i drosłych.
+
+Sample 736:
+Reference: Zaczął poruszać się niespokojnie na łóżku.
+Hypothesis:  Zaczął poruszać się niespokojnie na łóżku.
+
+Sample 737:
+Reference: Oj, chłopcze, kiedy się uspokoisz?
+Hypothesis:  Ojech, łapcze, kiedy się uspokoisz.
+
+Sample 738:
+Reference: — Serce ani drgnie.
+Hypothesis:  serce ani drugi nie
+
+Sample 739:
+Reference: Nieczęsto się to zdarza
+Hypothesis:  Nie czem stosie to zdarze.
+
+Sample 740:
+Reference: Proces negocjacji musi być podtrzymywany
+Hypothesis:  Proces negocjacji musi być podtrzymywane.
+
+Sample 741:
+Reference: Szczególnie cieszy mnie, że zachowane zostało pojęcie stref mieszania
+Hypothesis:  Szczególnie cieszy mnie, że zachowane zostało pojęcie stref mieszania.
+
+Sample 742:
+Reference: Ta umiejętność nie jest jeszcze gotowa!
+Hypothesis:  Ta umiejętność nie jest jeszcze gotowa.
+
+Sample 743:
+Reference: Czytał o tym w gazecie.
+Hypothesis:  Czeta o ten wykazajcie.
+
+Sample 744:
+Reference: Zajrzałem przez wybitą szybę w głąb trzeciej izby.
+Hypothesis:  Zajrzałem przez wybitą szybe w głąb trzeciej izby.
+
+Sample 745:
+Reference: — Lecz zarosła już prawie zupełnie.
+Hypothesis:  Lecz za rosła już prawie zupełnie.
+
+Sample 746:
+Reference: Szli przez miasto.
+Hypothesis:  Szli przez miasto.
+
+Sample 747:
+Reference: Usiadłem i mechanicznie obracałem w palcach jakiś przedmiot leżący na stole.
+Hypothesis:  Usiadłem i mechanicznie obracałem w palcach jakiś przedmiot leżącym na stol.
+
+Sample 748:
+Reference: Oto rzeczywistość
+Hypothesis:  Oto rzeczywistości.
+
+Sample 749:
+Reference: Tak to trwało może kwadrans: nie całując się, dotykali się nawzajem wargami.
+Hypothesis:  Tak to trwało może kvadrancy. Niecałując się dotykali się na wzajem warga.
+
+Sample 750:
+Reference: — Gdzieś w pobliżu przejechał w tej chwili baron…
+Hypothesis:  gdzieś w oblizu przejechał w tej chwili Baron.
+
+Sample 751:
+Reference: W ściętych białkach zagrało poranne słońce okrutnym uśmiechem…
+Hypothesis:  W szczęto i białkach zagrało poradne słońce o krótnym uśmiechem.
+
+Sample 752:
+Reference: Dziś jest dzień wagarowicza.
+Hypothesis:  Dziś jest dzień waga rowica.
+
+Sample 753:
+Reference: Przez cały ciąg owych daremnie straconych lat jaśniałeś w sercu moim.
+Hypothesis:  Przestaw ciąg ogyt darem jest traconych lat. Ja śniałeś w sercu moim.
+
+Sample 754:
+Reference: O czymże to pan duma?
+Hypothesis:  Oczynsę topanduma.
+
+Sample 755:
+Reference: Mała czarna - Kawa a nie spódnica.
+Hypothesis:  Mała czarna, kawa a nie z podnica.
+
+Sample 756:
+Reference: "I biorąc piłkę obaj udali się do ogrodu."
+Hypothesis:  I biorąc piłkę obaj udali się do ogrodu.
+
+Sample 757:
+Reference: Ale mało kto dzisiaj to robi.
+Hypothesis:  Ale mało kto dzisiaj terobi.
+
+Sample 758:
+Reference: "Sądziłem, że były to plotki gazeciarskie i że uda mi się to udowodnić."
+Hypothesis:  Są dziłę, że były to plotki gazyciarskie i że uda mi się to udowodnić.
+
+Sample 759:
+Reference: — Gdzieś ty z nimi chodził i coście tam gadali tak długo?
+Hypothesis:  Gdzieś ty z nim chodził i coście tam gadali tak długo?
+
+Sample 760:
+Reference: U ich stóp walczą czarne głowonogi.
+Hypothesis:  Oj stów felczo czarnego o wanogi.
+
+Sample 761:
+Reference: Ale on nie może, dlatego że ja go nie kocham.
+Hypothesis:  Ale on nie może, dlatego że ja go nie kocham.
+
+Sample 762:
+Reference: Dopiero przed nocą dotarliśmy do niewysokiego grzbietu górskiego, porośniętego lasem.
+Hypothesis:  Dopiero przed nasą to zadaliśmy do nie wysokiego, już Betukurskiego, porosiętego lasem.
+
+Sample 763:
+Reference: Zatelefonowałem do niego pierwszy raz od wyjazdu.
+Hypothesis:  Zatelefonowałem do niego pierwszy raz od wyjazdu.
+
+Sample 764:
+Reference: Jak radośnie się zadziwi!
+Hypothesis:  I teraz doszć niech się zadziewię.
+
+Sample 765:
+Reference: Nie dziwię się wcale, że wywołuje taki popłoch wśród dzieci.
+Hypothesis:  Ziewięcia wcale żywoje taki popłop w śrudzieci.
+
+Sample 766:
+Reference: "Zacząłem się zastanawiać, jak się tu wydostać z beczki."
+Hypothesis:  Zaczowiam się zastanawiacz. Jak się tu wydać z beczki?
+
+Sample 767:
+Reference: Wymieniłem tylko kilka przedmiotowych dziedzin
+Hypothesis:  Wymieniłem tylko kilka przedmiotowych dzieciom.
+
+Sample 768:
+Reference: Od spełnienia jakich warunków wstępnych Turcja uzależnia swój udział?
+Hypothesis:  Od spełnianie jakich warunków stępnych tursja uzależnia z chwój udział.
+
+Sample 769:
+Reference: Do gardła można mu zajrzeć.
+Hypothesis:  Do gardła można mu zajrzeć.
+
+Sample 770:
+Reference: — Ta wyspa jest za blisko lądu, gdzie mieszkają Murzyni.
+Hypothesis:  Ta wyspa jest zbliżskolą, gdzie mieszkają móżyni.
+
+Sample 771:
+Reference: Czy ona sama?
+Hypothesis:  Czy ona sama?
+
+Sample 772:
+Reference: Ale ty mniej, niż Emil.
+Hypothesis:  Ale ty mnie i niż Emil.
+
+Sample 773:
+Reference: Lubię muzykę klasyczną.
+Hypothesis:  Lubięk muzykę klasyczną.
+
+Sample 774:
+Reference: Zostaje tylko: „Ja jestem rzeczywistością.
+Hypothesis:  Zostaje tym, bo ja jestem rzeczywistością.
+
+Sample 775:
+Reference: Musimy podejść do tej konferencji w sposób optymistyczny, ale i realistyczny
+Hypothesis:  Musimy podjść do tej konferencji w sposób optimistyczny, ali realistyczny.
+
+Sample 776:
+Reference: W treści tej rezolucji znajduje się wiele postulatów zasługujących na uwagę
+Hypothesis:  W treści tej rozolucji znajdłeś wiele postulatów zasługujących na uwagę.
+
+Sample 777:
+Reference: Przedsiębiorstwa nie są już tylko nastawione na zysk
+Hypothesis:  Przedsiębiorstwa nie są już tylko nastawione na zysk.
+
+Sample 778:
+Reference: Najprawdopodobniej pojawią się problemy w procesie przyznawania licencji
+Hypothesis:  Naprawdę podobnie pojawią się problemy, w procesie przyznawania licencji.
+
+Sample 779:
+Reference: Idioto! Idioto! Sprać ją i pójść sobie.
+Hypothesis:  Idiotom, idiotom, spracią i pustą sobie.
+
+Sample 780:
+Reference: "Wydałem okrzyk i dałem koniowi ostrogi."
+Hypothesis:  Wydam, okrzywidałem koniewno wios drogi.
+
+Sample 781:
+Reference: Lecz te chwile buntu trwały krótko.
+Hypothesis:  Lads ta fila buntu trwa w Krótko.
+
+Sample 782:
+Reference: Nie znam jej zupełnie.
+Hypothesis:  Nie znamy i zupęło mnie.
+
+Sample 783:
+Reference: Stanął pod drzewem, przed oczami miał oświet lony prostokąt: brama.
+Hypothesis:  Stanął pod drzewem przed oczami miał oświetlony prostokąt, brama.
+
+Sample 784:
+Reference: Chodziło tylko o zobaczenie tego, co jest na dnie.
+Hypothesis:  Chodzi o to, co jest na dnie.
+
+Sample 785:
+Reference: Niech ktoś się weźmie w garść!
+Hypothesis:  Niech ktoś się weźmie w garyść.
+
+Sample 786:
+Reference: But się rozpada.
+Hypothesis:  Bód się rozpada.
+
+Sample 787:
+Reference: "Chcemy odsyłać tych ludzi, zanim jeszcze do nas trafią"
+Hypothesis:  Chcemy odsyłać tych ludzi, zanim jeszcze do nas trafią.
+
+Sample 788:
+Reference: Ale lwy najwidoczniej nie dostrzegły go wcale.
+Hypothesis:  Ale wynajwi doczniej nie dostrzegły go wcale.
+
+Sample 789:
+Reference: — No, czy pan jest Jakub? — powtórzył Ignacy.
+Hypothesis:  Czy pan jest Jakub? Powtórzu Ignacy.
+
+Sample 790:
+Reference: — Lecz co to było?
+Hypothesis:  Zobacz, co to było.
+
+Sample 791:
+Reference: "Po pierwsze, nie mogłem zrozumieć, co te łotry zamierzają."
+Hypothesis:  Po pierwsze nie mogłem zrozumieć. Co te wody zamierzają?
+
+Sample 792:
+Reference: Ale żeby ośmielić się nocą wchodzić do mego domu!
+Hypothesis:  Ale żebyśmy ili się nazować Tobie go do mu.
+
+Sample 793:
+Reference: Był wypadek na Katowickiej.
+Hypothesis:  Bół wypadek na to, to widzicie.
+
+Sample 794:
+Reference: Oj, jak śmieszna jest ta nadęta buzia!
+Hypothesis:  Oj, jak śmieszna jest ta nadenta buzia.
+
+Sample 795:
+Reference: Bez tego, po Guantanamo pojawi się jakieś inne niedobre rozwiązanie
+Hypothesis:  Bez tego po głąta namo pojawi się jakieś inne niedobre rozwiązania.
+
+Sample 796:
+Reference: Ręki mu jednej brak, więc milczy dla tymczasowej niepoznaki — wytłumaczył złośliwie kulawiec.
+Hypothesis:  Ręki mu jednej brak, więc milczyli do tymczasowej niepoznaki, by tu maczył z uśród wieku lawiec.
+
+Sample 797:
+Reference: Janek przyszedł pewnego razu z miną, która oznaczała „coś się stało”.
+Hypothesis:  Janek przyszedł pewnego razu z miną, którą oznaczała coś się stało.
+
+Sample 798:
+Reference: "Inkasent rzucił mu się do nóg."
+Hypothesis:  Jesteśmy w tym sensie.
+
+Sample 799:
+Reference: "Muszę bezwarunkowo dziś jeszcze być w domu."
+Hypothesis:  Muszę bezbarunkować i się jeszcze być w domu.
+
+Sample 800:
+Reference: "Nie miałem prawa szukać ulgi."
+Hypothesis:  Nie miałam prawa szukać ulgi.
+
+Sample 801:
+Reference: Za mało się znamy.
+Hypothesis:  Zamało się usnane.
+
+Sample 802:
+Reference: W ostatnich pięciu latach byliśmy świadkami ogromnej demokratycznej transformacji w Turcji
+Hypothesis:  W ostatnich 5 latach byliśmy środkami ogromnej, demokratycznej transformacji w Turcji.
+
+Sample 803:
+Reference: Nie ma powodu do obaw.
+Hypothesis:  Nie ma powodu do obaw.
+
+Sample 804:
+Reference: — Czy wy także jesteście książętami i księżniczkami?
+Hypothesis:  Trzeba też je z te ścieżką rządami księdźczkami?
+
+Sample 805:
+Reference: Bram klęczał, odwrócony do nich plecami.
+Hypothesis:  Bram Glendczą odwrócone do ich pysami.
+
+Sample 806:
+Reference: Emil jest jak dziecko.
+Hypothesis:  Emilia S. Jaki-Jetsko
+
+Sample 807:
+Reference: Emil nudził się tego wieczoru.
+Hypothesis:  I wziął się tego wytoru.
+
+Sample 808:
+Reference: Wolałbym mieć poparcie głównych proeuropejskich rodzin politycznych, ale niektórzy odmawiają mi go
+Hypothesis:  Wolałbym mieć poparcie głównych prouropejskich rodzin politycznych, ale niektórzy odmawiają migę.
+
+Sample 809:
+Reference: — Nie wiem, nic nie wiem — powtórzył parę razy.
+Hypothesis:  Nie wiem nic nie wiem, powtórzył parę razy.
+
+Sample 810:
+Reference: Choć on niby stary, lecz jary.
+Hypothesis:  Co to robimy?
+
+Sample 811:
+Reference: Było już koło piątej po południu, gdy otworzyłem ociężałe powieki.
+Hypothesis:  Było już koło 5 i po południu. Dostworzyłem ociążałem powieki.
+
+Sample 812:
+Reference: Czytał dużo; szybko, często powierzchownie.
+Hypothesis:  Czytał dużo szybko, często powierzchownie.
+
+Sample 813:
+Reference: Kiedy wejdziesz między wrony, musisz krakać jak i one.
+Hypothesis:  Kiedy wejdziesz między wrony, musisz krakać jak i one.
+
+Sample 814:
+Reference: Wziął ją na ramę i pojechali.
+Hypothesis:  Wziąją nadamią i pojechali.
+
+Sample 815:
+Reference: Słabo mi się robi na widok krwi.
+Hypothesis:  Słabo mi się robi na widokrwi.
+
+Sample 816:
+Reference: Zmianę ekspozycji mamy w czerwcu, więc na pół roku można obejrzeć dwie wystawy.
+Hypothesis:  Zmianę ekspozycji mamy w czerwcu, więc na pół roku można obejrzeć dwie wystawy.
+
+Sample 817:
+Reference: — Dzisiaj mamy być tam.
+Hypothesis:  Dzisiaj mamy być tam.
+
+Sample 818:
+Reference: Uspokojony nieco tą oczywistością, zaczął się rozbierać.
+Hypothesis:  Uspokojonym nieco do oczywistością zaczął się rozbierać.
+
+Sample 819:
+Reference: Zawsze myślałem z przeszkodami.
+Hypothesis:  Zawsze myślałem z przeszkodami.
+
+Sample 820:
+Reference: Panie prezydencie Adamkus
+Hypothesis:  Panie prezydencie Adam Kus.
+
+Sample 821:
+Reference: Jest to zwykła kolej rzeczy
+Hypothesis:  Jest to zwykła kolej rzeczy.
+
+Sample 822:
+Reference: — Hm… to szczególne…
+Hypothesis:  Hmm, poszczególne.
+
+Sample 823:
+Reference: "Co się wtedy stanie z jej listami w moim pokoju?"
+Hypothesis:  Co się wtedy stanie zjeść z tami w moim pokoju?
+
+Sample 824:
+Reference: Będą go szukali, może już szukają cichaczem.
+Hypothesis:  Będą go szukali. Może już szukają ci chaczemy.
+
+Sample 825:
+Reference: "To bezinteresowne wyznanie, nieprawdaż?"
+Hypothesis:  To bezinteresowne wyznanie, nieprawdasz?
+
+Sample 826:
+Reference: "Za chwilę ktoś zbiegał po schodach i pędził prosto do mojej celi."
+Hypothesis:  Za chwilę ktoś zbygał po schodach i pędził po prostu do mojej celi.
+
+Sample 827:
+Reference: Młynarz pospieszył do sieni i niecierpliwie otwarł drzwi wiodące na podwórze.
+Hypothesis:  Mój nasz podpieszył do siemi i nie cierpliwie od Froggy wiodące na podwoże.
+
+Sample 828:
+Reference: W tej chwili wszedł Filip zupełnie tak, jakby wchodził po raz pierwszy.
+Hypothesis:  W tej chwili w żarofii dip zupełnie tak, ja by wchodził przez pierwsze.
+
+Sample 829:
+Reference: Uderzył się w kolano.
+Hypothesis:  Udarzam się w kolano.
+
+Sample 830:
+Reference: Proszę o potwierdzenie, czy dane są zgodne.
+Hypothesis:  Proszę o potwierdzeniu czy dane są zgodne.
+
+Sample 831:
+Reference: Dostał powideł i wrócił do rysowania.
+Hypothesis:  Dostał powiedem i wróć udorysowania.
+
+Sample 832:
+Reference: Inaczej nie zlezę.
+Hypothesis:  i naczynie z lezem.
+
+Sample 833:
+Reference: Powiedziałabym, że w szczególności należy się dokładniej zająć płacami i innymi kosztami administracyjnymi
+Hypothesis:  Powiedziałabym, że w szczególności należy się dokładniej zająć płacami i jednymi kosztami administracyjnymi.
+
+Sample 834:
+Reference: "Tak się cieszą."
+Hypothesis:  Tak się uteszam.
+
+Sample 835:
+Reference: Biednemu zawsze wiatr w oczy.
+Hypothesis:  Biednemu zawsze, wiadomo oczy.
+
+Sample 836:
+Reference: "Zbyszko zaczął wspominać wszystko, co zaszło w gospodzie tynieckiej i rozczulił się zupełnie."
+Hypothesis:  Zbyszko zaczął wspominać wszystko, co zeszło w gospodzie tynieckiej i rozczułił się zupełnie.
+
+Sample 837:
+Reference: Dlatego wysłałem ten list dzisiaj
+Hypothesis:  Lątego, bezwój amiemy, niczej.
+
+Sample 838:
+Reference: Patrzcie go.
+Hypothesis:  Patrzcie go!
+
+Sample 839:
+Reference: Ale nie mógł prowadzić rozmowy, której przedtem nie obmyślił szczegółowo.
+Hypothesis:  Ale nie mógł prowadzić rozmowy, której przed tym nie odbyślił szczegółowo.
+
+Sample 840:
+Reference: "Usta jej dotykały twarzy chłopca, który się wstawił, jak żądała."
+Hypothesis:  Ustaję do teka utwarzy chłopca, który się wstawił jak szandała.
+
+Sample 841:
+Reference: Przy tym codzienna praktyka wyrabia sprawność w tym kierunku.
+Hypothesis:  Przy tym codzienna praktyka wyrabias prawność w tym kierunku.
+
+Sample 842:
+Reference: "Podniósł ciało do góry, wrzucił do trumny i nakrył wiekiem."
+Hypothesis:  Podmiot z ciało do góry wrzucił do trumny i na kru biegiem.
+
+Sample 843:
+Reference: Nasza praca nie polega na codziennym zarządzaniu w skali mikro
+Hypothesis:  Nasza praca nie polega na codziennym zarządzaniu w skalie mikro.
+
+Sample 844:
+Reference: — Przyszło do tego niespodziewanie.
+Hypothesis:  Czesło do tego niespodziwanie.
+
+Sample 845:
+Reference: Mógłbyś spróbować naprawić mi komputer?
+Hypothesis:  Mogłbyś spróbować naprawić mi komputer?
+
+Sample 846:
+Reference: już niech będzie.
+Hypothesis:  Już niech będzie.
+
+Sample 847:
+Reference: Zawierzyłam w życiu jednemu jedynemu mężczyźnie i oto takiego doznałam rozczarowania.
+Hypothesis:  Zawierzyłam w życiu jednemu jedyne mu my o szczęście i o to takiego doznałam rozczerowania.
+
+Sample 848:
+Reference: "Nigdzie najmniejszego tropu nie wyśledzono."
+Hypothesis:  Nikt cię najmniejszego tropu nie wyśledzono.
+
+Sample 849:
+Reference: Nie mogę być inna.
+Hypothesis:  Nie mogę być inna.
+
+Sample 850:
+Reference: Nie wykręcaj się.
+Hypothesis:  Również w okranicze.
+
+Sample 851:
+Reference: — Ja go słyszałem bardzo dawno, tak dawno.
+Hypothesis:  Jego słyszałem bardzo dawno. Tak dawno.
+
+Sample 852:
+Reference: Pożar nie jest nawet zabawą.
+Hypothesis:  Pożar nie jest nawet zabawą.
+
+Sample 853:
+Reference: Dlaczego nie mam koleżanek?
+Hypothesis:  Dlaczego nie mam koleżanek?
+
+Sample 854:
+Reference: Wybór masz wolny… — szepnął głosem drżącym i spuściwszy głowę, znieruchomiał od wstydu.
+Hypothesis:  Wybór ma żwolny, szepto głosem drżącym i spuściwszy głowę z nie ruchomiał od wstydu.
+
+Sample 855:
+Reference: Teraz należy zresztą też porozmawiać o czymś innym
+Hypothesis:  Teraz należy zresztą też porozmawiać o czymś innym.
+
+Sample 856:
+Reference: Zgadzała się, skoro tak chce on, głowa domu.
+Hypothesis:  Skąd załaś się? Skoro tak, co on głowa domu.
+
+Sample 857:
+Reference: — Lecz w jaki sposób skorzystasz ze wskazówki?
+Hypothesis:  No i czy w jaki sposób skożysz też ze wskazówki?
+
+Sample 858:
+Reference: Jaką postawę przyjmuje Rada w odniesieniu do takiej metody działań?
+Hypothesis:  Jaką postalę przyjmuje randa w odniesień, takim etapem.
+
+Sample 859:
+Reference: Jakie są najlepsze warunki dla przeprowadzenia wyborów?
+Hypothesis:  Jakie są najlepsze warunki dla psze plowadzenia do bolów?
+
+Sample 860:
+Reference: Wszyscy razem udali się do izby opata.
+Hypothesis:  Wszyscy razem udali się do izby opata.
+
+Sample 861:
+Reference: Kiedy mu położono złoty zegarek, zobaczył orła.
+Hypothesis:  Kiedy mu położono złoty się gary, kazała oroła.
+
+Sample 862:
+Reference: Jak była mała, to nie dostrzegałam tych cech, które teraz widzę.
+Hypothesis:  Jak było mała, to nie dostrzegałam tych cech, które teraz widzą.
+
+Sample 863:
+Reference: "Świadczy ona, że to człowiek bogaty."
+Hypothesis:  Świetczy ona, że to człowiek bogaty.
+
+Sample 864:
+Reference: Dobrze mu się działo.
+Hypothesis:  Dobrze, musiedział.
+
+Sample 865:
+Reference: Często okazuje się, że jest zbyt zrównoważony i zrobiony za logicznie.
+Hypothesis:  Często okazuje się, że jest byty zrównoważone i zrobiony zalogiczny.
+
+Sample 866:
+Reference: Mimo spóźnionej godziny miasto tętniło pełnią życia.
+Hypothesis:  Mimo spóźnionej godziny, miasto ten z nieło pełnią życia.
+
+Sample 867:
+Reference: Orgazm.
+Hypothesis:  Orgasm.
+
+Sample 868:
+Reference: Zaczęło mi się przewracać w głowie, patrzyłem poza nią, za okno, miałem półotwarte usta.
+Hypothesis:  Zaczęło mi się przywracać w głowie, patrzyłem po zaniu za okno, miałem był otwarty usta.
+
+Sample 869:
+Reference: Na zboczach rosły niebieskawe jodły.
+Hypothesis:  To trochę rosły niebiskawy i odły.
+
+Sample 870:
+Reference: A wszyscy razem nadzwyczajnie rozpuszczone łobuzy.
+Hypothesis:  A wszyscy razem nadzwyczajnie rozpuszczone obuzy.
+
+Sample 871:
+Reference: "Portret cesarza na ścianie."
+Hypothesis:  Portryt cesarza na ścianie.
+
+Sample 872:
+Reference: Czy naprawdę jestem nieśmiertelna?
+Hypothesis:  Czy naprawdę jedycy z tymi śmietelną?
+
+Sample 873:
+Reference: Jak obojętny jest na pozór list Janka.
+Hypothesis:  Jak obojętny jest na pozór list Janaka.
+
+Sample 874:
+Reference: — Znamienne połączenie wizerunków!
+Hypothesis:  Znamie, nie połączenie bizarunku.
+
+Sample 875:
+Reference: Jego reakcja była bardziej zdecydowana niż poprzedniego prezydenta, ale to nadal tylko słowa
+Hypothesis:  Jego reakcja była bardziej zdecydowana niż poprzedniego prezydenta, ale to nadal tylko słowa.
+
+Sample 876:
+Reference: Przecież takie były miękkie, jedwabiste, taki miały żywy połysk!
+Hypothesis:  Przecież takie były mnie, kiej i twobista, taki miały żywy pałysk.
+
+Sample 877:
+Reference: Zaczęło tlić się na mnie ubranie…
+Hypothesis:  Zaczewam odlić się na mnie obranie.
+
+Sample 878:
+Reference: "Nie jest Maciuś królem, bo nie chce, ale za rok może znów zechce."
+Hypothesis:  Nie zmoczyłś królam, bo nie chcę, ale za rok mógł ze chcę.
+
+Sample 879:
+Reference: "Skóra wyschnięta była starannie, naciągnięta na kości."
+Hypothesis:  Która wyschnięta była starania. Wyciągnięta na kości.
+
+Sample 880:
+Reference: Dla zbója córki nie mam! — krzyknął Konrad, tracąc cierpliwość.
+Hypothesis:  Lazy bojak z Orkiniem mam przygnęł konrad tracń ciepłym.
+
+Sample 881:
+Reference: Za miastem odbyło się wszystko według programu.
+Hypothesis:  Zamiastem odbyło się wszystko w eduk programu.
+
+Sample 882:
+Reference: Czy bałwana ulepić, czy wskoczyć z rozmachu obiema nogami?
+Hypothesis:  Czy bał wanał lepiej, czy wskoczyć z rozmachu obiemanogami?
+
+Sample 883:
+Reference: Środki egzekwowania korekty nadmiernych zakłóceń równowagi makroekonomicznej w strefie euro
+Hypothesis:  W środki akcykowania korrety nadmiernych z okuaceniu lub nowagi makroekonomiczne w stronie euro.
+
+Sample 884:
+Reference: Chcę wiedzieć, ile? Dokładnie.
+Hypothesis:  Ksamu biedzieć ile dokładnie.
+
+Sample 885:
+Reference: "Słyszałem już świst jego oddechu i spostrzegłem jak się chwieje i potyka."
+Hypothesis:  Słyszałem już świs dniego otylechu i spostrzegłem jak się chwieję i potyka.
+
+Sample 886:
+Reference: — To jedyny dla ciebie ratunek — powtórzył z naciskiem — Jedyny, powtarzam!
+Hypothesis:  To jedyny dla ciebie ratunek, powtórzył z naciskiem. Jedyny powtarzam.
+
+Sample 887:
+Reference: — Gotów zażądać od chłopców słowa honoru!
+Hypothesis:  Gotów zażądać od 3 ptów sałach anoru.
+
+Sample 888:
+Reference: Nieważne, na ja kim.
+Hypothesis:  Nieważne, na jakim.
+
+Sample 889:
+Reference: Pojawia się pejzaż górski, wulkaniczny.
+Hypothesis:  Pojawia się u paizaż kurski wolno-koniczny.
+
+Sample 890:
+Reference: U nas w domu.
+Hypothesis:  Onas obudamu.
+
+Sample 891:
+Reference: Czasem pewne myśli nadciągają nie wiadomo skąd i dlaczego.
+Hypothesis:  Czasem pewna myślina cięgają i wiadomo skąd i dlaczego.
+
+Sample 892:
+Reference: Bo leżało takie kółeczko, od zegarka czy czego.
+Hypothesis:  Boże, był taki poedżek. Odzegar kaczyczek.
+
+Sample 893:
+Reference: Podszedł do niej.
+Hypothesis:  Podszedł do niej.
+
+Sample 894:
+Reference: i nie chcę musieć.
+Hypothesis:  I niech tą musięć.
+
+Sample 895:
+Reference: Na każde pytanie jedno tylko powtarza.
+Hypothesis:  Ma każdy pytanie jedno tylko powtarza.
+
+Sample 896:
+Reference: Ponadto Parlament wyraził wolę, by Unia Europejska była bardziej samodzielna w gromadzeniu własnych zasobów
+Hypothesis:  Ponadto Parlament wyraził wolę, był Unię Europejska była bardziej samodzielna w gromadzeniu własnych zasobów.
+
+Sample 897:
+Reference: Lecz jestem już u siebie.
+Hypothesis:  Dlaczego jestem już u siebie?
+
+Sample 898:
+Reference: "W kieszeni miałem hubkę, kamień i krzesiwo."
+Hypothesis:  W kieszeni miałem chubkę, kamien i krzesivo.
+
+Sample 899:
+Reference: Mój ojciec oszczędził to na czas, gdy się obudziliśmy
+Hypothesis:  Moje ojciec oszczędziłem na to czas, gdy się ogłudziliśmy.
+
+Sample 900:
+Reference: Co słychać?
+Hypothesis:  Zosławacz!
+
+Sample 901:
+Reference: Ale ja wiem, że ona nie lubi żadnego ruszania.
+Hypothesis:  Ale ja wiem, że ona nie lubi żadnego ruszania.
+
+Sample 902:
+Reference: Maria, popróbuj i ty; ja też spróbuję.
+Hypothesis:  Maria, popróbuj it, ja też próbuję.
+
+Sample 903:
+Reference: Podobnie, harmonizacja przepisów dotyczących rekompensaty za przedterminową spłatę nie jest konieczna
+Hypothesis:  Podobnie harmonizacja przepisów dotyczących rekompensaty za przed terminową spłatę nie jest konieczna.
+
+Sample 904:
+Reference: To zaś wiąże się z określonymi konsekwencjami
+Hypothesis:  To znać wiąże się z określonymi konsekwencjami.
+
+Sample 905:
+Reference: Zużyliśmy osiemdziesiąt naboi, rozdzieliliśmy po połowie moją miesięczną rację żywności.
+Hypothesis:  Służyliśmy 80 noboi, rodziliśmy po powiem, mają miesiąc na rację żywności.
+
+Sample 906:
+Reference: Tego nie można osiągnąć z dnia na dzień
+Hypothesis:  Tego nie można usiągnąć na dzień.
+
+Sample 907:
+Reference: Przytrzymaj mu nogi.
+Hypothesis:  Przedrzemaj monodli.
+
+Sample 908:
+Reference: Banki nie wydawały złożonych kapitałów i nie wypłacały procentów.
+Hypothesis:  Banki nie wydawały złożonych kapitałów i nie wypłacały procentów.
+
+Sample 909:
+Reference: A jemu pewnie też serce mocno ze strachu biło.
+Hypothesis:  A Jemu pewnie też serce mocno ze strachu bieło.
+
+Sample 910:
+Reference: Zdziwienie odmalowało się na twarzy starca.
+Hypothesis:  Wziś dziewinię odmarowało się na tworzy starca.
+
+Sample 911:
+Reference: Europa nie słucha już głosu swoich obywateli
+Hypothesis:  Europa nie suchaj już głosu swoich obywateli.
+
+Sample 912:
+Reference: Nie sprawiało to jednak żadnego uszczerbku w moim zapale.
+Hypothesis:  Nie sprawiało to jednak żadnego szczerunku, w moim zapale.
+
+Sample 913:
+Reference: "Zbyt mi gorzko pisać o tem wszystkiem."
+Hypothesis:  Zbyt migoszko pisześć o tym wszystkim.
+
+Sample 914:
+Reference: Nie wiem, ale sprawdzę w internecie.
+Hypothesis:  Nie wiem, ale jest pragnę w internacie.
+
+Sample 915:
+Reference: Potem opadł i zaczął się tlić.
+Hypothesis:  Potem opadł i zaczął się tlić.
+
+Sample 916:
+Reference: Jeśli dobrze zrozumieliśmy, liderzy grup, którzy reprezentowali Parlament, obrazili prezydenta tego kraju
+Hypothesis:  Jeśli dobrze zrozumieliśmy, liderzy grup, którzy leplezentowali parlament, obrazili prezydent od tego ktaju.
+
+Sample 917:
+Reference: Jestem z drzewa.
+Hypothesis:  Jestem zdrzewa.
+
+Sample 918:
+Reference: Zresztą lepiej się myśli w drodze.
+Hypothesis:  Zresztą lepiej się myśli w drodze.
+
+Sample 919:
+Reference: W ciągu tych czterech dni odeszła przedostatnia fala moich czytelników.
+Hypothesis:  W ciągu tych cztery w dni podeszła przed ostatnio Fala Wojski czy dawniku.
+
+Sample 920:
+Reference: "Wszak pan nie jest nawet naszym przyjacielem."
+Hypothesis:  Wszak Panie jest nawet naszym przyjącielem.
+
+Sample 921:
+Reference: — Sama ci odradza.
+Hypothesis:  Zamać się, od razu.
+
+Sample 922:
+Reference: Uważam, że jest to nie do przyjęcia
+Hypothesis:  Włażam, że jest to nie do przyjęcia.
+
+Sample 923:
+Reference: "Lubisz malować, zostań malarzem."
+Hypothesis:  Lubisz malować zostanie malarzem.
+
+Sample 924:
+Reference: Kobiety postępują tak albo inaczej z miłości do mężczyzn, nigdy z miłości do rzeczy.
+Hypothesis:  Kobiety postępują tak, albo inaczej z miłości do mężczyzn, nigdy z miłości do rzeczy.
+
+Sample 925:
+Reference: Na szczęście w tejże chwili nadszedłem.
+Hypothesis:  Na szczęście w tej rzych chwili nadszedłem.
+
+Sample 926:
+Reference: "Bardzo jest ładna i nieźle siedzi na koniu."
+Hypothesis:  Bardzo jest ładna i nie ślesie dzienakoniu.
+
+Sample 927:
+Reference: Jesteśmy sam na sam — rzekł Podlasiak, do głębi wzruszony swym obecnym stanowiskiem.
+Hypothesis:  Jesteśmy sam na sam żeg pod lasiek. Dogłębi wzruszony swym obecnym stanowiskiem.
+
+Sample 928:
+Reference: "Sekretarz Czerwonego Krzyża“."
+Hypothesis:  Sekretas w czerwonego krzyża.
+
+Sample 929:
+Reference: — Glen — rzekł — weź to, przeczytaj i upewnij mnie, żem nie dostał udaru słonecznego.
+Hypothesis:  Glen, Źegu, wejś to, przyczytaju, pewnie mierze mnie dostał darusłonecznego.
+
+Sample 930:
+Reference: — Jerzy, przytrzymaj chwilę prawe ramię!
+Hypothesis:  Ja żyć, trzymaj chwilę prawę ramie.
+
+Sample 931:
+Reference: — Wtedy, kiedy ja przyjechałem, to było? — Tak.
+Hypothesis:  Wtedy kiedy ja przyjechałem to było? Tak.
+
+Sample 932:
+Reference: Jeśli tak, to czy Komisja podjęła próby inicjatyw publicznych w celu złagodzenia tego problemu?
+Hypothesis:  Jeśli tak, to czy komisja podjęłaby próby inicjatyw publicznych w celu z łagodzania tego problemu.
+
+Sample 933:
+Reference: Jego zdania są napięte jak łuki, jak pupa młodej dziewczyny.
+Hypothesis:  Jego zdania są napięty jak łuki, jak pupa młodej dziewczyny.
+
+Sample 934:
+Reference: I nawet zgadłem, bo ktoś zastukał, ale cicho i tylko raz.
+Hypothesis:  I nawet zgadłem, o ktoś zastukał, ale cicho i tylko raz.
+
+Sample 935:
+Reference: "Lecz głos, który te widzialne wypowiadał słowa, umarły był i bez echa."
+Hypothesis:  Lecz głos, który te bizialne wypowiedział słowa, umarły był i bez echa.
+
+Sample 936:
+Reference: Drugi też opadł.
+Hypothesis:  Drugi też opadł.
+
+Sample 937:
+Reference: Skontrolował uważnie, czy jest cała otulona i zabezpieczona przed mrozem.
+Hypothesis:  Skąd rolował uważnie czy jest całą tolona i zabezpieczona przed mrozą?
+
+Sample 938:
+Reference: Przyniosła potem drugą i trzecią.
+Hypothesis:  Przyniosła po tym drugą i trzeciu.
+
+Sample 939:
+Reference: To był naprawdę pracowity rok.
+Hypothesis:  To był naprawdę pracowiterok.
+
+Sample 940:
+Reference: Działania Europy muszą być jasne, szybkie i skuteczne w krótkim i długim terminie
+Hypothesis:  Działanie Europy muszą być świastne, szybkie i skuteczne, wkrótkim i długim terminie.
+
+Sample 941:
+Reference: — Ja jeszcze nie skończyłem.
+Hypothesis:  Ja jeszcze nie skończyłem.
+
+Sample 942:
+Reference: A jeszcze szarpną, pchną, uderzą.
+Hypothesis:  A jest Czeszarpną, pchnął uderzą.
+
+Sample 943:
+Reference: I tego śniegu.
+Hypothesis:  i tego śniegu.
+
+Sample 944:
+Reference: "Ale trudno; nie można zawsze żyć jak w klasztorze."
+Hypothesis:  Ale trudno, nie można zawsze żyć jak w Blastorze.
+
+Sample 945:
+Reference: — Bardzo chętnie — rzekła Hanna, podchodząc do instrumentu.
+Hypothesis:  Bardzo chętnie, że kłacham na podchodzące instrumentu.
+
+Sample 946:
+Reference: I przeląkł się.
+Hypothesis:  I przelon kuszy.
+
+Sample 947:
+Reference: — Nie potrzebuję twojej stalówki.
+Hypothesis:  Nie potrzebuje twojej staluwki.
+
+Sample 948:
+Reference: Nasi urzędnicy zajmą się tą sprawą
+Hypothesis:  Na się już nie zajmą się tą sprawą.
+
+Sample 949:
+Reference: — Ten starzec jeszcze śpi.
+Hypothesis:  Ten starzyc jeszcze śpi.
+
+Sample 950:
+Reference: Chciałabym pójść na studia plastyczne i zostać sławną malarką.
+Hypothesis:  Chciałabym pójść na studia plastyczne i zostać sławnym marykom.
+
+Sample 951:
+Reference: Niemniej jednak sprawozdanie jest nieprzyjemne z więcej niż jednego powodu
+Hypothesis:  Niemniej jednak z prawo zdanie jest nieprzyjemne, zwięcej niż jednego powodu.
+
+Sample 952:
+Reference: — Idź do szóstego oddziału i zobacz, czy tam jest globus.
+Hypothesis:  Idź do szóstego oddziału i zobacz, tam jest globus.
+
+Sample 953:
+Reference: — Mogę.
+Hypothesis:  Mogę.
+
+Sample 954:
+Reference: Jest godzina dziesiąta piętnaście.
+Hypothesis:  10-15.
+
+Sample 955:
+Reference: Przyczyny tych wydarzeń są skomplikowane i głęboko zakorzenione
+Hypothesis:  Przyczynę tych wydarzeń są skomplikowane i głęboku zakożoniona.
+
+Sample 956:
+Reference: — Przepraszam, już chcę wyjść.
+Hypothesis:  Przepraszam już w tym wyjść.
+
+Sample 957:
+Reference: Chyba mnie na to nie stać.
+Hypothesis:  Chyba mnie na to nie stać.
+
+Sample 958:
+Reference: Zawahali się chwilę i potem poszli dalej, zostawiając głębokie ślady.
+Hypothesis:  Zawachali się chwilę i potem poszli dalej, zostawiam z długą bokie ślady.
+
+Sample 959:
+Reference: A teraz mamy dosyć zabawy.
+Hypothesis:  A teras ma mędu, że jest zabawie.
+
+Sample 960:
+Reference: "Zacząłem błądzić sam w stosunku do siebie."
+Hypothesis:  Zacznijmy bądź sam w stosunku do siebie.
+
+Sample 961:
+Reference: Nawet wolę pójść na nogach niż autobusem pojechać, żeby się z ludźmi nie spotkać.
+Hypothesis:  Nawet wolę pójść na nogach niż autobusem pojechać, żeby się z ludźmi nie spotkać.
+
+Sample 962:
+Reference: Była to ciężka puszka z lanego żelaza.
+Hypothesis:  Była to ciężka puszka dla niego żalera.
+
+Sample 963:
+Reference: Równocześnie niemal i ja straciłem resztki świadomości.
+Hypothesis:  Równocześnie nie ma liastracjowem reszt i świadomości.
+
+Sample 964:
+Reference: A gdy nie kochamy, doznajemy spokoju i możemy grzać się w słońcu.
+Hypothesis:  A gdy nie kochamy, doznajemy spokoju i możemy grzecznie w swójcu.
+
+Sample 965:
+Reference: — Nie ma innej rady, jak powiedzieć? — Nie ma.
+Hypothesis:  Nie ma innej rady, jak powiedzieć, nie ma.
+
+Sample 966:
+Reference: — Jedna, dwie — powtarza Ala.
+Hypothesis:  Jedno, dwie, powtarzawa.
+
+Sample 967:
+Reference: Jedno stoi na fortepianie Emila.
+Hypothesis:  Jedno stoi na fortepianie Emila.
+
+Sample 968:
+Reference: Nie najlepiej, nie najlepiej! — odrzekł ze szczerym smutkiem w głosie Podlasiak.
+Hypothesis:  Nie najlepiej, nie najlepiej. On się zaszczerem smutkiem go się podlasią.
+
+Sample 969:
+Reference: Chcę pogratulować sprawozdawczyni jej wyczerpującego sprawozdania
+Hypothesis:  Chcę pograzuelować sprawów zawczyni wyczerpującego sprawu zdania.
+
+Sample 970:
+Reference: w żadnym razie nie mówimy o czymś niejasnym
+Hypothesis:  W żednym razie nie mówimy o czymś nie jasnym.
+
+Sample 971:
+Reference: Po chwili do pokoju weszła jakaś Chinka.
+Hypothesis:  Pogwilidopokoi, doszła jakaś chinka.
+
+Sample 972:
+Reference: "U stóp tych wzgórz rozścielał się las."
+Hypothesis:  Ustup tych wzgórz rozcielał się las.
+
+Sample 973:
+Reference: Zanim zdołaliśmy przyjść z pomocą, nieszczęśliwy uległ.
+Hypothesis:  Zanim zdowaliśmy przyjść z pomocą, nie szczęśliwy ulegu.
+
+Sample 974:
+Reference: Rzeczy, które wyraźnie się różnią nie powinny być traktowane dokładnie tak samo
+Hypothesis:  Rzeczy, które wyrażni się rólnią, nie powinny być traktowane dokładnie tak samo.
+
+Sample 975:
+Reference: Jest jej kuzynem.
+Hypothesis:  Jest jej kuzydam.
+
+Sample 976:
+Reference: Wyważone porozumienie w tym przedmiocie jest oczywistą koniecznością
+Hypothesis:  Wyważone porozumienie w tym przedmiocie jest oczywistą konicznością.
+
+Sample 977:
+Reference: — Czy… nikogo poza tym nie wyratowano?
+Hypothesis:  Czy nikogo poza tym nie wyratowalo?
+
+Sample 978:
+Reference: Więc żeby się potem nie gniewali.
+Hypothesis:  Wiem, żeby się potem nie walić.
+
+Sample 979:
+Reference: "Poprostu nie mogłem."
+Hypothesis:  Po prostu nie mogłam.
+
+Sample 980:
+Reference: Była też bardzo ciekawa, co z tego wyniknie.
+Hypothesis:  Była też bardzo ciekawa co z tego wyniknie.
+
+Sample 981:
+Reference: Demokracja i wolność opierają się na stosowaniu zasad
+Hypothesis:  Demokracja i wąże, że nas waniu zasady.
+
+Sample 982:
+Reference: Lecz cóż mnie one obchodzić mogą?
+Hypothesis:  Lecz słusznie one obchodzić mogą.
+
+Sample 983:
+Reference: Przeszło, minęło — myślmy o chwili obecnej.
+Hypothesis:  Wszystko mnęłam, muszę na aktywie obetną.
+
+Sample 984:
+Reference: Zatoczyłem się tylko jak pijany i poszedłem dalej…
+Hypothesis:  Zatoczyłem się tylko jak pijany i poszedłem dalej.
+
+Sample 985:
+Reference: Kręgowce oraz ssaki z rzędu naczelnych są objęte szczególną ochroną
+Hypothesis:  Kręgowca raz taki zrzędu na czelnych są objęte szczególną ochroną.
+
+Sample 986:
+Reference: Nieodpowiedni ubiór był powodem przemarznięcia.
+Hypothesis:  Nie odpowiedźnik ubiór dąpowodem w Szemasznie Commission.
+
+Sample 987:
+Reference: Dziecka nie wolno w żadnym razie zmuszać ani upoważniać do wykonywania jakiegokolwiek zawodu.
+Hypothesis:  Wszystko nie wolno w żadnym razie zmuszać ani upoważniać do wykonywania jakiegokolwiek zawodu.
+
+Sample 988:
+Reference: Dziwożona spojrzała na niego ze złością.
+Hypothesis:  Dziwo, że ona spojrzała na niego ze złością.
+
+Sample 989:
+Reference: Często byłem tak zmęczony, że w ubraniu zasypiałem.
+Hypothesis:  Często byłem tak zmęczony, że w Ubraniu zesypiałem.
+
+Sample 990:
+Reference: Brak kosztów licencyjnych Firm trzecich
+Hypothesis:  Brak kosztów licencyjnych firmy trzeci.
+
+Sample 991:
+Reference: Zapisałem je, odczytałem na trzeźwo — kompletna bzdura.
+Hypothesis:  Zapisałem je, odczytałem na trzejdwo kompletna wzdury.
+
+Sample 992:
+Reference: Ten moment operacyjny zaszedł znacznie wcześniej.
+Hypothesis:  O tym moment operacyjny z aszedł doszć nieprześni.
+
+Sample 993:
+Reference: Teraz neurolog po raz pierwszy popatrzył na Emila.
+Hypothesis:  Teraz neurolog po raz pierwszy popatrzył na emila.
+
+Sample 994:
+Reference: Znasz tu jakąś dobrą knajpkę?
+Hypothesis:  Znaszczyłem, jak mówi, dobrą typkę.
+
+Sample 995:
+Reference: "Wtedy egiptolog podniósł i obejrzał starannie pistolet barona."
+Hypothesis:  Wtedy Egiptolog podniosi obejrzał staram niepistolet barona.
+
+Sample 996:
+Reference: Pierwsi pytania przewodniczącemu Komisji Europejskiej będą zadawać szefowie lub przedstawiciele grup politycznych
+Hypothesis:  Pierwsi pytania przewodniczącem o Komisję Europejskim będą zadawać szefowie lub przedstawiciele grup politycznych.
+
+Sample 997:
+Reference: — Ja tu nie mogę.
+Hypothesis:  Ja tu nie mogę.
+
+Sample 998:
+Reference: I nic sobie wtedy z niego nie robiłam, ale byłam zadowolona.
+Hypothesis:  Linic, co by wtedy z niego nie robiłam, ale byłam zadowolona.
+
+Sample 999:
+Reference: — Chcę.
+Hypothesis:  Wtedy.
+
+Sample 1000:
+Reference: Nie, już nie kochałem siostry Janka.
+Hypothesis:  Nie, już nie kochałem się z trijankach.
+
