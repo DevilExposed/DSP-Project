@@ -50,5 +50,7 @@ gTTS<br>
   ctrl+alt+p
 - Run the notebook in Google Colab or Jupyter.
 
+- If you cannot access the Whisper fine tuned model please run the whisperFineTune.ipynb file to create a new one
+
 
 MIT — For educational use as part of the UWE Digital Systems Project.
