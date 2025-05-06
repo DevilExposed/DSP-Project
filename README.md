@@ -38,19 +38,15 @@ gTTS<br>
   ```
   python main.py
   ```
-  or press
-
-  ctrl+alt+p
+  or press ctrl+alt+p when in the main.py file
 - Evaluate ASR:
   ```
   python evaluate_asr.py
   ```
-  or press
-
-  ctrl+alt+p
+  or press ctrl+alt+p when in the evaluatre_ast.py file
 - Run the notebook in Google Colab or Jupyter.
 
 - If you cannot access the Whisper fine tuned model please run the whisperFineTune.ipynb file to create a new one
 
 
-MIT — For educational use as part of the UWE Digital Systems Project.
+MIT - For educational use as part of the UWE Digital Systems Project.
